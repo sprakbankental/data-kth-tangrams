@@ -1,4 +1,4 @@
-# KTH-Tangrams
+# KTH Tangrams data set
 
 There is a growing body of research focused on task-oriented instructor-manipulator dialogue, whereby one dialogue participant initiates
 a reference to an entity in a common environment while the other participant must resolve this reference in order to manipulate said
