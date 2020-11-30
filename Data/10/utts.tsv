@@ -1,0 +1,411 @@
+ROUND	SPEAKER	DIALOGUE_ROLE	START_TIME	END_TIME	TOKENS
+0	A	INSTRUCTOR	0.038	1.3309	come out of there again
+0	A	INSTRUCTOR	2.0914	2.8518	LAUGHTER
+0	B	MANIPULATOR	3.1659	5.3713	yeah I'm connecting to game thirteen
+0	A	INSTRUCTOR	3.9165	4.9432	LAUGHTER okay
+0	A	INSTRUCTOR	5.9318	8.4415	press okay to continue to next turn
+1	A	INSTRUCTOR	10.7229	13.0044	waiting for other player to select the piece to move
+1	B	MANIPULATOR	11.1511	11.5694	uh
+1	B	MANIPULATOR	13.6987	14.8775	uh select piece to move
+1	B	MANIPULATOR	14.9535	16.8928	uh we have to select the piece ourselves
+1	A	INSTRUCTOR	15.5521	16.1985	ah okay
+1	A	INSTRUCTOR	17.1491	21.2558	okay I think now it's your I think I'm the instructor and you're the one uh
+1	A	INSTRUCTOR	21.674	22.8605	press to select the piece
+1	A	INSTRUCTOR	22.8688	34.5735	so uh I'm telling you you go uh to the to the middle to the right side and then there's this violent uh violet uh thing which looks like a s- uh an arrow
+1	B	MANIPULATOR	24.0795	24.6498	ah okay
+1	B	MANIPULATOR	32.2413	32.524	yeah
+1	B	MANIPULATOR	33.5053	33.6966	you
+1	B	MANIPULATOR	34.1581	35.6134	one square and one triangle yeah
+1	A	INSTRUCTOR	35.3261	36.2034	yeah yeah that one
+1	B	MANIPULATOR	36.9065	38.1165	okay I can select this one yeah
+1	A	INSTRUCTOR	38.2824	38.5568	okay
+1	B	MANIPULATOR	38.9523	41.3472	eh waiting for p- other player to confirm selection
+1	A	INSTRUCTOR	39.0516	39.6171	yeah
+1	B	MANIPULATOR	42.2121	44.1081	press okay ah to the next turn
+1	A	INSTRUCTOR	43.2928	44.3572	now you have to tell me
+2	B	INSTRUCTOR	44.5905	49.9958	eh now my turn okay so this is in the in the center you see there is a blue one it's like a screen
+2	B	INSTRUCTOR	50.3451	56.7151	you go a little on the uh a little to the top and little on the left there's this red little house
+2	A	MANIPULATOR	56.5816	57.0806	yes
+2	B	INSTRUCTOR	56.9313	57.5134	it's that one
+2	B	INSTRUCTOR	58.2951	58.7608	that one
+2	B	INSTRUCTOR	59.1932	59.925	yeah there you go
+2	A	MANIPULATOR	59.8581	60.3238	ah okay
+2	B	INSTRUCTOR	61.7213	62.4032	a long way
+3	A	INSTRUCTOR	63.3841	72.3819	er um okay n- when you're um down there's this little green thing which looks like a hill uh a mountain with three tops
+3	B	MANIPULATOR	72.2825	73.1474	yes yes
+3	A	INSTRUCTOR	73.3964	75.9245	down right side check that take that one
+3	B	MANIPULATOR	76.6733	77.2887	the blue yeah
+3	A	INSTRUCTOR	77.3715	78.5191	the no no green
+3	B	MANIPULATOR	79.0517	80.2658	ah the green one yeah yeah
+4	A	MANIPULATOR	84.7061	85.7872	okay now you have to tell me
+4	B	INSTRUCTOR	85.9705	92.6898	okay this is just in the in the bottom left corner you have this blue like it seems like a bird or something uh okay it's light blue
+4	A	MANIPULATOR	91.6582	93.7039	yeah like a like a toilet
+4	B	INSTRUCTOR	92.9559	93.405	that one
+4	B	INSTRUCTOR	94.353	95.5671	yeah yeah like a toilet yeah
+4	B	INSTRUCTOR	95.8998	96.6149	yeah I like this uh
+4	A	MANIPULATOR	96.4482	96.9638	okay
+4	A	MANIPULATOR	99.575	100.839	okay we're good we're good
+5	A	INSTRUCTOR	101.2216	110.552	okay now it's it's that arrow again it's on the upper left side like the triangle and the um um the square in violet
+5	B	MANIPULATOR	101.5546	101.9538	yeah
+5	B	MANIPULATOR	106.5774	106.8934	how
+5	A	INSTRUCTOR	111.4668	111.9657	which we've had
+5	B	MANIPULATOR	111.621	112.1782	it's violet
+5	B	MANIPULATOR	112.2073	113.6751	ah okay that one yeah the
+5	A	INSTRUCTOR	112.7142	113.762	the one we've had before
+5	B	MANIPULATOR	114.727	115.226	yeah yeah yeah
+5	B	MANIPULATOR	115.4588	115.8081	uh
+5	B	MANIPULATOR	116.2572	117.7707	the and the triangle and the square yeah
+5	A	INSTRUCTOR	117.7037	118.4023	yes yes
+5	B	MANIPULATOR	118.4858	119.2842	it's violet yeah
+5	A	INSTRUCTOR	119.317	120.0488	yeah ah okay
+5	B	MANIPULATOR	121.7956	122.3112	there you go
+6	B	INSTRUCTOR	123.5419	129.3465	okay this one is it's the same we had before it's the little red house but now it's in the center on the left
+6	A	MANIPULATOR	129.5955	130.0612	okay
+6	B	INSTRUCTOR	129.6791	130.2945	you see this one
+6	A	MANIPULATOR	130.3273	131.0591	yeah I got it
+6	B	INSTRUCTOR	130.9764	131.492	yeah that one
+6	B	INSTRUCTOR	131.6749	132.124	now
+7	A	INSTRUCTOR	135.3169	143.2337	okay now it's the it looks uh down left uh the corner on the down side left it looks really strange uh
+7	A	INSTRUCTOR	143.716	144.3646	I don't know
+7	B	MANIPULATOR	144.0823	144.5646	which color
+7	A	INSTRUCTOR	144.8469	147.4083	uh BREATH like blue violet
+7	A	INSTRUCTOR	147.7575	148.5558	you nee- it is
+7	B	MANIPULATOR	148.2902	149.97	blue oh blue violet yeah I have it yeah
+7	A	INSTRUCTOR	149.8531	150.5184	yeah okay
+7	A	INSTRUCTOR	150.9508	151.9321	LAUGHTER it was weird
+8	B	INSTRUCTOR	152.7475	153.2298	LAUGHTER
+8	B	INSTRUCTOR	153.3296	156.8556	okay this is in the this is at the top in the center
+8	B	INSTRUCTOR	157.2215	163.026	this is the triangle and the square again but eh the the color is turquoise eh green green turquoise or yeah
+8	A	MANIPULATOR	159.0506	160.3478	the gr- light green
+8	A	MANIPULATOR	163.0755	164.6056	is it the light green in the middle
+8	B	INSTRUCTOR	165.4376	171.7577	yeah light green it's kind of between gr- green and little blue you know the turquoise or something turquoise so what the fuck
+8	A	MANIPULATOR	170.6596	172.0733	okay yeah yeah
+9	B	MANIPULATOR	172.4729	172.6891	yeah
+9	A	INSTRUCTOR	173.5702	176.7136	okay uh now it's uh on the left side
+9	A	INSTRUCTOR	177.1627	181.5535	the second one from the top it's the strange one before we had before
+9	B	MANIPULATOR	177.3627	177.6953	mm-hmm
+9	B	MANIPULATOR	182.2524	185.0632	yeah the blue it's the blue yeah yeah that one yeah
+9	A	INSTRUCTOR	183.5826	185.146	GROAN yeah yeah yeah
+9	A	INSTRUCTOR	185.4453	185.7447	eh
+9	A	INSTRUCTOR	186.9921	187.3913	okay
+10	A	MANIPULATOR	187.5908	188.2561	it's your turn
+10	B	INSTRUCTOR	188.7222	199.9487	okay the this the same we had before this is like a more or less in the middle on the right this is a square and a triangle together the same color as we before the light blue or this blue green
+10	A	MANIPULATOR	198.3849	199.4826	light light green
+10	B	INSTRUCTOR	200.2647	202.3604	yeah yeah kind of blue green or green blue yeah
+10	A	MANIPULATOR	203.5741	203.9067	okay
+11	A	INSTRUCTOR	204.0564	204.5387	we got it
+11	A	INSTRUCTOR	205.0876	209.994	okay uh now take one right in the middle right in the middle which looks like a TV screen
+11	B	MANIPULATOR	210.7096	210.9923	yeah
+11	A	INSTRUCTOR	211.6239	212.1727	the blue one
+11	B	MANIPULATOR	212.0734	212.5557	it's that one
+11	A	INSTRUCTOR	212.7382	212.9378	yeah
+11	A	INSTRUCTOR	213.1707	213.6031	that's the one
+11	B	MANIPULATOR	213.537	213.8862	oh okay
+12	A	MANIPULATOR	218.26	218.5926	'kay
+12	A	MANIPULATOR	218.8421	219.2413	tell me
+12	B	INSTRUCTOR	219.5743	220.1731	m- yeah yeah
+12	B	INSTRUCTOR	220.3394	226.3435	go eh in the middle at the bottom in the middle there is a pink one that is at the bottom in the middle alone that one
+12	A	MANIPULATOR	226.8088	227.6071	uh I didn't get it
+12	B	INSTRUCTOR	228.356	228.5556	yep
+12	A	MANIPULATOR	229.6861	231.3493	GROAN again please explain
+12	B	INSTRUCTOR	231.5493	233.9276	eh you go eh you go at the bottom
+12	A	MANIPULATOR	234.1933	234.9418	at the bottom yeah
+12	B	INSTRUCTOR	234.4931	238.9837	and eh at the bottom left the bottom left there is a pink one
+12	A	MANIPULATOR	236.6715	237.0208	in the m-
+12	A	MANIPULATOR	237.5031	238.7338	in the middle this weird one
+12	A	MANIPULATOR	239.1829	239.6985	yeah okay
+12	B	INSTRUCTOR	239.3663	241.3954	pink one with a strange uh form yeah
+12	A	MANIPULATOR	239.7318	240.2141	yeah okay
+12	A	MANIPULATOR	240.5467	240.7463	yeah
+12	A	MANIPULATOR	241.0956	241.9105	yeah yeah okay
+13	A	INSTRUCTOR	243.8897	252.8377	uh okay now you go in the middle and a little bit left and it's the tr- this uh arrow again triangle triangle and the square light green
+13	B	MANIPULATOR	252.0065	252.4057	okay
+13	B	MANIPULATOR	253.3703	254.0688	yeah yeah I see one
+13	A	INSTRUCTOR	254.3179	254.5341	yeah
+13	A	INSTRUCTOR	256.4468	256.6796	'kay
+14	B	INSTRUCTOR	257.495	263.1997	okay now you go it's eh eh you know the screen the computer screen
+14	B	INSTRUCTOR	263.4492	267.7735	okay it's uh dark blue it's on the left a little a little on the on the top
+14	A	MANIPULATOR	266.7752	267.6733	the second one
+14	A	MANIPULATOR	267.8729	268.8708	the second one from the top
+14	B	INSTRUCTOR	269.4533	270.4346	yeah the second one on the top yeah
+14	A	MANIPULATOR	270.1681	270.4841	okay
+14	A	MANIPULATOR	270.6338	271.2325	yeah okay got it
+15	A	INSTRUCTOR	273.5942	275.6566	um now it's you
+15	A	INSTRUCTOR	275.6524	277.5485	you got to the upper left corner
+15	A	INSTRUCTOR	277.8894	283.6399	and then um the second one from the t- uh from the top it's small and light green
+15	B	MANIPULATOR	284.1892	284.9875	yeah I see it
+15	A	INSTRUCTOR	285.0702	285.4029	yeah okay
+15	A	INSTRUCTOR	285.7854	286.0182	good
+15	A	INSTRUCTOR	286.2677	286.6669	good good
+16	B	INSTRUCTOR	288.3638	294.7837	okay now you go the the bottom right corner and there is a green light green one like a seems like a I don't know
+16	A	MANIPULATOR	294.7999	296.2468	like a bat like Batman
+16	B	INSTRUCTOR	294.9001	295.8481	something like M
+16	B	INSTRUCTOR	296.8793	297.794	yeah like that one
+16	A	MANIPULATOR	297.4277	298.0431	yeah got it
+16	A	MANIPULATOR	298.1262	298.7915	yeah got it
+17	A	INSTRUCTOR	300.8206	303.8476	okay now you go to the middle right side the toilet
+17	A	INSTRUCTOR	304.596	305.1449	light blue
+17	B	MANIPULATOR	306.0434	306.4093	yeah
+17	B	MANIPULATOR	306.8917	307.4405	the toilet yeah
+17	A	INSTRUCTOR	307.2738	308.122	LAUGHTER yes the toilet
+17	B	MANIPULATOR	308.5382	309.0372	here I go
+17	A	INSTRUCTOR	309.1532	309.6189	yeah okay
+18	B	INSTRUCTOR	312.0475	318.983	okay you go just the the top left corner and there is the square and the the square and the triangle in uh in uh purple
+18	A	MANIPULATOR	316.9369	317.2695	yeah
+18	A	MANIPULATOR	319.4982	321.993	that one upper left corner but with the triangle and the square
+18	B	INSTRUCTOR	321.2616	321.6608	yeah yeah
+18	A	MANIPULATOR	322.0761	322.309	okay
+18	B	INSTRUCTOR	322.2096	323.2907	the triangle and the square yeah
+18	A	MANIPULATOR	323.2404	323.7227	yeah okay
+18	A	MANIPULATOR	324.1385	324.4212	got it
+19	A	INSTRUCTOR	326.0345	330.8411	uh you go to the upper right corner that's the one which looks like the Cologne cathedral
+19	B	MANIPULATOR	331.1742	331.9891	yeah there you go
+19	A	INSTRUCTOR	332.9866	334.0012	BREATH okay
+20	B	INSTRUCTOR	335.2823	339.3072	okay you go to the bottom right corner it's an orange toilet
+20	A	MANIPULATOR	339.5895	340.5209	okay got it
+20	B	INSTRUCTOR	340.6543	341.4527	LAUGHTER
+21	A	INSTRUCTOR	343.4315	347.8389	ah lower left corner uh square and triangle light green
+21	B	MANIPULATOR	348.5877	348.9869	all right
+22	B	INSTRUCTOR	352.4297	355.9889	eh i- in the at the bottom in the middle the screen
+22	B	INSTRUCTOR	356.4214	357.2696	the computer screen
+22	A	MANIPULATOR	357.369	357.7848	okay
+23	A	INSTRUCTOR	363.0072	369.2607	ah you have to take uh in the middle there's this red thing it looks like a star which is standing on the Earth uh
+23	B	MANIPULATOR	370.0262	370.3921	uh-huh
+23	A	INSTRUCTOR	370.3917	370.8907	you see it
+23	B	MANIPULATOR	370.6416	371.1406	that one yeah
+23	A	INSTRUCTOR	371.2067	371.4395	yeah
+23	B	MANIPULATOR	372.0553	373.8349	yeah like a yeah like a star or something yeah
+23	A	INSTRUCTOR	373.768	374.2337	yeah
+24	B	INSTRUCTOR	376.5293	377.311	okay oh
+24	B	INSTRUCTOR	377.5272	384.7621	you go like uh more or less in the middle on the right uh there is this light green little it's like a V letter
+24	A	MANIPULATOR	384.2627	385.8261	yeah got it got it got it
+24	B	INSTRUCTOR	385.2943	385.6436	that one
+25	A	INSTRUCTOR	387.6722	397.0859	okay you go in the middle and then just uh BREATH a little bit down and left there's this crazy thing which we don't have a name for
+25	A	INSTRUCTOR	397.4351	398.0339	um
+25	B	MANIPULATOR	397.9345	398.7495	the pink yeah
+25	A	INSTRUCTOR	398.7324	399.7969	yeah the small one yeah
+25	B	MANIPULATOR	400.2796	400.7786	yeah yeah
+25	A	INSTRUCTOR	400.7282	401.2438	okay
+26	B	INSTRUCTOR	403.7058	404.0384	okay
+26	B	INSTRUCTOR	404.2712	419.7223	now eh you go a little eh from the center you go eh on the left and a little at the top and there is this little eh it's light green and it's kind of a triangle looking downwards and at the top there is another little triangle
+26	A	MANIPULATOR	419.1065	422.2831	yeah yeah yeah I got it like a diamond let's call it diamond for the next
+26	B	INSTRUCTOR	419.9385	420.3543	yeah that one
+26	B	INSTRUCTOR	421.4686	423.2482	di- okay diamond let's call it that
+26	A	MANIPULATOR	422.7322	423.6802	for the next time
+27	A	INSTRUCTOR	424.1459	425.9422	okay uh now it's your turn
+27	B	MANIPULATOR	424.3958	424.795	yeah
+27	A	INSTRUCTOR	426.1916	432.9941	uh you go in the middle and then a little bit down and to the left there's this one which looks like a V or a W
+27	A	INSTRUCTOR	433.6427	434.4743	uh and
+27	B	MANIPULATOR	433.7097	435.0901	yeah yeah yeah I I got it yeah
+27	A	INSTRUCTOR	435.1728	436.4535	yeah okay in violet
+27	B	MANIPULATOR	435.5392	435.8884	I got it
+27	B	MANIPULATOR	437.0693	437.2522	yeah
+27	A	INSTRUCTOR	437.4514	437.967	yeah okay
+28	B	INSTRUCTOR	440.0797	448.5286	now uh you go you go from the center you go a little uh at the bottom and you see this big green it's like a face of a person like a head of a person
+28	A	MANIPULATOR	448.7444	450.4409	uh where where again please tell where uh
+28	B	INSTRUCTOR	450.4247	457.5598	eh like a from the from the middle you go a little on the bottom it's the it's big it's green it looks like a head with a a nose and everything
+28	A	MANIPULATOR	450.8567	452.2704	ah yeah okay with the
+28	A	MANIPULATOR	457.6758	459.9543	with uh like a nose like a very
+28	B	INSTRUCTOR	459.672	460.0213	yeah
+28	A	MANIPULATOR	460.0541	461.0021	yeah okay
+28	B	INSTRUCTOR	460.304	461.2188	like a nose you see it yeah
+28	A	MANIPULATOR	461.1684	461.7173	yeah okay
+29	A	INSTRUCTOR	464.395	468.0041	okay now you go down and there's this red star again
+29	B	MANIPULATOR	469.0524	469.4183	ah yeah
+30	B	INSTRUCTOR	473.0274	478.1334	okay now you go down a little on the left and there is the green V little V again
+30	A	MANIPULATOR	477.9666	479.0311	yeah got it got it
+31	A	INSTRUCTOR	481.6922	487.7628	okay uh you got up on the left and then the second one from the left it looks like a K in red
+31	B	MANIPULATOR	488.4119	488.9108	yeah
+31	A	INSTRUCTOR	489.3428	489.8917	crazy
+31	B	MANIPULATOR	489.4763	490.5075	in uh pink yeah
+31	A	INSTRUCTOR	490.7732	492.2035	yeah yeah pink or yeah
+31	B	MANIPULATOR	492.2538	492.8692	yeah yeah all right
+31	A	INSTRUCTOR	492.9187	493.1183	yep
+31	A	INSTRUCTOR	494.6318	495.3137	eh
+32	B	INSTRUCTOR	495.6467	501.9336	now you go all all uh in the middle you go all the way to the left and you see this uh yellow crown or something
+32	A	MANIPULATOR	501.7668	502.6816	yeah okay got it
+33	A	INSTRUCTOR	505.8583	511.0308	uh you go to you take the diamond and you right little bit down and then the green diamond
+33	B	MANIPULATOR	512.3285	512.8441	okay yeah
+34	B	INSTRUCTOR	516.1871	525.7837	okay uh you go all the way down uh okay the the right down the right bottom corner and there's this pink W
+34	A	MANIPULATOR	526.0494	526.6315	okay got it
+35	A	INSTRUCTOR	530.3071	533.6834	uh you go in the middle there's this one it looks like a brick
+35	A	INSTRUCTOR	534.0493	535.1137	it's like orange
+35	B	MANIPULATOR	534.6318	534.9645	yeah
+35	A	INSTRUCTOR	535.4464	535.8788	you see it
+35	B	MANIPULATOR	535.7628	535.9956	yeah
+35	B	MANIPULATOR	536.4946	536.7607	yeah
+35	A	INSTRUCTOR	536.7603	537.2925	it's that one
+35	B	MANIPULATOR	537.3262	537.8418	that one yeah
+35	A	INSTRUCTOR	537.7915	537.9578	yeah
+36	B	INSTRUCTOR	542.3989	554.4071	okay now uh you go to in the middle you go a little on the right now go all the way at the top sort of uh the second one from the from the bottom from the top right corner
+36	B	INSTRUCTOR	554.8229	559.7127	it's like a it's uh purple purple and it seems to be like a bird or something
+36	A	MANIPULATOR	559.7123	560.4773	ah yeah I got it
+36	B	INSTRUCTOR	561.0931	561.2761	yeah
+37	A	INSTRUCTOR	563.6873	566.4814	uh you go up to the right the brown toilet
+37	B	MANIPULATOR	567.2303	567.5962	all right
+38	B	INSTRUCTOR	570.5068	574.7313	you go up to up to the left and it's the square and the triangle in green
+38	A	MANIPULATOR	574.2485	574.4315	the g-
+38	A	MANIPULATOR	574.814	574.997	yeah
+38	A	MANIPULATOR	576.394	576.6934	got it
+39	A	INSTRUCTOR	580.3358	581.5167	um
+39	A	INSTRUCTOR	582.2983	587.87	you go from the middle a little bit down and left it's this crazy thing we don't have a name for in violet
+39	A	INSTRUCTOR	588.5686	589.5997	there's two of them
+39	B	MANIPULATOR	588.8351	589.7498	in violet
+39	B	MANIPULATOR	589.833	590.6812	ah yeah yeah yeah
+39	A	INSTRUCTOR	589.8492	591.6621	there's two uh and you take the upper one
+39	B	MANIPULATOR	592.1947	592.8434	the upper one yeah
+39	A	INSTRUCTOR	592.7598	592.9427	yeah
+39	A	INSTRUCTOR	594.6392	595.0217	okay
+40	B	INSTRUCTOR	596.8683	603.5377	okay from the uh from the middle you go a little uh at the top a little on the left and there is this uh light green spider
+40	A	MANIPULATOR	604.0861	605.4832	uh like the bat Batman
+40	B	INSTRUCTOR	605.783	606.5148	uh or Batman yeah
+40	A	MANIPULATOR	606.5809	607.1796	yeah okay
+41	A	INSTRUCTOR	610.2732	613.8157	uh you take the Cologne cathedral on the right middle right
+41	B	MANIPULATOR	613.6332	613.8661	yeah
+41	B	MANIPULATOR	614.6976	614.9638	yeah
+41	B	MANIPULATOR	615.2631	615.5292	okay
+42	B	INSTRUCTOR	619.4876	624.2776	okay uh g- at the the bottom left corner there's the screen of the computer
+42	B	INSTRUCTOR	624.3608	624.6601	that one
+42	A	MANIPULATOR	624.4269	624.693	yeah
+42	A	MANIPULATOR	624.8427	625.4913	okay got it
+43	A	INSTRUCTOR	627.9029	628.5183	uh
+43	A	INSTRUCTOR	628.7512	630.8634	down right Batman in light green
+43	B	MANIPULATOR	632.1611	632.6434	yes
+44	B	INSTRUCTOR	636.6351	641.0259	okay uh go a little on the right a little on the left and you see the cathedral yeah
+44	B	INSTRUCTOR	641.1756	641.4916	that one
+44	A	MANIPULATOR	641.5743	641.8238	yeah
+44	A	MANIPULATOR	641.9901	642.3228	okay
+44	A	MANIPULATOR	643.8862	645.4773	Cologne cathedral LAUGHTER
+44	B	INSTRUCTOR	645.267	646.1485	Cologne cathedral yeah
+45	A	INSTRUCTOR	645.4963	650.8102	uh you take the face with the nose uh light green almost in the middle and a bit to the left
+45	B	MANIPULATOR	649.2135	649.4322	yeah
+45	B	MANIPULATOR	651.4	651.8182	yes
+45	A	INSTRUCTOR	651.9604	652.1316	yeah
+45	A	INSTRUCTOR	652.2361	652.5213	okay
+46	B	INSTRUCTOR	654.6796	660.003	you go a little on on the top on the right and you see you see the star the little star yeah
+46	A	MANIPULATOR	660.2023	660.7726	the red star
+46	B	INSTRUCTOR	661.3339	662.0754	yeah the red star
+46	A	MANIPULATOR	662.5503	662.7024	yeah
+46	A	MANIPULATOR	662.9496	663.2347	got it
+46	B	INSTRUCTOR	663.3777	663.5488	now
+47	A	INSTRUCTOR	665.5067	670.621	um okay from the middle a little bit up to the top it's those three mountains in light green
+47	B	MANIPULATOR	671.0397	671.7621	yeah the mountains yeah
+47	A	INSTRUCTOR	671.9709	672.4082	yeah right
+48	B	INSTRUCTOR	675.1653	681.5154	okay uh now you go a little down and you go a little on the left and you see this little red house
+48	A	MANIPULATOR	681.7717	682.3801	yeah got it
+49	A	INSTRUCTOR	684.7947	687.7321	uh you go to the upper right corner triangle and square
+49	B	MANIPULATOR	688.4169	688.7877	yeah okay
+50	B	INSTRUCTOR	692.4951	700.7749	now you go eh all the way to the top and now you go on the right and you see this little thing in in kind of violet we don't have a name for it
+50	A	MANIPULATOR	700.2707	701.6016	crazy 'kay that crazy thing
+50	B	INSTRUCTOR	702.1438	702.7522	the crazy thing yeah
+51	A	INSTRUCTOR	703.7405	707.4574	ah you take the light green face in in the in the middle little bit left
+51	B	MANIPULATOR	706.8874	707.125	yeah
+51	B	MANIPULATOR	708.0186	708.2848	yeah
+52	B	INSTRUCTOR	713.4276	716.1083	you take the the star almost in the middle the red star
+52	A	MANIPULATOR	716.2125	716.8114	okay got it
+52	B	INSTRUCTOR	717.886	718.3708	COUGH
+53	A	INSTRUCTOR	719.4826	723.7604	uh you take from the middle little bit down right the V in light green
+53	B	MANIPULATOR	724.3312	724.7875	yes
+54	B	INSTRUCTOR	727.5347	732.2878	now uh from the bottom uh from the middle you go to the bottom and you have this pink K
+54	A	MANIPULATOR	732.9719	733.143	yeah
+54	A	MANIPULATOR	733.2951	733.6373	got it
+54	B	INSTRUCTOR	733.2955	735.0351	the l- K letter or something
+54	A	MANIPULATOR	734.8066	735.0062	yeah
+54	A	MANIPULATOR	735.0917	735.2724	yeah
+55	A	INSTRUCTOR	738.2668	740.5863	uh from the middle little bit right TV screen
+55	B	MANIPULATOR	741.6324	741.9365	yes
+56	B	INSTRUCTOR	745.0736	749.551	okay eh go to the bottom left corner there is this Batman in green yeah
+56	A	MANIPULATOR	749.6647	749.8453	yeah
+56	B	INSTRUCTOR	750.2544	750.7107	light green yeah
+56	A	MANIPULATOR	750.2921	750.4632	yeah
+57	A	INSTRUCTOR	752.3929	755.625	uh toilet on the lower right side brown toilet
+57	B	MANIPULATOR	756.0437	756.2623	yes
+58	B	INSTRUCTOR	759.618	763.7437	okay eh uh in the top left co- corner the Cologne cathedral
+58	A	MANIPULATOR	764.5228	765.1407	okay yeah
+59	A	INSTRUCTOR	767.3937	769.3614	uh toilet on the top light blue
+59	B	MANIPULATOR	770.1698	770.5406	yes
+60	B	INSTRUCTOR	774.0293	778.0409	on the one the left the square and the triangle they are in in purple
+60	A	MANIPULATOR	778.2877	778.4588	yeah
+60	A	MANIPULATOR	778.5824	778.8391	got it
+61	A	INSTRUCTOR	781.3202	783.402	uh you take the bird in the middle violet
+61	B	MANIPULATOR	784.0583	784.3815	yes
+62	B	INSTRUCTOR	787.376	791.9674	you take uh the mountains on the on the to- on the bottom left you know the green mountains
+62	A	MANIPULATOR	792.0621	792.2903	yeah
+62	A	MANIPULATOR	792.4519	792.7085	got it
+62	B	INSTRUCTOR	793.3363	793.5455	yeah
+63	A	INSTRUCTOR	795.4653	798.0415	uh you take the face upper right corner light green
+63	B	MANIPULATOR	798.6693	798.9449	yes
+64	B	INSTRUCTOR	802.5668	806.4073	you take the red star a little on the top on the left
+64	A	MANIPULATOR	806.6351	806.8537	yeah
+64	B	INSTRUCTOR	807.1773	807.8427	the red star yeah
+64	A	MANIPULATOR	807.7663	807.9184	yeah
+65	A	INSTRUCTOR	809.8056	812.5907	uh you take the bird on the top in the middle violet
+65	B	MANIPULATOR	813.1281	813.2802	yeah
+65	A	INSTRUCTOR	813.3054	814.4391	purple whatever
+66	B	INSTRUCTOR	816.608	821.5126	and you take the mountains on the bottom uh right re uh whi- uh
+66	A	MANIPULATOR	821.5866	822.1534	light green
+66	B	INSTRUCTOR	821.7098	822.3753	green mountains
+66	A	MANIPULATOR	822.3753	823.1146	light green yeah
+66	B	INSTRUCTOR	822.6464	823.8787	gr- light green mountains yeah
+66	A	MANIPULATOR	823.2872	823.8294	yeah yeah yeah
+67	A	INSTRUCTOR	824.4948	827.1074	uh you take the crazy thing uh down
+67	A	INSTRUCTOR	827.1844	829.9679	there's the TV screen and right next to it there's a crazy thing
+67	B	MANIPULATOR	829.2762	829.5966	yeah
+67	B	MANIPULATOR	829.8185	830.3114	yes
+67	A	INSTRUCTOR	829.9971	830.2929	that one
+68	B	INSTRUCTOR	833.7865	837.3972	okay you take the you take the crown it's on the righ- on the right it's yellow
+68	A	MANIPULATOR	837.5451	838.1366	the yellow yeah
+68	A	MANIPULATOR	838.2598	838.5556	okay
+68	B	INSTRUCTOR	838.6111	838.7404	yeah
+69	A	INSTRUCTOR	841.3468	844.0517	uh you take the K a little bit left
+69	A	INSTRUCTOR	844.6494	844.9082	in red
+69	B	MANIPULATOR	845.0068	845.2779	yes
+70	B	INSTRUCTOR	848.599	851.6305	okay you ta- you take the computer screen it's on the bottom left
+70	A	MANIPULATOR	852.0372	852.1912	yeah
+70	A	MANIPULATOR	852.3144	852.5486	got it
+71	A	INSTRUCTOR	855.5369	859.049	uh you take Batman uh down left uh down in the middle
+71	A	INSTRUCTOR	859.8809	860.8421	light green Batman
+71	B	MANIPULATOR	860.3245	861.6616	yeah yeah gr- green yeah yeah
+71	A	INSTRUCTOR	861.7601	862.0066	yeah
+72	B	INSTRUCTOR	865.5557	869.7825	you you take the the toilet in the in the middle it's brown or orange
+72	A	MANIPULATOR	868.6858	868.963	yeah
+72	A	MANIPULATOR	869.2034	869.6162	yeah yeah
+72	A	MANIPULATOR	870.5034	870.639	yeah
+73	A	INSTRUCTOR	871.4585	874.1819	uh toilet light blue toilet down right
+73	B	MANIPULATOR	875.6237	876.1844	oh yeah yeah
+74	B	INSTRUCTOR	879.2036	882.3583	okay the square and the and the triangle at the bottom
+74	B	INSTRUCTOR	883.2333	884.7429	and they are uh purple yeah
+74	A	MANIPULATOR	884.9031	885.0202	yeah
+74	A	MANIPULATOR	885.1619	885.3159	yeah
+74	A	MANIPULATOR	885.3837	885.6302	got it
+75	A	INSTRUCTOR	888.4029	889.8817	you take the light brown toilet
+75	B	MANIPULATOR	891.422	891.6007	yes
+76	B	INSTRUCTOR	896.7703	899.808	okay you took uh take the light blue toilet at the bottom
+76	A	MANIPULATOR	900.0729	900.19	yeah
+76	A	MANIPULATOR	900.8	901.0218	got it
+77	A	INSTRUCTOR	903.9178	906.2592	uh you take the crazy thing in the middle in blue
+77	B	MANIPULATOR	908.6129	909.7898	blue yeah dark blue yeah
+77	A	INSTRUCTOR	909.8945	910.2211	yeah yeah
+77	B	MANIPULATOR	910.8988	910.9789	okay
+78	B	INSTRUCTOR	914.3678	918.8473	you take the the light green eh light green V at the top uh right
+78	A	MANIPULATOR	919.1122	919.2786	yeah
+78	A	MANIPULATOR	919.4326	919.636	got it
+79	A	INSTRUCTOR	922.6675	924.0169	Cologne cathedral on the left
+79	B	MANIPULATOR	924.8117	925.1198	yes
+80	B	INSTRUCTOR	928.4162	931.3923	uh the face green face at the top uh left
+80	A	MANIPULATOR	932.1995	932.3535	yeah
+80	A	MANIPULATOR	932.4459	932.6431	got it
+81	A	INSTRUCTOR	936.987	938.1947	okay you take the crazy thing
+81	A	INSTRUCTOR	939.5256	941.9533	the crazy thing uh down on the in the middle
+81	B	MANIPULATOR	939.7104	940.1726	which one
+81	B	MANIPULATOR	942.5324	942.7358	okay
+81	A	INSTRUCTOR	944.5966	945.336	oh the wrong piece
+81	A	INSTRUCTOR	945.3568	947.739	oh no we screwed up LAUGHTER
+81	B	MANIPULATOR	946.1148	947.8499	no what no no no
+81	B	MANIPULATOR	948.1703	948.7125	in the middle
+81	A	INSTRUCTOR	948.8769	952.3586	yeah that ah yeah it was it was my wrong explanation I should have told you the color
+81	B	MANIPULATOR	951.9905	952.2986	ah okay
+81	A	INSTRUCTOR	952.5127	953.2359	okay we screwed up
+81	B	MANIPULATOR	952.8654	954.1347	wah wah wah wah
+81	A	INSTRUCTOR	953.9129	955.1452	yeah we screwed up okay
+81	B	MANIPULATOR	954.1772	954.5411	BREATH

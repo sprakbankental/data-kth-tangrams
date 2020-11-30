@@ -1,0 +1,173 @@
+ROUND	SPEAKER	DIALOGUE_ROLE	START_TIME	END_TIME	TOKENS
+0	B	MANIPULATOR	0.0	0.7702	START_SIGNAL
+0	A	INSTRUCTOR	2.66	3.4302	START_SIGNAL
+0	B	MANIPULATOR	2.7452	2.7703	CLICK
+0	B	MANIPULATOR	4.3212	5.0184	there you go
+0	A	INSTRUCTOR	5.5961	11.3929	yes 'kay is appearing yea-
+1	A	INSTRUCTOR	16.7315	31.5522	okay so PARTICIPANT_B it's a light blue object an- in the top there is ah a rectangulus like a s- square an-
+1	B	MANIPULATOR	31.5721	32.349	in the middle righ-
+1	A	INSTRUCTOR	32.9267	45.2573	no it's in the eh bottom and it's a light blue one and it's divided like in in two pictures is like rectangulus on the top and below there is eh trapezoid
+1	B	MANIPULATOR	46.2334	47.5482	below there's a triangle
+1	A	INSTRUCTOR	47.9665	49.1816	yes triangle
+1	B	MANIPULATOR	49.1418	51.0541	so it's like a computer right like a screen
+1	A	INSTRUCTOR	50.9744	52.6278	yeah similar to a screen
+1	B	MANIPULATOR	52.4087	53.1856	I got it
+1	A	INSTRUCTOR	54.7194	56.3131	yes so now it's my turn
+2	B	INSTRUCTOR	62.568	66.4923	pink LAUGHTER perfect
+3	A	INSTRUCTOR	72.4285	80.1775	uh it's ooh the green one on the right the light green one the small one
+3	B	MANIPULATOR	80.6357	81.5918	yes two small one
+3	A	INSTRUCTOR	82.6078	85.9743	the one of eh near the border of a screen
+3	B	MANIPULATOR	86.8906	91.5719	the I me- I mean is is I think they changed randomly so it's not about location
+3	A	INSTRUCTOR	89.6595	92.5081	okay okay so it's
+3	B	MANIPULATOR	92.5281	94.2014	I know is a light blue a light green
+3	A	INSTRUCTOR	94.6994	105.4563	so it's it's a very light green the small not the one who seems like a mountain the other one that it's like uh like a like house house with a roof
+3	B	MANIPULATOR	105.4165	106.6913	okay so it's like a mountain right
+3	A	INSTRUCTOR	106.8706	109.0619	no no the other one not the mountain
+3	B	MANIPULATOR	108.9623	110.536	uh like the the house
+3	A	INSTRUCTOR	110.0977	112.3089	yeah like the house good
+4	B	INSTRUCTOR	117.8467	125.9542	uh light blue CLICK is made of two triangle and they are facing I mean
+4	A	MANIPULATOR	119.7391	120.4961	yes
+4	A	MANIPULATOR	125.5558	127.0498	th- the opposite direction
+4	B	INSTRUCTOR	126.7909	127.5478	exactly
+5	A	INSTRUCTOR	134.6793	138.4841	okay it's the pink one that seems like uh a bed
+6	B	INSTRUCTOR	144.9183	152.5079	uh the light blue that I chose like eh the house not the mountain ligh- I th- I'm sorry light green
+6	A	MANIPULATOR	152.7071	154.5198	light green okay
+6	B	INSTRUCTOR	154.4202	156.0935	like a house CLICK exactly
+7	A	INSTRUCTOR	160.3565	164.3804	okay it's the the eh yellow V the big one
+8	B	INSTRUCTOR	169.4799	170.2967	so it's purple
+8	A	MANIPULATOR	170.6752	171.711	purple okay
+8	B	INSTRUCTOR	171.3923	175.5955	eh purple and is like a V but it's not a V
+8	A	MANIPULATOR	176.7907	177.2887	it's
+8	B	INSTRUCTOR	177.2688	181.193	is on th- o- s- only two purple subjects righ- objects right
+8	A	MANIPULATOR	182.4679	186.3126	the one that it's not one seems like a chicken on the side
+8	B	INSTRUCTOR	187.6273	189.2807	LAUGHTER yeah exactly
+8	A	MANIPULATOR	189.5197	190.5157	so the other one
+8	B	INSTRUCTOR	190.4161	197.1093	yea- no eh the one next to the chicken like the this it looks like a V but yeah there's triangle in the middle
+8	A	MANIPULATOR	195.6551	196.452	okay
+8	A	MANIPULATOR	198.3444	198.9818	SNIFF
+9	A	INSTRUCTOR	202.5475	204.3005	it's again the pink eh bed
+9	B	MANIPULATOR	205.2368	206.2129	I lov- pink bed
+9	A	INSTRUCTOR	206.7507	207.2288	GROAN
+10	B	INSTRUCTOR	210.3164	212.9658	again light green house
+11	A	INSTRUCTOR	218.2248	223.902	oh it's the big eh green one the one wh- seems like a cathedral BREATH
+12	B	INSTRUCTOR	228.5435	229.4598	blue V
+12	A	MANIPULATOR	230.0176	231.651	blue V okay
+13	A	INSTRUCTOR	235.4757	241.89	it's the em the blue that it's like a a V but with another triangle that goes up
+13	B	MANIPULATOR	242.9458	244.4398	the light blue or
+13	A	INSTRUCTOR	244.5394	245.8741	no the da- dark blue
+13	B	MANIPULATOR	244.8581	245.5753	dark blue
+14	B	INSTRUCTOR	250.7346	251.392	pink
+14	A	MANIPULATOR	252.2286	252.388	CLICK
+15	A	INSTRUCTOR	257.2884	271.3521	it's the eh blue one uh it's CLICK BREATH that it's full of triangle it's like full of like five t- triangles connected all together
+16	B	INSTRUCTOR	276.4317	279.8779	uh the dark yellow chicken
+16	A	MANIPULATOR	280.2763	280.6349	BREATH
+17	A	INSTRUCTOR	286.0134	287.9456	it's the blue dark blue V
+18	B	INSTRUCTOR	294.7185	297.1488	purple V with a triangle in the middle
+19	A	INSTRUCTOR	304.2404	310.7742	BREATH it's li- light b- light blue and it's the triangle over a square
+19	B	MANIPULATOR	312.6666	318.8818	triangle ove- a square like the triangle is on the left right left left top
+19	A	INSTRUCTOR	317.3877	320.7941	yeah it's on the left yeah left top left corner CLICK
+20	B	INSTRUCTOR	323.563	327.9056	ah the purple one not the V the other one like uh
+20	A	MANIPULATOR	327.567	329.3797	yeah okay the stranger re-
+20	B	INSTRUCTOR	329.559	329.8976	yeah
+21	A	INSTRUCTOR	335.316	336.7104	V it's the blue V
+22	B	INSTRUCTOR	343.2641	346.033	the purple V with a triangle in the middle
+23	A	INSTRUCTOR	351.0928	360.9135	it's the small uh green one that seems like um a Christmas tree we've already tree huh
+23	B	MANIPULATOR	360.3756	363.2641	yeah actually two of them I don't know which color are you talking about
+23	A	INSTRUCTOR	363.1445	364.0409	g- green
+23	B	MANIPULATOR	364.7182	367.5867	the eh the green uh okay maybe this one
+23	A	INSTRUCTOR	367.6266	368.2242	yes
+24	B	INSTRUCTOR	371.5509	376.8895	uh the light blue one that looks like a pe- a people some some some face
+24	A	MANIPULATOR	376.9293	378.0648	okay on the side
+25	A	INSTRUCTOR	383.9612	389.1006	it's the s- the same um Christmas tree the small one in green
+25	B	MANIPULATOR	389.9572	391.2122	did you mean the other one
+25	A	INSTRUCTOR	391.5707	393.3237	no no no the same in green it's
+26	B	INSTRUCTOR	397.6862	401.1125	again somebody face blue
+27	A	INSTRUCTOR	405.236	411.9491	it's this time is hmm light blue and by it it's again the Christmas tree
+27	B	MANIPULATOR	413.6423	414.4989	that's not the blue
+27	A	INSTRUCTOR	414.8575	416.4312	yeah da- li- light blue
+28	B	INSTRUCTOR	420.8734	424.7578	um light green mountain small mountain
+29	A	INSTRUCTOR	431.3514	433.6622	it's the eh face light blue face
+30	B	INSTRUCTOR	438.0646	443.1841	uh the Christmas tree uh the light blue one not the green one small Christmas tree
+31	A	INSTRUCTOR	447.4072	457.6262	oh it's light blue and it's the CLICK strange figure with eh like two tria- four triangles
+31	B	MANIPULATOR	457.447	462.0087	okay I think it's just like the the the symbol of London Olympic right
+31	A	INSTRUCTOR	462.6063	464.0206	yes something similar
+32	B	INSTRUCTOR	470.0565	477.7258	okay so this is a green one and the sh- shape is really strange it doesn't looks to be a triangle
+32	A	MANIPULATOR	472.666	473.3632	yes
+32	A	MANIPULATOR	477.427	478.5823	ve- very small
+32	B	INSTRUCTOR	478.8015	482.5863	uh not so small but sma- bigger than the Christmas tree
+32	A	MANIPULATOR	480.2556	480.7337	okay
+33	A	INSTRUCTOR	487.7257	492.8851	it's s- again the purple eh V with the triangle inside
+34	B	INSTRUCTOR	497.8651	499.3392	uh green Christmas tree
+35	A	INSTRUCTOR	504.7177	515.3551	mm-hmm it's the um CLICK yellow one that seems like um GROAN hmm no- not the orange chicken but the it seems like an animal like a board
+35	B	MANIPULATOR	516.5304	517.128	a bird
+35	A	INSTRUCTOR	517.4866	518.6021	yeah it's yellow
+36	B	INSTRUCTOR	522.6459	525.7933	eh orange one not the chicken the other one V
+36	A	MANIPULATOR	525.0363	525.6339	okay
+37	A	INSTRUCTOR	530.0164	541.1518	it's again the um small green uh thing with us when you shape one that seems I don't know I can see seem like a dog face BREATH on the sized
+37	B	MANIPULATOR	539.8769	540.9924	oka- LAUGHTER
+38	B	INSTRUCTOR	542.7454	544.8968	ah purple V with a triangle in the middle
+39	A	INSTRUCTOR	550.096	552.0482	it's the eh orange chicken
+40	B	INSTRUCTOR	556.2314	561.4505	is the light blue one with the triangle and with a triangle on the top left
+40	A	MANIPULATOR	561.2115	561.7693	okay
+40	B	INSTRUCTOR	563.8808	566.7294	wha- on on a top left
+40	A	MANIPULATOR	565.3549	567.825	oh sorry
+40	B	INSTRUCTOR	567.8449	568.5222	LAUGHTER
+40	B	INSTRUCTOR	571.8688	572.9445	the other player
+41	A	INSTRUCTOR	577.0282	579.9764	it's the eh again the yellow board
+42	B	INSTRUCTOR	585.6735	588.1835	orange V with a triangle in the middle
+43	A	INSTRUCTOR	592.9245	594.3787	it's the orange chicken
+44	B	INSTRUCTOR	598.1835	602.3069	okay light blue triangle on the top left don't make it wrong th- this time
+44	A	MANIPULATOR	601.7093	603.9205	BREATH yeah light blue triangl-
+44	B	INSTRUCTOR	604.3388	605.3747	on top left yeah
+45	A	INSTRUCTOR	608.4623	613.0041	BREATH CLICK it's the eh yellow green uh duck face
+46	B	INSTRUCTOR	618.6615	620.4543	purple V with tria- in the middle
+47	A	INSTRUCTOR	625.3347	631.8287	it's the light blue mm-hmm like with two triangle there's like the triangle
+47	B	MANIPULATOR	631.6893	632.6455	up the same way
+47	A	INSTRUCTOR	632.7849	634.9961	yeah w- in the opposite direction
+48	B	INSTRUCTOR	637.8247	639.757	yellow V huge yellow
+49	A	INSTRUCTOR	642.7251	644.0598	it's the pink bed
+50	B	INSTRUCTOR	648.4422	652.8048	uh f- dark blue with five triangle
+50	A	MANIPULATOR	652.8844	653.6613	okay
+51	A	INSTRUCTOR	659.0	663.482	it's the um again the purple V with the triangle inside
+52	B	INSTRUCTOR	667.5856	670.3943	light blue two triangle opposite direction
+53	A	INSTRUCTOR	675.2748	680.7329	LAUGHTER it's the light blue with the square with the triangle on the top left
+54	B	INSTRUCTOR	686.3504	687.7249	a green dog face
+55	A	INSTRUCTOR	693.3823	697.446	it's the em light blue one the strangest one with the
+55	B	MANIPULATOR	698.0436	698.6811	four triangle
+55	A	INSTRUCTOR	698.5217	700.2149	yeah four triangle CLICK
+56	B	INSTRUCTOR	703.5615	705.0157	eh green Christmas tree
+57	A	INSTRUCTOR	710.4539	711.0316	it's the
+57	A	INSTRUCTOR	711.191	712.0077	blue V
+58	B	INSTRUCTOR	718.2826	721.0913	uh light green mountain
+59	A	INSTRUCTOR	728.7407	731.2108	it's the um light blue Christmas tree
+60	B	INSTRUCTOR	737.5654	740.4937	yellow bird not the chicken the bird
+60	A	MANIPULATOR	740.7925	741.3702	okay
+61	A	INSTRUCTOR	745.7924	750.5733	BREATH it's light blue with triangle we we we've the opposite direction
+62	B	INSTRUCTOR	756.5494	759.7366	blue triangle and square triangle on the top left
+62	A	MANIPULATOR	759.4179	759.9757	okay
+63	A	INSTRUCTOR	764.0593	768.2226	CLICK it's the um green eh little mountain
+64	B	INSTRUCTOR	776.4099	777.884	light blue Christmas tree
+64	A	MANIPULATOR	778.6409	779.7963	ligh- blue
+65	B	MANIPULATOR	783.4019	783.7604	SNIFF
+65	A	INSTRUCTOR	784.2584	786.6289	CLICK uh it's the eh computer monitor
+66	B	INSTRUCTOR	792.107	797.9237	light green not the Christmas tree the other on- not the other mountain the other one like a hou- like a house
+66	A	MANIPULATOR	797.7444	800.2544	okay SNIFF BREATH
+67	A	INSTRUCTOR	802.4655	808.0432	it's the um the other orange one not the chicken the little V with the triangle
+68	B	INSTRUCTOR	811.2902	811.8878	chicken
+69	A	INSTRUCTOR	816.8878	821.6886	it's again the orange with the the V with the triangle
+70	B	INSTRUCTOR	825.4136	826.7085	chicken LAUGHTER
+71	A	INSTRUCTOR	830.5929	832.3459	it's the eh green house
+72	B	INSTRUCTOR	838.7004	839.9953	orange V with a triangle
+73	A	INSTRUCTOR	845.294	847.6845	CLICK it's the yellow board and not the chicken
+74	B	INSTRUCTOR	852.7442	855.6127	uh light blue two triangle opposite direction
+75	A	INSTRUCTOR	860.1545	865.035	it's the green um cathedral the eh the one with the spikes on top
+76	B	INSTRUCTOR	869.3378	873.3617	purple eh strange looking stuff not the V
+77	A	INSTRUCTOR	878.0429	882.8636	BREATH it's blue the five strange triangle blue
+77	B	MANIPULATOR	884.0588	886.4891	five or four ah fi-
+77	A	INSTRUCTOR	886.8078	887.266	five
+78	B	INSTRUCTOR	890.7122	892.6245	purple V with triangle in the middle
+79	A	INSTRUCTOR	896.1106	896.768	chicken
+80	B	INSTRUCTOR	902.246	904.1982	light green house small one
+81	A	INSTRUCTOR	908.1823	909.5368	GROAN the yellow board
+82	B	INSTRUCTOR	914.6364	916.3695	light blue triangle opposite direction
+83	A	INSTRUCTOR	925.3535	931.9272	CLICK it's light blue and the strange looking figure the one with four triangles

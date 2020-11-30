@@ -1,0 +1,348 @@
+ROUND	SPEAKER	DIALOGUE_ROLE	START_TIME	END_TIME	TOKENS
+0	A	INSTRUCTOR	1.782	2.4521	but it's not
+0	A	INSTRUCTOR	2.459	2.5907	oh
+0	A	INSTRUCTOR	2.6776	2.8812	now it
+0	B	MANIPULATOR	2.7075	3.2514	all right
+0	A	INSTRUCTOR	3.1261	3.7967	think it's going yeah
+0	B	MANIPULATOR	4.6197	6.0578	okay so I think it's your turn right
+0	A	INSTRUCTOR	6.3974	7.7707	press okay to continue to the next turn
+1	A	INSTRUCTOR	9.1966	10.0432	uh so top left
+1	A	INSTRUCTOR	11.0612	11.3799	yellow
+1	A	INSTRUCTOR	12.6966	13.1139	it's the first
+1	B	MANIPULATOR	13.621	13.8818	yep
+2	A	MANIPULATOR	17.4371	17.769	now
+2	B	INSTRUCTOR	17.6031	19.7363	um blue thing in the bottom row
+2	A	MANIPULATOR	20.4237	23.6314	the bottom row it's uh the second right
+2	B	INSTRUCTOR	24.0106	24.619	yeah second
+2	A	MANIPULATOR	25.2116	25.4407	'kay
+3	A	INSTRUCTOR	28.4983	30.4498	uh blue thing on the right
+3	A	INSTRUCTOR	30.8291	36.6599	uh the second the lighter lighter blue on the top right not the really the top one the one below
+3	B	MANIPULATOR	36.3754	37.2208	not the triangle
+3	A	INSTRUCTOR	37.6554	37.8924	yeah
+3	A	INSTRUCTOR	38.1926	38.7141	the
+3	B	MANIPULATOR	38.722	39.4331	th- the square
+3	A	INSTRUCTOR	39.5279	39.6543	yeah
+3	A	INSTRUCTOR	42.1351	42.6092	oh fuck
+3	A	INSTRUCTOR	46.3305	48.8725	waiting for the other player to select a piece to move it
+3	A	INSTRUCTOR	48.8825	53.0304	it's the the not the top right the uh one below it
+3	B	MANIPULATOR	49.08	50.2651	yeah I don't see a piece
+3	B	MANIPULATOR	53.9469	54.3577	green
+3	A	INSTRUCTOR	54.8555	55.4797	no it's blue
+3	A	INSTRUCTOR	57.4786	58.4346	it's like light blue
+3	B	MANIPULATOR	60.1569	63.1514	um the sq- the square
+3	A	INSTRUCTOR	63.9968	67.8287	uh it's kind of a square with a face it's like a face turning to the right
+3	A	INSTRUCTOR	68.3501	70.3806	it's on the really to the right side
+3	A	INSTRUCTOR	70.7362	71.2734	on
+3	A	INSTRUCTOR	72.0635	73.7464	there's three completely to the right
+3	A	INSTRUCTOR	73.7701	77.7679	there's a blue on the bottom there's one in the middle that's like light blue select that one the light blue
+3	B	MANIPULATOR	75.6821	76.0534	yeah yeah
+3	B	MANIPULATOR	78.8424	83.8515	oh okay light I guess looks kind of greenish here LAUGHTER sorry about that
+3	A	INSTRUCTOR	82.9272	83.3775	okay
+4	B	INSTRUCTOR	84.4757	87.1699	okay so this looks like a computer monitor blue in the middle
+4	B	INSTRUCTOR	88.1417	89.6113	not the purple one no
+4	A	MANIPULATOR	88.5209	89.2083	'kay got it
+4	B	INSTRUCTOR	89.8246	89.9984	yep
+5	A	INSTRUCTOR	91.6971	92.2896	the top left
+5	A	INSTRUCTOR	93.1824	93.9014	quick quick
+6	B	INSTRUCTOR	96.8405	99.3293	uh the same blue monitor again left side
+6	A	MANIPULATOR	99.0765	100.2616	but on the left side 'kay
+7	A	INSTRUCTOR	102.5765	103.4772	uh top right
+7	A	INSTRUCTOR	106.6297	106.8983	'kay
+8	B	INSTRUCTOR	107.72	109.2922	uh green thing on the right big
+8	A	MANIPULATOR	109.7742	110.027	yeah
+8	A	MANIPULATOR	110.4142	110.6749	done
+9	A	INSTRUCTOR	112.6817	114.4041	uh monitor on the middle blue
+9	A	INSTRUCTOR	116.8533	118.3071	the same that you've been pressing
+9	B	MANIPULATOR	118.2518	118.5836	okay
+10	B	INSTRUCTOR	120.1164	120.306	BREATH
+10	B	INSTRUCTOR	120.5983	121.9573	uh top left blue
+10	A	MANIPULATOR	124.2169	124.4381	done
+11	A	INSTRUCTOR	125.9551	126.9348	uh middle red
+12	B	INSTRUCTOR	131.0353	133.1132	bottom middle green thing
+12	B	INSTRUCTOR	134.4801	135.9101	uh yeah green blueish
+12	A	MANIPULATOR	136.2262	138.8176	ah okay it's blue I think
+12	B	INSTRUCTOR	138.3752	141.4486	sorry uh mine maybe we have different c- color-
+13	A	INSTRUCTOR	139.3707	139.7104	uh
+13	A	INSTRUCTOR	139.8764	143.7241	now the one to the left of it the face again the face it's bottom
+13	A	INSTRUCTOR	144.1902	144.9882	uh
+13	B	MANIPULATOR	144.9092	145.2963	right
+13	A	INSTRUCTOR	145.1936	145.3674	yeah
+13	B	MANIPULATOR	145.644	146.1338	got it
+14	B	INSTRUCTOR	147.6666	149.7129	green big uh again middle
+14	A	MANIPULATOR	149.8393	150.0447	yeah
+15	A	INSTRUCTOR	152.4545	153.1182	uh yellow
+15	A	INSTRUCTOR	153.4579	155.4094	a big thing on the bottom right
+15	B	MANIPULATOR	155.8755	156.6261	the spiky one
+15	A	INSTRUCTOR	156.5155	157.0607	yeah that's right
+16	B	INSTRUCTOR	160.0235	163.6342	um looks like uh a chicken bottom right orange
+16	A	MANIPULATOR	164.2741	164.4875	yeah
+17	A	INSTRUCTOR	167.79	170.6027	uh next to it the yellow one big to the left
+17	A	INSTRUCTOR	170.9424	171.1242	yeah
+18	B	INSTRUCTOR	173.3285	175.8173	uh bottom r- right blue Batman
+18	A	MANIPULATOR	176.2439	176.4414	yeah
+19	A	INSTRUCTOR	179.42	179.981	uh
+19	A	INSTRUCTOR	180.2101	183.2993	uh left kind of left to the middle
+19	B	MANIPULATOR	180.8027	181.016	NOISE
+19	A	INSTRUCTOR	183.7971	186.0883	uh the light blue that you think it's green
+19	A	INSTRUCTOR	186.2622	187.2498	uh it looks like
+19	B	MANIPULATOR	186.989	188.822	doggish looks like a dog
+19	A	INSTRUCTOR	187.313	187.5026	yeah
+19	A	INSTRUCTOR	187.8265	188.3164	yeah dog
+20	B	INSTRUCTOR	189.8965	192.4959	uh top left dark blue dark yellow
+21	B	MANIPULATOR	195.5772	195.9012	NOISE
+21	A	INSTRUCTOR	195.9565	196.6834	middle blue
+21	A	INSTRUCTOR	197.0626	197.3628	big
+22	B	INSTRUCTOR	200.8392	203.0514	um the the face thing
+22	B	INSTRUCTOR	203.2252	205.6034	the right side second from bottom
+22	A	MANIPULATOR	205.8799	206.0616	'kay
+23	A	INSTRUCTOR	207.8393	211.134	the computer monitor pur- purple left almost middle
+23	B	MANIPULATOR	211.7818	211.9241	yeah
+24	B	INSTRUCTOR	213.0776	215.914	uh uh orange emerald in the middle
+25	A	INSTRUCTOR	220.6308	222.045	in the middle blue big
+26	B	INSTRUCTOR	226.0429	227.6388	uh face on the right
+26	B	INSTRUCTOR	227.9549	230.7439	uh the the blue greenish small one
+26	A	MANIPULATOR	229.9854	230.1592	yeah
+27	A	INSTRUCTOR	232.9561	236.2428	uh Batman in the middle like purple pink
+27	A	INSTRUCTOR	236.8196	238.1627	uh it's like a bat
+27	B	MANIPULATOR	238.4946	238.6289	yep
+27	A	INSTRUCTOR	238.5499	238.7395	yeah
+28	B	INSTRUCTOR	240.7542	243.164	um uh bottom left green mountains
+28	A	MANIPULATOR	244.4913	245.2774	uh there's two
+28	A	MANIPULATOR	245.2814	245.5935	okay
+28	A	MANIPULATOR	245.8147	246.5021	the big one yeah
+29	A	INSTRUCTOR	248.2719	249.8165	uh Batman to the left
+29	A	INSTRUCTOR	249.8718	251.8628	the same that you picked but now it's on the left
+29	A	INSTRUCTOR	252.4356	252.5423	yeah
+30	B	INSTRUCTOR	254.5846	255.7658	mid- uh middle green
+31	A	INSTRUCTOR	258.5311	260.846	uh top V bw- uh blue V
+31	A	INSTRUCTOR	262.0391	262.205	yeah
+32	B	INSTRUCTOR	263.6074	265.9421	uh same position again small blue
+32	A	MANIPULATOR	266.8823	267.538	small blue
+32	A	MANIPULATOR	268.1622	268.4348	where
+32	B	INSTRUCTOR	268.2294	268.494	yeah
+32	B	INSTRUCTOR	268.5296	269.3947	top top middle
+32	A	MANIPULATOR	271.7136	271.8835	'kay
+33	A	INSTRUCTOR	272.6933	273.7283	uh yellow top left
+34	B	INSTRUCTOR	277.3272	281.1709	uh middle uh bottom or uh purple monitor
+35	A	INSTRUCTOR	283.7268	285.5085	uh red face uh top right
+36	B	INSTRUCTOR	288.5661	289.2258	bottom left
+37	A	INSTRUCTOR	292.8523	293.433	uh top right
+38	B	INSTRUCTOR	298.3552	299.1058	bottom right
+38	B	INSTRUCTOR	299.4969	299.9749	bottom right
+39	A	INSTRUCTOR	302.4084	302.8469	uh
+39	A	INSTRUCTOR	303.151	305.6517	cucurucu in the middle orange LAUGHTER
+39	A	INSTRUCTOR	305.9045	306.7222	cu- LAUGHTER
+39	B	MANIPULATOR	306.0427	307.5834	LAUGHTER
+39	A	INSTRUCTOR	307.2239	307.5597	LAUGHTER
+40	B	INSTRUCTOR	307.7612	308.3182	got it
+40	B	INSTRUCTOR	308.3577	311.8301	uh bottom right bl- uh yellow yellow thingy
+41	A	INSTRUCTOR	313.4972	315.3223	uh computer top purple
+41	B	MANIPULATOR	316.4126	317.0763	oh top middle
+41	A	INSTRUCTOR	317.3962	317.8663	top middle yeah
+41	B	MANIPULATOR	318.4313	319.7625	fuck I pressed the wrong one
+41	A	INSTRUCTOR	318.9527	319.8613	I said bl-
+41	A	INSTRUCTOR	319.9127	320.1497	yeah
+42	A	MANIPULATOR	320.5961	320.9279	it's okay
+42	B	INSTRUCTOR	321.2005	322.9229	uh red face top left
+42	A	MANIPULATOR	323.0493	323.2152	yeah
+43	A	INSTRUCTOR	325.9766	329.0342	uh red thing on the right side top a little bit top
+43	A	INSTRUCTOR	329.5359	329.7136	yeah
+44	B	INSTRUCTOR	331.9654	335.4022	uh green emerald almost uh left bottom
+45	A	INSTRUCTOR	338.6337	341.8138	uh blue thing on the left big not the top one the middle
+46	B	INSTRUCTOR	345.3889	348.8139	face uh blue a little above middle middle
+47	A	INSTRUCTOR	352.073	353.2186	uh face red down
+47	A	INSTRUCTOR	354.0245	354.1509	big
+48	B	INSTRUCTOR	358.3976	360.2583	top uh top left red
+49	A	INSTRUCTOR	363.5885	365.3899	uh mountain green left
+49	A	INSTRUCTOR	366.3814	366.5118	big
+50	B	INSTRUCTOR	368.961	369.9486	middle s- big V
+51	A	INSTRUCTOR	372.9115	375.416	middle uh small blue thing
+52	B	INSTRUCTOR	378.4381	379.0109	top left
+53	A	INSTRUCTOR	382.0251	384.9168	uh cucurucu middle uh middle
+53	A	INSTRUCTOR	384.9997	385.0945	yeah
+54	B	INSTRUCTOR	387.0855	387.7532	bottom right
+54	B	INSTRUCTOR	388.4879	388.7605	yellow
+55	A	INSTRUCTOR	391.1031	392.5134	uh Batman middle purple
+56	B	INSTRUCTOR	396.531	397.5542	bottom left blue
+57	A	INSTRUCTOR	399.96	402.583	uh emerald middle pl- uh orange
+57	A	INSTRUCTOR	403.0057	403.9301	uh next to the computer
+58	B	INSTRUCTOR	405.8856	408.2321	uh bottom right uh darkish yellow
+59	A	INSTRUCTOR	411.5228	415.9038	uh yellow almost in the same spot really to the left it's like uh
+59	A	INSTRUCTOR	416.4608	417.1008	lighter yellow
+59	B	MANIPULATOR	416.8598	417.1008	l-
+59	A	INSTRUCTOR	417.7368	419.3763	a big next to the monitor yeah
+59	B	MANIPULATOR	417.8	418.3808	lighter yellow
+59	B	MANIPULATOR	418.8627	418.9694	yeah
+60	B	INSTRUCTOR	420.6878	421.9164	uh Batman purple
+61	A	INSTRUCTOR	424.8476	430.5994	uh arrow uh blue to the right it's like top l- top uh bottom right almost
+61	A	INSTRUCTOR	430.9549	433.3568	okay there's nothing on the bottom but if there was like
+61	A	INSTRUCTOR	434.139	434.8856	it's like an arrow
+61	B	MANIPULATOR	434.9686	435.0989	NOISE
+61	A	INSTRUCTOR	435.3241	438.4133	be- behind be- beneath the V beneath the big V
+61	B	MANIPULATOR	435.3438	435.7863	you mean
+61	B	MANIPULATOR	438.2	438.6385	oh okay
+62	B	INSTRUCTOR	441.2932	442.4151	uh yellow mountain
+63	A	INSTRUCTOR	445.1093	446.5788	uh green mountain next to it
+64	B	INSTRUCTOR	450.1184	451.8052	V blue V
+65	A	INSTRUCTOR	454.2782	458.3827	uh uh big diamond uh green in the top big emerald
+66	B	INSTRUCTOR	460.425	463.3444	uh bottom middle uh big b- blob
+66	B	INSTRUCTOR	465.3947	467.1605	oh sorry the the blue uh yeah
+66	A	MANIPULATOR	466.0939	466.5442	yeah yeah
+67	A	INSTRUCTOR	468.2034	468.4009	fuck
+67	B	MANIPULATOR	468.2429	468.6696	LAUGHTER
+67	A	INSTRUCTOR	468.6933	471.7272	uh cucurucu LAUGHTER right top right uh orange
+67	B	MANIPULATOR	468.8473	469.0369	BREATH
+67	B	MANIPULATOR	471.3124	471.4428	BREATH
+67	B	MANIPULATOR	472.541	473.6629	LAUGHTER
+67	A	INSTRUCTOR	472.857	473.8565	LAUGHTER
+68	B	INSTRUCTOR	473.8604	477.9451	uh the little spiky thing bottom left not the cucurucu the blue one
+68	A	MANIPULATOR	477.9728	478.1269	yeah
+69	A	INSTRUCTOR	479.5016	482.4368	uh top left yellow
+70	B	INSTRUCTOR	484.4317	487.4538	uh y- purple Batman
+70	A	MANIPULATOR	487.9555	488.3782	ah fuck
+71	A	INSTRUCTOR	491.0447	495.5166	uh y- next to the where it was the Batman y- uh blue L
+72	B	INSTRUCTOR	499.1352	500.7153	uh yellow mountain top
+72	B	INSTRUCTOR	500.9168	502.0506	uh no sorry bottom
+73	A	INSTRUCTOR	505.2109	507.277	uh cucurucu the top uh bottom left
+74	B	INSTRUCTOR	510.8284	514.3719	uh the snowflake uh light blue bottom left
+75	A	INSTRUCTOR	516.4301	517.5125	computer monitor top right
+76	B	INSTRUCTOR	521.4076	526.2982	uh middle top small yellowish thing spiky
+77	A	INSTRUCTOR	528.6843	530.5015	emerald big green right
+78	B	INSTRUCTOR	533.492	537.3476	uh big blob uh l- uh top greenish
+78	B	INSTRUCTOR	540.9069	541.2861	try again
+78	B	INSTRUCTOR	542.0762	542.5068	green blue
+78	A	MANIPULATOR	543.1468	544.1067	green blue oh okay
+79	A	INSTRUCTOR	546.797	553.5206	uh yellow thing in the middle uh not the middle one the one uh to the right side next to the cucuru- cucurucu LAUGHTER
+79	A	INSTRUCTOR	554.0341	554.4568	LAUGHTER
+79	B	MANIPULATOR	554.8242	556.0133	LAUGHTER
+79	A	INSTRUCTOR	554.9151	555.6024	LAUGHTER
+80	B	INSTRUCTOR	556.831	557.6764	green mountain
+81	A	INSTRUCTOR	560.7814	564.9491	a small guy next to the green mountain uh yel- uh blue
+81	B	MANIPULATOR	565.0202	565.4311	the face
+81	A	INSTRUCTOR	565.4074	565.8735	yeah the face
+82	B	INSTRUCTOR	568.6507	571.2974	uh y- red face left
+82	A	MANIPULATOR	571.2698	571.3962	yeah
+83	A	INSTRUCTOR	574.4104	575.074	uh
+83	A	INSTRUCTOR	575.8681	578.7835	the small blue thing uh below the green mountain
+84	B	INSTRUCTOR	582.3823	582.6944	middle
+85	A	INSTRUCTOR	585.9258	586.9095	uh red face
+86	B	INSTRUCTOR	591.8554	598.0931	um the blue thing uh uh that looks kind of like Batman small on the left
+86	B	INSTRUCTOR	598.741	600.2105	the third blue from the top
+86	B	INSTRUCTOR	600.7715	601.8974	that's not not the face
+87	A	INSTRUCTOR	606.0572	606.2152	'kay
+87	A	INSTRUCTOR	606.5233	608.4985	that's Batman two the other one is Batman one
+87	B	MANIPULATOR	608.5025	608.7987	yeah
+87	A	INSTRUCTOR	609.1859	610.2841	uh face red
+88	B	INSTRUCTOR	613.5511	615.3841	uh the same again the bluey thing
+89	A	INSTRUCTOR	618.4654	619.2397	mountain green
+89	A	INSTRUCTOR	620.2194	620.4683	big
+90	B	INSTRUCTOR	622.7042	624.9006	uh b- blue green face left
+90	A	MANIPULATOR	627.2235	628.4758	blue green face left
+90	B	INSTRUCTOR	628.4402	628.7642	middle
+91	A	INSTRUCTOR	630.5497	632.8844	uh Batman bottom purple
+92	B	INSTRUCTOR	637.1074	638.419	arrow on the left
+92	B	INSTRUCTOR	638.6283	639.1419	blue arrow
+93	A	INSTRUCTOR	641.3383	642.4089	computer top left
+94	B	INSTRUCTOR	646.1104	648.3069	uh spiky thing on the right
+94	B	INSTRUCTOR	648.4649	649.8278	uh yellow greenish
+95	A	INSTRUCTOR	651.0603	651.9887	face red
+96	B	INSTRUCTOR	655.469	657.7247	uh the blue Batman middle
+97	A	INSTRUCTOR	662.2795	664.2863	cucurucu to- uh bottom right
+98	B	INSTRUCTOR	667.0476	671.5274	uh spiky thing uh blue uh bottom left
+98	A	MANIPULATOR	672.5664	672.7362	yeah
+98	B	INSTRUCTOR	673.1589	674.3599	let's call it a snowflake
+98	A	MANIPULATOR	674.2177	674.9011	snowflake okay
+99	A	INSTRUCTOR	675.4304	677.8125	uh Batman two uh blue small blue
+100	B	INSTRUCTOR	681.4667	682.0908	cucurucu
+100	A	MANIPULATOR	682.4464	682.7664	LAUGHTER
+100	B	INSTRUCTOR	683.4774	684.1411	LAUGHTER
+100	A	MANIPULATOR	683.6196	684.0502	LAUGHTER
+101	A	INSTRUCTOR	685.5435	686.4363	uh green mountain
+102	B	INSTRUCTOR	690.7738	693.3811	um uh face uh middle left
+103	A	INSTRUCTOR	696.0042	698.7655	computer purple middle bottom
+104	B	INSTRUCTOR	701.0923	705.0981	uh the oh it's a red thing in the middle uh to the left
+104	A	MANIPULATOR	705.8368	706.2121	it's a
+104	B	INSTRUCTOR	706.0541	707.0259	W thing
+105	A	INSTRUCTOR	706.9587	707.3221	double
+105	A	INSTRUCTOR	707.7843	708.2584	uh
+105	A	INSTRUCTOR	708.851	710.1704	the snow- the
+105	A	INSTRUCTOR	711.4543	714.662	next to the Batman two to uh the blue one the yellow
+105	B	MANIPULATOR	715.5667	715.7997	ah
+105	B	MANIPULATOR	716.3212	717.1982	spiky yellow
+105	A	INSTRUCTOR	716.7083	718.3241	spiky spike let's call it spiky yeah
+106	B	INSTRUCTOR	718.2648	719.3828	uh red face top left
+106	A	MANIPULATOR	721.832	722.9223	let's call it spiky uh
+107	A	INSTRUCTOR	723.4201	725.8417	now it's a yellow thing next where I just clicked
+107	A	INSTRUCTOR	726.3592	726.6989	uh
+107	A	INSTRUCTOR	727.2362	727.4653	uh
+107	A	INSTRUCTOR	727.7577	728.8243	on top of the blob
+107	B	MANIPULATOR	727.9394	728.1408	oh
+107	A	INSTRUCTOR	729.085	730.0607	the uh
+107	A	INSTRUCTOR	730.5743	731.1827	blue blob
+107	A	INSTRUCTOR	731.9253	733.3909	beneath the emeralds
+107	B	MANIPULATOR	732.6285	735.0106	oh the the cross maybe
+107	A	INSTRUCTOR	734.6551	735.0936	yeah cross
+108	A	MANIPULATOR	735.1844	735.8007	let's call it the cross
+108	B	INSTRUCTOR	736.176	739.5417	uh th- the greenish uh dog on the top middle
+108	A	MANIPULATOR	741.2444	741.4577	'kay
+108	B	INSTRUCTOR	742.7653	743.2117	the dog
+109	A	INSTRUCTOR	743.5633	745.254	the emerald right green
+109	A	INSTRUCTOR	746.5103	746.6327	top
+110	B	INSTRUCTOR	748.8213	751.0375	the blob on the green uh on the right
+111	A	INSTRUCTOR	754.0714	757.0144	uh the spiky thing on the middle
+111	B	MANIPULATOR	757.1251	757.6386	top right
+111	A	INSTRUCTOR	757.5477	758.8672	no spiky thing on the middle yellow
+111	B	MANIPULATOR	759.1082	759.3017	oh
+111	B	MANIPULATOR	759.7126	759.9654	okay
+111	B	MANIPULATOR	760.1353	760.4236	sorry
+112	B	INSTRUCTOR	760.9412	762.3831	mm uh red face
+113	A	INSTRUCTOR	765.5829	767.0683	a dog down blue
+114	B	INSTRUCTOR	771.0068	772.0458	green emerald
+114	A	MANIPULATOR	774.1553	776.9048	green emerald left yeah yeah yeah yeah
+114	B	INSTRUCTOR	774.4081	774.8111	left
+114	B	INSTRUCTOR	776.0554	776.6322	left big
+115	A	INSTRUCTOR	778.5758	780.8513	uh dog on the middle right
+116	B	INSTRUCTOR	783.4111	784.0669	emerald middle
+117	A	INSTRUCTOR	786.3818	789.0365	uh down uh house yellow
+117	A	INSTRUCTOR	789.4513	790.668	it's like a house or
+117	B	MANIPULATOR	791.0394	791.7189	oh a house
+118	B	INSTRUCTOR	792.6986	793.7178	uh yellow mountain
+119	A	INSTRUCTOR	796.807	799.9041	uh face uh left uh blue
+119	A	INSTRUCTOR	801.7569	802.5825	or green
+120	B	INSTRUCTOR	803.5464	804.4668	uh purple monitor
+121	A	INSTRUCTOR	807.2993	809.2073	uh bottom left Batman two
+122	B	INSTRUCTOR	813.5528	814.0782	cucurucu
+123	A	INSTRUCTOR	817.0292	818.7713	Batman purple top
+123	A	INSTRUCTOR	819.1071	819.8221	uh yeah
+124	B	INSTRUCTOR	821.9435	823.8555	uh arrow top middle
+125	A	INSTRUCTOR	825.8821	827.0158	blob next to it
+126	B	INSTRUCTOR	831.6852	834.3992	spiky yellow above the yellow mountain
+127	A	INSTRUCTOR	837.4449	838.7012	uh the r-
+127	A	INSTRUCTOR	839.1278	842.1933	on the right the yellow the thing that's weird it's like an asteroid
+127	B	MANIPULATOR	842.1696	842.7424	the cross
+127	A	INSTRUCTOR	842.3395	842.7938	the cross yeah
+128	B	INSTRUCTOR	845.247	845.8593	red face
+129	A	INSTRUCTOR	849.9045	852.2629	uh bottom left the spike
+130	B	INSTRUCTOR	855.1783	856.4425	cross top middle
+131	A	INSTRUCTOR	859.188	861.5741	blob uh middle left
+132	B	INSTRUCTOR	863.411	863.9325	red face
+133	A	INSTRUCTOR	866.4291	868.3885	uh emerald r- left green
+134	B	INSTRUCTOR	871.5765	873.6149	middle white house uh yellow house
+134	B	INSTRUCTOR	874.4445	874.9739	white
+135	A	INSTRUCTOR	876.3526	878.3396	uh emerald uh orange
+135	B	MANIPULATOR	878.6201	878.8058	NOISE
+135	A	INSTRUCTOR	878.8334	879.1613	uh
+135	A	INSTRUCTOR	879.8329	880.5005	fuck orange
+135	B	MANIPULATOR	879.9554	881.1484	oh fuck oh shit
+136	B	INSTRUCTOR	882.9695	883.7991	b- blue V
+136	B	INSTRUCTOR	885.2094	885.2963	NOISE
+136	A	MANIPULATOR	885.719	886.1694	blue V
+136	B	INSTRUCTOR	886.9199	887.3663	big
+136	A	MANIPULATOR	887.3861	888.1762	ah fuck
+136	B	INSTRUCTOR	887.6903	887.8285	m-
+136	B	INSTRUCTOR	888.2986	889.1401	uh top left
+136	A	MANIPULATOR	888.67	889.0927	yeah yeah
+137	A	INSTRUCTOR	890.3845	892.3162	computer monitor purple right
+138	B	INSTRUCTOR	895.7886	897.6611	little Batman blue middle
+138	B	INSTRUCTOR	898.7475	899.1899	great
+138	A	MANIPULATOR	899.2966	899.4744	yeah

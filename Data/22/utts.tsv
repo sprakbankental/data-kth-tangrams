@@ -1,0 +1,269 @@
+ROUND	SPEAKER	DIALOGUE_ROLE	START_TIME	END_TIME	TOKENS
+0	B	MANIPULATOR	0.0	0.77	START_SIGNAL
+0	A	INSTRUCTOR	0.8178	1.5878	START_SIGNAL
+0	B	MANIPULATOR	1.0669	2.8165	whoa okay
+0	B	MANIPULATOR	3.996	7.1807	looks like you're up first to describe
+0	A	INSTRUCTOR	7.4756	8.4585	ah it's written
+0	B	MANIPULATOR	8.832	12.9799	ah waiting for player to submit next turn select a pie- okay
+1	A	INSTRUCTOR	11.8397	12.3508	ah okay
+1	A	INSTRUCTOR	12.9603	17.521	so it looks like a green crown has four spikes on the top
+1	B	MANIPULATOR	15.7321	16.3808	okay
+1	B	MANIPULATOR	19.4279	23.2023	okay nice okay to continue
+2	B	INSTRUCTOR	26.4459	37.8675	oh I'm sorry eh it's my turn so it's eh CLICK a green like neon green rectangle with a triangle on the bottom that kind of looks like a ninety degree okay you got it
+3	B	MANIPULATOR	39.047	40.8555	BREATH
+3	A	INSTRUCTOR	42.5462	47.677	um it a bit looks like the profile of a bird it's yellow it lo-
+3	B	MANIPULATOR	46.989	48.8565	yellow ah like a chicken
+3	A	INSTRUCTOR	48.542	48.8958	yeah
+3	B	MANIPULATOR	48.9744	49.5445	okay
+3	B	MANIPULATOR	52.0018	53.1224	mm okay
+4	B	INSTRUCTOR	53.7711	64.2097	CLICK huh okay so it's like a hexagon it's missing like a Native America it's uh like magenta colored BREATH so it's like a hexagon outline that's missing
+4	A	MANIPULATOR	64.2097	66.8243	like two spikes on each side and one in the middle
+4	B	INSTRUCTOR	67.0209	77.2039	uh no eh it's eh so it has one two three fo- it's yeah it has it's missing the top side and there's uh
+4	A	MANIPULATOR	74.2158	74.8252	five s-
+4	A	MANIPULATOR	75.8475	76.1424	yeah
+4	B	INSTRUCTOR	77.892	78.9339	yeah the
+4	A	MANIPULATOR	78.698	79.7005	five spikes right
+4	B	INSTRUCTOR	80.0347	81.7647	yes there you got it
+4	A	MANIPULATOR	80.6638	81.0963	okay
+4	B	INSTRUCTOR	82.3151	82.5903	CLICK
+5	A	INSTRUCTOR	85.0083	90.2768	um it's again the same as the first eh crown with the four spikes big green
+5	B	MANIPULATOR	90.2571	92.5178	okay got it
+6	B	INSTRUCTOR	95.0931	101.2068	it's the same it's the green eh rectangle with the triangle on the bottom
+6	A	MANIPULATOR	99.4572	99.9094	okay
+6	B	INSTRUCTOR	102.1701	102.6419	'kay
+7	A	INSTRUCTOR	104.8436	110.0728	um a small blue profile of a man kind it's like a square
+7	B	MANIPULATOR	110.0924	110.6429	okay
+7	A	INSTRUCTOR	110.4266	110.7018	'kay
+8	B	INSTRUCTOR	113.8865	124.2072	okay this is like uh it's it's blue it's like the lighter blue or not the lightest blue but the li- in between blue and it's like a W shaped kind of
+8	B	INSTRUCTOR	124.7772	125.249	yeah
+9	A	INSTRUCTOR	128.3354	130.4978	um again the big crown the green crown
+9	B	MANIPULATOR	130.8124	131.3825	okay
+10	B	INSTRUCTOR	134.2723	137.6338	again eh green box and triangle
+11	A	INSTRUCTOR	141.7424	149.2323	um it's green and it's a bit like a profile but not really it has a
+11	B	MANIPULATOR	149.3896	151.1195	does it tha- spike on the bottom
+11	A	INSTRUCTOR	151.2178	153.3802	it has a spike on the bottom yeah and under it
+11	B	MANIPULATOR	154.9529	155.7392	BREATH
+12	B	INSTRUCTOR	158.1572	162.1872	okay it's like a bird profile and it's tilt like tilt
+12	A	MANIPULATOR	162.1675	163.8385	okay like b- blue right
+12	B	INSTRUCTOR	164.0154	166.4137	ah yeah green blue yeah
+12	A	MANIPULATOR	165.2342	165.5291	yeah
+13	A	INSTRUCTOR	169.8933	173.4908	um the one you usually have with the triangle at the bottom the green
+13	B	MANIPULATOR	173.2352	173.8839	okay
+14	B	INSTRUCTOR	178.543	183.7328	BREATH okay the one with the the green one with the bottom spike and the side spike that we just had
+15	A	INSTRUCTOR	187.4089	193.4244	um it's small orange and it it's two triangles one big one facing down and one's mel-
+15	B	MANIPULATOR	193.8765	194.6825	hmm okay
+15	B	MANIPULATOR	195.5082	198.2014	oh I had two of those that's interesting
+15	A	INSTRUCTOR	198.5945	199.9117	ah yeah I also have two actually
+15	B	MANIPULATOR	200.4621	200.9929	huh
+15	A	INSTRUCTOR	202.1724	203.3126	ah it's getting complicated
+15	B	MANIPULATOR	203.2929	205.5929	yeah LAUGHTER
+15	A	INSTRUCTOR	204.1579	205.357	LAUGHTER
+16	B	INSTRUCTOR	206.7331	212.8272	okay so this is eh the it's blue but it's the same shape as the green one with the box and the triangle
+16	A	MANIPULATOR	212.9255	213.7315	okay got it
+16	B	INSTRUCTOR	214.6948	215.9726	BREATH
+17	A	INSTRUCTOR	217.8008	224.6812	ah the one that you described as a Native American missing LAUGHTER
+17	B	MANIPULATOR	222.3026	224.3274	LAUGHTER
+17	B	MANIPULATOR	224.6812	225.8607	GROAN
+18	B	INSTRUCTOR	226.2736	230.6377	okay the one that's the blue man's profile kind of that's small
+18	A	MANIPULATOR	229.8907	230.9719	mm-hmm
+18	B	INSTRUCTOR	231.2471	232.3284	hmm okay
+19	A	INSTRUCTOR	235.9834	242.2435	um so this maybe looks like the head of a rabbit like two big ears it's a red an- red sorry pink
+19	A	INSTRUCTOR	242.749	252.0009	um it has like two triangles that look a bit like the ears and then one triangle with a base on the bottom
+19	A	INSTRUCTOR	252.5476	253.441	there's two of them
+19	A	INSTRUCTOR	253.9289	255.6335	they're small kind of fuchsia
+19	A	INSTRUCTOR	256.333	257.1089	um
+19	A	INSTRUCTOR	257.8907	260.145	then you might say
+19	A	INSTRUCTOR	260.2629	260.6365	okay
+19	B	MANIPULATOR	260.7544	261.3638	is that it
+19	A	INSTRUCTOR	263.2707	266.534	um I gue- waiting for the other play- no I guess no
+19	B	MANIPULATOR	266.8485	268.2836	okay is that it
+19	A	INSTRUCTOR	267.1434	269.0306	um oh yeah you got it
+19	B	MANIPULATOR	268.6767	269.1682	okay
+19	B	MANIPULATOR	269.8562	271.9007	you have to pick the right one LAUGHTER
+20	A	MANIPULATOR	271.0161	272.6477	LAUGHTER
+20	B	INSTRUCTOR	272.5101	277.6213	okay so this one is yellow and it's like an M shaped it's one of the bigger shapes
+20	A	MANIPULATOR	276.5794	277.0316	got it
+20	B	INSTRUCTOR	278.5649	278.8795	CLICK
+21	B	MANIPULATOR	279.6068	280.3145	okay
+21	A	INSTRUCTOR	282.3	285.4257	um again the Amerindian thing
+21	B	MANIPULATOR	285.9172	286.6838	okay
+22	B	INSTRUCTOR	290.3796	294.5865	CLICK 'kay it's the blue profile blue man's profile
+22	A	MANIPULATOR	293.407	293.8002	okay
+23	B	MANIPULATOR	298.4789	298.6361	CLICK
+23	A	INSTRUCTOR	298.7344	302.0764	um it's one of the little orange double triangles
+23	B	MANIPULATOR	302.273	302.902	okay
+23	A	INSTRUCTOR	302.4302	302.8824	it's
+23	A	INSTRUCTOR	304.7303	308.6619	for m- mm for me it's on the left I don't know if you have the same screen
+23	B	MANIPULATOR	307.3055	309.5662	lower left I don't know and
+23	A	INSTRUCTOR	309.9987	310.3526	hmm
+23	B	MANIPULATOR	310.038	310.8244	okay
+24	B	INSTRUCTOR	313.5372	315.1492	eh it's a big blue V
+24	A	MANIPULATOR	316.1518	316.6826	okay
+25	A	INSTRUCTOR	321.1647	322.3442	the big green crown
+25	B	MANIPULATOR	322.7177	323.1502	'kay
+26	B	INSTRUCTOR	327.1998	330.64	uh the green blue bird profile
+27	A	INSTRUCTOR	336.3803	342.0222	um the one that I said looks a bit like a rabbit with the ears on top this one's at the very bottom
+27	B	MANIPULATOR	341.9829	342.9462	okay
+28	B	INSTRUCTOR	346.7403	353.0309	um the yellow shape that's uh it's just like a diagonal kind of
+28	A	MANIPULATOR	352.7164	353.1096	got it
+28	B	INSTRUCTOR	353.2668	353.6207	yeah
+29	A	INSTRUCTOR	356.7267	359.1251	uh the bird blue profile
+29	B	MANIPULATOR	359.6951	360.3046	okay
+30	B	INSTRUCTOR	363.3123	366.7525	CLICK the one that you said th- looks like a rabbit that's on the top
+31	A	INSTRUCTOR	372.3694	376.4024	um it looks like a a yel- a small pink mountain ridge
+31	A	INSTRUCTOR	376.8073	377.768	one big triangle and
+31	B	MANIPULATOR	378.0364	378.6655	got it
+31	A	INSTRUCTOR	382.145	384.4058	oh it's again so
+31	B	MANIPULATOR	384.6613	385.4673	oh yeah
+31	A	INSTRUCTOR	385.5263	393.8418	mm this like one big spike in the middle two smallers on the side and it's at the bottom right for me although I don't see another one it's pink
+31	B	MANIPULATOR	393.1341	395.2179	oh that one sorry there it is
+31	B	MANIPULATOR	395.7342	395.9327	yeah
+31	B	MANIPULATOR	396.2185	397.0124	I picked the wrong one
+32	B	INSTRUCTOR	397.1156	397.9016	I picked it BREATH
+32	A	MANIPULATOR	397.1641	397.7349	uh nose
+32	B	INSTRUCTOR	397.9969	403.8086	ah I picked this one which is like in the middle of the screen it's pink and also kind of looks like a mountain ridge LAUGHTER
+32	A	MANIPULATOR	401.5872	407.2685	ah yeah LAUGHTER I think that looks like a Chinese thing LAUGHTER
+32	B	INSTRUCTOR	405.971	406.7574	maybe
+32	B	INSTRUCTOR	409.5882	420.6165	GROAN so it's still on me so it's eh pink it's got a spike and then on each side it's symmetrical it has two spikes on each side and it's missing two little triangles on the bottom
+32	A	MANIPULATOR	420.302	420.8328	got it
+33	A	INSTRUCTOR	425.0986	426.9072	ah the diagonal yellow shape
+33	B	MANIPULATOR	427.3987	427.9884	okay
+34	B	INSTRUCTOR	431.4287	433.4731	so the blue bird
+35	A	INSTRUCTOR	438.2894	444.2066	um it's small orange and it looks like an arrow pointing towards the left top
+35	A	INSTRUCTOR	444.934	445.4648	uh
+35	A	INSTRUCTOR	447.1357	447.3716	yeah
+36	B	INSTRUCTOR	449.534	453.8982	ah the big light blue that we haven't messed around with yet that's kind of house shaped
+36	A	MANIPULATOR	453.7213	454.2914	house shape
+36	B	INSTRUCTOR	454.3897	454.7239	yeah
+37	A	INSTRUCTOR	457.7316	464.368	CLICK um the pink that you described as symmetrical that has one speck and that you described as symmetrical that has one speck and
+37	B	MANIPULATOR	464.6513	465.2804	okay
+38	B	INSTRUCTOR	468.3864	475.3582	ah the blue aren't blue yellow highlighter one or the diagonal LAUGHTER it also looks like a highlighter
+38	A	MANIPULATOR	473.419	476.0532	okay LAUGHTER yeah
+38	B	INSTRUCTOR	476.2301	476.8002	ah
+39	A	INSTRUCTOR	478.7268	480.2798	um the M shaped yellow
+39	B	MANIPULATOR	480.7319	481.1251	okay
+40	B	INSTRUCTOR	485.8234	488.6149	ah the Native American one LAUGHTER
+40	A	MANIPULATOR	487.6713	489.4321	LAUGHTER
+41	A	INSTRUCTOR	492.6253	496.8823	um the rectangle plus the triangle but blue
+41	B	MANIPULATOR	497.186	497.6185	'kay
+42	B	INSTRUCTOR	501.5109	504.6365	eh the one that you call a rabbit but the one that's on the bottom
+42	A	MANIPULATOR	503.1032	503.8109	LAUGHTER
+42	A	MANIPULATOR	504.8135	505.1083	okay
+43	A	INSTRUCTOR	509.6494	511.0845	eh the diagonal yellow
+43	B	MANIPULATOR	511.3597	511.9298	'kay
+43	B	MANIPULATOR	514.1119	516.4906	by the way I don't know where you came up with the rabbit
+44	A	MANIPULATOR	516.1957	517.3752	LAUGHTER
+44	B	INSTRUCTOR	516.6478	518.2008	yellow M
+44	A	MANIPULATOR	518.5547	519.1838	LAUGHTER
+44	B	INSTRUCTOR	518.6137	519.0461	LAUGHTER
+45	A	INSTRUCTOR	521.8376	526.8505	vivid imagination the m- small pink mountain range eh that has three specks
+45	B	MANIPULATOR	526.8702	527.2634	'kay
+46	B	INSTRUCTOR	530.0155	531.0378	ah the blue bird
+47	A	INSTRUCTOR	536.2276	538.449	the rectangle triangle green
+47	B	MANIPULATOR	539.0792	539.3752	'kay
+48	B	INSTRUCTOR	542.8536	547.2078	CLICK ah the big green bottom points in the upper left corner
+48	A	MANIPULATOR	547.0844	547.4915	got it
+49	A	INSTRUCTOR	551.4262	552.0183	yellow M
+49	B	MANIPULATOR	553.5231	553.8192	NOISE
+50	B	INSTRUCTOR	556.5821	559.0367	CLICK eh the mountain ridge the pink one
+50	A	MANIPULATOR	559.4684	559.7521	mm-hmm
+51	A	INSTRUCTOR	563.9089	565.8948	arrow orange facing up
+51	B	MANIPULATOR	566.7952	566.9926	'kay
+51	B	MANIPULATOR	567.745	568.2754	oh up
+51	A	INSTRUCTOR	568.8428	569.5459	you got it yeah
+51	B	MANIPULATOR	568.9168	570.249	yeah okay LAUGHTER
+52	B	INSTRUCTOR	571.0507	572.8392	uh the big blue house shaped one
+53	A	INSTRUCTOR	576.996	578.7476	eh blue profile of a man
+54	B	INSTRUCTOR	582.892	583.0277	CLICK
+54	B	INSTRUCTOR	583.4471	587.0981	uh the orange sort of arrow thing in the lower right
+54	A	MANIPULATOR	587.7765	588.8373	alright 'kay
+55	A	INSTRUCTOR	593.4628	598.5694	um the green double speck spike on the bottom undefine-
+55	B	MANIPULATOR	598.3104	598.5201	'kay
+55	B	MANIPULATOR	599.0751	600.5429	undefined cool LAUGHTER
+55	A	INSTRUCTOR	599.9139	601.7887	LAUGHTER
+56	B	INSTRUCTOR	601.9861	602.7262	yellow M
+57	A	INSTRUCTOR	607.9067	608.8318	diagonal yellow
+58	B	INSTRUCTOR	614.7278	615.4186	ah the blue bird
+59	A	INSTRUCTOR	620.2538	621.1049	diagonal yellow
+60	B	INSTRUCTOR	625.8167	626.4581	the blue bird
+60	B	INSTRUCTOR	627.4819	628.7894	BREATH LAUGHTER
+60	A	MANIPULATOR	627.9876	628.9497	LAUGHTER
+61	A	INSTRUCTOR	631.9717	633.8836	eh rectangle triangle green
+61	B	MANIPULATOR	634.2783	634.71	'kay
+62	B	INSTRUCTOR	638.8051	640.0509	ah the mountain ridge
+63	A	INSTRUCTOR	644.4421	644.9108	blue bird
+64	B	INSTRUCTOR	649.968	652.0402	uh rectangle triangle green
+64	A	MANIPULATOR	654.4208	655.2226	LAUGHTER
+65	A	INSTRUCTOR	657.4675	662.1053	um double triangle on the bottom when shipping dow- like
+66	B	INSTRUCTOR	665.0287	666.4965	eh the undefinable green
+66	A	MANIPULATOR	666.7432	667.841	LAUGHTER
+66	B	INSTRUCTOR	666.9159	667.767	mass
+67	A	INSTRUCTOR	671.3687	675.0444	eh arrow towards the top left
+67	B	MANIPULATOR	675.4268	675.6242	'kay
+67	B	MANIPULATOR	676.4753	677.0797	NOISE
+68	B	INSTRUCTOR	678.6338	679.6083	the big blue house
+69	A	INSTRUCTOR	684.1968	685.7016	um blue W
+70	B	INSTRUCTOR	690.6231	694.2865	CLICK uh the lower of the two orange arrow things
+70	A	MANIPULATOR	693.8672	694.1755	mm
+71	A	INSTRUCTOR	698.4187	699.1587	blue W
+72	B	INSTRUCTOR	704.327	706.2018	the lower of the two orange arrow thing
+73	A	INSTRUCTOR	710.3586	712.2828	the top orange th- things
+73	B	MANIPULATOR	712.7392	713.3436	'kay
+74	B	INSTRUCTOR	715.9832	717.9938	the eh green undefinable mass
+74	A	MANIPULATOR	718.0061	718.9682	LAUGHTER
+74	B	INSTRUCTOR	718.1665	718.7215	BREATH LAUGHTER
+75	A	INSTRUCTOR	721.7682	722.459	yellow M
+75	B	MANIPULATOR	723.236	723.8034	'kay
+76	B	INSTRUCTOR	727.1338	728.1946	eh yellow dactyl
+77	A	INSTRUCTOR	733.5848	735.6077	uh arrow towards the top left
+77	B	MANIPULATOR	736.0271	736.4218	'kay
+78	B	INSTRUCTOR	739.9619	741.2817	CLICK the big blue house
+79	A	INSTRUCTOR	745.1794	746.1909	uh bottom rabbit
+79	B	MANIPULATOR	746.9433	748.8182	bottom rabbit LAUGHTER
+79	A	INSTRUCTOR	747.9794	748.9168	LAUGHTER
+79	B	MANIPULATOR	749.4842	750.064	BREATH
+80	B	INSTRUCTOR	751.5565	753.0366	uh blue man
+81	A	INSTRUCTOR	757.7978	759.4013	uh big green crown
+81	B	MANIPULATOR	759.722	759.9811	'kay
+82	B	INSTRUCTOR	763.9652	765.5687	CLICK uh top rabbit
+82	A	MANIPULATOR	765.8524	766.6048	LAUGHTER
+82	B	INSTRUCTOR	765.9017	767.7396	BREATH LAUGHTER
+82	A	MANIPULATOR	767.6779	767.8136	BREATH
+83	A	INSTRUCTOR	770.7739	772.2171	yellow bird at the bottom
+83	B	MANIPULATOR	772.7228	773.4629	okay BREATH
+84	B	INSTRUCTOR	775.9668	779.4205	uh the big blue V purple ap- V yeah
+85	A	INSTRUCTOR	782.3315	783.3306	uh undefined
+85	B	MANIPULATOR	783.5526	784.0707	'kay
+85	A	INSTRUCTOR	784.2187	785.7729	BREATH LAUGHTER
+85	B	MANIPULATOR	784.5147	785.5879	BREATH LAUGHTER
+86	B	INSTRUCTOR	787.3641	788.3632	the eh yellow M
+87	A	INSTRUCTOR	793.5684	796.9358	uh the bottom littl- orange double triangle
+87	B	MANIPULATOR	797.1701	797.6018	'kay
+88	B	INSTRUCTOR	802.2397	803.4238	the yellow diagonal
+89	A	INSTRUCTOR	808.222	808.8881	undefined
+89	B	MANIPULATOR	810.1832	810.8616	LAUGHTER
+89	A	INSTRUCTOR	810.5286	811.133	LAUGHTER
+90	B	INSTRUCTOR	813.7726	814.71	the yellow M
+91	A	INSTRUCTOR	819.1629	820.1373	the blue house
+92	B	INSTRUCTOR	824.7135	826.2676	uh the lower rabbit
+93	A	INSTRUCTOR	831.5222	833.7178	CLICK top ridge mountains pink
+93	B	MANIPULATOR	834.0015	834.4085	'kay
+94	B	INSTRUCTOR	837.8006	838.6517	uh the blue bird
+95	A	INSTRUCTOR	845.004	846.1882	um right rabbit
+95	B	MANIPULATOR	847.36	848.211	right rabbit
+96	B	INSTRUCTOR	853.2313	854.8224	CLICK the yellow bird
+97	A	INSTRUCTOR	860.0647	861.1501	uh blue W
+98	B	INSTRUCTOR	865.7016	868.4399	the upper of he two orange arrow things
+99	A	INSTRUCTOR	873.3121	873.9042	yellow M
+100	B	INSTRUCTOR	878.1473	879.2821	the big blue house
+101	A	INSTRUCTOR	884.0433	886.1525	the mountain ridge on the eh left
+101	B	MANIPULATOR	886.6583	887.09	CLICK 'kay
+102	B	INSTRUCTOR	890.445	891.5181	the blue bird
+103	A	INSTRUCTOR	896.1066	896.9824	the mountain ridge
+103	B	MANIPULATOR	897.9322	898.4502	'kay
+104	B	INSTRUCTOR	902.5947	904.9383	the blue bird BREATH LAUGHTER
+104	A	MANIPULATOR	903.7911	905.5057	LAUGHTER
+105	A	INSTRUCTOR	908.1946	908.8484	the yellow bird
+106	B	INSTRUCTOR	914.1153	914.9787	the blue W
+107	A	INSTRUCTOR	920.1223	920.8747	undefined
+108	B	INSTRUCTOR	926.4862	928.5307	the left rabbit

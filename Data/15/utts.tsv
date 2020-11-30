@@ -1,0 +1,154 @@
+ROUND	SPEAKER	DIALOGUE_ROLE	START_TIME	END_TIME	TOKENS
+0	B	MANIPULATOR	2.4723	3.4694	I think mine i-
+0	B	MANIPULATOR	3.5787	5.211	I still have the Skype thing
+1	B	MANIPULATOR	11.0145	12.4335	did it start for you
+1	A	INSTRUCTOR	12.5523	15.0526	uh yeah the game's on I just
+1	B	MANIPULATOR	15.1668	15.3867	okay
+1	A	INSTRUCTOR	16.3933	16.7317	okay
+1	B	MANIPULATOR	17.4339	18.6503	ah yeah I think it's recording
+1	A	INSTRUCTOR	19.8503	21.6072	okay LAUGHTER
+1	A	INSTRUCTOR	21.8114	32.9477	um so mm this time it's the CLICK lower right the red one take the one on the bottom
+1	B	MANIPULATOR	28.0584	28.2336	mm
+1	B	MANIPULATOR	34.9225	35.4589	the
+1	A	INSTRUCTOR	36.013	37.9289	pink red the
+1	B	MANIPULATOR	37.4952	38.8746	oh the pink one with the four
+1	A	INSTRUCTOR	39.2207	43.0851	yeah the edgy yeah looks more like a wing
+1	A	INSTRUCTOR	43.5997	44.5083	yep it's the right one
+2	B	INSTRUCTOR	48.9134	55.7994	okay so on the top right it's the light blue um Batman wings
+2	A	MANIPULATOR	57.7996	58.0195	COUGH
+3	A	INSTRUCTOR	61.2361	69.4796	um on the upper left the green cathedral LAUGHTER or whatever
+3	B	MANIPULATOR	66.8783	67.3162	LAUGHTER
+4	B	INSTRUCTOR	72.3958	77.0813	okay on the top right it's the purple V
+5	A	INSTRUCTOR	82.5757	86.509	um the lower right the little blue Batman
+5	B	MANIPULATOR	87.135	87.4818	SNIFF
+5	A	INSTRUCTOR	87.5664	87.8117	LAUGHTER
+6	B	INSTRUCTOR	91.8212	91.9143	CLICK
+6	B	INSTRUCTOR	92.5064	96.8635	in the top right the green the big green cathedral
+7	A	INSTRUCTOR	101.3459	107.8396	em it's the lower middle right the red one
+7	B	MANIPULATOR	109.2998	111.4127	the big kind of trapezoid one
+7	A	INSTRUCTOR	111.3099	111.9558	yeah mm-hmm
+8	B	INSTRUCTOR	117.6309	123.7505	okay on the top right it's the pink one that's like a block on a triangle
+9	A	INSTRUCTOR	129.2772	134.8033	um the lower left the red pinky one again
+9	B	MANIPULATOR	136.1321	137.5444	the the four winged one
+9	A	INSTRUCTOR	137.4315	138.3197	yeah exactly
+10	B	INSTRUCTOR	143.4341	146.8607	in the top left the purple V again
+11	A	INSTRUCTOR	154.1378	159.1286	um in the upper right the little mountain the green
+12	B	INSTRUCTOR	164.4424	171.8319	in the bottom right the small purple cup jagged cup thing
+12	A	MANIPULATOR	173.0265	174.9806	uh which one in the lower right
+12	B	INSTRUCTOR	174.7659	178.4114	the lower right yeah the really small purple one
+12	A	MANIPULATOR	179.2611	180.9689	ah the crabs thing
+12	B	INSTRUCTOR	181.3782	182.2978	yeah yeah
+13	A	INSTRUCTOR	186.158	189.5955	in um the bottom the right green one
+14	B	INSTRUCTOR	198.5438	203.3717	in the top right the red trapezoid
+14	A	MANIPULATOR	200.501	200.6702	COUGH
+15	A	INSTRUCTOR	210.0783	213.888	in the upper left the pink V
+15	A	INSTRUCTOR	215.8031	216.2089	maybe
+15	B	MANIPULATOR	217.4502	220.9096	the the the one right below the two blue men
+15	A	INSTRUCTOR	220.9461	221.2666	mm-hmm
+16	B	INSTRUCTOR	227.4781	227.7408	oh
+16	B	INSTRUCTOR	230.2806	231.3425	oh wait no that's not it
+16	B	INSTRUCTOR	231.3863	237.0352	um in the bottom left the most bottom green cathedral
+17	A	INSTRUCTOR	242.4402	246.6429	um in the upper left the small green mountain
+18	A	MANIPULATOR	251.7703	251.838	NOISE
+18	B	INSTRUCTOR	251.7788	251.8634	CLICK
+18	B	INSTRUCTOR	252.447	256.7736	in the bottom right the small purple crab
+19	A	INSTRUCTOR	263.139	267.268	in the upper middle the small blue men
+19	B	MANIPULATOR	268.1383	268.299	SNIFF
+19	A	INSTRUCTOR	268.8742	275.2159	LAUGHTER with the big nose LAUGHTER
+19	B	MANIPULATOR	271.3557	275.7018	yeah LAUGHTER
+20	B	INSTRUCTOR	276.5887	282.7848	um in the top middle it's like a blue penguin
+20	A	MANIPULATOR	283.0597	283.305	mm-hmm
+20	A	MANIPULATOR	284.6246	284.8023	COUGH
+21	A	INSTRUCTOR	290.2249	294.0456	in the upper right the purple little crab
+22	B	INSTRUCTOR	299.6814	299.766	CLICK
+22	B	INSTRUCTOR	300.3556	308.3254	in the it's kind of the middle right the small blue man with the big nose
+22	A	MANIPULATOR	308.5464	310.5544	LAUGHTER
+23	A	INSTRUCTOR	314.789	321.8522	um in the m- middle left the big magenta pink one
+24	B	INSTRUCTOR	327.3193	333.833	in the middle right um the dark blue crab
+25	A	INSTRUCTOR	339.5402	344.9799	in the l- lower left the big green cathedral
+26	B	INSTRUCTOR	349.039	353.3077	in the bottom right the red trapezoid
+27	A	INSTRUCTOR	359.7057	368.6644	in the lower middle the blue big one that looks like something with wings
+28	B	INSTRUCTOR	373.5698	377.2287	in the top left the big blue man
+29	A	INSTRUCTOR	381.7736	384.9496	in the upper right the purple V
+30	B	INSTRUCTOR	391.1135	401.3234	in the upper right but kind of in the middle it's almost like a a pink V but with a point below the blue man
+31	A	INSTRUCTOR	405.4175	411.2694	in the upper right the yellow chicken LAUGHTER something
+31	B	MANIPULATOR	410.7889	416.2524	LAUGHTER I kind of thought it was toilet but
+31	A	INSTRUCTOR	411.7701	413.0263	LAUGHTER
+31	A	INSTRUCTOR	413.1828	413.2674	LAUGHTER
+31	A	INSTRUCTOR	414.1075	421.8784	LAUGHTER oh that LAUGHTER that could be too LAUGHTER
+32	B	INSTRUCTOR	417.0062	417.3784	BREATH
+32	B	INSTRUCTOR	419.9013	421.3542	BREATH
+32	B	INSTRUCTOR	423.6179	442.4709	oh in the um middle left it's like a red almost a wolf or like an animal um so it's above the pink house but it's a red
+32	A	MANIPULATOR	443.4064	446.0371	oh like a s- ti- the tiny red
+32	B	INSTRUCTOR	446.6208	448.5863	yeah the small red one yeah
+33	A	INSTRUCTOR	451.5607	457.998	um CLICK same area but the little light blue one above
+33	B	MANIPULATOR	457.8034	457.9641	mm
+34	B	INSTRUCTOR	463.3271	469.3313	the very right middle the pink square on the triangle
+35	A	INSTRUCTOR	473.427	478.5388	in the lower left the orange CLICK temple thing
+36	B	INSTRUCTOR	483.493	490.0656	um CLICK the pink house right by the orange temple in the lower left
+36	B	INSTRUCTOR	491.1906	491.3936	'kay
+37	A	INSTRUCTOR	496.562	504.2505	um the middle right area the pink square and the triangle
+38	B	INSTRUCTOR	509.0304	511.2268	the orange temple on the bottom left
+39	A	INSTRUCTOR	515.3323	519.0204	uh in the middle the red winged one
+40	B	INSTRUCTOR	524.4764	527.3778	the top green cathedral
+41	A	INSTRUCTOR	532.3262	536.6064	in the l- upper left the blue crabs
+41	A	INSTRUCTOR	538.3658	538.5096	GROAN
+41	A	INSTRUCTOR	538.755	538.9749	COUGH
+42	B	INSTRUCTOR	541.005	541.1319	CLICK
+42	B	INSTRUCTOR	541.6817	543.831	the left green cathedral
+43	A	INSTRUCTOR	548.305	550.7327	the lower blue penguin
+44	B	INSTRUCTOR	558.2104	562.516	the s- middle bottom small purple crab
+45	A	INSTRUCTOR	568.7586	572.083	um middle left the red winged one
+46	B	INSTRUCTOR	578.6048	582.0391	the middle center green cathedral
+47	A	INSTRUCTOR	586.2431	589.1903	mm the upper left the blue crabs
+48	B	INSTRUCTOR	594.5582	596.7748	the top left green cathedral
+48	B	INSTRUCTOR	597.6711	602.5861	I keep getting the damn green cathedral LAUGHTER
+48	A	MANIPULATOR	599.3629	602.535	LAUGHTER
+49	A	INSTRUCTOR	602.5942	609.3555	in the upper right the triangular squared thing pink
+49	A	INSTRUCTOR	610.6893	613.406	LAUGHTER what an explanation
+49	B	MANIPULATOR	611.6029	615.5532	LAUGHTER LAUGHTER BREATH
+50	A	MANIPULATOR	613.7345	615.2487	LAUGHTER LAUGHTER
+50	A	MANIPULATOR	615.4348	616.6246	looks like a computer
+50	A	MANIPULATOR	616.8559	616.9912	mm
+50	B	INSTRUCTOR	617.338	618.2272	yeah that's a good one
+50	B	INSTRUCTOR	618.687	621.3137	the orange temple top right
+51	A	INSTRUCTOR	624.9764	627.4626	and the computer again in the upper left
+51	B	MANIPULATOR	627.2941	629.6126	LAUGHTER LAUGHTER
+51	A	INSTRUCTOR	627.5283	630.0856	LAUGHTER
+52	B	INSTRUCTOR	631.4728	633.5537	the orange temple again top left
+53	A	INSTRUCTOR	636.6835	639.8114	and the blue man in the right oh upper right
+54	B	INSTRUCTOR	644.6348	646.9315	the bottom right purple V
+55	A	INSTRUCTOR	651.0213	654.9408	and the computer again middle left LAUGHTER
+55	B	MANIPULATOR	653.4152	653.8381	LAUGHTER
+55	A	INSTRUCTOR	655.6906	655.8006	COUGH
+56	A	MANIPULATOR	656.0543	656.3419	COUGH
+56	B	INSTRUCTOR	656.4604	656.5619	CLICK
+56	B	INSTRUCTOR	656.828	659.1051	orange temple again top right
+56	A	MANIPULATOR	659.0572	659.4379	SNIFF
+56	A	MANIPULATOR	659.8862	660.0892	SNIFF
+56	B	INSTRUCTOR	659.9623	660.1738	LAUGHTER
+57	A	INSTRUCTOR	662.0432	666.8056	and the the V in the upper left
+57	A	INSTRUCTOR	667.9222	668.2968	pink
+58	B	INSTRUCTOR	672.5069	675.3293	the yellow chicken and or toilet
+58	A	MANIPULATOR	675.7212	677.6241	LAUGHTER
+59	A	INSTRUCTOR	680.712	685.1778	and the light blue Batman thing in the upper right
+60	B	INSTRUCTOR	692.1484	696.2171	the bottom left pink house I guess
+61	A	INSTRUCTOR	699.1693	699.2792	CLICK
+61	A	INSTRUCTOR	699.4992	700.9641	and the toilet in the upper right
+62	B	INSTRUCTOR	705.8095	709.7264	uh left small blue Batman
+63	A	INSTRUCTOR	713.1434	714.9959	and the blue man in the lower left
+64	B	INSTRUCTOR	719.8005	722.513	the big purple V bottom right
+65	A	INSTRUCTOR	728.0902	732.1426	um bottom right the red big
+65	A	INSTRUCTOR	732.9118	733.0302	oh
+66	B	INSTRUCTOR	739.2898	744.8642	um bottom left the big blue like winged
+67	A	INSTRUCTOR	749.0513	752.1984	and the same red thing in the bottom right again
+68	B	INSTRUCTOR	756.1399	760.2932	same big blue wings in the right
+69	A	INSTRUCTOR	764.2012	767.6863	um small light blue in the upper right
+70	B	INSTRUCTOR	772.5924	775.6741	the big man in the middle right
+71	A	INSTRUCTOR	780.1547	784.2318	bottom left red squared thing
+71	A	INSTRUCTOR	784.6906	785.1285	don't know
+72	B	INSTRUCTOR	788.419	788.4867	CLICK
+72	B	INSTRUCTOR	789.0788	791.7888	in the centerish the big blue winged
+72	B	INSTRUCTOR	792.4019	793.1244	kind of to the yeah
+73	A	INSTRUCTOR	795.6683	798.2217	and the pink house in the upper left
+73	B	MANIPULATOR	797.8168	798.0706	uh

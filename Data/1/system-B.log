@@ -1,0 +1,10 @@
+12:24:49.309	INFO 	LoggingModule:158	Start logging 2017-03-28 12-24-48
+12:24:49.309	INFO 	LoggingModule:158	Start logging 2017-03-28 12-24-48
+12:24:49.629	INFO 	IrisSystem:138	Initializing module GameManagementClientModule
+12:24:49.629	INFO 	IrisSystem:138	Initializing module GameManagementClientModule
+12:24:49.904	INFO 	IrisSystem:359	System started
+12:24:49.904	INFO 	IrisSystem:359	System started
+12:39:59.389	INFO 	PortAudioUtil:49	Restarting PortAudio
+12:39:59.389	INFO 	PortAudioUtil:49	Restarting PortAudio
+12:39:59.415	ERROR	Microphone:198	Microphone lost
+12:39:59.415	ERROR	Microphone:198	Microphone lost

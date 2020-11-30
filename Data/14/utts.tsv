@@ -1,0 +1,404 @@
+ROUND	SPEAKER	DIALOGUE_ROLE	START_TIME	END_TIME	TOKENS
+0	A	INSTRUCTOR	1.8959	2.3328	yes
+0	B	MANIPULATOR	3.9206	5.9904	now s- something is happening
+0	A	INSTRUCTOR	4.3681	5.7587	fantastic
+0	A	INSTRUCTOR	6.0997	7.3252	BREATH okay
+0	A	INSTRUCTOR	8.1723	10.9269	press okay to continue to the next turn
+0	B	MANIPULATOR	8.6199	10.2918	BREATH oh it's uh
+1	B	MANIPULATOR	11.6462	13.7892	very small but I can BREATH
+1	A	INSTRUCTOR	12.1044	12.488	okay
+1	A	INSTRUCTOR	13.1327	13.5217	so
+1	A	INSTRUCTOR	13.9852	17.8161	I start to tell you you have to take I because I have the selection
+1	B	MANIPULATOR	16.1218	16.3668	ah
+1	A	INSTRUCTOR	17.9439	21.3066	BREATH it's the shape to the left the yellow one
+1	B	MANIPULATOR	18.2103	20.1711	BREATH right SNIFF
+1	B	MANIPULATOR	20.7625	21.5936	BREATH
+1	A	INSTRUCTOR	22.6912	26.4155	the le- left at the in the middle of the screen there is a yellow to the left
+1	B	MANIPULATOR	23.0429	25.0782	all the way to the l- BREATH
+1	B	MANIPULATOR	26.3409	28.3416	y- yeah BREATH
+1	A	INSTRUCTOR	27.4065	28.9848	that one excellent
+1	B	MANIPULATOR	29.8148	30.8742	BREATH
+1	A	INSTRUCTOR	30.9763	31.9596	now it's your turn
+1	B	MANIPULATOR	31.5837	33.3264	okay now it's my turn
+2	B	INSTRUCTOR	33.667	39.0802	and there's a a blue s- a blue shape up at the top left corner
+2	A	MANIPULATOR	39.2934	39.709	yeah
+2	B	INSTRUCTOR	40.9877	41.6076	BREATH
+2	A	MANIPULATOR	41.0942	41.6377	okay
+2	B	INSTRUCTOR	42.9377	44.4618	okay BREATH SNIFF
+2	A	MANIPULATOR	44.6321	45.3864	good
+3	A	INSTRUCTOR	46.5768	49.374	now it's um
+3	A	INSTRUCTOR	50.3544	60.18	yeah if you see that it has columns the last column to the right the previous column has a green uh the second green one down so it's
+3	B	MANIPULATOR	54.2811	54.6381	yes
+3	B	MANIPULATOR	56.098	56.3164	yeah
+3	B	MANIPULATOR	61.1756	62.9136	oh it's kind of like light green
+3	A	INSTRUCTOR	61.2395	61.8896	um
+3	A	INSTRUCTOR	62.2092	63.9186	like a human pe- yeah
+3	B	MANIPULATOR	63.5568	65.0844	BREATH green blue
+3	A	INSTRUCTOR	64.4577	64.7987	like
+3	A	INSTRUCTOR	65.2142	72.2845	like uh GROAN green blue GROAN yeah it's it's like a person with a nose sticking out LAUGHTER
+3	B	MANIPULATOR	66.1296	66.813	BREATH
+3	B	MANIPULATOR	68.0647	70.3908	is it it's uh BREATH
+3	B	MANIPULATOR	71.6345	72.8067	yeah yeah okay I got it
+3	A	INSTRUCTOR	72.4071	74.0694	LAUGHTER that one yeah
+3	B	MANIPULATOR	72.8493	74.6342	BREATH SNIFF BREATH
+3	A	INSTRUCTOR	74.549	74.9432	BREATH
+3	A	INSTRUCTOR	75.3695	75.8597	okay
+4	B	INSTRUCTOR	77.4367	79.4721	okay oh the the one at the very top BREATH
+4	B	INSTRUCTOR	80.1594	81.0172	it's blue
+4	A	MANIPULATOR	80.2127	80.8041	okay that
+4	A	MANIPULATOR	81.3422	82.3332	yeah that one okay
+4	B	INSTRUCTOR	81.4647	81.891	it's at the
+4	A	MANIPULATOR	85.4821	85.9456	right
+5	B	MANIPULATOR	86.6596	87.3842	BREATH
+5	A	INSTRUCTOR	86.7501	89.963	now it's again the same as before the person like
+5	A	INSTRUCTOR	90.7035	91.0499	piece
+5	B	MANIPULATOR	91.8437	92.936	ah there it is
+5	A	INSTRUCTOR	92.7602	93.2237	the head
+5	A	INSTRUCTOR	93.3995	93.8258	yeah
+5	B	MANIPULATOR	93.4741	93.7991	yep
+5	B	MANIPULATOR	94.2307	94.7422	got it BREATH
+5	A	INSTRUCTOR	95.1311	95.5574	okay
+5	B	MANIPULATOR	96.5004	96.7935	BREATH
+6	B	INSTRUCTOR	97.8218	101.2264	oh and this is the same piece as you did before but it's now
+6	B	INSTRUCTOR	101.7166	102.2334	uh
+6	A	MANIPULATOR	102.3826	102.9207	yeah yeah
+6	B	INSTRUCTOR	102.7342	103.8105	uh in the second GROAN thing
+6	A	MANIPULATOR	103.0593	103.3736	okay
+7	A	INSTRUCTOR	108.334	109.6394	uh now uh
+7	A	INSTRUCTOR	110.0656	114.344	in between the two green pieces that are in the middle down of the screen
+7	B	MANIPULATOR	114.6744	114.9141	yeah
+7	A	INSTRUCTOR	115.0846	116.4699	there there it's a green
+7	A	INSTRUCTOR	116.7896	120.434	very open green and a bit darker green in the middle there's a blue one
+7	B	MANIPULATOR	120.3381	120.7856	BREATH
+7	A	INSTRUCTOR	120.6364	122.7037	triangle with a square that's the piece
+7	B	MANIPULATOR	123.5296	125.3944	triangle with a square I got it BREATH
+7	A	INSTRUCTOR	126.4333	127.1366	okay
+7	B	MANIPULATOR	127.5362	127.7813	SNIFF
+8	B	INSTRUCTOR	129.6568	131.0581	okay now it's the
+8	B	INSTRUCTOR	131.5696	134.4787	to the left of where that was there's a big
+8	B	INSTRUCTOR	135.3471	135.9758	um
+8	B	INSTRUCTOR	137.6115	140.9575	l- uh a big green light green
+8	A	MANIPULATOR	140.3501	140.8243	right
+8	A	MANIPULATOR	141.0375	141.4158	okay
+8	B	INSTRUCTOR	142.2789	142.833	BREATH
+8	A	MANIPULATOR	144.8843	145.1827	right
+9	A	INSTRUCTOR	146.8663	149.1894	at the topmost left
+9	B	MANIPULATOR	149.4451	149.6849	yeah
+9	A	INSTRUCTOR	149.5783	151.8001	that we also had before like a computer screen
+9	B	MANIPULATOR	153.0948	154.7092	ah that's a good LAUGHTER ex- LAUGHTER
+9	A	INSTRUCTOR	154.6879	154.9649	yeah
+9	B	MANIPULATOR	155.0076	156.1797	a good description
+9	A	INSTRUCTOR	156.3875	156.6966	right
+10	B	INSTRUCTOR	157.4371	157.9913	BREATH
+10	B	INSTRUCTOR	158.2257	162.1365	and now it's that uh square with a triangle which is in the s-
+10	B	INSTRUCTOR	162.2537	162.9463	uh s-
+10	A	MANIPULATOR	162.7439	163.1328	yeah
+10	A	MANIPULATOR	164.0013	165.8341	okay square with triangle yeah
+11	A	INSTRUCTOR	169.8035	171.7376	okay now it's uh the one
+11	A	INSTRUCTOR	172.1585	176.7619	to the leftmost of the screen there are two green pieces underneath is a red one that looks like a crown
+11	A	INSTRUCTOR	176.9271	177.5878	l- that one
+11	B	MANIPULATOR	177.0017	177.9181	y- yeah yeah
+11	A	INSTRUCTOR	179.378	179.9534	okay
+11	A	INSTRUCTOR	180.9391	181.8182	um yep
+12	B	INSTRUCTOR	183.6191	185.6597	okay now it's on the top row
+12	A	MANIPULATOR	186.2565	186.6188	mm
+12	B	INSTRUCTOR	186.3257	190.5615	uh and it's th- the the one with the face with the nose
+12	B	INSTRUCTOR	191.1103	193.3214	it's the next it's the next one
+12	A	MANIPULATOR	191.2329	192.2825	right the red one
+12	B	INSTRUCTOR	193.8596	194.9678	a- at the at the top
+12	A	MANIPULATOR	194.11	194.2805	uh
+12	B	INSTRUCTOR	195.2129	196.5556	it's it's a rather big
+12	A	MANIPULATOR	197.163	198.2499	ah the big green one
+12	B	INSTRUCTOR	197.163	199.1663	gre- green green
+12	A	MANIPULATOR	198.4683	199.0011	yeah okay
+12	A	MANIPULATOR	199.2888	200.2639	the big green one okay
+13	A	INSTRUCTOR	203.4607	205.869	now it's the face the green face to the left
+13	B	MANIPULATOR	203.5726	203.7164	NOISE
+13	A	INSTRUCTOR	206.5989	206.9719	up
+13	A	INSTRUCTOR	208.3199	208.9326	yes
+14	B	INSTRUCTOR	211.4474	214.1061	now it's that big green um
+14	B	INSTRUCTOR	214.7188	219.7485	uh box long rectangular box which is in the column all the way to the right
+14	A	MANIPULATOR	220.1108	220.521	oh okay
+15	A	INSTRUCTOR	224.2507	227.5647	now it's the left down uh yellow crown
+15	B	MANIPULATOR	228.8168	231.0972	left all all the way to the left
+15	B	MANIPULATOR	231.1505	231.5501	l-
+15	A	INSTRUCTOR	231.9923	233.5854	yeah yeah the corner the the
+15	B	MANIPULATOR	232.4292	232.6263	l-
+15	B	MANIPULATOR	232.962	234.1182	the corner yeah okay
+16	B	INSTRUCTOR	238.5298	238.5991	CLICK
+16	B	INSTRUCTOR	238.8601	242.9521	and now it's the opposite corner top right corner all the way up
+16	A	MANIPULATOR	243.4422	243.8259	okay
+16	B	INSTRUCTOR	243.4955	245.3124	a red looks like a rooster
+16	A	MANIPULATOR	244.5771	245.403	this uh
+16	A	MANIPULATOR	245.6427	246.4845	orange rooster
+16	B	INSTRUCTOR	246.4526	247.8752	rooster yeah BREATH SNIFF
+16	A	MANIPULATOR	246.5432	247.1079	right
+17	A	INSTRUCTOR	251.7859	255.6434	okay now it's the small yellow piece in the last uh row
+17	B	MANIPULATOR	256.0963	256.7943	the bottom row
+17	A	INSTRUCTOR	256.4107	258.414	next to the big green yeah in the bottom row
+17	B	MANIPULATOR	257.7427	257.9878	yeah
+18	B	INSTRUCTOR	263.822	265.3777	and now it's the bottom row
+18	B	INSTRUCTOR	265.7773	266.1876	uh
+18	B	INSTRUCTOR	266.7524	267.7967	a blue
+18	B	INSTRUCTOR	268.5319	269.134	triangle
+18	A	MANIPULATOR	268.6332	270.4554	that blue diamond thing yeah
+18	B	INSTRUCTOR	269.8799	271.1906	yeah with a diamond on the top
+18	B	INSTRUCTOR	271.2652	271.5316	yeah
+18	A	MANIPULATOR	271.5796	272.0005	okay
+19	A	INSTRUCTOR	275.3092	279.7954	now it's the one above the piece with the diamond like this green uh animal
+19	B	MANIPULATOR	278.9482	279.3585	okay
+19	B	MANIPULATOR	279.7847	280.147	yeah
+19	A	INSTRUCTOR	280.0085	280.1684	yeah
+19	A	INSTRUCTOR	281.4098	281.868	okay
+20	B	INSTRUCTOR	287.5051	288.3522	oh it's my turn yeah
+20	B	INSTRUCTOR	288.608	292.4441	it's uh in the middle of the top row it's a very very small
+20	B	INSTRUCTOR	292.945	293.6909	yellow
+20	A	MANIPULATOR	293.9786	295.1881	that uh golden
+20	B	INSTRUCTOR	294.2237	295.1135	almost a bird
+20	B	INSTRUCTOR	295.4758	295.7582	yeah
+20	A	MANIPULATOR	295.5824	296.7012	yeah BREATH mm-hmm
+21	A	INSTRUCTOR	299.328	301.4059	okay to the left the
+21	A	INSTRUCTOR	302.0612	303.8941	the left the first column
+21	A	INSTRUCTOR	304.2244	306.8138	in the middle is the big green piece
+21	B	MANIPULATOR	306.6593	306.9364	yeah
+22	B	INSTRUCTOR	312.387	316.5535	and now it's the second row the head with a nose
+22	A	MANIPULATOR	317.049	317.4699	okay
+22	A	MANIPULATOR	317.9707	318.5995	the green one
+22	B	INSTRUCTOR	318.6794	318.9191	yeah
+22	A	MANIPULATOR	319.6118	319.7876	yeah
+23	A	INSTRUCTOR	322.7447	325.0037	now it's the computer screen to the first column
+23	A	INSTRUCTOR	325.6271	326.2505	second row
+24	B	INSTRUCTOR	331.6531	336.491	and now it's the CLICK third row
+24	B	INSTRUCTOR	337.0398	338.3558	and it's a orange
+24	A	MANIPULATOR	337.0611	337.4607	yeah
+24	A	MANIPULATOR	338.7447	339.7198	the orange thing yeah
+24	B	INSTRUCTOR	339.1443	339.8103	uh yeah
+24	B	INSTRUCTOR	341.3235	341.4993	SNIFF
+25	A	INSTRUCTOR	342.8367	345.0904	now it's the first row the second green piece
+25	A	INSTRUCTOR	348.5536	348.9639	right
+26	B	INSTRUCTOR	351.1377	354.6969	now it's the first column the head with a nose
+26	A	MANIPULATOR	355.3202	355.8477	right
+27	A	INSTRUCTOR	359.1884	362.5664	now it's the little uh what is it called uh
+27	A	INSTRUCTOR	363.4668	367.4948	CLICK the b- the uh the thing that flies in the dark LAUGHTER the purple one LAUGHTER
+27	B	MANIPULATOR	366.9354	368.1715	oh a ba- a bat
+27	A	INSTRUCTOR	368.6137	369.349	the bat LAUGHTER
+27	B	MANIPULATOR	369.5408	369.9617	ah
+27	A	INSTRUCTOR	369.9137	370.2174	BREATH
+27	B	MANIPULATOR	370.2973	374.7889	yeah yeah i- in the in the middle of the screen
+27	A	INSTRUCTOR	374.2028	374.9061	yeah yeah yeah
+27	A	INSTRUCTOR	376.7869	377.0426	right
+27	B	MANIPULATOR	377.4849	378.0816	BREATH SNIFF
+28	B	INSTRUCTOR	380.5645	385.3064	and now it's the bottom row to the right a big it looks like three mountains
+28	A	MANIPULATOR	385.8712	386.9688	right the green
+28	B	INSTRUCTOR	387.0114	387.347	yeah
+28	A	MANIPULATOR	387.3098	388.3647	three mountains yeah
+29	A	INSTRUCTOR	391.5402	393.1066	now it's the bat again
+29	B	MANIPULATOR	394.135	394.7583	okay
+30	B	INSTRUCTOR	400.0597	402.4467	now it's the three mountains again on the top row
+30	A	MANIPULATOR	403.1664	404.4528	okay
+30	B	INSTRUCTOR	403.6402	404.0131	green
+30	A	MANIPULATOR	404.6136	405.0156	yeah
+31	A	INSTRUCTOR	408.8243	410.6034	now it's the big blue V
+31	A	INSTRUCTOR	413.9979	414.2856	yeah
+32	B	INSTRUCTOR	416.9123	423.3066	and now it's uh below the V a little bit to the right is a looks like a
+32	A	MANIPULATOR	421.98	424.794	yeah this light blue thing
+32	B	INSTRUCTOR	424.1106	427.0452	yeah looks like a Thai a Thai um
+32	B	INSTRUCTOR	428.3316	430.7034	a temple or something
+32	A	MANIPULATOR	430.9517	431.2607	yeah
+32	B	INSTRUCTOR	432.2464	432.4382	NOISE
+33	A	INSTRUCTOR	433.5624	437.0952	okay now it's the golden bird next to the three green mountains
+33	A	INSTRUCTOR	438.9331	439.5876	yes
+34	B	INSTRUCTOR	442.8225	452.0898	and now it's the uh the last column to the right and it's the f- the purple computer screen
+34	A	MANIPULATOR	448.9391	449.316	mm
+34	A	MANIPULATOR	452.0986	453.2958	the purple computer screen
+35	A	INSTRUCTOR	457.2455	460.8936	uh now it's the red face to all the way to the right the second row
+35	B	MANIPULATOR	461.6837	462.2604	got it
+35	A	INSTRUCTOR	462.1739	462.4614	yes
+35	B	MANIPULATOR	462.6375	462.8453	SNIFF
+36	B	INSTRUCTOR	464.8332	469.7778	and now it's y- where that face was but now it looks it's kind of like a
+36	B	INSTRUCTOR	470.7148	472.1094	uh uh uh
+36	A	MANIPULATOR	472.4837	473.3556	light green thing
+36	B	INSTRUCTOR	472.833	474.642	light green with wings
+36	A	MANIPULATOR	474.6149	475.044	okay
+37	A	INSTRUCTOR	478.5012	485.1342	now it's the blue diamond in the middle to all the way to the bottom in the middle of the bottom row
+37	A	INSTRUCTOR	485.6166	486.0186	yes
+38	B	INSTRUCTOR	489.1944	500.2494	and now it's eh eh if you that diamond is now on the second row it's next to that the big green a- animal dinosaur thing
+38	A	MANIPULATOR	494.3802	494.943	yeah
+38	A	MANIPULATOR	497.5962	498.2796	the big green
+38	A	MANIPULATOR	499.0836	499.566	yeah
+38	A	MANIPULATOR	500.4906	500.9328	yeah
+38	B	INSTRUCTOR	501.9378	503.2242	SNIFF BREATH
+39	A	INSTRUCTOR	503.787	507.606	okay now it's the rooster all the way down left
+39	B	MANIPULATOR	506.8824	508.0884	down to the left
+40	B	INSTRUCTOR	512.9288	518.862	and now it's uh where the rooster was but it's just a yellow box
+40	A	MANIPULATOR	517.5695	518.1384	the yellow
+41	A	INSTRUCTOR	522.6151	524.7714	the computer screen the purple one in the
+41	B	MANIPULATOR	526.0517	526.6608	in the middle
+41	A	INSTRUCTOR	526.3794	526.7814	yeah
+41	A	INSTRUCTOR	527.1173	528.3894	in the middle sort of
+42	B	INSTRUCTOR	531.2785	534.1782	and now it's the red head with a nose
+42	A	MANIPULATOR	534.5126	535.2234	the red head
+43	A	INSTRUCTOR	539.5476	544.0871	now it's next to the red head the V with a diamond the red one
+43	B	MANIPULATOR	544.0391	544.2896	right
+43	A	INSTRUCTOR	544.4121	544.817	yes
+44	B	INSTRUCTOR	547.6302	549.6922	and now it's all the way to the top left
+44	B	INSTRUCTOR	549.7614	551.0348	uh uh the big
+44	B	INSTRUCTOR	551.6103	552.7718	uh green
+44	A	MANIPULATOR	551.9619	552.3029	green
+45	A	INSTRUCTOR	556.3575	561.1847	now it's the one that under where the green was the other big green
+45	B	MANIPULATOR	561.3233	561.4192	CLICK
+45	A	INSTRUCTOR	562.2983	563.0815	so to the left
+45	B	MANIPULATOR	562.4368	562.5967	yep
+45	A	INSTRUCTOR	563.1348	563.3905	yeah
+46	B	INSTRUCTOR	565.996	567.2161	and now it's the head
+46	B	INSTRUCTOR	567.621	570.1145	uh the the big head the green head on the bottom
+46	A	MANIPULATOR	570.0186	570.5248	oh okay
+46	B	INSTRUCTOR	570.7699	571.0096	SNIFF
+47	A	INSTRUCTOR	574.4569	576.0286	now it's the red head
+47	A	INSTRUCTOR	577.675	578.0266	yeah
+48	B	INSTRUCTOR	580.387	583.749	now that red V with a little peak in the middle
+48	A	MANIPULATOR	583.3227	583.717	diamond
+48	B	INSTRUCTOR	583.8502	584.1326	yeah
+48	A	MANIPULATOR	584.3617	584.5855	yeah
+49	A	INSTRUCTOR	588.6081	591.075	now it's the three mountains the green three mountain
+49	B	MANIPULATOR	590.7873	591.4586	green one yeah
+50	B	INSTRUCTOR	595.0071	597.9588	now it's the big y- eh blue V on the top row
+50	A	MANIPULATOR	598.8326	599.1097	mm-hmm
+51	A	INSTRUCTOR	602.5409	604.4484	now it's the V with a diamond the blue one
+51	B	MANIPULATOR	605.2156	607.4853	the V with a diamond
+51	A	INSTRUCTOR	608.0235	610.8846	the peak the two triangles
+51	B	MANIPULATOR	611.0871	611.4068	y-
+51	A	INSTRUCTOR	611.2043	613.2023	the to the right uh GROAN
+51	B	MANIPULATOR	611.7744	613.4314	to the right under under the red head
+51	A	INSTRUCTOR	613.8736	614.5503	under the red head
+52	B	INSTRUCTOR	618.85	622.5743	and now it's that dinosaur thing in exactly in the middle
+52	A	MANIPULATOR	621.7645	622.3026	right
+52	B	INSTRUCTOR	622.878	623.1018	SNIFF
+52	A	MANIPULATOR	623.0166	623.2883	yeah
+53	A	INSTRUCTOR	626.3199	629.1544	now it's the rooster the orange rooster down in the middle
+53	A	INSTRUCTOR	629.2237	629.7459	yes
+54	B	INSTRUCTOR	631.5734	635.3723	and now it's on the top row the yellow uh box
+54	A	MANIPULATOR	634.7222	635.0259	yeah
+55	A	INSTRUCTOR	638.9527	642.8475	near the bat to the left middle down yes
+56	B	INSTRUCTOR	644.6324	644.7389	CLICK
+56	B	INSTRUCTOR	644.8721	646.1509	now it's the Thai
+56	A	MANIPULATOR	646.8435	647.6054	the Thai temple
+56	B	INSTRUCTOR	647.3603	648.0263	temple yeah
+57	A	INSTRUCTOR	651.4416	654.8995	now it's the orange bit in the topmost right
+57	B	MANIPULATOR	655.8639	656.743	th- the big
+57	A	INSTRUCTOR	657.4037	658.6664	the big orange r- rect-
+57	B	MANIPULATOR	657.4942	659.6521	big orange triangle yeah
+57	A	INSTRUCTOR	658.9701	659.8439	tip uh yeah
+57	A	INSTRUCTOR	660.1103	660.3074	yeah
+58	B	INSTRUCTOR	664.474	669.5729	and it's the on bottom row there's a little uh yellow
+58	B	INSTRUCTOR	670.2123	671.7361	m- bird SNIFF
+58	A	MANIPULATOR	670.2709	671.0488	yeah the bird
+59	A	INSTRUCTOR	674.3681	677.5543	now it's the yellow shape next to the blue screen to the right
+59	A	INSTRUCTOR	680.0744	681.1987	the small one yeah
+59	B	MANIPULATOR	680.6978	680.815	yeah
+59	B	MANIPULATOR	681.4864	681.6995	SNIFF
+60	B	INSTRUCTOR	683.9106	684.9709	and now it's the bat
+60	A	MANIPULATOR	684.4008	684.5287	NOISE
+60	B	INSTRUCTOR	685.6795	686.2763	on the left
+60	A	MANIPULATOR	685.8554	686.5587	now it's the bat
+61	A	INSTRUCTOR	690.4694	694.572	now it's this uh triangle and square next to the green bit
+61	A	INSTRUCTOR	695.0089	696.9004	down and left like NOISE
+61	B	MANIPULATOR	696.0639	697.3266	left yeah I got it
+61	A	INSTRUCTOR	697.918	698.8025	between the yeah
+62	B	INSTRUCTOR	701.4878	707.1035	now it's the big yellow uh mountain with four peaks sticking up
+62	A	MANIPULATOR	707.7003	708.3343	right
+62	B	INSTRUCTOR	707.7216	708.2065	all of them are
+62	B	INSTRUCTOR	708.7819	709.2081	right
+62	A	MANIPULATOR	709.2561	710.8492	like a big crown
+62	B	INSTRUCTOR	710.6733	711.3979	big crown yeah
+62	B	INSTRUCTOR	712.0373	712.7513	SNIFF BREATH
+63	A	INSTRUCTOR	713.6837	715.4579	now it's the three green mountains
+64	B	INSTRUCTOR	719.081	721.063	now it's the big V in the middle
+64	A	MANIPULATOR	721.3667	722.0966	the big V
+65	A	INSTRUCTOR	725.3947	728.3464	now it's the green rectangle to the left
+65	A	INSTRUCTOR	728.8899	732.5769	uh right eh down down left next to the golden bird
+65	A	INSTRUCTOR	733.6851	733.9035	yeah
+66	B	INSTRUCTOR	736.2958	740.18	and now it's the top left uh the the big
+66	A	MANIPULATOR	740.8033	742.194	the big green irregular
+66	B	INSTRUCTOR	741.0271	742.3911	sh- sh- green shape yeah
+66	A	MANIPULATOR	742.8067	743.0465	yeah
+67	A	INSTRUCTOR	746.499	748.9712	it's the rooster orange rooster next to the bat
+68	B	INSTRUCTOR	753.2443	755.3222	and now it's the Thai temple on the bottom row
+68	A	MANIPULATOR	755.8923	756.3239	mm-hmm
+69	A	INSTRUCTOR	760.5384	764.4438	the small yellow up to the right
+70	B	INSTRUCTOR	768.7329	769.7505	now it's the bat
+70	A	MANIPULATOR	770.5817	771.3649	the bat
+71	A	INSTRUCTOR	774.274	779.1226	now it's the triangle with a square to the right under the red head and the red V
+71	B	MANIPULATOR	779.3623	779.5595	mm
+72	B	INSTRUCTOR	783.2678	786.049	now it's the big crown yellow crown
+72	A	MANIPULATOR	786.2142	787.3331	the big yellow crown
+72	B	INSTRUCTOR	786.8162	787.2798	at the top
+72	B	INSTRUCTOR	788.0523	788.2335	NOISE
+72	A	MANIPULATOR	788.0843	788.4146	mm-hmm
+73	A	INSTRUCTOR	790.029	791.1319	now it's the rooster again
+74	B	INSTRUCTOR	797.3551	798.8682	now it's the Thai temple in the middle
+74	A	MANIPULATOR	799.4437	799.8166	mm-hmm
+75	A	INSTRUCTOR	802.8856	805.6082	now it's the blue screen to the right and down
+76	B	INSTRUCTOR	810.803	810.9256	CLICK
+76	B	INSTRUCTOR	811.1494	818.9549	now it's the blue wings the two wings uh in the bottom next to the three mountains
+76	A	MANIPULATOR	820.3189	820.8304	ah
+76	B	INSTRUCTOR	820.9583	825.8014	the I meant I meant the green sorry green green sorry sorry LAUGHTER sorry
+76	A	MANIPULATOR	821.1288	822.1837	they're not blue they're green
+76	A	MANIPULATOR	822.7804	826.5633	yeah LAUGHTER LAUGHTER LAUGHTER right
+77	A	INSTRUCTOR	827.6183	828.0605	okay
+77	A	INSTRUCTOR	828.5933	833.2873	the the there is this uh large green rectangle next to the mountains
+77	B	MANIPULATOR	835.0989	835.2853	yeah
+77	A	INSTRUCTOR	835.4026	836.295	under the wings
+77	A	INSTRUCTOR	836.3136	836.4921	yeah
+78	B	INSTRUCTOR	839.316	843.2907	now it's that big blue irregular shape on the bottom left
+78	A	MANIPULATOR	844.5881	845.3527	uh
+78	B	INSTRUCTOR	845.0676	846.5728	the above the little bird
+78	A	MANIPULATOR	847.5132	847.8808	green
+78	B	INSTRUCTOR	847.8728	848.054	gr-
+78	A	MANIPULATOR	848.0753	849.2048	you said blue again I think
+78	B	INSTRUCTOR	848.72	850.9471	oh it looks blue to me oh I c- okay green
+78	B	INSTRUCTOR	851.0483	851.2481	yeah
+78	A	MANIPULATOR	851.384	852.5881	oh okay okay okay
+78	B	INSTRUCTOR	853.5578	856.078	uh LAUGHTER LAUGHTER LAUGHTER
+78	A	MANIPULATOR	853.9468	856.1179	LAUGHTER it looks blue to me LAUGHTER
+79	B	MANIPULATOR	856.1446	856.4616	I think
+79	A	INSTRUCTOR	856.1739	858.4809	now it's the golden bird to the down down
+79	B	MANIPULATOR	858.1559	858.8113	yeah okay
+79	A	INSTRUCTOR	858.5022	858.8965	like that
+79	A	INSTRUCTOR	859.1789	859.3148	NOISE
+79	A	INSTRUCTOR	859.6291	859.8342	yeah
+80	A	MANIPULATOR	862.4237	863.5479	uh right
+80	B	INSTRUCTOR	863.5985	866.5076	now it's the mountains that looks green three mountains
+80	A	MANIPULATOR	866.6195	866.9099	they uh
+80	B	INSTRUCTOR	867.075	868.3458	LAUGHTER LAUGHTER LAUGHTER
+80	A	MANIPULATOR	867.0804	868.2152	they're not really green
+80	A	MANIPULATOR	868.6655	868.8972	BREATH
+80	B	INSTRUCTOR	868.7427	868.9771	SNIFF
+80	A	MANIPULATOR	869.4194	869.8057	okay
+81	B	MANIPULATOR	869.6511	869.843	BREATH
+81	A	INSTRUCTOR	870.3145	872.0008	now it's the green head
+82	B	INSTRUCTOR	877.6885	879.3295	now it's the red head SNIFF
+82	A	MANIPULATOR	879.7051	880.4004	the red head
+82	B	INSTRUCTOR	879.9822	880.467	the little one
+82	A	MANIPULATOR	881.2982	881.8364	yes
+83	A	INSTRUCTOR	884.4231	888.8241	now it's the blue diamond shape uh next above the rooster
+84	B	INSTRUCTOR	894.1015	897.7432	now it's that um dinosaur next to the big V
+84	A	MANIPULATOR	897.9616	898.8541	dinosaur yeah
+85	A	INSTRUCTOR	901.9417	903.0819	now it's the head the red head
+86	B	INSTRUCTOR	907.5041	912.7975	now it's the all the way to the top right the triangle with the diamond sticking out
+86	A	MANIPULATOR	913.016	913.2637	yeah
+87	A	INSTRUCTOR	917.1106	918.1975	now it's the red head again
+88	B	INSTRUCTOR	923.0034	924.8789	now it's the same triangle
+88	B	INSTRUCTOR	925.8326	926.8103	with the diamond
+88	A	MANIPULATOR	926.4533	926.6504	ah
+88	A	MANIPULATOR	927.6814	928.0384	okay
+88	A	MANIPULATOR	928.382	928.8109	the blue one
+88	B	INSTRUCTOR	928.6538	928.8429	yeah
+88	B	INSTRUCTOR	929.3464	929.5249	SNIFF
+88	A	MANIPULATOR	929.7167	930.3907	above the mountain
+88	B	INSTRUCTOR	930.428	930.6012	yeah
+88	A	MANIPULATOR	930.5479	930.6438	NOISE
+88	A	MANIPULATOR	930.8489	931.0567	yeah
+89	A	INSTRUCTOR	932.9322	934.5652	now it's the three mountains
+89	A	INSTRUCTOR	935.2179	936.5099	the green ones r-
+89	A	INSTRUCTOR	936.7257	936.8856	yeah

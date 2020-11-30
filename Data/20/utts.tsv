@@ -1,0 +1,257 @@
+ROUND	SPEAKER	DIALOGUE_ROLE	START_TIME	END_TIME	TOKENS
+0	B	MANIPULATOR	0.0	0.7702	START_SIGNAL
+0	A	INSTRUCTOR	0.2742	1.0444	START_SIGNAL
+0	A	INSTRUCTOR	2.6052	3.38	oh okay
+0	B	MANIPULATOR	6.5189	8.1678	yes tell me the color
+1	A	INSTRUCTOR	11.1676	14.5846	light blue directly in the middle of the eh screen
+1	B	MANIPULATOR	14.8429	15.8561	okay like a bird
+1	A	INSTRUCTOR	15.9554	16.3527	yeah
+1	B	MANIPULATOR	16.8494	17.7434	okay I have it
+2	B	INSTRUCTOR	23.5841	30.7956	okay it's eh the light blue at the right corner above
+2	A	MANIPULATOR	30.0804	32.0074	like like a arrow
+2	B	INSTRUCTOR	32.8617	34.7291	yeah yeah
+3	A	INSTRUCTOR	40.0931	45.2981	it's the in the left up corner purple
+3	B	MANIPULATOR	45.3576	46.3112	oh the bird again
+3	A	INSTRUCTOR	46.2516	46.7483	yeah
+3	B	MANIPULATOR	47.1059	47.7615	nice
+3	B	MANIPULATOR	48.8541	49.6091	mm-hmm
+4	A	MANIPULATOR	50.6421	51.3176	BREATH
+4	B	INSTRUCTOR	50.9401	52.6287	okay it's the big red one
+4	A	MANIPULATOR	53.5823	55.9663	the the arrow in two sides
+4	B	INSTRUCTOR	56.0656	56.4431	yeah
+5	A	INSTRUCTOR	62.3235	68.3033	it's the purple bird in the white up corner
+5	B	MANIPULATOR	71.1442	75.9519	in the right up corner there's no ah purple yeah I have it I have it now
+5	B	MANIPULATOR	77.3425	78.2564	okay
+6	B	INSTRUCTOR	79.349	82.1105	it's again the big eh red
+6	A	MANIPULATOR	82.1105	82.5873	okay
+6	B	INSTRUCTOR	82.7462	84.4746	LAUGHTER
+7	A	INSTRUCTOR	88.8452	94.2488	it's the mountains the pink mountains directly in the first row
+7	B	MANIPULATOR	94.1892	95.0435	the three
+7	A	INSTRUCTOR	95.1428	96.3547	yeah the third one
+8	B	INSTRUCTOR	100.0299	108.9301	okay it's the light green on the left the big thing I don't know oh yellow
+8	A	MANIPULATOR	106.9633	109.8042	you mean the like a house like a house
+8	B	INSTRUCTOR	109.387	110.4598	yes yes
+8	A	MANIPULATOR	110.9565	111.2743	yeah
+8	B	INSTRUCTOR	111.3538	112.3074	LAUGHTER
+8	A	MANIPULATOR	111.6915	113.8172	LAUGHTER
+9	A	INSTRUCTOR	117.274	121.4459	eh it's the again the purple bird on the right side
+9	B	MANIPULATOR	122.3002	123.3134	yeah I have it
+10	B	INSTRUCTOR	125.2007	128.6375	okay it's again LAUGHTER the red big thing LAUGHTER
+10	A	MANIPULATOR	127.4853	130.0481	okay LAUGHTER SNIFF
+11	A	INSTRUCTOR	132.4916	141.0143	CLICK oh it's the second one on the in the first row the yellow one like a like a face or like a man with hat
+11	B	MANIPULATOR	139.9217	142.9612	yeah I have it or a face you wou-
+12	B	INSTRUCTOR	144.8088	147.4709	oh it's the pink one in the first row the second
+12	A	MANIPULATOR	148.2059	150.431	okay the arrow down
+12	B	INSTRUCTOR	150.3912	150.9674	yeah like
+12	A	MANIPULATOR	151.9806	152.3977	yeah
+12	B	INSTRUCTOR	152.0402	154.6426	LAUGHTER
+12	A	MANIPULATOR	152.5368	154.444	LAUGHTER
+13	A	INSTRUCTOR	155.1592	160.086	and now it's again this big reddish one in the le- left corner
+13	B	MANIPULATOR	160.6423	160.98	yeah
+14	B	INSTRUCTOR	164.854	167.1386	okay it's again the man's face in yellow
+14	A	MANIPULATOR	167.1386	167.7545	okay
+15	A	INSTRUCTOR	171.9264	188.2168	BREATH eh now it's a very small light blue one directly under this house the second one like like a sh- yeah you know so
+15	B	MANIPULATOR	186.707	189.2102	a- again under the under the mountain you mean
+15	A	INSTRUCTOR	189.9055	193.6404	yeah right of the mountain ri- right of the purple mountain
+15	B	MANIPULATOR	192.1107	192.4484	yeah
+15	B	MANIPULATOR	193.8589	194.0973	yeah
+15	A	INSTRUCTOR	194.5145	195.2495	I don't know what
+15	B	MANIPULATOR	195.2495	195.8455	LAUGHTER
+16	B	INSTRUCTOR	196.9779	201.9644	okay it's the W sign in the eh right corner down
+17	A	INSTRUCTOR	210.6063	215.3742	it's again this blue one in the right corner this uh light blue one
+17	B	MANIPULATOR	215.5729	216.7052	okay the small one
+17	A	INSTRUCTOR	216.8244	217.3211	yeah
+18	B	INSTRUCTOR	220.4004	222.4069	it's again the eh pink W
+19	A	INSTRUCTOR	230.3535	238.8563	CLICK this time it's the dark blue one like fire in the right corner
+19	B	MANIPULATOR	238.8563	240.1277	oh but I have two of these
+19	A	INSTRUCTOR	240.1277	242.0485	yeah the more down
+19	B	MANIPULATOR	242.2534	242.6706	okay
+20	B	INSTRUCTOR	247.4187	255.5732	I have the small V which is green under the second blue thing on the right
+20	A	MANIPULATOR	255.0474	255.4447	yeah
+20	B	INSTRUCTOR	255.7353	255.9597	yeah
+21	A	INSTRUCTOR	261.1066	266.8293	it's the light blue one under this big reddish like a
+21	B	MANIPULATOR	265.7951	266.1527	yeah
+21	B	MANIPULATOR	266.8083	267.2652	the arrow
+21	A	INSTRUCTOR	267.2905	267.6769	yeah
+21	B	MANIPULATOR	267.9407	268.1393	yeah
+22	B	INSTRUCTOR	270.265	272.053	it's the pink mountain in the middle
+22	A	MANIPULATOR	272.947	273.6026	mm-hmm
+23	A	INSTRUCTOR	277.258	281.2017	it's the yellow one the second
+23	B	MANIPULATOR	282.2445	283.357	not the face the other
+23	A	INSTRUCTOR	283.5954	290.4384	no wait wait the second one down uh on the this like a map
+23	B	MANIPULATOR	292.1578	293.469	a destroyed map LAUGHTER
+23	A	INSTRUCTOR	293.3696	295.098	yeah a destroyed map LAUGHTER
+23	B	MANIPULATOR	294.9192	299.2886	okay the the only other thing which is yellow right yeah
+23	A	INSTRUCTOR	295.3364	295.7735	BREATH
+23	A	INSTRUCTOR	298.4952	298.9521	yeah
+23	A	INSTRUCTOR	302.091	303.6889	oh no there
+23	B	MANIPULATOR	304.0577	304.9229	oh LAUGHTER
+23	A	INSTRUCTOR	305.1504	315.7302	t- again it's directly next to this light blue oh mountain in the last row
+23	B	MANIPULATOR	306.3424	306.7397	yeah
+23	B	MANIPULATOR	311.5474	312.203	mm-hmm
+23	B	MANIPULATOR	316.4941	317.1298	on the right
+23	A	INSTRUCTOR	317.8053	318.5006	on the left
+23	B	MANIPULATOR	319.2953	321.2648	oh no there I have nothing
+23	A	INSTRUCTOR	321.6991	322.017	uh
+23	A	INSTRUCTOR	323.4672	325.6525	so yellow greenish
+23	B	MANIPULATOR	325.9902	330.5139	yes but it's it's right on the right side of this blue thing
+23	A	INSTRUCTOR	331.2151	333.4799	yeah but I mean it's more left
+23	A	INSTRUCTOR	334.9102	336.0824	yeah it's this one
+23	B	MANIPULATOR	335.9234	336.5592	okay
+24	B	INSTRUCTOR	340.3934	342.2211	okay it's the big blue V
+25	A	INSTRUCTOR	347.3466	353.2629	it's again this th- this one I had before this map you know this ligh-
+25	B	MANIPULATOR	352.8695	353.684	the yellow map
+25	A	INSTRUCTOR	353.8032	354.717	yellow map
+25	B	MANIPULATOR	354.6773	354.9753	yeah
+25	A	INSTRUCTOR	355.6309	356.0084	uh
+25	B	MANIPULATOR	359.326	359.9022	was it wrong
+25	A	INSTRUCTOR	360.379	361.9683	it LAUGHTER huh
+25	B	MANIPULATOR	361.5908	363.9152	oh it was this sorry I did it wrong
+25	A	INSTRUCTOR	362.4053	363.1801	yeah LAUGHTER
+25	A	INSTRUCTOR	365.0078	365.3058	BREATH
+26	B	INSTRUCTOR	366.4382	367.7295	it's again the V the blue
+27	A	INSTRUCTOR	373.0934	379.1406	now it's this eh one you picked before this yellow one
+27	B	MANIPULATOR	379.7884	381.4572	uh okay LAUGHTER
+27	A	INSTRUCTOR	381.0003	382.2717	I don't know what it is
+27	B	MANIPULATOR	381.9204	383.4836	GROAN yeah LAUGHTER
+28	A	MANIPULATOR	383.7704	384.8127	it's like a X
+28	B	INSTRUCTOR	384.9851	394.211	it's the blue big blue thing in the eh left corner down like a castle I don't know
+28	A	MANIPULATOR	392.4234	393.5558	mm-hmm this
+28	A	MANIPULATOR	394.0326	394.4299	yeah
+29	A	INSTRUCTOR	399.5753	405.9532	CLICK now it's the mountains the purple mountains in the left up corner
+29	B	MANIPULATOR	401.6414	402.0586	mm-hmm
+29	B	MANIPULATOR	406.7868	407.2239	the pink
+29	A	INSTRUCTOR	407.7404	412.9711	yea- it's not really pink yeah pink for me it's not pink but yeah pink
+29	B	MANIPULATOR	414.5149	415.4883	I did wrong right
+29	A	INSTRUCTOR	415.4883	415.9055	no
+29	B	MANIPULATOR	415.8459	416.4022	no okay
+30	B	INSTRUCTOR	417.9518	420.7743	it's the map on the right side
+30	A	MANIPULATOR	420.6536	421.1701	side
+30	B	INSTRUCTOR	421.19	421.4482	yeah
+31	A	INSTRUCTOR	426.6731	432.6786	it's like this fire this purple fire on the right side
+31	B	MANIPULATOR	433.0502	433.5469	mm-hmm
+31	A	INSTRUCTOR	434.1826	434.6395	yeah
+31	B	MANIPULATOR	435.2554	435.9706	which one of these
+31	A	INSTRUCTOR	437.0235	437.7983	this mo-
+31	B	MANIPULATOR	438.0764	438.5532	more right
+31	A	INSTRUCTOR	438.1161	439.4074	directly on the edge
+32	B	INSTRUCTOR	445.9634	450.3936	okay it's in the upper corner on the right side looks like a monitor it's green
+32	A	MANIPULATOR	450.1154	450.4333	yeah
+32	B	INSTRUCTOR	450.8505	451.0889	yeah
+33	A	INSTRUCTOR	454.645	457.0091	CLICK it's the big blue V
+34	B	INSTRUCTOR	461.9161	464.8166	it's again this yellow thing which we don't know what it is
+34	A	MANIPULATOR	465.0748	465.7503	the X
+34	B	INSTRUCTOR	466.0483	466.3264	yeah
+35	A	INSTRUCTOR	470.7169	475.4649	it's this Wonder Woman sign but the big one on the left side
+35	B	MANIPULATOR	478.4648	480.2726	uh which color
+35	A	INSTRUCTOR	479.6766	481.592	purple o- or
+35	B	MANIPULATOR	484.3452	485.3981	I did it wrong right
+35	A	INSTRUCTOR	485.4379	485.9544	yeah
+35	B	MANIPULATOR	486.014	487.3053	eh the small one
+35	A	INSTRUCTOR	486.7689	494.5184	it's this it's the one between this small blue bird light blue bird and this purple bird
+35	B	MANIPULATOR	494.5963	494.9539	I have it
+35	A	INSTRUCTOR	494.7178	494.9546	yeah
+36	B	INSTRUCTOR	498.51	506.6221	okay now it's the the light purple thing on the left the most down thing I don't know like a spider
+36	A	MANIPULATOR	508.9597	510.1119	on the left
+36	B	INSTRUCTOR	510.0722	510.4099	yeah
+36	B	INSTRUCTOR	512.6548	514.5125	left the most down thing
+36	A	MANIPULATOR	515.3566	516.0917	which color
+36	B	INSTRUCTOR	516.5089	519.5485	um yeah like bu- pink purple in between
+36	A	MANIPULATOR	518.813	520.5457	yeah okay like a bed
+36	B	INSTRUCTOR	519.9855	520.204	yeah
+36	B	INSTRUCTOR	521.0583	521.4358	yes
+37	A	INSTRUCTOR	522.7271	531.3156	or like a spider it's this uh small light blue one um
+37	B	MANIPULATOR	532.2232	532.6007	down
+37	A	INSTRUCTOR	532.7199	533.296	down
+38	B	INSTRUCTOR	537.9845	542.4844	okay it's the Wonder Woman sign pink on the left side under the monitor
+38	A	MANIPULATOR	544.0636	544.5404	okay
+39	A	INSTRUCTOR	548.6726	550.1824	it's the big blue V
+39	B	MANIPULATOR	550.4804	551.6327	nice LAUGHTER
+39	A	INSTRUCTOR	551.1161	551.5135	LAUGHTER
+40	B	INSTRUCTOR	554.3742	556.6986	it's again the yellow thing we don't know what it is the X
+40	A	MANIPULATOR	556.9966	557.5131	the X
+40	B	INSTRUCTOR	557.6721	557.9502	yeah
+41	A	INSTRUCTOR	561.546	567.315	it's the like this purple fire directly o- under the big reddish one
+41	B	MANIPULATOR	564.6452	565.1021	mm-hmm
+41	B	MANIPULATOR	567.1483	567.4066	yeah
+42	B	INSTRUCTOR	570.7441	572.8247	it's the monitor the green one
+43	A	INSTRUCTOR	577.2404	582.6098	it's the purple bird under this light blue one on the left side
+44	B	INSTRUCTOR	587.71	594.8008	it's the pink sign in the on the right uh on the eh above
+44	A	MANIPULATOR	595.4381	596.332	like the Wonder Woman
+44	B	INSTRUCTOR	597.1267	598.12	yes but
+45	A	INSTRUCTOR	602.4708	605.6455	the green monitor on the right side
+45	B	MANIPULATOR	605.7288	605.9076	yeah
+46	B	INSTRUCTOR	608.2121	610.2981	the purple bird on the left side
+47	A	INSTRUCTOR	615.3243	617.824	the big red one BREATH
+48	B	INSTRUCTOR	621.0061	622.1385	the man's face in yellow
+49	A	INSTRUCTOR	627.8997	630.4625	the big Wonder Woman sign on the right side
+50	B	INSTRUCTOR	635.6079	638.3495	the spider or bed or whatever ineffable
+51	A	INSTRUCTOR	643.1174	644.965	the eh yellow map
+52	B	INSTRUCTOR	650.8454	654.7085	oh the light blue thing on the left down
+52	A	MANIPULATOR	655.5736	656.408	this small one
+52	B	INSTRUCTOR	656.4279	657.4609	yeah above the X
+52	A	MANIPULATOR	657.9774	658.3152	yeah
+53	A	INSTRUCTOR	660.9177	663.242	the yellow map on the right side
+54	B	INSTRUCTOR	667.3742	670.0959	again this blue sign which has move now in the middle
+54	A	MANIPULATOR	669.7979	670.235	yeah
+55	A	INSTRUCTOR	673.3739	674.3275	the yellow face
+56	B	INSTRUCTOR	679.5126	682.572	the Wonder Woman sign in the first line the pink the big
+57	A	INSTRUCTOR	685.4328	694.4724	CLICK the eh V the purple under the pink V downstairs down LAUGHTER next to the B
+57	B	MANIPULATOR	695.1673	695.9222	the W
+57	A	INSTRUCTOR	695.4256	696.5778	W
+57	B	MANIPULATOR	696.1303	696.3422	yeah
+58	B	INSTRUCTOR	701.2908	701.8518	the V
+59	A	INSTRUCTOR	707.0622	708.0594	the yellow map
+60	B	INSTRUCTOR	712.5344	715.1771	again this tiny blue thing in the middle
+60	A	MANIPULATOR	715.1272	715.5012	mm-hmm
+61	A	INSTRUCTOR	718.9415	719.8515	the yellow map
+62	B	INSTRUCTOR	724.0024	725.4982	again this tiny blue thing LAUGHTER
+63	A	INSTRUCTOR	731.8181	736.0064	the like the fire the purple fire on the li- on the right
+63	B	MANIPULATOR	736.854	737.7016	the one above
+63	A	INSTRUCTOR	737.8637	738.1878	yeah
+64	B	INSTRUCTOR	743.0866	745.4924	the pink one Wonder Woman sign on the left
+65	A	INSTRUCTOR	751.3635	755.128	the purple fire under the Wonder Woman sign
+65	B	MANIPULATOR	755.7263	755.9008	yeah
+66	B	INSTRUCTOR	758.5933	759.6902	the Wonder Woman sign again
+67	A	INSTRUCTOR	763.9035	767.1818	the tiny small light blue thingy
+67	B	MANIPULATOR	767.1943	769.6499	LAUGHTER got it LAUGHTER
+68	B	INSTRUCTOR	771.3203	772.9906	the purple fire on the left
+68	A	MANIPULATOR	778.1761	778.8617	purple fir-
+69	A	INSTRUCTOR	782.8381	783.935	the big red one
+70	B	INSTRUCTOR	788.9086	791.7133	the spider in purple on the left side
+70	B	INSTRUCTOR	792.9224	793.1219	yeah
+70	A	MANIPULATOR	793.0346	794.493	mm-hmm pink
+71	A	INSTRUCTOR	797.709	801.3115	the small light blue bird next to the map
+71	B	MANIPULATOR	801.7727	801.9597	yeah
+72	B	INSTRUCTOR	804.702	807.2823	oh the not the map but the same color
+72	A	MANIPULATOR	807.4444	808.1923	ye- the house
+72	B	INSTRUCTOR	808.1923	808.3917	yeah
+72	B	INSTRUCTOR	810.062	810.7975	LAUGHTER
+72	A	MANIPULATOR	810.1992	810.7352	LAUGHTER
+73	A	INSTRUCTOR	812.1811	817.9151	CLICK the light blue bird under the light blue mountains
+73	B	MANIPULATOR	818.0772	818.3015	yeah
+73	A	INSTRUCTOR	818.1021	818.2517	yeah
+74	B	INSTRUCTOR	821.0439	821.6796	again the house
+75	A	INSTRUCTOR	825.5064	826.5784	the big red one
+76	B	INSTRUCTOR	830.8664	831.5396	the spider
+77	A	INSTRUCTOR	837.8594	841.4244	the m- the light blue mountains on the left side
+78	B	INSTRUCTOR	846.2734	849.5393	the pink mountains underneath it yeah
+79	A	INSTRUCTOR	852.9423	854.7248	the big red one in the middle
+80	B	INSTRUCTOR	857.6915	858.1278	spider
+81	A	INSTRUCTOR	863.1139	864.4726	the map the yellow map
+82	B	INSTRUCTOR	868.424	871.9517	the Wonder Woman sign the smaller one in the last row
+83	A	INSTRUCTOR	876.3145	879.3061	the small light blue bird on the left side
+84	B	INSTRUCTOR	882.759	883.7562	the house again
+85	A	INSTRUCTOR	887.8448	889.1287	the map again LAUGHTER
+86	B	INSTRUCTOR	893.2173	894.8627	the Wonder Woman sign in the first row
+87	A	INSTRUCTOR	900.0482	902.8653	the small tiny blue thingy
+88	B	INSTRUCTOR	907.652	912.3513	the purple fire on the right under the Wonder Woman sign
+88	A	MANIPULATOR	912.1644	912.5134	yeah
+89	A	INSTRUCTOR	916.0286	917.7114	the bed or the spider
+90	B	INSTRUCTOR	922.2238	924.3429	the tiny blue bird the light
+91	A	INSTRUCTOR	928.7306	929.2915	the house
+92	B	INSTRUCTOR	933.5172	933.9535	the map
+93	A	INSTRUCTOR	937.5061	938.9271	BREATH the face
+94	B	INSTRUCTOR	942.8163	944.6486	the Wonder Woman sign the big one on the right
+95	A	INSTRUCTOR	948.9367	950.0211	the face again
+96	B	INSTRUCTOR	954.8607	956.8275	the Wonder Woman sign the big one

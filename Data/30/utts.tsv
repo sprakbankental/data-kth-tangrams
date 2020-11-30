@@ -1,0 +1,346 @@
+ROUND	SPEAKER	DIALOGUE_ROLE	START_TIME	END_TIME	TOKENS
+0	B	MANIPULATOR	0.0	0.7698	START_SIGNAL
+0	A	INSTRUCTOR	0.311	1.0808	START_SIGNAL
+0	A	INSTRUCTOR	1.1461	1.5121	NOISE
+0	B	MANIPULATOR	1.4482	1.5811	mm
+0	B	MANIPULATOR	2.4366	4.9355	CLICK okay
+0	A	INSTRUCTOR	5.9504	7.3222	uh do I press okay
+0	A	INSTRUCTOR	8.9909	10.4458	okay so I press okay good
+1	A	INSTRUCTOR	11.1881	15.8847	mm-hmm okay eh can I say the color
+1	B	MANIPULATOR	16.1705	16.6396	yes
+1	A	INSTRUCTOR	17.1147	26.2235	it's green but it's not really green it's greenish and it's look like a V LAUGHTER
+1	B	MANIPULATOR	18.6315	19.261	okay
+1	B	MANIPULATOR	22.2515	22.8216	okay
+1	B	MANIPULATOR	25.2267	26.4203	like a V yes
+1	A	INSTRUCTOR	29.2411	31.1177	um how okay
+1	A	INSTRUCTOR	31.3137	32.1688	the other piece
+1	A	INSTRUCTOR	32.1926	32.5904	okay
+1	A	INSTRUCTOR	32.7151	33.0477	good
+1	A	INSTRUCTOR	33.0893	34.6273	you selected the correct piece
+1	B	MANIPULATOR	35.0074	36.0229	LAUGHTER
+2	A	MANIPULATOR	35.6903	36.219	LAUGHTER
+2	B	INSTRUCTOR	36.3436	43.5057	okay eh this is blue eh dark blue and it looks like a computer
+2	A	MANIPULATOR	38.7546	39.2831	mm-hmm
+2	A	MANIPULATOR	42.8762	43.9635	ah okay
+2	B	INSTRUCTOR	45.8154	46.7597	nice good
+2	A	MANIPULATOR	46.9438	47.3399	good
+3	A	INSTRUCTOR	49.0104	49.4201	NOISE
+3	A	INSTRUCTOR	49.6695	55.323	BREATH okay uh again it looks like a computer it's not blue it's eh greenish
+3	B	MANIPULATOR	55.7446	57.9894	yes I f- found it
+3	A	INSTRUCTOR	58.1438	59.5512	yeah correct
+3	A	INSTRUCTOR	61.7781	62.066	BREATH
+4	B	INSTRUCTOR	66.612	72.2477	oh eh it's purple and it looks like a house maybe
+4	B	INSTRUCTOR	72.2595	72.5921	yeah
+4	A	MANIPULATOR	72.8059	74.5399	oh okay it's purple and
+4	A	MANIPULATOR	74.8072	77.8239	ah hmm okay it's this one I guess
+4	A	MANIPULATOR	84.3206	85.0926	is it LAUGHTER
+4	B	INSTRUCTOR	85.2292	89.668	eh I haven't seen anything did you clicked o- click on it
+4	A	MANIPULATOR	89.6059	90.2402	yeah
+4	A	MANIPULATOR	90.3165	91.6487	ah okay mm-hmm
+4	B	INSTRUCTOR	90.3838	91.3275	uh yeah now yeah
+4	B	INSTRUCTOR	91.815	92.5865	right piece
+4	A	MANIPULATOR	93.0086	93.644	mm-hmm
+4	A	MANIPULATOR	95.1227	95.9482	okay
+5	A	INSTRUCTOR	97.3022	101.5601	ah okay again it looks like a computer and it's greenish
+5	B	MANIPULATOR	101.7323	103.9363	greenish yes a big one
+5	A	INSTRUCTOR	103.8107	104.9034	yeah the big one
+5	A	INSTRUCTOR	105.5745	106.2396	o- correct
+6	B	INSTRUCTOR	110.0996	110.5687	LAUGHTER
+6	B	INSTRUCTOR	110.6875	114.9618	okay so it's again the purple with the house looking
+6	A	MANIPULATOR	115.0701	117.6652	okay uh I got it I think
+6	B	INSTRUCTOR	118.0394	118.3244	good
+6	A	MANIPULATOR	118.9539	122.0197	mm-hmm so oh BREATH
+7	A	INSTRUCTOR	122.6417	124.0372	it's yellow BREATH
+7	B	MANIPULATOR	123.8318	124.3278	yes
+7	A	INSTRUCTOR	125.6288	133.8273	and it looks like a bird but it's not a bird it's a bit big it's just below the red bird something
+7	B	MANIPULATOR	133.7942	136.5912	LAUGHTER yeah I think I know what you mean
+7	A	INSTRUCTOR	136.6922	137.3098	okay
+7	B	MANIPULATOR	137.4998	138.0164	I try
+7	A	INSTRUCTOR	138.0699	139.5117	okay that's correct LAUGHTER
+7	B	MANIPULATOR	139.2279	140.4464	yeah good LAUGHTER
+8	B	INSTRUCTOR	141.8765	151.3193	okay eh okay this is like gold or orange it looks like a bird is flying or a Batman sign or
+8	A	MANIPULATOR	145.5999	146.4313	mm-hmm
+8	A	MANIPULATOR	151.1999	152.8152	uh-huh okay I think I got it
+8	B	INSTRUCTOR	151.739	152.1777	LAUGHTER
+8	A	MANIPULATOR	154.3295	155.3331	ah click
+8	A	MANIPULATOR	156.1467	156.4317	okay
+8	B	INSTRUCTOR	156.5623	157.7858	yes right
+8	A	MANIPULATOR	158.2489	158.724	mm-hmm
+9	A	INSTRUCTOR	161.129	167.7326	oh okay uh it's a V looks it's the the word V
+9	A	INSTRUCTOR	168.0652	171.4739	uh we did it again and it's greenish
+9	B	MANIPULATOR	171.7055	173.012	greenish
+9	B	MANIPULATOR	173.8671	175.8327	eh what did you say like a V
+9	A	INSTRUCTOR	176.1	179.856	uh a a V like village it's next to the purple house
+9	B	MANIPULATOR	176.3435	176.9756	like a V
+9	B	MANIPULATOR	177.7687	178.4635	yeah yeah yeah
+9	A	INSTRUCTOR	180.061	180.6953	LAUGHTER
+9	B	MANIPULATOR	180.123	182.4779	yeah LAUGHTER
+9	B	MANIPULATOR	182.7867	183.2974	BREATH
+9	B	MANIPULATOR	183.434	183.6775	yeah
+10	B	INSTRUCTOR	185.0315	189.6872	okay so this is eh the small blue computer
+10	A	MANIPULATOR	190.0198	191.6054	okay small okay hmm
+10	B	INSTRUCTOR	191.6945	192.1786	LAUGHTER
+10	A	MANIPULATOR	194.4618	195.0319	alright
+11	A	INSTRUCTOR	197.2885	197.8824	okay
+11	A	INSTRUCTOR	197.8942	198.5593	BREATH
+11	A	INSTRUCTOR	198.6247	206.5941	this is red and it's the smallest red thing there it's just below the purple house
+11	B	MANIPULATOR	199.9371	200.3171	yes
+11	B	MANIPULATOR	206.0894	208.6024	LAUGHTER okay I think I know LAUGHTER
+11	A	INSTRUCTOR	209.1655	210.0147	okay correct
+12	B	INSTRUCTOR	212.8889	221.7453	okay eh this is red and it's big and it's looks like a bird or a toilet or LAUGHTER
+12	A	MANIPULATOR	221.3257	222.68	ah LAUGHTER okay I got it
+12	B	INSTRUCTOR	222.0104	222.9309	LAUGHTER
+12	B	INSTRUCTOR	223.8573	225.3004	yes LAUGHTER
+13	A	INSTRUCTOR	229.0	231.8743	mm okay it's the purple house BREATH
+13	B	MANIPULATOR	231.8862	233.2342	purp- yeah LAUGHTER
+13	A	INSTRUCTOR	234.7307	235.2355	oh good
+14	B	INSTRUCTOR	238.1216	244.9218	uh eh this is the yellow thing that you talked about before
+14	A	MANIPULATOR	243.3237	243.7691	LAUGHTER
+15	A	INSTRUCTOR	247.1896	247.35	BREATH
+15	A	INSTRUCTOR	247.4984	247.932	okay
+15	A	INSTRUCTOR	249.1197	260.3537	this is green it's not the smallest green it's the m- uh I mean uh it's on the top ah good
+15	B	MANIPULATOR	250.4024	250.7171	yes
+15	B	MANIPULATOR	259.9752	262.2378	LAUGHTER
+16	B	INSTRUCTOR	263.9124	267.7309	eh okay this is red and it looks like a mountain
+16	A	MANIPULATOR	267.7724	268.9185	oh good
+17	A	INSTRUCTOR	273.2656	275.7666	okay it's uh the yellow bird
+17	B	MANIPULATOR	275.9192	277.2354	the ye- LAUGHTER
+17	A	INSTRUCTOR	278.6339	279.0284	alright
+18	B	INSTRUCTOR	281.1044	285.8076	eh is the green that you talked about eh
+18	A	MANIPULATOR	285.8789	287.9747	eh the no not the the medium
+18	B	INSTRUCTOR	288.0286	290.4397	eh yeah the medium LAUGHTER
+18	B	INSTRUCTOR	291.0988	292.1332	yes correct
+19	A	INSTRUCTOR	294.1275	295.2914	okay BREATH
+19	A	INSTRUCTOR	295.9209	296.01	CLICK
+19	A	INSTRUCTOR	297.1205	298.1359	I don't BREATH
+19	A	INSTRUCTOR	298.3557	301.7662	okay this has the color of the mustard
+19	B	MANIPULATOR	302.0553	303.2159	ok- yeah okay
+19	A	INSTRUCTOR	303.5934	308.267	it's not the one that looks like the Batman sign it's the other one LAUGHTER
+19	B	MANIPULATOR	305.9391	309.045	yeah the other one LAUGHTER
+20	B	INSTRUCTOR	312.5724	318.0946	okay this is green it's big it looks like eh a human and a nose
+20	A	MANIPULATOR	317.1747	317.8085	head
+20	B	INSTRUCTOR	318.1137	319.5444	head yes LAUGHTER
+20	A	MANIPULATOR	318.6297	319.1285	okay
+20	A	MANIPULATOR	321.0941	321.5574	correct
+21	A	INSTRUCTOR	322.9173	324.4672	okay it's a purple house
+21	B	MANIPULATOR	324.9957	326.8842	purple house yes
+21	A	INSTRUCTOR	327.5751	328.2236	correct
+22	B	INSTRUCTOR	329.8475	331.619	eh the red mountain
+22	A	MANIPULATOR	332.1991	332.7692	okay
+22	B	INSTRUCTOR	333.1671	334.0607	good
+23	A	INSTRUCTOR	335.4594	335.6375	CLICK
+23	A	INSTRUCTOR	336.3739	337.2765	okay BREATH
+23	A	INSTRUCTOR	338.3752	338.6424	CLICK
+23	A	INSTRUCTOR	339.9785	354.8718	this color is called cyan and it's not the small house it's the other that looks like eh CLICK a V but it's not quite a V it's um it's a V with eh something
+23	B	MANIPULATOR	343.0428	343.5535	yes
+23	A	INSTRUCTOR	356.1431	357.3724	GRUNT no it's not
+23	B	MANIPULATOR	357.3308	359.6409	no no not that no LAUGHTER
+23	A	INSTRUCTOR	359.7537	365.3107	oh should have um it was the one next to the eh green computer
+23	A	INSTRUCTOR	365.3121	365.5244	shit
+23	A	INSTRUCTOR	365.8169	366.047	sorry
+23	B	MANIPULATOR	366.1072	367.1182	oh LAUGHTER
+23	A	INSTRUCTOR	366.6632	368.2695	I should have given more information
+23	A	INSTRUCTOR	368.709	369.3028	um
+23	B	MANIPULATOR	369.7185	370.6662	sorry LAUGHTER
+23	A	INSTRUCTOR	370.8824	371.9039	oh so um
+23	B	MANIPULATOR	372.0587	373.2223	yeah I saw LAUGHTER
+23	A	INSTRUCTOR	374.2318	375.3968	what are we doing now
+23	B	MANIPULATOR	375.9777	377.6286	eh select piece
+23	A	INSTRUCTOR	376.3315	376.6558	ah
+23	B	MANIPULATOR	377.6477	378.9448	ah should I press it a-
+23	A	INSTRUCTOR	379.9208	381.6192	okay okay you got it correct
+23	B	MANIPULATOR	381.2392	384.2096	yea- ah huh huh huh ah oh sorry LAUGHTER
+23	A	INSTRUCTOR	381.9399	382.32	mm-hmm
+24	A	MANIPULATOR	383.769	384.4816	huh it's okay
+24	B	INSTRUCTOR	385.2417	399.8704	eh okay eh this is a yeah kind of green the smallest one with like tags on top it's like next to the computer blue compu- eh blue computer
+24	A	MANIPULATOR	399.9335	403.1047	uh ne- next to the blue computer the greenish
+24	B	INSTRUCTOR	402.1427	404.0861	green yeah the gree-
+24	A	MANIPULATOR	403.4744	405.0035	okay the light green I go-
+24	A	MANIPULATOR	405.0109	405.7043	okay correct
+25	A	INSTRUCTOR	407.0731	418.7704	okay now CLICK it's the green not the light green but the small one it's just below the the yellow uh looks like a rubber band something you know
+25	B	MANIPULATOR	411.8476	412.1267	yes
+25	A	INSTRUCTOR	418.7823	419.1802	uh correct
+26	B	INSTRUCTOR	421.9356	422.194	ye-
+26	B	INSTRUCTOR	422.4033	433.1594	eh this is like the mustard color that you said that loo- it's under the eh house LAUGHTER
+26	A	MANIPULATOR	426.4014	426.8497	uh-huh
+26	A	MANIPULATOR	429.2083	435.8465	the g- the house okay LAUGHTER okay um okay CLICK
+27	A	INSTRUCTOR	436.4523	436.672	oh
+27	A	INSTRUCTOR	437.6103	437.6608	CLICK
+27	A	INSTRUCTOR	437.9785	449.7337	this has exact the same color as the the house it's a purple house but it's not the house it's something li- uh CLICK n- next to the red mountain
+27	A	INSTRUCTOR	450.8264	451.1639	correct
+28	B	INSTRUCTOR	453.5106	460.2247	uh this is red but it's not the mountain and it's not the eh toilet thing
+28	A	MANIPULATOR	459.1492	459.6124	the bi-
+28	A	MANIPULATOR	460.0429	461.7384	okay okay I think I got it's
+28	B	INSTRUCTOR	461.6285	463.1241	yeah LAUGHTER
+28	A	MANIPULATOR	462.1095	463.4866	probably this o- okay
+28	A	MANIPULATOR	464.0128	465.9042	um mm-hmm CLICK NOISE
+29	A	INSTRUCTOR	466.0824	475.7384	okay this is red mm a- actually it's not red it's reddish and it's really small i- it's just above the green V
+29	A	INSTRUCTOR	477.027	477.321	correct
+29	A	INSTRUCTOR	478.9333	479.5034	okay
+30	B	INSTRUCTOR	480.3169	487.159	eh this is the red like the toilet bird thing LAUGHTER I don't know what it is LAUGHTER
+30	A	MANIPULATOR	484.2571	485.6527	LAUGHTER
+30	A	MANIPULATOR	485.816	486.4752	okay
+31	A	INSTRUCTOR	488.708	489.6344	CLICK okay okay
+31	A	INSTRUCTOR	491.22	493.4172	um BREATH CLICK
+31	A	INSTRUCTOR	494.3496	506.1771	this is eh next to the next to the purple house uh and above the red toilet
+31	B	MANIPULATOR	500.3059	500.7572	yes
+31	A	INSTRUCTOR	507.9131	508.3882	correct
+31	A	INSTRUCTOR	509.1424	509.6353	okay
+32	B	INSTRUCTOR	510.9477	511.2505	CLICK
+32	B	INSTRUCTOR	511.6247	521.5518	eh this is eh above the eh CLICK the purple house the color is not red but like reddish
+32	A	MANIPULATOR	517.6285	518.0382	mm-hmm
+32	A	MANIPULATOR	521.0609	522.2957	okay I think I got it
+32	A	MANIPULATOR	523.3448	523.7454	good
+33	A	INSTRUCTOR	525.8948	526.2927	okay
+33	A	INSTRUCTOR	526.5481	528.8958	it's the small blue computer
+33	B	MANIPULATOR	529.3273	531.0894	small blue computer
+33	A	INSTRUCTOR	530.9485	532.3916	eh below the
+33	B	MANIPULATOR	531.1085	533.7218	there it is yeah LAUGHTER
+33	A	INSTRUCTOR	532.4094	532.6172	yeah
+33	A	INSTRUCTOR	532.8013	533.2467	BREATH
+34	B	INSTRUCTOR	534.6363	538.071	okay this is the yellow bird uh ish
+34	B	INSTRUCTOR	539.9037	540.5807	the ye- yes
+34	A	MANIPULATOR	541.6972	542.3088	okay
+35	A	INSTRUCTOR	543.9003	544.0548	BREATH
+35	A	INSTRUCTOR	544.1913	555.1243	okay uh this is the small house not the purple one it's the cyan I think this color is called c- cyan
+35	B	MANIPULATOR	552.4728	554.037	the ah the ye-
+35	A	INSTRUCTOR	555.1434	555.6584	yeah okay
+36	B	INSTRUCTOR	559.2038	563.824	okay eh this is yellow but not the bird one the other one uh next to the V
+36	A	MANIPULATOR	564.109	565.7599	ah the the the
+36	B	INSTRUCTOR	565.444	566.7279	next to the V
+36	A	MANIPULATOR	566.9061	567.9429	ah okay
+36	B	INSTRUCTOR	567.3811	568.9727	yeah LAUGHTER right
+36	A	MANIPULATOR	569.2221	569.6024	good
+37	A	INSTRUCTOR	570.4276	570.6829	okay
+37	A	INSTRUCTOR	571.0511	578.3389	uh it's again the home not the not the the purple the other called the cyan color that whatever it's called
+37	B	MANIPULATOR	577.2509	578.3555	yes home
+37	B	MANIPULATOR	578.5217	579.169	yeah this
+37	A	INSTRUCTOR	579.0443	580.1073	ab- a- just above
+37	A	INSTRUCTOR	580.1147	580.8229	yeah correct
+38	B	INSTRUCTOR	582.8984	587.3701	eh again this yellow thing that's not a bird it's
+38	B	INSTRUCTOR	588.0857	589.0715	yeah LAUGHTER
+38	A	MANIPULATOR	588.2371	589.7603	yeah LAUGHTER
+39	A	INSTRUCTOR	591.481	595.4113	oh okay again it's the yellow thing that it's a bird though
+39	B	MANIPULATOR	594.5529	595.6211	LAUGHTER
+39	A	INSTRUCTOR	596.2888	597.1853	okay
+40	B	INSTRUCTOR	598.625	604.8345	uh the small house eh the cyan color
+40	A	MANIPULATOR	603.8257	605.5975	okay okay I got it
+41	A	INSTRUCTOR	609.3128	610.162	hmm BREATH CLICK
+41	A	INSTRUCTOR	611.8545	628.0492	uh it's that um thing ne- ne- eh you know th- that yellow thing not that th- ne- next to that yellow thing that is eh a blue thing that looks like a big uh um CLICK um
+41	B	MANIPULATOR	628.3219	631.8451	ah the eh yeah blue next to the yellow thing
+41	A	INSTRUCTOR	631.4456	632.5382	yeah yeah yeah yeah
+41	A	INSTRUCTOR	632.9599	633.2152	correct
+41	B	MANIPULATOR	634.4683	635.5312	LAUGHTER
+42	A	MANIPULATOR	635.555	635.9054	LAUGHTER
+42	B	INSTRUCTOR	636.3389	647.4869	eh okay this is like reddish it's not red but it's between the yellow and purple house purple house and between yellow bird
+42	A	MANIPULATOR	646.3215	647.4106	CLICK ah hmm
+42	B	INSTRUCTOR	648.9582	649.2609	yeah
+43	A	INSTRUCTOR	652.6282	653.1507	okay
+43	A	INSTRUCTOR	653.5011	659.1228	it's in the top ah it's the it's the the red mountain basically
+43	B	MANIPULATOR	659.3505	660.2673	red mountain
+44	B	INSTRUCTOR	663.555	664.3745	eh
+44	B	INSTRUCTOR	664.4339	664.6239	oh
+44	B	INSTRUCTOR	664.8199	674.0397	eh this the like blue light color next to the house above the head with the nose
+44	A	MANIPULATOR	674.4462	675.1707	ah hmm
+45	A	INSTRUCTOR	679.9868	684.9317	okay it's uh it's the big red toilet thingy LAUGHTER
+45	B	MANIPULATOR	683.9478	685.771	BREATH LAUGHTER
+45	A	INSTRUCTOR	685.8006	686.1569	correct
+46	B	INSTRUCTOR	688.0156	690.2663	eh small computer blue
+46	A	MANIPULATOR	691.1036	691.6653	mm-hmm
+47	A	INSTRUCTOR	695.0468	697.3806	okay it's the eh purple house
+47	B	MANIPULATOR	697.8616	698.9711	purple house
+47	A	INSTRUCTOR	699.8486	700.3827	'kay
+48	B	INSTRUCTOR	701.882	702.4343	eh
+48	B	INSTRUCTOR	702.4699	702.8618	okay
+48	B	INSTRUCTOR	702.8737	718.6404	eh this is like greenish eh it's where is it's small it's next eh ne- little bit above to the purple house next to the eh head with the nose
+48	A	MANIPULATOR	719.6262	720.2591	okay
+48	B	INSTRUCTOR	720.1191	720.9445	yes right
+48	B	INSTRUCTOR	720.9921	723.4638	LAUGHTER good LAUGHTER
+48	A	MANIPULATOR	721.1999	722.7498	LAUGHTER
+49	A	INSTRUCTOR	723.5278	724.4542	okay BREATH
+49	A	INSTRUCTOR	725.0837	726.0576	CLICK this is
+49	A	INSTRUCTOR	726.6514	726.7168	CLICK
+49	A	INSTRUCTOR	727.1562	727.8273	uh I mean
+49	A	INSTRUCTOR	728.7299	731.6576	fi- find where the the purple house
+49	B	MANIPULATOR	731.8298	732.3147	yes
+49	A	INSTRUCTOR	732.4712	736.7172	below it there is a small eh green thingy
+49	A	INSTRUCTOR	737.4654	738.1365	exactly
+49	B	MANIPULATOR	738.1246	738.7778	LAUGHTER
+50	B	INSTRUCTOR	741.4026	746.9314	eh okay this mustard thing that's under the red toilet
+50	B	INSTRUCTOR	746.9908	747.4777	yes
+50	A	MANIPULATOR	747.4065	748.09	LAUGHTER
+50	B	INSTRUCTOR	747.7085	748.5669	LAUGHTER
+51	A	INSTRUCTOR	750.5836	751.1299	okay
+51	A	INSTRUCTOR	752.0266	759.8773	this is the smallest eh red thing that is abo- below the Batman sign
+51	A	INSTRUCTOR	760.4118	761.0234	okay BREATH
+51	B	MANIPULATOR	761.1659	761.6335	LAUGHTER
+52	B	INSTRUCTOR	763.6185	767.8052	eh this is the yellow not bird thing
+52	A	MANIPULATOR	767.0569	767.5854	mm
+52	B	INSTRUCTOR	768.4228	768.8249	yes
+53	A	INSTRUCTOR	771.0298	771.1188	BREATH
+53	A	INSTRUCTOR	771.398	771.9621	okay
+53	A	INSTRUCTOR	772.4906	772.847	uh
+53	A	INSTRUCTOR	773.8981	781.014	ab- just above the red mountain is some reddish shape I don- yeah exactly
+54	B	INSTRUCTOR	783.2512	783.6728	eh
+54	B	INSTRUCTOR	783.7203	786.0308	oh the red mountain huh
+54	A	MANIPULATOR	785.6088	786.4045	okay LAUGHTER
+55	A	INSTRUCTOR	790.3655	790.6446	mm
+55	A	INSTRUCTOR	790.8049	790.9772	BREATH
+55	A	INSTRUCTOR	791.1909	795.7973	uh it's the mustard colored not Batman sign
+55	B	MANIPULATOR	795.728	796.2361	LAUGHTER
+56	B	INSTRUCTOR	799.2317	799.8018	eh
+56	B	INSTRUCTOR	799.8433	804.3388	yeah this is the smallest reddish kind of thing
+56	B	INSTRUCTOR	804.4872	804.992	yes
+56	A	MANIPULATOR	807.6881	808.175	mm-hmm
+57	A	INSTRUCTOR	808.561	809.1014	BREATH
+57	A	INSTRUCTOR	809.1668	817.5813	okay it's the V eh the the the ne- next n- n- th- the greenish next to the purple
+57	B	MANIPULATOR	814.6539	815.3844	green
+57	B	MANIPULATOR	815.61	815.806	yeah
+57	A	INSTRUCTOR	817.6767	818.0391	correct
+58	B	INSTRUCTOR	820.729	824.4484	eh the head with a nose that's eh green
+58	A	MANIPULATOR	823.6626	825.3254	the head LAUGHTER with a nose where is it
+58	A	MANIPULATOR	825.361	825.8836	okay
+58	B	INSTRUCTOR	827.6236	828.2946	yes o-
+58	A	MANIPULATOR	828.8588	828.9657	CLICK
+58	A	MANIPULATOR	829.1913	829.5239	okay
+59	A	INSTRUCTOR	832.0478	832.214	oh
+59	A	INSTRUCTOR	832.4813	836.6738	uh again the the the the greenish V just below there
+59	A	INSTRUCTOR	836.852	837.042	yeah
+60	B	INSTRUCTOR	839.75	841.7394	oh again the head with the nose
+60	A	MANIPULATOR	841.9828	842.4555	LAUGHTER
+60	B	INSTRUCTOR	842.262	842.8321	yeah LAUGHTER
+61	A	INSTRUCTOR	846.2467	846.5495	um
+61	A	INSTRUCTOR	846.6208	846.793	BREATH
+61	A	INSTRUCTOR	846.9296	847.3512	um
+61	A	INSTRUCTOR	847.9926	852.2411	tha- that reddish thing next to the red toilet
+61	B	MANIPULATOR	852.9987	854.1677	the reddish thing
+61	A	INSTRUCTOR	854.3884	855.0261	eh correct
+62	B	INSTRUCTOR	856.6509	858.1415	eh the red mountain
+63	A	INSTRUCTOR	863.1298	864.1097	mm-hmm CLICK
+63	A	INSTRUCTOR	865.2499	866.2475	um BREATH
+63	A	INSTRUCTOR	866.9364	874.502	it's that weird blue shape next to the small uh blue computer
+63	A	INSTRUCTOR	875.274	875.6897	correct
+64	B	INSTRUCTOR	878.0235	878.5877	eh
+64	B	INSTRUCTOR	878.653	885.025	ooh eh the ligh- eh light blue color that's above the yellow bird
+64	A	MANIPULATOR	885.1269	885.7374	mm-hmm
+64	B	INSTRUCTOR	885.2605	885.6038	yeah
+65	A	INSTRUCTOR	889.5917	893.8377	okay it's the small blue computer in the top right corner
+65	A	INSTRUCTOR	894.4197	894.6929	correct
+66	B	INSTRUCTOR	896.7654	901.1658	eh the yell- no eh the eh CLICK purple house
+66	A	MANIPULATOR	902.1421	902.5999	'kay
+67	A	INSTRUCTOR	906.1067	906.3917	mm
+67	A	INSTRUCTOR	906.5639	906.7955	hmm
+67	A	INSTRUCTOR	906.9856	907.1281	BREATH
+67	A	INSTRUCTOR	908.0129	913.5298	okay it's that green thing just above LAUGHTER the head with the nose
+67	B	MANIPULATOR	911.3555	914.9226	LAUGHTER
+67	A	INSTRUCTOR	913.8623	914.3018	correct
+68	B	INSTRUCTOR	916.9682	917.4314	eh
+68	B	INSTRUCTOR	917.4967	921.4398	the yellow thing not the bird one the other one
+68	B	INSTRUCTOR	922.3781	922.972	yes
+69	A	INSTRUCTOR	925.7393	926.1669	okay
+69	A	INSTRUCTOR	926.3332	926.4757	BREATH
+69	A	INSTRUCTOR	926.5826	934.0169	uh that little small red uh uh greenish thing just below the red mountain
+69	B	MANIPULATOR	934.2892	937.4174	eh greenish thing below
+69	A	INSTRUCTOR	936.6829	937.7351	with horns
+69	B	MANIPULATOR	937.4263	937.934	yes
+69	A	INSTRUCTOR	937.9251	938.3586	okay

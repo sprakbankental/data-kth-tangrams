@@ -1,0 +1,19 @@
+PARTICIPANT_ID	A	B
+INITIAL_ROLE	MOVE_SUBMISSION	WAITING_FOR_NEXT_MOVE
+SOURCE_ID	source1	source2
+ACCENT	German (German)	Scandinavian (Swedish)
+AGE	Adult	Adult
+GENDER	Masculine	Feminine
+DYAD_PARTNER_FAMILIARITY	Strong	Strong
+SAMPLING_RATE	16000	16000
+BIT_DEPTH	16	16
+MICROPHONE	Sennheiser SC 60 USB ML	Sennheiser SC 60 USB ML
+AUDIO_CARD	Sennheiser SC 60 USB ML	Sennheiser SC 60 USB ML
+RECORDING_LIBRARY	JPortAudio version 1899; PortAudio V19-devel	JPortAudio version 1899; PortAudio V19-devel
+SOUND_SERVER	Microsoft DirectX 11	Microsoft DirectX 11
+RECORDING_SOFTWARE	IrisTK version 2017.01.27	IrisTK version 2017.01.27
+COMPUTER	Apple Macbook Pro 7,1 MC374LL/A (13-inch, mid 2010)	Apple Macbook Pro 7,1 MC374LL/A (13-inch, mid 2010)
+DISPLAY	Apple Macbook Pro 7,1 MC374LL/A (13-inch, mid 2010)	Apple Macbook Pro 7,1 MC374LL/A (13-inch, mid 2010)
+GRAPHICS_CARD	Nvidia GeForce 320M 	Nvidia GeForce 320M
+NOTES	Dropped samples; Game stopped after all pieces are moved twice; This participant always received an already-seen piece to move if possible	Dropped samples; Game stopped after all pieces are moved twice; This participant always received a new piece to move until game stopped
+CONSENT_FORM	Present	Present

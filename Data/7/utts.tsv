@@ -1,0 +1,296 @@
+ROUND	SPEAKER	DIALOGUE_ROLE	START_TIME	END_TIME	TOKENS
+0	A	INSTRUCTOR	0.0	1.1996	for that turn or
+0	A	INSTRUCTOR	3.0366	4.3862	yeah yeah absolutely okay
+0	B	MANIPULATOR	6.3884	6.9132	is
+0	A	INSTRUCTOR	6.523	9.6721	yes we we we can't do it in Swedish
+0	B	MANIPULATOR	7.9254	8.6002	okay good
+0	B	MANIPULATOR	9.8373	12.574	okay COUGH keep it to English
+0	A	INSTRUCTOR	12.2588	13.7209	all right are we ready
+0	B	MANIPULATOR	14.6734	16.023	yes I'm ready are you ready
+0	A	INSTRUCTOR	16.0826	16.57	yep
+1	B	MANIPULATOR	17.2976	17.9349	CLICK good
+1	B	MANIPULATOR	18.2723	19.5469	um
+1	B	MANIPULATOR	20.4091	23.4082	em okay I'm supposed to it says select piece to move
+1	A	INSTRUCTOR	21.5185	25.4923	BREATH so I will I will describe to you what it is
+1	B	MANIPULATOR	25.3202	27.2321	ah okay okay good yeah
+1	A	INSTRUCTOR	26.6544	34.677	eh so it's uh indigo it's eh looks like a bird shape
+1	B	MANIPULATOR	30.0812	30.756	mm-hmm
+1	B	MANIPULATOR	39.7533	41.6652	now you have to give me more LAUGHTER
+1	A	INSTRUCTOR	41.0126	42.5871	ah okay eh
+1	B	MANIPULATOR	42.1151	45.6015	there there wait a bird indigo like blue
+1	A	INSTRUCTOR	44.4241	48.6603	like eh indigo lila
+1	B	MANIPULATOR	49.7628	53.0618	oh okay okay oh and it's kind of small right
+1	A	INSTRUCTOR	52.4841	56.6079	it's small it's eh pointing to the left it's like a bird shape
+1	B	MANIPULATOR	56.3233	56.9606	yeah
+1	B	MANIPULATOR	57.7479	58.1977	yep
+1	A	INSTRUCTOR	59.8694	60.6192	great
+1	B	MANIPULATOR	59.9972	60.7844	I think I got it
+1	A	INSTRUCTOR	60.8816	61.3315	okay
+1	B	MANIPULATOR	61.4218	62.8088	press okay to continue yeah okay
+1	A	INSTRUCTOR	62.1937	63.1684	CLICK BREATH
+2	B	INSTRUCTOR	62.9213	71.4687	BREATH um okay then I'm ex- I'm explaining to you uh this is kind of a um CLICK eh yellowish greenish
+2	A	MANIPULATOR	64.2181	64.7429	NOISE
+2	A	MANIPULATOR	68.6792	69.6914	what color
+2	A	MANIPULATOR	71.9783	72.4281	'kay
+2	B	INSTRUCTOR	71.9936	76.2673	'kay not like real yellow it's it's kind of like it kind of looks like
+2	A	MANIPULATOR	73.1029	73.8152	yes
+2	A	MANIPULATOR	73.9277	74.415	yep
+2	B	INSTRUCTOR	77.0545	77.6918	um
+2	A	MANIPULATOR	78.0139	78.7262	crown
+2	B	INSTRUCTOR	78.3291	79.8662	I'm thinking like a flame
+2	A	MANIPULATOR	79.9258	80.6006	NOISE
+2	A	MANIPULATOR	80.9755	81.6128	okay
+2	B	INSTRUCTOR	81.2533	86.2018	it has lots uh pointy um tops at the top and it kind of goes around
+2	A	MANIPULATOR	84.0121	84.6869	yes
+2	B	INSTRUCTOR	86.6891	87.9637	at the bottom like yeah
+2	B	INSTRUCTOR	90.288	91.0378	yes
+3	A	INSTRUCTOR	92.3346	92.7095	BREATH
+3	A	INSTRUCTOR	93.2718	98.7452	em this is light blue it's like an arrow up left
+3	B	MANIPULATOR	95.8364	96.4737	mm
+3	B	MANIPULATOR	99.3603	101.7221	CLICK um yep
+4	B	INSTRUCTOR	106.7456	115.9303	uh this is also uh light blue but more of a clear blue it kind of just looks like a little block it's very small
+4	A	MANIPULATOR	117.602	118.0893	yep
+4	A	MANIPULATOR	118.8016	119.7013	eh
+4	A	MANIPULATOR	120.676	124.2	eh like a block from up right to down left
+4	B	INSTRUCTOR	125.3774	131.5631	eh it has a point that points down and a point that points a little bit to the right but otherwise it's kind of just like a rectangle
+4	B	INSTRUCTOR	132.6502	133.7749	NOISE NOISE NOISE
+4	B	INSTRUCTOR	133.8499	136.0992	eh no sorry
+4	A	MANIPULATOR	135.2591	136.0089	ah okay
+4	A	MANIPULATOR	136.1963	136.9086	oh sorry
+4	B	INSTRUCTOR	136.549	148.6579	um it's okay so it's it's small it's light blue it it looks like a basic rectangle shape except that it has um one point on the left side pointing down and then the right is also pointy
+4	A	MANIPULATOR	147.6304	147.9678	NOISE
+4	A	MANIPULATOR	149.4298	150.1046	oh okay
+4	B	INSTRUCTOR	150.6823	151.0572	yeah
+5	A	INSTRUCTOR	154.7907	157.9023	CLICK eh it's the same bird shape
+5	B	MANIPULATOR	159.4921	161.404	the exact same as before the purple
+5	A	INSTRUCTOR	161.5012	161.9136	yep
+5	A	INSTRUCTOR	162.8133	164.2754	purplish yes
+5	B	MANIPULATOR	164.2532	165.1154	yes
+6	B	INSTRUCTOR	167.1398	169.9889	eh okay this is also the same like the flame
+6	B	INSTRUCTOR	171.451	173.213	with a m- pointy at
+6	A	MANIPULATOR	171.998	173.7975	ex- exactly the same
+6	B	INSTRUCTOR	173.8503	174.7875	exactly the same
+6	B	INSTRUCTOR	176.0621	176.437	yeah
+7	A	INSTRUCTOR	179.2708	183.0197	NOISE this is like uh red like an M
+7	B	MANIPULATOR	181.423	181.9478	mm-hmm
+7	B	MANIPULATOR	183.7848	184.5345	BREATH yeah
+8	B	INSTRUCTOR	187.9085	194.8064	this is a blue em it's like a big triangle pointing down and then a small triangle in the middle pointing up
+8	B	INSTRUCTOR	196.7559	197.3557	yeah
+8	A	MANIPULATOR	198.1651	198.4275	NOISE
+9	A	INSTRUCTOR	200.4144	200.7518	CLICK
+9	A	INSTRUCTOR	201.1642	202.8137	the same M again
+9	B	MANIPULATOR	203.2414	204.441	exact same red
+9	A	INSTRUCTOR	204.3133	205.1755	he- yep
+10	B	INSTRUCTOR	208.9772	211.6014	BREATH same exact blue two triangles
+10	B	INSTRUCTOR	214.1881	214.563	mm
+11	A	INSTRUCTOR	216.797	226.6565	CLICK eh COUGH so this is a red eh lots of eh arrows one up one one left left right right
+11	B	MANIPULATOR	223.8602	224.4225	mm-hmm
+11	A	INSTRUCTOR	229.7306	230.4429	great
+11	B	MANIPULATOR	230.983	231.2829	CLICK
+12	B	INSTRUCTOR	231.6578	241.7048	um okay so this is a different one it's yellow it's um it has a flat bottom and then four small points at the top
+12	A	MANIPULATOR	242.9641	244.2387	NOISE
+12	B	INSTRUCTOR	243.0169	243.3918	NOISE
+12	A	MANIPULATOR	245.4383	248.5499	em the big big yellow
+12	B	INSTRUCTOR	248.2653	251.6768	big yellow and it has four pointy things uh no sorry
+12	B	INSTRUCTOR	251.9767	252.8389	um
+12	B	INSTRUCTOR	253.5512	254.2635	it's
+12	B	INSTRUCTOR	255.1257	256.7377	it's um
+12	A	MANIPULATOR	257.6222	259.3466	a big yellow or green
+12	B	INSTRUCTOR	259.8868	265.5101	okay wait wait maybe it's kind of yellow green it's it's LAUGHTER yeah sorry
+12	A	MANIPULATOR	262.0458	264.745	ah okay then I okay great
+12	B	INSTRUCTOR	265.7725	266.5973	COUGH
+13	A	INSTRUCTOR	268.194	273.7048	eh right so it's the same flame the green light green em
+13	A	INSTRUCTOR	273.9297	274.5295	NOISE CLICK
+13	A	INSTRUCTOR	275.0919	275.5042	yep
+14	B	INSTRUCTOR	278.3687	280.8429	eh this the uh the red M
+15	A	INSTRUCTOR	285.4387	291.8118	eh okay the the same eh bird but red this time a little bit bigger
+15	B	MANIPULATOR	290.5525	293.5516	eh wi- pointing to the left or looking to the left
+15	A	INSTRUCTOR	292.3367	293.4613	y- yes
+15	A	INSTRUCTOR	296.3854	297.2852	NOISE
+16	B	INSTRUCTOR	297.9003	306.3727	eh okay this is a new one it's pink it's big it's like it's like a rectangle you just push to the right it's kind of slammed in
+16	B	INSTRUCTOR	307.5724	308.1722	yep
+17	A	INSTRUCTOR	310.7366	311.9807	CLICK that was great
+17	B	MANIPULATOR	311.8461	312.6708	yeah
+17	A	INSTRUCTOR	312.2586	322.7744	so uh so this is the COUGH light blue eh as we had before one arrow up left and one to the right and one down
+17	A	INSTRUCTOR	323.5009	324.3657	eh
+17	A	INSTRUCTOR	325.3688	329.1047	the small rectangle with an ar- arrow to the right and down
+17	B	MANIPULATOR	327.4838	328.0373	ah
+17	B	MANIPULATOR	329.3518	330.3895	no wait maybe not
+17	A	INSTRUCTOR	330.2462	330.9035	okay
+17	A	INSTRUCTOR	331.6645	332.7368	that you had before
+17	A	INSTRUCTOR	333.3941	335.1582	the the very small one
+17	B	MANIPULATOR	335.3361	335.9242	mm
+17	B	MANIPULATOR	336.4431	340.179	oh right right right right the very small one arrow down and arrow to the right
+17	A	INSTRUCTOR	340.4162	340.7967	yeah
+17	B	MANIPULATOR	341.3897	341.8394	okay
+17	A	INSTRUCTOR	342.1457	342.6992	correct
+18	B	INSTRUCTOR	344.8142	347.6853	BREATH ah this is the little purple bird looking to the left
+18	A	MANIPULATOR	345.1552	346.193	NOISE
+18	B	INSTRUCTOR	352.0093	352.5282	okay
+19	A	INSTRUCTOR	354.3912	362.2435	right so this is a big red one and it's eh light a K eh
+19	B	MANIPULATOR	358.132	358.6509	mm
+19	B	MANIPULATOR	362.1792	363.0094	yeah I think okay
+19	A	INSTRUCTOR	363.0737	363.558	yeah
+20	B	INSTRUCTOR	365.4654	375.0819	eh okay so this is blue it's kind of small it's like um it's like uh three mountain tops one big in the middle and two smaller on the sides
+20	A	MANIPULATOR	368.5737	369.1618	NOISE
+20	B	INSTRUCTOR	376.5347	379.9593	or NOISE one small one on each side of the big one COUGH
+20	A	MANIPULATOR	377.2562	377.9827	NOISE ah okay
+20	A	MANIPULATOR	378.8821	379.2972	y- yeah
+21	A	INSTRUCTOR	380.8884	381.1997	CLICK
+21	A	INSTRUCTOR	381.4072	386.596	eh this is the one eh rectangle down and one rectangle up the blue
+21	B	MANIPULATOR	387.3965	388.4343	eh
+21	A	INSTRUCTOR	389.052	389.986	big blue
+21	A	INSTRUCTOR	391.4388	393.9986	so arrow down and arrow in the middle up
+21	B	MANIPULATOR	393.0695	394.2803	ah right yes
+21	A	INSTRUCTOR	394.4829	394.8634	yeah
+22	B	INSTRUCTOR	396.9092	404.0005	BREATH eh okay so this is COUGH a red one it has one arrow pointing up eh two to the right and two to the left
+22	A	MANIPULATOR	408.1466	409.1843	CLICK a red one
+22	B	INSTRUCTOR	409.0855	411.3339	red one one um yeah point yeah
+22	A	MANIPULATOR	409.9107	411.6749	ah okay okay okay yeah
+22	B	INSTRUCTOR	412.0949	412.5446	good
+23	A	INSTRUCTOR	417.2096	421.7411	okay so this is like em CLICK a bird eh like a eh
+23	A	INSTRUCTOR	421.8794	423.6782	eh a ch- em
+23	A	INSTRUCTOR	423.8166	424.0587	CLICK
+23	A	INSTRUCTOR	424.37	426.7569	like a chicken bird eh
+23	B	MANIPULATOR	427.2461	427.9033	what color
+23	A	INSTRUCTOR	427.5179	428.1751	looking to the
+23	A	INSTRUCTOR	428.3481	429.6971	eh light blue
+23	A	INSTRUCTOR	430.3544	431.5305	looking to the right
+23	B	MANIPULATOR	431.5354	432.0543	okay
+23	A	INSTRUCTOR	432.5683	433.1217	great
+23	B	MANIPULATOR	433.1612	433.438	yeah
+24	B	INSTRUCTOR	435.9978	438.0732	this is a yellow V
+24	A	MANIPULATOR	437.3765	437.8608	BREATH
+24	B	INSTRUCTOR	440.4601	440.7022	yep
+25	A	INSTRUCTOR	444.0181	453.2886	all right this is light blue it's an arrow to the up left and a square or rectangle bottom right
+25	B	MANIPULATOR	452.2558	452.7055	okay
+26	B	INSTRUCTOR	458.3439	458.932	mm
+26	B	INSTRUCTOR	460.1427	466.8881	this is the same one that we had before it's like yellow greenish um it's it's flat on the bottom and it has four points
+26	B	INSTRUCTOR	468.3755	468.929	yeah
+27	A	INSTRUCTOR	472.1065	472.3486	CLICK
+27	A	INSTRUCTOR	472.7291	474.943	all right so this is eh eh eh
+27	A	INSTRUCTOR	475.531	478.921	a pink eh or purple pink
+27	B	MANIPULATOR	476.885	477.4039	mm
+27	B	MANIPULATOR	478.8568	479.2719	mm
+27	A	INSTRUCTOR	479.7858	485.4588	eh like a a h- a person's head with a nose looking to the right
+27	B	MANIPULATOR	483.9417	485.6367	BREATH with a pointy nose
+27	A	INSTRUCTOR	485.8394	489.679	yes very pointy nose LAUGHTER BREATH
+27	B	MANIPULATOR	487.0896	488.4041	yes LAUGHTER
+27	B	MANIPULATOR	488.6808	489.0959	LAUGHTER
+28	B	INSTRUCTOR	490.7563	497.3633	eh okay this is purple it's kind of like it looks kind of like a house it's like a big rectangle with a a little
+28	A	MANIPULATOR	491.6853	492.896	CLICK CLICK CLICK
+28	A	MANIPULATOR	495.1791	495.4558	CLICK
+28	B	INSTRUCTOR	497.64	499.7847	not a triangle on top but it's
+28	B	INSTRUCTOR	501.7564	502.8634	like yeah good
+29	A	INSTRUCTOR	506.8019	511.4717	right so the pink one like a rectangle tilted to the right and left
+29	B	MANIPULATOR	510.1968	510.5081	mm
+30	B	INSTRUCTOR	514.6591	522.1655	BREATH a small very light blue eh rectangle with one point down and one point to the right
+30	B	INSTRUCTOR	525.0712	525.6592	yes
+31	A	INSTRUCTOR	527.3493	536.1702	BREATH okay a big yellow eh like a a a big V with a small eh arrow
+31	B	MANIPULATOR	530.1561	530.675	mm
+31	B	MANIPULATOR	536.0713	536.4172	yep
+31	A	INSTRUCTOR	536.8966	537.4155	yep
+31	A	INSTRUCTOR	538.2111	539.0067	NOISE
+32	B	INSTRUCTOR	539.9456	545.8262	a small blue eh it's like a rectangle with a point up to the right and down to the left
+32	A	MANIPULATOR	549.4533	551.2175	NOISE em
+32	B	INSTRUCTOR	551.257	553.6093	it's the big pink one except it's small and blue
+32	A	MANIPULATOR	554.0194	555.4723	ah okay NOISE yeah NOISE
+32	B	INSTRUCTOR	554.9583	555.4772	BREATH
+33	A	INSTRUCTOR	558.6893	561.4566	uh the big one again the pink eh
+33	B	MANIPULATOR	561.6691	563.3641	rectangles tilt yeah
+33	A	INSTRUCTOR	561.8026	563.3246	tr- eh yes
+33	A	INSTRUCTOR	563.6359	563.9818	yeah
+34	B	INSTRUCTOR	568.3453	573.6378	a s- small blue eh rectangle with one point down and one point to the right
+34	B	INSTRUCTOR	574.0875	574.5026	BREATH
+35	A	INSTRUCTOR	580.6896	581.8657	CLICK em
+35	A	INSTRUCTOR	582.938	587.7117	like a blue V eh with an arrow in the middle up
+35	B	MANIPULATOR	587.7858	588.1317	mm
+36	B	INSTRUCTOR	592.2135	596.745	this looks like TV it's blue it's like it's like a TV on a big foot
+36	A	MANIPULATOR	595.2527	595.5986	CLICK
+36	B	INSTRUCTOR	597.8865	598.2325	yeah
+37	A	INSTRUCTOR	600.8911	601.7213	small V
+37	B	MANIPULATOR	602.1759	603.3866	CLICK eh yellow
+37	A	INSTRUCTOR	603.7622	604.1427	yeah
+38	B	INSTRUCTOR	608.5062	616.8082	eh it's uh a a a blue green sl- light blue um triangle pointing to the up left and a small rectangle
+38	B	INSTRUCTOR	617.8459	618.0881	yep
+39	A	INSTRUCTOR	621.5423	629.8443	all right big green light green em CLICK like flat in the bottom and like flames
+39	B	MANIPULATOR	630.6794	631.0945	ah
+40	B	INSTRUCTOR	635.4876	636.8713	eh big red M
+41	A	INSTRUCTOR	641.64	643.508	the same flame green
+42	B	INSTRUCTOR	646.4532	647.6639	big red M LAUGHTER
+42	A	MANIPULATOR	648.2816	649.3885	BREATH LAUGHTER
+42	B	INSTRUCTOR	648.8054	649.2551	LAUGHTER
+43	A	INSTRUCTOR	651.8446	652.1213	CLICK
+43	A	INSTRUCTOR	652.2942	656.7912	eh b- big red one arrow up two left two right
+43	B	MANIPULATOR	655.8621	656.3118	yeah
+44	B	INSTRUCTOR	660.4282	664.3371	a small chicken bird blue bird looking to the right
+45	A	INSTRUCTOR	670.1781	670.8354	BREATH
+45	A	INSTRUCTOR	671.0429	671.9423	em
+45	A	INSTRUCTOR	672.3228	674.848	a red bird looking to the left
+46	B	INSTRUCTOR	678.3121	680.353	a small bird purple
+47	A	INSTRUCTOR	685.3292	685.6406	CLICK
+47	A	INSTRUCTOR	685.9519	689.8607	em big red arrow up two left two right
+48	B	INSTRUCTOR	693.0481	695.2274	s- a small chicken bird blue
+49	A	INSTRUCTOR	702.1754	703.8358	eh big red K
+50	B	INSTRUCTOR	708.303	713.2842	a blue uh big mountain in the middle one point on each side
+50	A	MANIPULATOR	718.2605	719.3328	GROAN
+50	B	INSTRUCTOR	718.6113	721.6554	small it's like three triangles one tall in the middle
+50	A	MANIPULATOR	719.7133	720.3014	ah
+50	A	MANIPULATOR	721.5121	722.5152	BREATH yeah
+50	B	INSTRUCTOR	722.5202	722.8661	yeah
+51	A	INSTRUCTOR	726.182	726.4933	CLICK
+51	A	INSTRUCTOR	727.2197	727.8078	okay
+51	A	INSTRUCTOR	727.9115	730.1254	the red bird looking to the left
+52	B	INSTRUCTOR	733.6933	734.6964	a purple bird
+53	A	INSTRUCTOR	740.5029	743.5815	a blue V arrow in the middle
+53	B	MANIPULATOR	745.1777	746.4922	blue V ah yeah
+53	A	INSTRUCTOR	745.7954	746.0721	up
+53	A	INSTRUCTOR	748.3552	749.808	ah it was wrong eh
+53	B	MANIPULATOR	749.2249	751.162	no LAUGHTER BREATH
+53	A	INSTRUCTOR	749.9464	750.5345	mm mm
+53	A	INSTRUCTOR	750.9841	752.7137	blue V arrow in the middle up
+53	B	MANIPULATOR	751.6809	753.8256	oh sorry sorry yes okay
+54	B	INSTRUCTOR	757.3885	758.6338	eh TV blue
+55	A	INSTRUCTOR	766.0315	767.8994	big V arrow in the middle up
+55	B	MANIPULATOR	769.0113	770.4987	eh the blue one
+55	A	INSTRUCTOR	770.5976	772.1196	eh sorry eh yellow
+55	B	MANIPULATOR	772.1591	773.1623	yellow mm
+56	B	INSTRUCTOR	776.8982	781.4297	a blue um eh small rectangle that's tilted to the right
+57	A	INSTRUCTOR	787.3745	787.7896	NOISE
+57	A	INSTRUCTOR	788.4123	793.601	pink eh rectangle tilted to the right
+58	B	INSTRUCTOR	796.2003	801.3891	em small light blue s- uh rectangle one point down one point to the right
+59	A	INSTRUCTOR	806.1924	806.4691	CLICK
+59	A	INSTRUCTOR	806.8496	809.4786	big yellow V arrow up
+60	B	INSTRUCTOR	812.5622	815.883	eh small blue rectangle tilted
+60	A	MANIPULATOR	814.8749	815.878	BREATH
+61	A	INSTRUCTOR	820.7554	822.2083	big red K
+62	B	INSTRUCTOR	825.8453	832.314	eh blue eh three triangles are pointing up the mountain thingy
+62	B	INSTRUCTOR	834.8046	835.1851	BREATH
+63	A	INSTRUCTOR	836.6676	838.2588	eh yellow V
+63	A	INSTRUCTOR	839.4349	839.9192	mm
+64	B	INSTRUCTOR	842.2764	849.506	eh like a uh light green the green eh triangle and little rectangle that are together yeah
+65	A	INSTRUCTOR	852.2684	852.4068	CLICK
+65	A	INSTRUCTOR	852.7527	853.7559	little V
+66	B	INSTRUCTOR	857.7388	860.6791	same one as before the green triangle and rectangle
+66	A	MANIPULATOR	859.2905	859.7056	NOISE
+67	A	INSTRUCTOR	866.3818	870.4982	eh the pink head with the sticky nose
+68	B	INSTRUCTOR	872.2673	873.9277	eh the purple house
+68	B	INSTRUCTOR	877.802	879.2548	the one that's a rectangle yeah
+68	A	MANIPULATOR	878.6272	879.1115	yeah
+69	A	INSTRUCTOR	881.9134	882.1556	CLICK
+69	A	INSTRUCTOR	882.3285	885.1651	little eh yellow V BREATH
+69	B	MANIPULATOR	885.3775	886.104	yep
+69	A	INSTRUCTOR	886.2374	886.6871	BREATH
+70	B	INSTRUCTOR	888.9059	891.604	eh green triangle and rectangle
+71	A	INSTRUCTOR	896.4765	897.4797	big red K
+72	B	INSTRUCTOR	901.3589	903.2614	eh the three mountains blue
+72	A	MANIPULATOR	906.1276	906.9924	yep
+73	A	INSTRUCTOR	911.2471	913.3226	purple bird looking to the left
+74	B	INSTRUCTOR	916.0257	916.4408	BREATH
+74	B	INSTRUCTOR	916.5446	919.3811	eh the big V with the triangle up blue
+74	A	MANIPULATOR	928.958	929.4077	CLICK yeah
+74	B	INSTRUCTOR	930.4504	934.5668	did anything ha- you pre- and I pressed okay nothing is happening
+74	A	MANIPULATOR	931.8637	932.4864	eh I
+74	B	INSTRUCTOR	936.2359	938.8562	oh okay wait sorry it said that it was the wrong
+74	B	INSTRUCTOR	938.8648	942.9899	BREATH eh it's a blue V with a point in the middle up
+74	A	MANIPULATOR	939.9668	940.3214	okay

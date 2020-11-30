@@ -1,0 +1,19 @@
+PARTICIPANT_ID	A	B
+INITIAL_ROLE	MOVE_SUBMISSION	WAITING_FOR_NEXT_MOVE
+SOURCE_ID	source2	source1
+ACCENT	Scandinavian (Swedish)	Scandinavian (Swedish)
+AGE	Adult	Adult
+GENDER	Masculine	Feminine
+DYAD_PARTNER_FAMILIARITY	?	?
+SAMPLING_RATE	16000	16000
+BIT_DEPTH	16	16
+MICROPHONE	Sennheiser SC 60 USB ML	Sennheiser SC 60 USB ML
+AUDIO_CARD	Sennheiser SC 60 USB ML	Sennheiser SC 60 USB ML
+RECORDING_LIBRARY	JPortAudio version 1899; PortAudio V19-devel	JPortAudio version 1899; PortAudio V19-devel
+SOUND_SERVER	Microsoft DirectX 11	Microsoft DirectX 11
+RECORDING_SOFTWARE	IrisTK version 2017.01.27	IrisTK version 2017.01.27
+COMPUTER	Gigabyte GB-BXi7H-4500	Apple Macbook Pro 7,1 MC374LL/A (13-inch, mid 2010)
+DISPLAY	Dell P2311Hb (23-inch)	Apple Macbook Pro 7,1 MC374LL/A (13-inch, mid 2010)
+GRAPHICS_CARD	Intel HD 4400	Nvidia GeForce 320M 
+NOTES	Dropped samples	Dropped samples; Manual drifting correction
+CONSENT_FORM	Absent	Present

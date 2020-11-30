@@ -1,0 +1,505 @@
+ROUND	SPEAKER	DIALOGUE_ROLE	START_TIME	END_TIME	TOKENS
+0	B	MANIPULATOR	1.9181	2.7094	okay let's do it
+0	B	MANIPULATOR	3.8719	4.2277	eh
+0	B	MANIPULATOR	5.2564	6.1525	yeah it's your turn
+1	A	INSTRUCTOR	8.1918	8.9895	ja det sk- eh
+1	A	INSTRUCTOR	9.1617	10.2088	uh oh sorry in English
+1	B	MANIPULATOR	9.7262	9.8457	'kay
+1	A	INSTRUCTOR	10.3283	17.3247	uh so there's a turquoise um like a big V but it's
+1	B	MANIPULATOR	10.5836	10.7101	yep
+1	B	MANIPULATOR	16.3465	17.5132	a V okay yeah
+1	A	INSTRUCTOR	17.3387	21.5695	yeah but it's um with a point up in the middle
+1	B	MANIPULATOR	18.4901	19.0593	turquoise
+1	B	MANIPULATOR	21.0904	21.6035	oh I see
+1	A	INSTRUCTOR	22.1388	25.9339	but it's it's a bit uh lowered down also in the middle
+1	B	MANIPULATOR	22.236	22.4609	yeah
+1	B	MANIPULATOR	26.8252	27.0853	oh
+1	A	INSTRUCTOR	26.8897	31.1627	uh so I guess you see three turquoise Vs
+1	B	MANIPULATOR	30.1213	31.7799	yeah there's a lot of them yeah
+1	A	INSTRUCTOR	31.5282	37.1224	yeah but there's one with a point in the middle that goes up but it's also lowered down
+1	B	MANIPULATOR	35.5188	35.7999	yeah
+1	B	MANIPULATOR	39.3139	41.5629	okay yeah I see so it's blue almost
+1	B	MANIPULATOR	42.0548	42.3219	blue
+1	A	INSTRUCTOR	42.0982	42.7588	yeah yeah
+1	B	MANIPULATOR	43.0809	43.362	okay
+1	B	MANIPULATOR	44.7957	45.2736	try that
+1	A	INSTRUCTOR	45.8652	46.3712	yeah
+1	A	INSTRUCTOR	46.6664	47.2989	nice
+1	B	MANIPULATOR	48.1551	48.3378	'kay
+1	A	INSTRUCTOR	48.5358	49.1543	your turn
+1	B	MANIPULATOR	49.7012	50.5587	uh is it my turn
+1	A	INSTRUCTOR	50.7567	51.2064	yeah
+2	B	INSTRUCTOR	53.2855	53.7493	okay
+2	B	INSTRUCTOR	54.0024	55.3377	yeah I should explain it okay
+2	B	INSTRUCTOR	55.7031	60.5665	so it's yellow and it has uh it's almost like a Trinity like uh
+2	B	INSTRUCTOR	61.9439	63.5463	there's all many triangles
+2	B	INSTRUCTOR	64.1086	64.6708	and it's
+2	A	MANIPULATOR	64.9531	66.8085	yeah I think it's this one
+2	B	INSTRUCTOR	65.739	66.1607	yeah no
+2	B	INSTRUCTOR	66.3856	66.7511	okay
+2	B	INSTRUCTOR	67.9318	68.7189	yeah okay good
+3	A	INSTRUCTOR	69.2542	69.5354	yeah
+3	A	INSTRUCTOR	70.449	72.8947	uh and this one's a yellow um
+3	B	MANIPULATOR	73.1887	73.3574	yep
+3	A	INSTRUCTOR	73.6959	74.2582	LAUGHTER
+3	B	MANIPULATOR	73.9758	74.2288	oh
+3	B	MANIPULATOR	74.4818	75.1425	okay it's yellow
+3	B	MANIPULATOR	75.3252	75.6906	I see
+3	A	INSTRUCTOR	75.3545	78.9528	yeah LAUGHTER it's yellow LAUGHTER
+3	B	MANIPULATOR	76.281	76.6183	yeah
+3	B	MANIPULATOR	77.0259	77.3914	I know
+3	B	MANIPULATOR	80.3572	80.7227	good
+4	A	MANIPULATOR	81.2299	81.764	yeah
+4	A	MANIPULATOR	84.1395	84.9125	your turn
+4	B	INSTRUCTOR	84.4615	84.6864	yeah
+4	B	INSTRUCTOR	85.8741	86.4012	oh my turn eh
+4	B	INSTRUCTOR	86.4012	95.1159	eh th- okay it's uh a red it's almost like a crown no it's like mountain almost like one triangle up and then
+4	A	MANIPULATOR	93.4726	93.7397	yeah
+4	A	MANIPULATOR	95.3139	95.6231	yeah
+4	B	INSTRUCTOR	95.9874	96.4934	yeah okay
+5	A	INSTRUCTOR	98.5749	103.4664	uh okay so this one is uh this one's actually the one you had um
+5	B	MANIPULATOR	103.6338	104.0274	mm-hmm
+5	A	INSTRUCTOR	104.4503	105.3498	the mm
+5	B	MANIPULATOR	105.7984	106.1639	yellow
+5	A	INSTRUCTOR	105.9121	106.2213	CLICK I uh
+5	B	MANIPULATOR	106.4731	106.698	yeah
+5	A	INSTRUCTOR	106.5024	111.7312	yeah I wouldn't call it yellow but the LAUGHTER like uh lime green lot of triangles
+5	B	MANIPULATOR	106.8667	107.1478	yeah
+5	B	MANIPULATOR	108.5393	111.1397	ah okay that guy yeah I see
+5	B	MANIPULATOR	112.0955	112.4328	nice
+5	A	INSTRUCTOR	113.9802	114.7392	uh yeah
+6	B	INSTRUCTOR	115.6516	116.8464	yeah okay uh
+6	B	INSTRUCTOR	116.9307	119.4327	so it's the yellow again the big yellow
+6	B	INSTRUCTOR	119.8965	120.1073	yeah
+6	A	MANIPULATOR	120.0242	120.5302	yeah
+7	B	MANIPULATOR	122.0471	123.0029	okay uh
+7	A	INSTRUCTOR	123.229	126.7711	uh this one's uh pink uh
+7	B	MANIPULATOR	126.3482	126.7417	pink
+7	B	MANIPULATOR	126.9947	127.3321	yeah
+7	A	INSTRUCTOR	127.4176	129.6525	yeah like a house sort of
+7	B	MANIPULATOR	129.3842	133.9384	mm-hmm the house but without the triangle like it's not
+7	A	INSTRUCTOR	134.2769	134.6143	yeah
+7	B	MANIPULATOR	135.0347	135.4002	okay
+7	A	INSTRUCTOR	135.0922	136.048	yeah it's like a box
+7	B	MANIPULATOR	136.4403	136.9463	yeah okay
+8	B	INSTRUCTOR	139.1672	139.4483	good
+8	A	MANIPULATOR	142.1764	142.851	your turn
+8	B	INSTRUCTOR	142.5968	142.9623	yeah
+8	B	INSTRUCTOR	143.7213	144.143	your turn
+8	B	INSTRUCTOR	145.1058	146.9401	oh it's my turn no your turn okay okay
+8	A	MANIPULATOR	145.7466	145.9996	yeah
+8	A	MANIPULATOR	146.8991	148.0517	it's your turn to describe
+8	B	INSTRUCTOR	146.9682	147.7272	uh yeah it's
+8	B	INSTRUCTOR	148.5073	149.175	yeah it's
+8	B	INSTRUCTOR	149.5264	154.952	it's like it's purple and it has four spikes on the top
+8	B	INSTRUCTOR	156.0272	157.1377	it's like is it that
+8	A	MANIPULATOR	158.3196	159.6197	purple with four spike
+8	B	INSTRUCTOR	160.483	162.8865	like almost like triangles
+8	A	MANIPULATOR	164.2512	166.0011	uh could it be this one
+8	A	MANIPULATOR	166.0784	166.985	what does it look like
+8	B	INSTRUCTOR	167.792	176.5489	I mean it's a triangle but uh it has four spikes instead of like you understand that it's purple also I think
+8	A	MANIPULATOR	176.6063	177.274	uh
+8	B	INSTRUCTOR	177.1041	177.6101	know what it
+8	A	MANIPULATOR	178.532	179.038	purple
+8	A	MANIPULATOR	180.7177	182.0389	that has four spikes
+8	B	INSTRUCTOR	183.3309	184.0618	no not
+8	B	INSTRUCTOR	184.2585	185.5798	like four triangles
+8	A	MANIPULATOR	186.087	186.9023	four tri- oh okay CLICK
+8	A	MANIPULATOR	186.9304	187.6051	I think it's this one
+8	B	INSTRUCTOR	187.0697	187.4633	okay
+8	B	INSTRUCTOR	188.2223	190.0215	no it's it's not that okay
+8	B	INSTRUCTOR	190.6118	191.2022	doesn't matter
+8	B	INSTRUCTOR	191.2865	191.7363	eh
+8	A	MANIPULATOR	191.4002	191.8781	oh okay
+8	B	INSTRUCTOR	192.7624	198.0052	so you see the it has like uh
+8	B	INSTRUCTOR	199.9168	211.3302	yeah but it is a triangle basically but they cut cut off the top and then they have four uh triangles instead
+8	A	MANIPULATOR	202.8979	203.3477	mm-hmm
+8	B	INSTRUCTOR	212.7639	213.0732	yeah
+8	A	MANIPULATOR	215.9418	216.2229	mm
+8	B	INSTRUCTOR	216.053	216.6715	uh
+8	A	MANIPULATOR	217.0663	217.6285	it's not
+8	B	INSTRUCTOR	217.1494	218.7799	you know do you see it you see it
+8	A	MANIPULATOR	218.3032	220.8333	it's not the the square with the triangle
+8	B	INSTRUCTOR	221.7035	222.069	no
+8	A	MANIPULATOR	222.4638	222.9557	no
+8	B	INSTRUCTOR	223.6151	225.3581	no it's a triangle basically
+8	B	INSTRUCTOR	225.4424	227.607	uh it's uh I mean
+8	A	MANIPULATOR	228.1002	230.9254	and not not one of those who look like birds
+8	B	INSTRUCTOR	231.5989	231.9924	no
+8	A	MANIPULATOR	232.1905	232.7808	no
+8	B	INSTRUCTOR	232.2455	232.6109	no
+8	B	INSTRUCTOR	233.1029	235.4221	I mean it's looks like a crown almost or
+8	A	MANIPULATOR	237.7285	238.4313	okay and it's
+8	A	MANIPULATOR	239.1762	248.3548	oh it's it's is it the dark oh I I'd think I'd call that blue I'm sorry LAUGHTER I'm sorry
+8	B	INSTRUCTOR	239.2031	241.1288	yeah there are two of them there are two of them yeah
+8	B	INSTRUCTOR	243.6307	245.0223	yep the purple yeah
+8	B	INSTRUCTOR	246.1046	247.4399	ah okay that's fine yeah
+9	A	INSTRUCTOR	248.4567	249.423	oh okay uh my turn
+9	A	INSTRUCTOR	249.4546	258.9248	um and this is the um the light blue V with the pointy thingy uh yeah the one that's lowered down the one I had before
+9	B	MANIPULATOR	250.0965	250.3776	yep
+9	B	MANIPULATOR	253.7229	254.6225	oh I see I see
+9	B	MANIPULATOR	255.4096	256.6184	oh the pointy thing yeah
+9	B	MANIPULATOR	258.0521	259.5139	okay is it big is it big
+9	B	MANIPULATOR	259.8513	260.2448	the size
+9	A	INSTRUCTOR	260.7828	263.1978	uh yeah th- the one I had before
+9	B	MANIPULATOR	261.9316	262.3532	okay
+9	B	MANIPULATOR	264.2648	265.8672	oh I think it was this one
+9	A	INSTRUCTOR	264.2852	264.9689	uh
+9	A	INSTRUCTOR	266.6556	267.3865	one with the
+9	B	MANIPULATOR	266.8792	267.3009	I don't know
+9	B	MANIPULATOR	268.1162	269.2406	the one we had before
+9	A	INSTRUCTOR	270.1695	270.4788	yeah
+9	B	MANIPULATOR	271.1803	271.602	okay
+10	B	INSTRUCTOR	274.1321	275.0879	yeah it's my turn uh eh
+10	A	MANIPULATOR	274.9767	275.2859	yeah
+10	B	INSTRUCTOR	275.1722	278.4894	okay the mountain again it's red and it has four
+10	A	MANIPULATOR	278.069	278.2939	yep
+10	B	INSTRUCTOR	278.9673	279.136	yeah
+11	A	INSTRUCTOR	281.8078	288.3579	uh now it's the big light blue uh crown thingy the one that you tried to describe uh yeah
+11	B	MANIPULATOR	285.6017	286.3888	the light blue
+11	B	MANIPULATOR	286.8949	288.2161	oh light blue okay
+11	B	MANIPULATOR	291.196	291.4209	nice
+12	B	INSTRUCTOR	292.8265	296.987	oh okay so this one is green it's very big and it's a square and triangle okay
+12	A	MANIPULATOR	295.8075	296.1168	yep
+12	A	MANIPULATOR	296.5103	298.0003	LAUGHTER
+12	B	INSTRUCTOR	297.3525	298.9548	we should be fast I think yeah LAUGHTER
+12	A	MANIPULATOR	298.2533	298.9842	LAUGHTER
+13	A	INSTRUCTOR	299.181	299.8275	LAUGHTER
+13	B	MANIPULATOR	299.2922	300.4167	okay BREATH
+13	A	INSTRUCTOR	299.9119	301.4018	uh so this is the yellow one
+13	B	MANIPULATOR	301.8504	302.6094	yeah the yellow
+13	B	MANIPULATOR	305.1676	305.8141	okay good
+14	B	INSTRUCTOR	306.5169	309.7076	so this one it's pink it's like a house
+14	B	INSTRUCTOR	309.792	309.9887	yeah
+14	A	MANIPULATOR	310.2008	310.4679	yeah
+14	B	INSTRUCTOR	310.4385	310.7478	almost
+14	B	INSTRUCTOR	311.1694	311.4927	okay
+15	A	INSTRUCTOR	313.6586	320.2648	uh this one is the uh GROAN purple bird facing uh facing uh left
+15	B	MANIPULATOR	317.9725	319.2235	purple bird okay
+15	B	MANIPULATOR	321.107	323.0045	oh okay it's purple yeah I see
+16	B	INSTRUCTOR	326.8277	335.3878	okay so this one it's a triangle uh it's two triangles one triangle on top of the other and it's turquoise or what do you call it green almost
+16	A	MANIPULATOR	334.0959	335.2344	mm
+16	B	INSTRUCTOR	335.5283	335.697	yeah
+16	A	MANIPULATOR	336.1059	337.2725	yeah the the light blue one
+16	B	INSTRUCTOR	337.8897	338.2271	no
+16	B	INSTRUCTOR	338.4941	339.1126	the big eh
+16	A	MANIPULATOR	338.4954	338.7203	no
+16	B	INSTRUCTOR	339.8013	344.3273	it's uh green or maybe blue green turquoise I think it's called or
+16	A	MANIPULATOR	343.0214	343.3587	yeah
+16	B	INSTRUCTOR	345.3394	345.9578	it's yeah
+16	A	MANIPULATOR	346.3948	349.1638	with a triangle pointing down and one pointing up on the top
+16	B	INSTRUCTOR	347.8554	348.0943	yeah
+16	B	INSTRUCTOR	348.6003	349.8232	yeah exactly exactly yeah
+16	A	MANIPULATOR	349.3606	349.5152	yeah
+16	B	INSTRUCTOR	350.0481	350.2449	good
+17	A	INSTRUCTOR	352.1999	354.1537	uh this one is the small red mountain
+17	B	MANIPULATOR	355.2066	355.5721	okay
+17	B	MANIPULATOR	355.8391	356.1203	nice
+17	B	MANIPULATOR	356.9355	357.8491	I think I see it
+17	A	INSTRUCTOR	357.8363	358.1455	yeah
+17	B	MANIPULATOR	358.2849	359.7607	wait did I press correct
+17	A	INSTRUCTOR	360.0993	360.282	yeah
+17	B	MANIPULATOR	360.2808	360.4214	yeah
+18	B	INSTRUCTOR	362.5684	362.8249	okay
+18	B	INSTRUCTOR	362.976	375.0536	uh so now it's the with the with the triangle the blue triangle with the CLICK like sticks uh pointing up or what is it what do you call it
+18	A	MANIPULATOR	374.4926	377.4443	the the the crown one yeah
+18	B	INSTRUCTOR	376.5013	377.6961	crown yeah the crown no
+18	A	MANIPULATOR	377.8519	378.0487	no
+18	B	INSTRUCTOR	377.8788	378.2864	yeah okay
+18	B	INSTRUCTOR	378.7643	378.9752	yeah
+18	A	MANIPULATOR	378.9202	379.2716	okay
+18	B	INSTRUCTOR	379.1439	379.8748	it's that one okay
+18	A	MANIPULATOR	379.4965	379.876	yeah okay
+18	A	MANIPULATOR	379.9182	381.0005	LAUGHTER
+19	B	MANIPULATOR	380.7322	381.2101	uh good
+19	A	INSTRUCTOR	381.0707	388.0987	uh now it's the uh like uh uh purple pink one that like a very deformed K
+19	A	INSTRUCTOR	388.436	390.4601	it's like a um
+19	B	MANIPULATOR	390.0091	390.3324	oh
+19	A	INSTRUCTOR	390.7834	391.0645	CLICK
+19	B	MANIPULATOR	390.9789	392.0894	yeah okay I see it I see it
+19	A	INSTRUCTOR	391.7813	392.0484	yeah
+19	B	MANIPULATOR	392.1877	392.3845	yeah
+19	B	MANIPULATOR	394.6897	394.9989	got it
+20	B	INSTRUCTOR	396.6013	396.9808	okay
+20	B	INSTRUCTOR	397.4587	399.5812	so this one it's pretty weird I think
+20	B	INSTRUCTOR	399.6022	405.6955	it's blue and it doesn't have really a CLICK a defined shape
+20	A	MANIPULATOR	405.2048	405.4578	BREATH
+20	A	MANIPULATOR	405.7389	408.5922	oh the one that looks like a mm um
+20	B	INSTRUCTOR	405.7798	406.2858	f- uh
+20	B	INSTRUCTOR	406.9886	407.1854	mm
+20	B	INSTRUCTOR	407.3963	407.5228	eh
+20	B	INSTRUCTOR	408.0428	409.2938	yeah it's big also yeah
+20	A	MANIPULATOR	409.3794	410.4898	um I think I know
+20	B	INSTRUCTOR	410.095	410.4745	CLICK GROAN
+20	B	INSTRUCTOR	410.84	411.1773	yeah
+20	A	MANIPULATOR	410.8552	411.6002	LAUGHTER LAUGHTER
+21	B	MANIPULATOR	412.3861	413.3841	okay LAUGHTER good
+21	A	INSTRUCTOR	412.8512	415.6202	yeah LAUGHTER uh it's the pink house
+21	B	MANIPULATOR	414.8881	415.127	uh
+21	B	MANIPULATOR	416.2515	417.7836	yeah the pink house uh
+21	B	MANIPULATOR	418.9783	419.3438	this one
+21	B	MANIPULATOR	419.4422	419.639	yeah
+22	B	INSTRUCTOR	422.7172	426.2733	okay uh uh it's like the bird pointing left again
+22	A	MANIPULATOR	426.5557	427.4131	pointing left
+22	B	INSTRUCTOR	427.5524	427.7633	yeah
+23	B	MANIPULATOR	429.7311	430.0966	okay
+23	A	INSTRUCTOR	430.6179	433.0636	uh this one is the uh light blue V
+23	B	MANIPULATOR	431.1226	431.3616	okay
+23	A	INSTRUCTOR	433.6118	434.9752	that's just a V yeah
+23	B	MANIPULATOR	433.8073	434.7491	okay it's only a V
+23	B	MANIPULATOR	434.9177	435.1848	yeah
+23	B	MANIPULATOR	435.5362	435.7752	okay
+23	B	MANIPULATOR	438.1647	439.4859	oh wait wait what happened
+24	B	INSTRUCTOR	439.6124	439.8092	yeah
+24	A	MANIPULATOR	439.8807	440.3727	that was right
+24	B	INSTRUCTOR	441.0321	441.4537	nice
+24	B	INSTRUCTOR	441.7349	450.5479	uh okay so this is the the guy pointing to the left the pink pink guy almost it's a head though yeah yeah
+24	A	MANIPULATOR	446.7119	447.9488	the pink guy t-
+24	A	MANIPULATOR	448.4267	450.268	oh yeah yeah yeah the Bart Simpson one yeah
+25	A	INSTRUCTOR	452.4326	453.4587	uh red mountain
+25	B	MANIPULATOR	454.3711	454.6382	mm
+26	B	INSTRUCTOR	457.3369	457.5337	good
+26	B	INSTRUCTOR	458.4614	462.5236	okay so it's the crown again the blue crown with uh points pointing upward BREATH
+26	A	MANIPULATOR	462.5951	464.1272	uh the light blue or the
+26	B	INSTRUCTOR	463.2966	463.5215	right
+26	B	INSTRUCTOR	463.901	464.9271	light blue yeah light blue
+26	A	MANIPULATOR	464.6332	464.9002	yeah
+27	A	INSTRUCTOR	467.9785	472.7997	uh eh the blue one which uh the
+27	A	INSTRUCTOR	473.0386	473.2635	CLICK
+27	A	INSTRUCTOR	474.0647	474.7534	the blue one is the
+27	B	MANIPULATOR	474.3727	474.9068	dark blue
+27	A	INSTRUCTOR	474.9502	478.5204	yeah the piece and it's the one that looks like the yellow
+27	B	MANIPULATOR	477.1277	478.3646	it's like a dog no
+27	B	MANIPULATOR	479.8405	481.0774	it's looks like yellow ah okay
+27	A	INSTRUCTOR	480.9943	481.191	yeah
+28	B	INSTRUCTOR	485.4066	485.5753	yeah
+28	B	INSTRUCTOR	485.8986	489.8202	ah okay so this is uh a square and triangle it's purple
+28	A	MANIPULATOR	490.4398	491.3956	uh the small one
+28	B	INSTRUCTOR	491.802	492.7719	yeah small one
+29	A	INSTRUCTOR	495.1205	498.016	CLICK uh this one is the blue V that is just a V
+29	B	MANIPULATOR	498.6192	499.575	the blue V okay
+29	B	MANIPULATOR	501.3882	502.0629	I think I pressed
+29	B	MANIPULATOR	503.103	503.2717	yep
+29	A	INSTRUCTOR	503.1042	503.6243	yeah
+30	B	INSTRUCTOR	504.5367	504.7616	good
+30	B	INSTRUCTOR	506.0266	510.0607	okay so the guy again the purp- pink guy pointing to the left
+30	A	MANIPULATOR	508.8671	509.5559	where is he there
+30	A	MANIPULATOR	509.6964	509.9073	yeah
+30	B	INSTRUCTOR	510.2153	510.4121	yeah
+31	A	INSTRUCTOR	512.6622	518.13	uh the big like orange uh crown wh- evil looking thing
+31	B	MANIPULATOR	516.2453	516.8497	mm-hmm mm-hmm
+31	B	MANIPULATOR	518.1569	518.3256	yep
+31	A	INSTRUCTOR	518.3408	518.5938	yeah
+31	B	MANIPULATOR	518.6067	518.8597	LAUGHTER
+32	B	INSTRUCTOR	520.5745	525.5784	okay so this is uh it's pink and it's looks almost like a toilet it's like no maybe
+32	A	MANIPULATOR	526.2965	527.5053	m- like a toilet
+32	B	INSTRUCTOR	526.5764	532.1706	it's hard to see but it's it's very different from all the other shapes it's big also
+32	A	MANIPULATOR	532.959	534.0272	and pink
+32	B	INSTRUCTOR	534.7569	535.6425	yeah it's pink
+32	A	MANIPULATOR	536.0232	536.9368	um
+32	B	INSTRUCTOR	536.7107	536.9497	eh
+32	B	INSTRUCTOR	538.2147	538.8753	it's like
+32	B	INSTRUCTOR	539.6906	539.9436	yeah
+32	A	MANIPULATOR	540.8444	542.517	what the the square triangle one
+32	B	INSTRUCTOR	543.5981	544.1182	no
+32	A	MANIPULATOR	544.0632	544.4286	no
+32	B	INSTRUCTOR	544.4555	550.0357	I mean it's no it's looks looks like a bathtub maybe or no
+32	B	INSTRUCTOR	550.7104	558.0898	I mean it's it's a shape and then there is CLICK uh yeah I mean
+32	A	MANIPULATOR	558.091	559.595	oh the one I think looks like a bird
+32	B	INSTRUCTOR	560.2825	561.7302	yeah it's very big it's very big
+32	B	INSTRUCTOR	561.8849	562.1379	shit
+32	A	MANIPULATOR	562.2937	565.5828	maybe it's like like it looks like a chicken pointing right
+32	B	INSTRUCTOR	562.6439	562.8969	chicken
+32	B	INSTRUCTOR	565.933	567.8727	maybe I don't know you can try
+32	A	MANIPULATOR	568.141	568.5626	I'll try
+32	B	INSTRUCTOR	568.955	569.2642	yeah
+32	A	MANIPULATOR	569.5887	571.4863	it was the right one LAUGHTER
+32	B	INSTRUCTOR	569.7983	570.22	okay
+33	B	MANIPULATOR	571.0212	571.8786	yeah LAUGHTER
+33	A	INSTRUCTOR	571.5425	574.0866	uh and now it's the little Bart face
+33	B	MANIPULATOR	575.1817	576.3484	oh the face okay
+33	A	INSTRUCTOR	575.8436	576.195	yeah
+34	B	INSTRUCTOR	580.2419	583.6996	okay so this is a crown a red crown very big
+34	A	MANIPULATOR	584.0663	585.2048	the big evil cone
+34	B	INSTRUCTOR	585.3301	585.541	yeah
+35	A	INSTRUCTOR	587.5803	591.8673	uh this is the blue that looks like a bird or something
+35	A	INSTRUCTOR	592.6826	593.3713	like a M
+35	B	MANIPULATOR	592.9625	593.595	mm the blue
+35	B	MANIPULATOR	594.0307	595.6191	oh okay the dog yeah
+35	A	INSTRUCTOR	595.6203	596.2387	the big one
+36	B	INSTRUCTOR	599.6672	599.8921	yeah
+36	B	INSTRUCTOR	600.3981	600.8197	next one
+36	B	INSTRUCTOR	601.0025	603.8277	uh okay so this is the big pink square and triangle
+36	A	MANIPULATOR	604.2366	604.8128	square and triangle
+37	A	INSTRUCTOR	608.0457	612.5295	uh and this is the one that doesn't look like anything the blue big one
+37	B	MANIPULATOR	613.2452	613.9199	the blue big one
+37	A	INSTRUCTOR	613.2605	613.8789	the one we had
+37	A	INSTRUCTOR	614.2865	614.4412	oh okay the dog yeah
+37	B	MANIPULATOR	614.9319	616.2391	oh it doesn't look like okay good
+37	B	MANIPULATOR	617.1246	618.1366	uh is it light blue
+37	A	INSTRUCTOR	618.2925	618.4471	yeah
+37	B	MANIPULATOR	619.0784	619.2471	yeah
+38	B	INSTRUCTOR	624.0963	627.0903	okay so it's the house again the pur- purple house
+38	A	MANIPULATOR	626.2341	626.5714	yeah
+39	A	INSTRUCTOR	629.0031	632.4327	uh big orange crown evil thing
+39	B	MANIPULATOR	631.799	631.9958	yep
+40	B	INSTRUCTOR	635.566	639.5157	okay eh the dog I mean the blue dog
+40	A	MANIPULATOR	640.2759	644.3381	uh the thing I think looked like some bird yeah LAUGHTER
+40	B	INSTRUCTOR	641.7927	643.2967	yeah exactly LAUGHTER
+41	B	MANIPULATOR	643.9015	644.3319	the M
+41	A	INSTRUCTOR	644.4326	646.0248	uh deformed K
+41	B	MANIPULATOR	644.6707	644.9694	yeah
+41	B	MANIPULATOR	646.7967	648.6801	deformed K eh
+41	A	INSTRUCTOR	648.3862	649.6372	the pink
+41	B	MANIPULATOR	649.158	650.2825	yeah pink
+42	B	INSTRUCTOR	653.0796	656.7342	okay so the bird the purple bird small
+42	A	MANIPULATOR	657.1149	658.2394	small purple bird
+43	A	INSTRUCTOR	661.149	662.4281	uh Bart face
+43	B	MANIPULATOR	663.5373	663.9308	mm-hmm
+44	B	INSTRUCTOR	666.5171	669.5251	okay so square and triangle pink big
+44	A	MANIPULATOR	669.1046	670.201	pink big
+44	B	INSTRUCTOR	670.3684	671.2118	yeah yeah LAUGHTER
+45	A	INSTRUCTOR	673.4057	681.6144	CLICK uh small eh the eh blue purple mountain uh with the pointy
+45	B	MANIPULATOR	673.8965	674.3603	uh
+45	B	MANIPULATOR	680.6574	683.8621	small blue purple oh okay purple
+45	A	INSTRUCTOR	684.0882	684.3131	yeah
+45	B	MANIPULATOR	684.9304	686.8139	is it yeah it's pointy okay
+45	A	INSTRUCTOR	686.5902	686.8432	yeah
+46	B	INSTRUCTOR	690.7073	701.2352	okay so it's uh like a V with a a it's light blue and it has a square on top of it like or a not a square a triangle pointing upward so it's like
+46	A	MANIPULATOR	700.5758	703.3729	yeah is it the one that's lowered down or the one that's
+46	B	INSTRUCTOR	703.2031	705.0022	lower lower down yeah exactly
+47	A	INSTRUCTOR	708.2082	709.431	uh deformed K
+47	B	MANIPULATOR	710.5543	713.3655	deformed K uh yeah LAUGHTER
+47	A	INSTRUCTOR	712.3266	712.8045	the pink
+48	B	INSTRUCTOR	715.6144	718.8051	yeah okay so the bird purple bird I think
+48	A	MANIPULATOR	719.4951	720.226	the small one
+48	B	INSTRUCTOR	720.1545	720.5199	it's called
+48	B	INSTRUCTOR	720.6324	721.293	yeah the small one
+49	A	INSTRUCTOR	723.5854	726.7339	uh big uh purple square and triangle
+49	B	MANIPULATOR	728.3069	729.5298	big purple square okay
+49	A	INSTRUCTOR	730.0089	730.7398	or pink
+49	B	MANIPULATOR	731.2306	731.4976	yeah
+50	B	INSTRUCTOR	733.7887	735.5598	and next I guess BREATH
+50	B	INSTRUCTOR	736.0798	737.0356	is it mine oh okay
+50	B	INSTRUCTOR	737.5276	740.1701	uh the pointy crown purple triangle
+50	A	MANIPULATOR	741.9424	743.1934	um yep
+51	A	INSTRUCTOR	746.8479	747.7334	uh the yellow one
+51	B	MANIPULATOR	748.9832	750.3185	the yellow one uh okay
+52	B	INSTRUCTOR	753.1718	759.9046	okay so the green the green triang- two triangles like unionized what do you call it eh
+52	A	MANIPULATOR	760.1729	761.0725	the the small one
+52	B	INSTRUCTOR	761.9006	767.1715	no the big one the it's eh almost green and blue like uh
+52	A	MANIPULATOR	768.5643	769.0984	like the
+52	A	MANIPULATOR	770.0964	770.9116	the one that's
+52	B	INSTRUCTOR	770.1514	771.318	yeah it it's a big
+52	A	MANIPULATOR	772.1626	773.7088	that's a square and a triangle
+52	B	INSTRUCTOR	772.4425	772.6815	yeah
+52	B	INSTRUCTOR	774.1573	783.1109	no eh it's I mean it's two triangles uh like put together so it's a a small triangle on top of a big triangle
+52	A	MANIPULATOR	774.6224	774.8192	no
+52	A	MANIPULATOR	778.6705	780.2448	then it's green
+52	A	MANIPULATOR	782.1985	786.5559	oh the one I'd call light blue yeah LAUGHTER
+53	A	INSTRUCTOR	786.6964	789.8309	uh now it's the V with the lower down triangle
+53	B	MANIPULATOR	789.661	790.0124	mm-hmm
+54	B	INSTRUCTOR	795.3537	796.9279	the f- oh deformed K
+54	A	MANIPULATOR	797.2524	797.6882	yeah
+55	A	INSTRUCTOR	800.668	802.2423	uh the house pink house
+56	B	INSTRUCTOR	806.6124	809.6064	okay eh the crown the red crown
+56	A	MANIPULATOR	810.0666	811.6176	red crown the mountain
+56	B	INSTRUCTOR	810.7308	812.3442	uh big evil evil
+56	A	MANIPULATOR	812.0533	812.7561	no the evil one
+56	B	INSTRUCTOR	813.3144	813.5071	yeah
+57	A	INSTRUCTOR	815.1379	817.8162	uh the blue bird dog
+57	B	MANIPULATOR	818.1945	819.5298	the blue bird LAUGHTER
+57	A	INSTRUCTOR	819.3764	821.7659	LAUGHTER that you call a dog
+57	B	MANIPULATOR	820.7183	821.4408	okay
+57	B	MANIPULATOR	822.4179	823.5464	oh yeah I see yeah
+58	B	INSTRUCTOR	826.867	828.8208	okay the Bar- Bart face
+58	A	MANIPULATOR	829.0188	829.6654	Bart face
+58	B	INSTRUCTOR	830.0437	830.3669	yeah
+59	A	INSTRUCTOR	832.6171	833.7556	uh deformed K
+59	B	MANIPULATOR	834.4151	836.8186	deformed K uh yeah
+60	B	INSTRUCTOR	840.0796	840.8105	uh house
+60	A	MANIPULATOR	841.5286	841.8378	house
+61	A	INSTRUCTOR	844.649	846.7995	uh em purple mountain
+61	B	MANIPULATOR	848.2742	850.7199	purple mountain oh is it purple
+61	A	INSTRUCTOR	851.0023	853.0123	yeah the dark purple
+61	B	MANIPULATOR	851.5492	851.8303	uh
+61	B	MANIPULATOR	852.1115	853.4889	yeah with spike with spikes
+61	A	INSTRUCTOR	853.0544	853.7713	yeah the spiky one
+61	B	MANIPULATOR	854.3323	854.6275	okay
+62	B	INSTRUCTOR	857.9447	859.1956	yellow yellow
+62	A	MANIPULATOR	859.3234	859.5904	yellow
+63	A	INSTRUCTOR	862.3313	865.7891	uh small purple square with a triangle
+63	B	MANIPULATOR	868.7818	869.3721	purple yeah
+64	B	INSTRUCTOR	872.0146	874.4323	okay the V yello- light blue V
+64	A	MANIPULATOR	875.8812	877.3009	uh the one that's just a V
+64	B	INSTRUCTOR	877.8478	878.0868	yeah
+65	A	INSTRUCTOR	881.0257	884.3148	uh the small lime green triangle triangle
+65	B	MANIPULATOR	885.7613	886.2814	mall wait
+65	B	MANIPULATOR	886.3938	889.6829	no sorry I pressed pressed one wrong I think
+65	A	INSTRUCTOR	888.2364	888.644	yeah
+65	A	INSTRUCTOR	888.9814	894.1118	the the one that looks like it's like four triangles merged
+65	B	MANIPULATOR	894.729	896.1908	yeah okay continue
+65	B	MANIPULATOR	897.5823	898.5522	eh so yeah
+65	B	MANIPULATOR	899.0442	900.8293	the okay the small green
+65	A	INSTRUCTOR	900.8445	903.22	yeah like a lime green like a yellow
+65	B	MANIPULATOR	902.6706	904.6806	uh it's m- many triangles yeah
+66	B	INSTRUCTOR	908.799	913.7748	uh so it's a big it's a rectangle and a triangle it's green
+66	B	INSTRUCTOR	914.6743	915.3771	and very big
+67	A	INSTRUCTOR	917.4868	919.6514	uh the blue shape that's nothing
+67	B	MANIPULATOR	920.8027	922.1802	the blue shape that's nothing
+67	B	MANIPULATOR	923.2203	924.5557	what ah okay LAUGHTER yeah
+68	B	INSTRUCTOR	927.2263	931.2603	ah okay so it's a bird and a yeah a purple bird eh
+68	A	MANIPULATOR	931.3178	931.9503	the small one
+68	B	INSTRUCTOR	932.1037	933.1157	pointing to the left yeah
+69	A	INSTRUCTOR	936.3076	939.3578	uh the the nothing one again
+69	B	MANIPULATOR	939.1738	940.7902	mm-hmm blue yeah
+70	B	INSTRUCTOR	945.0632	948.6053	eh okay so it's the purple bird again pointing to the left
+71	A	INSTRUCTOR	951.6286	952.9818	uh pink house
+72	B	INSTRUCTOR	957.2743	957.6152	ah okay
+72	B	INSTRUCTOR	957.6327	961.1643	so it's a purple triangle with the spikes
+72	B	INSTRUCTOR	962.1904	963.1497	it's very small also
+72	B	INSTRUCTOR	963.2361	964.1055	uh it's small
+72	A	MANIPULATOR	963.8537	964.5214	triangle oh yeah
+73	A	INSTRUCTOR	966.9587	968.1214	uh deformed K
+74	B	INSTRUCTOR	973.8427	974.1801	okay
+74	B	INSTRUCTOR	974.2855	975.5643	um yellow
+74	B	INSTRUCTOR	976.5939	976.953	thing
+75	A	INSTRUCTOR	979.2755	980.1972	deformed K
+75	B	MANIPULATOR	982.0303	983.8857	uh deformed K yeah
+75	B	MANIPULATOR	984.7572	985.1788	I see
+76	B	INSTRUCTOR	987.4208	989.2691	yellow uh block
+76	B	INSTRUCTOR	989.6416	989.8595	yeah
+77	A	INSTRUCTOR	992.5524	993.9861	uh purple spiky mountain
+77	B	MANIPULATOR	995.784	999.1082	okay uh purple is it blue or was it
+77	A	INSTRUCTOR	998.498	1000.6135	yeah the yeah exactly dark
+78	B	INSTRUCTOR	1003.1493	1003.6624	ah okay
+78	B	INSTRUCTOR	1003.7186	1004.6591	deformed K
+79	B	MANIPULATOR	1008.7998	1009.3058	mm
+79	A	INSTRUCTOR	1009.2016	1012.575	uh big pink eh square plus triangle
+79	B	MANIPULATOR	1014.12	1016.9382	big pink square plus triangle uh yeah
+80	B	INSTRUCTOR	1020.67	1026.5665	eh okay so it's NOISE the small triangle on top of the big green triangle
+80	B	INSTRUCTOR	1027.6488	1028.0072	so
+80	A	MANIPULATOR	1028.137	1030.0465	pointing up is a V yeah
+80	B	INSTRUCTOR	1029.2441	1029.954	yeah pointing up
+80	B	INSTRUCTOR	1030.6216	1030.8606	yeah
+80	B	INSTRUCTOR	1032.8495	1033.3766	oh was it right
+81	B	MANIPULATOR	1033.4609	1033.6366	yeah
+81	B	MANIPULATOR	1033.742	1034.1567	it was right
+81	A	INSTRUCTOR	1034.0455	1034.2422	yeah
+81	A	INSTRUCTOR	1034.4601	1038.8456	uh blue light blue spiky mountain
+81	B	MANIPULATOR	1034.5713	1034.8876	uh
+81	B	MANIPULATOR	1040.257	1042.0139	spiky mountain yep I see it
+82	B	INSTRUCTOR	1045.8793	1049.0138	okay so it's a blue block like the yellow one
+82	A	MANIPULATOR	1049.8738	1050.4312	uh yep
+83	B	MANIPULATOR	1052.9073	1053.3008	ah
+83	A	INSTRUCTOR	1053.4244	1054.8763	uh little red mountain
+83	A	INSTRUCTOR	1056.2538	1056.7106	crown
+84	B	INSTRUCTOR	1059.6823	1064.7406	uh it's yeah it's the chicken that you called it I think whatever purple
+84	A	MANIPULATOR	1063.345	1063.7737	LAUGHTER
+84	A	MANIPULATOR	1064.7576	1065.0809	yeah
+84	B	INSTRUCTOR	1065.0167	1065.8245	yeah LAUGHTER
+84	A	MANIPULATOR	1065.6924	1067.5406	pointing pointing right facing right
+84	B	INSTRUCTOR	1067.3778	1069.4933	yeah exactly it doesn't look like a chicken
+84	A	MANIPULATOR	1068.11	1068.2576	yeah
+84	A	MANIPULATOR	1069.5437	1070.0778	LAUGHTER
+84	B	INSTRUCTOR	1070.4491	1070.653	yeah

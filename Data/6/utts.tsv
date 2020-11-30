@@ -1,0 +1,363 @@
+ROUND	SPEAKER	DIALOGUE_ROLE	START_TIME	END_TIME	TOKENS
+0	B	MANIPULATOR	1.5882	2.0948	yeah
+0	A	INSTRUCTOR	3.2326	3.5948	wait
+0	B	MANIPULATOR	5.1447	6.1182	yeah I think so too
+0	A	INSTRUCTOR	5.2412	5.7894	here it's a bit like
+0	A	INSTRUCTOR	5.8393	6.9033	fungerar det fort det där
+0	A	INSTRUCTOR	6.9914	8.2001	if hard it's gonna be stressful
+0	B	MANIPULATOR	8.213	8.8115	yeah
+0	A	INSTRUCTOR	8.4495	8.7986	SNIFF
+0	B	MANIPULATOR	10.8066	12.6354	fun as well I I think
+0	A	INSTRUCTOR	12.0905	12.3565	n-
+0	A	INSTRUCTOR	13.0049	14.6674	do we start now or
+0	B	MANIPULATOR	15.096	16.293	can we start okay
+0	A	INSTRUCTOR	16.6625	17.1613	'kay
+1	A	INSTRUCTOR	17.9925	20.6194	okay I see a shape it's the top right shape
+1	A	INSTRUCTOR	21.1514	21.7167	take that one
+1	B	MANIPULATOR	25.3373	25.7696	okay
+1	A	INSTRUCTOR	26.0726	26.7043	yes
+2	B	INSTRUCTOR	30.2585	33.5504	okay I see a shape it's the middle bottom one that's blue
+2	A	MANIPULATOR	35.3496	36.2141	I clicked it
+3	A	INSTRUCTOR	41.5011	41.9998	yes
+3	A	INSTRUCTOR	41.9998	46.6217	and now it's the one just up left from that one green
+3	B	MANIPULATOR	48.1476	48.8126	CLICK ah okay
+4	B	INSTRUCTOR	52.8692	56.5934	okay now it's the middle one it's the red V
+4	A	MANIPULATOR	58.5256	59.1906	got it
+5	A	INSTRUCTOR	61.3852	70.1635	now it's the to far left it's eh second from the bottom like blueish under the purple one
+5	B	MANIPULATOR	70.2263	70.7583	oh
+6	B	INSTRUCTOR	74.2164	77.076	okay now it's the top right one the blue
+6	A	MANIPULATOR	76.3482	76.9467	blue
+6	B	INSTRUCTOR	77.209	77.5748	yeah
+6	A	MANIPULATOR	78.2768	78.8753	got it
+6	A	MANIPULATOR	80.2053	80.6376	NOISE
+7	A	INSTRUCTOR	81.0366	84.7275	now it's the one furthest to the right pink
+7	B	MANIPULATOR	85.5551	86.0538	ah
+7	A	INSTRUCTOR	89.0834	90.0144	we can do it
+8	B	INSTRUCTOR	90.3432	94.5329	okay now it's the small light blue in the mi- almost middle
+8	A	MANIPULATOR	94.8358	96.5649	is it the t- the smaller one
+8	B	INSTRUCTOR	96.2287	97.4257	it's it yeah
+8	A	MANIPULATOR	98.6929	99.092	got it
+9	A	INSTRUCTOR	101.0205	103.0156	now it's the the red V again
+9	B	MANIPULATOR	103.4774	103.8432	ah
+10	B	INSTRUCTOR	107.7003	111.2582	okay now it's the CLICK right bottom
+10	B	INSTRUCTOR	112.0894	112.7877	eh
+10	A	MANIPULATOR	113.7557	114.1879	color
+10	B	INSTRUCTOR	114.3838	115.5808	blue purple
+10	B	INSTRUCTOR	115.8801	117.9084	above the light blue
+10	A	MANIPULATOR	116.9145	117.7458	above the
+10	A	MANIPULATOR	118.0118	118.7766	okay got it
+11	A	INSTRUCTOR	121.5364	125.4601	now it's the the green one sort of next to that one
+11	A	INSTRUCTOR	126.2581	128.8517	eh to the left of that one in the bottom
+11	B	MANIPULATOR	127.917	130.045	that looks like a chicken
+11	A	INSTRUCTOR	131.0463	131.6115	eh
+11	A	INSTRUCTOR	132.0438	134.1054	it's green on the bottom yeah
+11	B	MANIPULATOR	132.3726	133.2704	ah left to
+11	B	MANIPULATOR	133.8024	135.1324	oh like a rock
+11	A	INSTRUCTOR	134.3714	135.5019	oh yeah not the chicken
+11	B	MANIPULATOR	135.731	136.1965	okay
+12	B	INSTRUCTOR	139.7543	144.8085	CLICK okay now it's the top left one that looks like a man yeah LAUGHTER
+12	A	MANIPULATOR	143.1497	143.8812	a guy in a hat
+13	A	INSTRUCTOR	148.0043	152.6262	now it's the one to the top eh no bottom right the turquoise not the chicken
+13	B	MANIPULATOR	152.8553	153.2875	ah
+14	B	INSTRUCTOR	156.9119	160.3035	okay now it's the middle bottom red V
+14	A	MANIPULATOR	160.939	161.3047	'kay
+15	A	INSTRUCTOR	164.1311	167.1237	now it's the top right a blue bat
+15	B	MANIPULATOR	167.9513	168.4833	ah
+15	B	MANIPULATOR	168.583	168.9488	LAUGHTER
+15	B	MANIPULATOR	169.3478	169.8133	BREATH
+16	B	INSTRUCTOR	171.8749	175.1668	now it's the kind of
+16	B	INSTRUCTOR	176.5966	180.6864	left middle yellow uh house cave
+16	A	MANIPULATOR	180.5239	181.3219	a I got it
+16	B	INSTRUCTOR	181.3515	182.748	yeah LAUGHTER
+16	A	MANIPULATOR	182.6519	184.514	it's the only yellow one almost
+17	B	MANIPULATOR	184.7098	185.4081	ah hah LAUGHTER yeah
+17	A	INSTRUCTOR	185.6778	187.6396	and now it's the it's
+17	A	INSTRUCTOR	188.5706	192.0953	there's the yellow one it's in the bottom middle but
+17	A	INSTRUCTOR	192.7935	198.6457	just above to the right there's a blueish purplish thing that one
+17	B	MANIPULATOR	197.2122	197.6445	mm-hmm
+17	B	MANIPULATOR	199.041	199.4401	oh
+18	B	INSTRUCTOR	202.9979	206.057	okay now it's the top middle green rock
+18	A	MANIPULATOR	206.1272	206.5595	got it
+19	A	INSTRUCTOR	209.3858	213.3095	now it's the mountain in the top left pink
+19	B	MANIPULATOR	212.9068	213.3058	ah
+20	B	INSTRUCTOR	216.9966	225.3427	okay now it's the left uh bottom eh kind of pink spikes the smaller one
+20	A	MANIPULATOR	225.6456	225.9781	got it
+21	A	INSTRUCTOR	229.3365	235.3882	now it's the NOISE same this blueish purplish one again next to the blue guy with the hat
+21	B	MANIPULATOR	235.5175	235.9165	ad
+22	B	INSTRUCTOR	238.9756	242.3007	okay now it's the top right green rock
+22	A	MANIPULATOR	242.5372	243.0359	got it
+23	A	INSTRUCTOR	245.031	256.1369	now it's the one next to that like a yellow chicken yellow swan in- where it used to be in the top
+23	B	MANIPULATOR	253.0741	255.0691	oh the if is
+23	A	INSTRUCTOR	258.8302	260.3099	yellow shape in the top
+23	B	MANIPULATOR	259.0925	262.9663	oh top mi- top middle above the guy with the hat
+23	A	INSTRUCTOR	261.058	261.3573	yeah
+24	B	INSTRUCTOR	267.2058	271.146	ah now it's the left middle kind of purple
+24	B	INSTRUCTOR	271.6947	273.2409	next to the pink eh cave
+24	A	MANIPULATOR	273.6103	275.4558	so it's uh upside down
+24	B	INSTRUCTOR	275.8012	276.2335	yeah
+24	A	MANIPULATOR	276.553	276.8024	ah
+24	A	MANIPULATOR	278.3486	283.8018	LAUGHTER upside down of what I don't know it's the it's the yellow yellow bottom center house
+24	B	INSTRUCTOR	279.0598	280.1737	LAUGHTER BREATH
+25	B	MANIPULATOR	280.5395	284.1971	what LAUGHTER say that BREATH yeah LAUGHTER
+25	A	INSTRUCTOR	284.4668	285.6638	yellow house in the bottom
+25	B	MANIPULATOR	284.6626	286.1922	yellow bottom sun okay
+25	A	INSTRUCTOR	285.8301	286.2291	SNIFF
+26	B	INSTRUCTOR	289.5505	294.7709	ah now it's the middle uh mountain purple bottom
+26	A	MANIPULATOR	294.2426	295.8719	oh I see two on bottom
+26	B	INSTRUCTOR	296.2672	296.5998	yeah
+27	A	INSTRUCTOR	299.596	304.2512	now it's the one up right from where that used to be also mountainy
+27	B	MANIPULATOR	304.713	308.4039	ah the more castle castle BREATH like um
+27	A	INSTRUCTOR	306.8448	307.277	yeah
+28	B	INSTRUCTOR	310.0997	319.0941	okay now it's uh uh just right t- to the CLICK castle the orange uh ruby thing yeah
+28	A	MANIPULATOR	317.6514	318.7819	orange got it
+28	B	INSTRUCTOR	319.1274	319.3601	yeah
+29	A	INSTRUCTOR	320.8601	324.6341	uh now it's the pink big mountain again up left
+29	B	MANIPULATOR	324.3644	324.8133	CLICK ah
+30	B	INSTRUCTOR	328.3878	330.0504	okay now it's the castle again
+30	B	INSTRUCTOR	330.8567	331.4718	purple castle
+30	A	MANIPULATOR	330.8853	331.6168	eh okay
+30	A	MANIPULATOR	332.2486	332.5978	got it
+31	A	INSTRUCTOR	334.4349	339.7135	and now we're to the far left the purplish thing third from the top
+31	B	MANIPULATOR	340.1254	341.2477	ah the purple rock
+31	A	INSTRUCTOR	341.8	342.0494	yeah
+31	B	MANIPULATOR	342.478	343.01	LAUGHTER
+31	A	INSTRUCTOR	343.5872	343.8117	mm-hmm
+32	B	INSTRUCTOR	346.5013	352.8772	okay now it's the big blue V with the spike at the top right corner
+32	A	MANIPULATOR	352.033	352.3655	got it
+33	A	INSTRUCTOR	355.1586	358.517	now it's eh just below the man with the hat
+33	A	INSTRUCTOR	359.0989	361.0441	there's a turquoise TV screen
+33	B	MANIPULATOR	361.5059	363.7503	CLICK ah kind of a WALL-E robot
+33	A	INSTRUCTOR	363.9203	364.1946	yeah
+34	B	INSTRUCTOR	367.9566	375.064	okay now it's uh bottom left uh reindeer purp- or pink spiky thing LAUGHTER
+34	A	MANIPULATOR	373.8624	375.6579	oh LAUGHTER that's a reindeer
+34	B	INSTRUCTOR	376.0532	377.0341	LAUGHTER
+35	A	INSTRUCTOR	377.7694	382.1751	I see now it's the big pink house to the left
+35	B	MANIPULATOR	382.7533	383.1025	mm
+36	B	INSTRUCTOR	386.3943	391.5649	okay now it's the LAUGHTER the bottom right green um chicken
+36	A	MANIPULATOR	393.1979	394.0873	got it
+37	A	INSTRUCTOR	395.8413	402.2505	now it's to the just bottom right the pointy thing pointy little thing
+37	B	MANIPULATOR	401.8395	402.8619	ah okay
+38	B	INSTRUCTOR	406.4531	410.4931	okay now it's the bi- the middle robot but to the left of it
+38	A	MANIPULATOR	411.8351	414.4204	middle robot I don't know the robot
+38	B	INSTRUCTOR	413.735	415.7966	yeah top top the top uh
+38	A	MANIPULATOR	416.3157	417.1387	what's the robot
+38	A	MANIPULATOR	417.388	419.0173	oh yeah to the left of it the blue one
+38	B	INSTRUCTOR	418.066	418.199	CLICK
+38	B	INSTRUCTOR	418.9887	419.5872	yeah yeah
+39	A	INSTRUCTOR	423.0158	426.9976	now it's the GROAN bottom left big green V with a point
+39	B	MANIPULATOR	428.1245	428.3156	ah
+40	B	INSTRUCTOR	431.6408	433.3864	okay now it's the the man in the hat
+40	A	MANIPULATOR	434.1549	434.6454	got it
+41	A	INSTRUCTOR	436.9064	438.4526	now it's the big pink mountain
+41	B	MANIPULATOR	440.419	441.8405	CLICK uh-huh got it
+42	B	INSTRUCTOR	443.4116	444.9079	okay now it's the purple castle
+42	A	MANIPULATOR	447.073	447.4304	this one
+42	A	MANIPULATOR	447.6465	448.2949	goes around
+43	A	INSTRUCTOR	449.9575	450.9633	now it's the reindeer
+43	A	INSTRUCTOR	451.4372	452.0689	down left
+43	B	MANIPULATOR	452.6638	452.9464	ah
+44	B	INSTRUCTOR	456.3214	458.358	oh now it's the pink big house
+44	A	MANIPULATOR	459.6751	460.0492	got it
+45	A	INSTRUCTOR	462.0692	465.2779	now it's the to the right the small pointy
+45	A	INSTRUCTOR	465.7933	466.0926	thing
+45	A	INSTRUCTOR	467.8715	468.2123	pink
+45	B	MANIPULATOR	468.2668	470.877	eh oh oh okay
+45	A	INSTRUCTOR	469.0769	469.8416	above the V
+46	B	INSTRUCTOR	474.4931	478.9654	okay now it's to the right of the man in the hat the blue purplish
+46	A	MANIPULATOR	478.2043	479.4346	those b- blue one
+46	B	INSTRUCTOR	479.7883	480.5947	trying up
+47	A	INSTRUCTOR	482.6766	483.5162	now it's the reindeer
+47	A	INSTRUCTOR	484.6384	485.0125	to the right
+47	B	MANIPULATOR	486.2058	487.1036	you got it
+47	A	INSTRUCTOR	487.3234	487.7058	okay
+48	B	INSTRUCTOR	488.5916	491.9084	now the big pink house on the bottom left
+48	A	MANIPULATOR	491.3468	492.7683	big pink house yes
+49	A	INSTRUCTOR	494.514	498.2713	now it's uh to the ri- to the left of the big pink house
+49	A	INSTRUCTOR	498.9197	500.416	the smaller purple thing
+49	B	MANIPULATOR	499.3982	499.6309	ah
+49	B	MANIPULATOR	500.1048	501.3766	the small spaceship
+49	A	INSTRUCTOR	501.8957	503.1759	spaceship the spaceship
+49	B	MANIPULATOR	502.9228	504.1531	nice nice
+50	B	INSTRUCTOR	506.1648	510.2713	okay now it's the top right corner yellow house
+50	A	MANIPULATOR	510.4246	511.3141	yellow house
+51	A	INSTRUCTOR	513.9326	517.9144	now it's in the middle the pur- pink pointy thing
+51	B	MANIPULATOR	519.1327	519.5234	okay
+52	B	INSTRUCTOR	522.6241	526.8303	ah now it's the in mid- in the middle where the pointy thing was and to the right
+52	B	INSTRUCTOR	526.9135	527.8528	I don't know
+52	A	MANIPULATOR	526.9421	527.6487	the blue
+52	B	INSTRUCTOR	528.4679	534.2453	yeah the blue with a m- it's like a robot with this like eh CLICK hat on
+52	A	MANIPULATOR	529.8432	530.9239	with a triangle
+52	A	MANIPULATOR	533.9498	535.2881	LAUGHTER a robot with a hat
+52	B	INSTRUCTOR	534.5945	534.9353	yeah
+52	B	INSTRUCTOR	535.0018	535.4673	all right
+52	B	INSTRUCTOR	535.9079	536.8057	robot with a hat yeah
+53	A	INSTRUCTOR	537.0005	539.087	now we're the green thingy in the bottom middle
+53	A	INSTRUCTOR	540.1843	540.6665	rock
+53	B	MANIPULATOR	540.6046	541.0369	ah
+53	B	MANIPULATOR	541.4109	541.9263	okay
+54	B	INSTRUCTOR	544.4867	546.7394	oh now it's the yellow swan at the
+54	A	MANIPULATOR	547.1421	548.0399	yellow swan
+54	B	INSTRUCTOR	547.7536	548.3355	top left
+55	A	INSTRUCTOR	550.3425	552.9777	now it's in the middle th- the robot with a hat
+55	B	MANIPULATOR	553.4229	554.0214	ah okay LAUGHTER
+56	B	INSTRUCTOR	556.9309	559.9734	okay now it's the green rock in the bottom left corner
+57	A	INSTRUCTOR	562.7203	565.8292	now it's in the mod- uh the the yellow swan
+57	A	INSTRUCTOR	566.461	567.2175	in the bottom
+57	B	MANIPULATOR	566.848	567.2138	ah
+57	B	MANIPULATOR	568.1365	568.5937	nice
+58	B	INSTRUCTOR	570.4059	572.2679	okay now it's the robot hat to the left
+58	A	MANIPULATOR	573.477	573.6848	eh
+58	A	MANIPULATOR	574.2584	574.5078	yep
+59	A	INSTRUCTOR	577.5502	581.6651	now it's in the top right the turquoise under the bat
+59	B	MANIPULATOR	585.0779	585.7014	top left
+59	B	MANIPULATOR	585.7596	587.3556	it's maybe oh okay
+59	A	INSTRUCTOR	585.996	586.8024	top top left
+59	A	INSTRUCTOR	588.5896	589.2879	did I say right
+59	B	MANIPULATOR	588.8935	590.2152	nice yeah
+60	B	INSTRUCTOR	591.7863	593.5403	okay now it's the red V
+60	A	MANIPULATOR	594.0927	594.5499	V
+60	A	MANIPULATOR	594.9821	596.7029	long time no V
+60	B	INSTRUCTOR	596.3833	598.3784	see uh-huh LAUGHTER
+61	A	INSTRUCTOR	598.4901	602.5135	now it's just the where that was uh the it's the robot with the hat
+61	B	MANIPULATOR	599.0018	599.326	NOISE
+61	B	MANIPULATOR	602.992	603.4408	okay
+61	B	MANIPULATOR	603.4658	603.6653	BREATH
+62	B	INSTRUCTOR	606.2506	608.3786	okay now it's the turquoise X
+62	A	MANIPULATOR	609.2801	609.9701	oh okay
+62	A	MANIPULATOR	611.7157	611.9984	good
+63	A	INSTRUCTOR	613.3367	615.6726	now it's the big green V with a point
+63	B	MANIPULATOR	616.4088	616.7163	ah
+64	B	INSTRUCTOR	619.5759	620.8977	now it's the man in the hat
+64	A	MANIPULATOR	621.4417	621.849	got it
+65	A	INSTRUCTOR	623.6113	625.889	now it's the big blue V with a point
+65	A	INSTRUCTOR	627.3936	627.801	to the left
+65	B	MANIPULATOR	628.2378	628.5704	ah
+65	B	MANIPULATOR	629.4099	630.1332	got it
+66	B	INSTRUCTOR	631.3302	634.5223	'kay now it's the WALL-E robot top middle
+66	A	MANIPULATOR	635.3157	635.8145	got it
+67	A	INSTRUCTOR	637.9841	642.2486	now it's the turquoise pointy thing no the pink pointy thing
+67	A	INSTRUCTOR	642.4231	643.4789	it's sort of
+67	B	MANIPULATOR	644.6888	645.9191	to the left of the man in the hat
+67	A	INSTRUCTOR	646.1971	646.7458	yes
+67	B	MANIPULATOR	647.3572	647.5817	ah
+68	B	INSTRUCTOR	650.699	653.0099	oh now it's the the green rock in the middle
+68	A	MANIPULATOR	653.3711	653.795	got it
+69	A	INSTRUCTOR	655.4406	657.7212	now it's the blue man with the hat
+69	B	MANIPULATOR	660.5496	660.9985	okay
+69	B	MANIPULATOR	661.6136	662.3452	got it
+70	B	INSTRUCTOR	665.371	670.0428	and now it's the big V with a point blue to the left
+70	A	MANIPULATOR	670.0797	670.5785	yes
+71	A	INSTRUCTOR	672.6733	673.7207	now it's the red V
+71	B	MANIPULATOR	675.1635	675.4295	ah
+71	B	MANIPULATOR	675.7287	676.3771	got it
+72	B	INSTRUCTOR	677.9399	679.6025	now it's the robot with a hat
+72	B	INSTRUCTOR	679.935	681.531	to the right of the man in the hat
+72	A	MANIPULATOR	681.5015	682.0002	got it
+73	A	INSTRUCTOR	683.3968	684.5606	now it's the red V again
+73	B	MANIPULATOR	685.5212	686.0532	mm-hmm
+73	B	MANIPULATOR	686.9676	687.35	done
+74	B	INSTRUCTOR	688.3974	689.7939	and now it's the robot in the hat
+74	A	MANIPULATOR	690.5125	691.3604	robot in the hat
+75	A	INSTRUCTOR	693.5051	695.2009	now it's the turquoise X
+75	B	MANIPULATOR	695.9288	696.3943	mm-hmm
+75	B	MANIPULATOR	696.8764	697.6412	got it
+76	B	INSTRUCTOR	698.6055	701.3154	and now it's the green pointy V on the top
+76	A	MANIPULATOR	701.6018	702.0008	yes
+77	A	INSTRUCTOR	703.6467	708.7674	now it's eh above the spaceship eh a a purple rock
+77	B	MANIPULATOR	707.9989	709.9275	ah purple small rock okay
+77	A	INSTRUCTOR	709.6319	710.0475	yes
+78	B	INSTRUCTOR	712.1387	717.5586	okay now it's the the chicken in the right green chicken in the right corner top corner
+78	A	MANIPULATOR	717.13	717.5457	got it
+79	A	INSTRUCTOR	722.4003	724.7778	eh oh now it's the big green V with a point
+79	B	MANIPULATOR	725.4059	725.7716	ah
+79	B	MANIPULATOR	726.819	727.6171	got it
+80	B	INSTRUCTOR	727.8498	731.4243	SNIFF okay now it's the purple small rock at the top
+80	A	MANIPULATOR	732.1928	732.4588	got it
+81	A	INSTRUCTOR	734.7199	737.3301	now it's the the big eh purple castle
+81	B	MANIPULATOR	738.3239	738.6897	CLICK ah
+81	B	MANIPULATOR	739.9033	740.2857	done
+82	B	INSTRUCTOR	742.2143	744.7746	okay now it's the reindeer pink reindeer thing
+82	A	MANIPULATOR	745.5265	746.0419	got it
+83	A	INSTRUCTOR	748.0868	750.7635	now it's the the blue robot with a hat
+83	B	MANIPULATOR	751.8072	752.2062	ah
+83	B	MANIPULATOR	752.6884	753.4532	got it
+84	B	INSTRUCTOR	755.1822	756.9611	okay now it's the turquoise X
+85	A	INSTRUCTOR	760.7555	765.5602	now it's the the blue robot in the top left not the robot with a hat
+85	B	MANIPULATOR	765.8059	766.8035	ah the WALL-E
+85	A	INSTRUCTOR	766.7573	767.1064	yeah
+85	A	INSTRUCTOR	768.0707	768.5196	the WALL-E
+85	B	MANIPULATOR	769.8792	770.6606	LAUGHTER WALL-E
+86	A	MANIPULATOR	770.9968	771.3792	mm-hmm
+86	B	INSTRUCTOR	771.2092	774.8502	okay now it's the pointy thing left to the man in the hat
+86	A	MANIPULATOR	775.3361	776.1175	yes
+87	A	INSTRUCTOR	778.9604	780.4069	now it's the big yellow house
+87	B	MANIPULATOR	781.5503	782.498	all right
+88	B	INSTRUCTOR	785.9561	789.1981	okay now it's the yellow swan in the bottom left
+89	A	INSTRUCTOR	792.1445	794.9376	and now it's the big blue V with a point
+89	B	MANIPULATOR	796.0312	797.1617	big blue V with a point
+89	B	MANIPULATOR	797.3113	797.6439	done
+90	B	INSTRUCTOR	800.0546	801.2682	and now it's the red V
+90	A	MANIPULATOR	801.8206	802.3858	red V
+91	A	INSTRUCTOR	804.331	806.0601	now it's the big blue man with a hat
+91	B	MANIPULATOR	807.1204	807.7356	all right
+92	B	INSTRUCTOR	810.2959	812.69	now it's the green uh chicken
+92	A	MANIPULATOR	812.9431	813.8076	green chicken
+93	A	INSTRUCTOR	815.9689	819.5268	now it's the GROAN orange ruby in the bottom
+93	B	MANIPULATOR	820.3045	820.5871	ah
+94	B	INSTRUCTOR	823.7626	826.0735	CLICK now it's the purple moun- mountain
+94	A	MANIPULATOR	826.8753	830.9485	purple mountain or pink mountain or purple castle
+94	B	INSTRUCTOR	828.2847	828.6172	mou-
+94	A	MANIPULATOR	832.1456	832.9602	top or bottom
+94	B	INSTRUCTOR	832.491	833.8543	no li- bottom
+94	A	MANIPULATOR	834.6726	835.0883	yes
+95	A	INSTRUCTOR	837.6154	839.3777	now it's the orange ruby again
+95	B	MANIPULATOR	840.2718	840.9867	okay
+96	B	INSTRUCTOR	842.9651	845.4589	and now it's the pink mountain again
+96	A	MANIPULATOR	845.0304	846.1276	pink mountain
+97	A	INSTRUCTOR	849.5858	851.4312	eh it's WALL-E on the bottom
+97	B	MANIPULATOR	852.5414	852.8407	ah
+97	B	MANIPULATOR	853.6886	854.0211	BREATH
+98	B	INSTRUCTOR	855.4343	859.6904	uh it's small pointy thing top middle
+98	A	MANIPULATOR	858.3474	859.345	eh top
+98	A	MANIPULATOR	859.6608	860.01	yeah
+98	B	INSTRUCTOR	859.9398	860.4053	yeah
+99	A	INSTRUCTOR	862.6701	864.449	eh big blue V with a point
+99	B	MANIPULATOR	865.2267	865.925	yes
+100	B	INSTRUCTOR	867.9699	873.074	oh hello old V red V friend LAUGHTER
+100	A	MANIPULATOR	870.7833	872.529	red V
+100	A	MANIPULATOR	873.7094	875.1558	that's a score of a hundred
+100	B	INSTRUCTOR	874.0382	874.6866	NOISE NOISE
+101	A	INSTRUCTOR	875.6712	876.8849	now it's the reindeer
+101	B	MANIPULATOR	878.7266	881.6694	oh okay oh we keep we should keep on going
+101	A	INSTRUCTOR	883.6515	884.3165	think so
+102	B	INSTRUCTOR	884.8282	885.2605	okay
+102	B	INSTRUCTOR	885.4101	886.7069	a robot in a hat
+102	A	MANIPULATOR	887.5751	890.2186	eh robot in the hat in the middle
+102	B	INSTRUCTOR	888.7851	889.4335	in the middle
+102	B	INSTRUCTOR	890.7802	891.3787	BREATH
+103	A	INSTRUCTOR	892.2137	893.7432	a big blue V with a point
+103	B	MANIPULATOR	895.5018	896.0172	done
+104	B	INSTRUCTOR	898.3448	899.3091	uh red V
+104	A	MANIPULATOR	899.479	900.1274	red V
+105	A	INSTRUCTOR	902.1557	904.4002	uh big green rock in the bottom
+105	B	MANIPULATOR	905.6767	906.1754	yes
+105	B	MANIPULATOR	906.3749	906.8072	done
+106	B	INSTRUCTOR	908.8023	909.6834	uh
+106	B	INSTRUCTOR	910.2154	912.3601	green pointy blue uh green
+106	B	INSTRUCTOR	912.676	913.7234	green pointy V
+106	A	MANIPULATOR	914.1594	914.575	yes
+107	A	INSTRUCTOR	916.7363	918.3823	uh yellow house in the top
+107	B	MANIPULATOR	919.0935	919.7585	yes
+108	B	INSTRUCTOR	922.3355	924.53	uh yellow swan in the top
+108	B	INSTRUCTOR	925.9432	926.309	done
+109	A	INSTRUCTOR	928.2246	929.3551	big blue man with a hat
+109	B	MANIPULATOR	928.2708	928.7695	all right
+109	B	MANIPULATOR	930.748	931.1636	okay
+109	B	MANIPULATOR	932.1113	933.0756	okay that's
+109	A	INSTRUCTOR	933.5115	934.5257	it's were done
+109	B	MANIPULATOR	933.6242	934.4721	that's a
+110	B	INSTRUCTOR	935.3533	938.7947	yeah if you we can pick the chicken so we have ten
+110	A	MANIPULATOR	938.9647	940.2282	which the chicken the green
+110	B	INSTRUCTOR	939.5096	940.2412	o- one hundred
+110	B	INSTRUCTOR	940.8896	941.538	the green yeah
+110	B	INSTRUCTOR	943.9487	946.0601	all right nice clean

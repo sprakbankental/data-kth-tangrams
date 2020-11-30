@@ -1,0 +1,1545 @@
+<?xml version="1.0" encoding="iso-8859-1"?><annotation xmlns="http://www.speech.kth.se/higgins/2005/annotation/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.speech.kth.se/higgins/2005/annotation/ http://www.speech.kth.se/higgins/2005/annotation/annotation.xsd" id="dyad37"><tracks>
+<track id="track1"><sources><source id="source1" href="recording.wav" channel="0" /></sources></track>
+<track id="track2"><sources><source id="source2" href="recording.wav" channel="1" /></sources></track>
+</tracks>
+<segments>
+<segment start="0.0000" end="0.7698" source="source1" track="track1" id="segment531">
+
+<transcription><t>START_SIGNAL</t></transcription></segment>
+<segment start="2.0316" end="2.7367" source="source1" track="track1" id="segment1">
+
+<transcription><t>okay</t></transcription></segment>
+<segment start="6.7618" end="7.1179" source="source1" track="track1" id="segment2">
+
+<transcription><t>BREATH</t></transcription></segment>
+<segment start="10.5884" end="11.6688" source="source1" track="track1" id="segment3">
+
+<transcription><t>d-</t><t>you</t><t>can</t><t>talk</t></transcription></segment>
+<segment start="12.6392" end="14.1785" source="source2" track="track2" id="segment4">
+
+<transcription><t>there's</t><t>nothing</t><t>selected</t><t>here</t></transcription></segment>
+<segment start="14.8214" end="15.5480" source="source2" track="track2" id="segment6">
+
+<transcription><t>it's</t><t>only</t></transcription></segment>
+<segment start="15.7895" end="16.4778" source="source2" track="track2" id="segment7">
+
+<transcription><t>continue</t></transcription></segment>
+<segment start="16.6141" end="18.1246" source="source2" track="track2" id="segment8">
+
+<transcription><t>it</t><t>says</t><t>continue</t><t>to</t><t>next</t><t>turn</t></transcription></segment>
+<segment start="19.5157" end="19.9507" source="source2" track="track2" id="segment9">
+
+<transcription><t>press</t><t>okay</t></transcription></segment>
+<segment start="22.8787" end="23.5049" source="source2" track="track2" id="segment10">
+
+<transcription><t>okay</t><t>cool</t></transcription></segment>
+<segment start="23.9399" end="25.0203" source="source2" track="track2" id="segment11">
+
+<transcription><t>so</t><t>look</t><t>down</t></transcription></segment>
+<segment start="26.2990" end="26.6862" source="source1" track="track1" id="segment12">
+
+<transcription><t>okay</t></transcription></segment>
+<segment start="26.6623" end="27.2097" source="source2" track="track2" id="segment13">
+
+<transcription><t>your</t><t>right</t></transcription></segment>
+<segment start="28.1036" end="28.4741" source="source1" track="track1" id="segment14">
+
+<transcription><t>okay</t></transcription></segment>
+<segment start="28.2159" end="30.1759" source="source2" track="track2" id="segment15">
+
+<transcription><t>look</t><t>looks</t><t>like</t><t>a</t><t>bird</t><t>it's</t><t>blue</t></transcription></segment>
+<segment start="28.7800" end="29.0883" source="source1" track="track1" id="segment16">
+
+<transcription><t>LAUGHTER</t></transcription></segment>
+<segment start="30.7065" end="30.8523" source="source1" track="track1" id="segment17">
+
+<transcription><t>yep</t></transcription></segment>
+<segment start="36.5887" end="37.1169" source="source1" track="track1" id="segment19">
+
+<transcription><t>BREATH</t><t>CLICK</t></transcription></segment>
+<segment start="37.2866" end="44.9591" source="source1" track="track1" id="segment18">
+
+<transcription><t>BREATH</t><t>okay</t><t>it's</t><t>pink</t><t>and</t><t>it's</t><t>uh</t><t>a</t><t>little</t><t>bit</t><t>down</t><t>than</t><t>the</t><t>bird</t><t>pink</t></transcription></segment>
+<segment start="39.7485" end="39.8871" source="source2" track="track2" id="segment20">
+
+<transcription><t>mm-hmm</t></transcription></segment>
+<segment start="45.0045" end="47.0648" source="source1" track="track1" id="segment21">
+
+<transcription><t>do</t><t>you</t><t>see</t><t>a</t><t>bird</t><t>pink</t><t>like</t><t>in</t><t>the</t><t>middle</t></transcription></segment>
+<segment start="46.4171" end="46.6633" source="source2" track="track2" id="segment23">
+
+<transcription><t>yeah</t></transcription></segment>
+<segment start="47.0648" end="48.7427" source="source1" track="track1" id="segment24">
+
+<transcription><t>so</t><t>it's</t><t>a</t><t>down</t><t>figure</t></transcription></segment>
+<segment start="48.6184" end="49.3952" source="source2" track="track2" id="segment25">
+
+<transcription><t>under</t><t>it</t><t>right</t></transcription></segment>
+<segment start="49.1323" end="49.9330" source="source1" track="track1" id="segment26">
+
+<transcription><t>yeah</t><t>under</t><t>it</t><t>yeah</t></transcription></segment>
+<segment start="50.5377" end="50.8604" source="source2" track="track2" id="segment27">
+
+<transcription><t>there</t><t>you</t><t>go</t></transcription></segment>
+<segment start="51.0922" end="51.9145" source="source1" track="track1" id="segment28">
+
+<transcription><t>the</t><t>crown</t></transcription></segment>
+<segment start="51.4699" end="52.3471" source="source2" track="track2" id="segment29">
+
+<transcription><t>do</t><t>I</t><t>double</t><t>click</t></transcription></segment>
+<segment start="52.5455" end="52.6243" source="source2" track="track2" id="segment30">
+
+<transcription><t>no</t></transcription></segment>
+<segment start="55.7937" end="56.2502" source="source1" track="track1" id="segment31">
+
+<transcription><t>which</t><t>might</t></transcription></segment>
+<segment start="57.1083" end="57.2063" source="source1" track="track1" id="segment38">
+
+<transcription><t>NOISE</t></transcription></segment>
+<segment start="59.3431" end="59.7733" source="source1" track="track1" id="segment32">
+
+<transcription><t>okay</t></transcription></segment>
+<segment start="60.0578" end="61.3508" source="source2" track="track2" id="segment33">
+
+<transcription><t>okay</t><t>so</t><t>ready</t></transcription></segment>
+<segment start="61.6544" end="62.7204" source="source2" track="track2" id="segment34">
+
+<transcription><t>it's</t><t>blue</t></transcription></segment>
+<segment start="63.0957" end="63.4088" source="source1" track="track1" id="segment35">
+
+<transcription><t>okay</t></transcription></segment>
+<segment start="63.3920" end="63.7697" source="source2" track="track2" id="segment36">
+
+<transcription><t>your</t></transcription></segment>
+<segment start="64.2119" end="66.9438" source="source2" track="track2" id="segment37">
+
+<transcription><t>it's</t><t>blue</t><t>and</t><t>your</t><t>right</t><t>hand</t></transcription></segment>
+<segment start="67.6728" end="67.8210" source="source1" track="track1" id="segment39">
+
+<transcription><t>yep</t></transcription></segment>
+<segment start="67.3334" end="67.7182" source="source2" track="track2" id="segment40">
+
+<transcription><t>okay</t></transcription></segment>
+<segment start="67.8951" end="69.1739" source="source2" track="track2" id="segment41">
+
+<transcription><t>you</t><t>only</t><t>have</t><t>one</t><t>blue</t><t>under</t></transcription></segment>
+<segment start="68.3612" end="68.5978" source="source1" track="track1" id="segment42">
+
+<transcription><t>BREATH</t></transcription></segment>
+<segment start="68.8416" end="69.0974" source="source1" track="track1" id="segment43">
+
+<transcription><t>yeah</t></transcription></segment>
+<segment start="70.0200" end="71.0956" source="source1" track="track1" id="segment44">
+
+<transcription><t>I</t><t>selected</t><t>it</t><t>already</t></transcription></segment>
+<segment start="70.2279" end="70.3379" source="source2" track="track2" id="segment45">
+
+<transcription><t>NOISE</t></transcription></segment>
+<segment start="70.7060" end="70.7705" source="source2" track="track2" id="segment46">
+
+<transcription><t>NOISE</t></transcription></segment>
+<segment start="73.0268" end="73.0722" source="source1" track="track1" id="segment47">
+
+<transcription><t>CLICK</t></transcription></segment>
+<segment start="73.2491" end="82.5851" source="source1" track="track1" id="segment48">
+
+<transcription><t>so</t><t>it's</t><t>a</t><t>big</t><t>pink</t><t>thing</t><t>uh</t><t>which</t><t>looks</t><t>like</t><t>a</t><t>bird</t><t>in</t><t>the</t><t>middle</t><t>left</t></transcription></segment>
+<segment start="83.2257" end="84.1817" source="source2" track="track2" id="segment51">
+
+<transcription><t>middle</t><t>left</t><t>yeah</t></transcription></segment>
+<segment start="84.1985" end="86.0723" source="source2" track="track2" id="segment53">
+
+<transcription><t>it's</t><t>under</t><t>the</t><t>the</t><t>blue</t><t>bird</t></transcription></segment>
+<segment start="85.1163" end="86.3353" source="source1" track="track1" id="segment52">
+
+<transcription><t>yeah</t><t>yeah</t><t>yeah</t><t>the</t><t>blue</t><t>bird</t></transcription></segment>
+<segment start="86.3878" end="86.6173" source="source2" track="track2" id="segment54">
+
+<transcription><t>yeah</t></transcription></segment>
+<segment start="86.7966" end="87.2579" source="source2" track="track2" id="segment55">
+
+<transcription><t>correct</t></transcription></segment>
+<segment start="89.2035" end="89.5955" source="source1" track="track1" id="segment56">
+
+<transcription><t>okay</t></transcription></segment>
+<segment start="89.1987" end="89.2752" source="source2" track="track2" id="segment57">
+
+<transcription><t>mm</t></transcription></segment>
+<segment start="91.2471" end="91.2901" source="source2" track="track2" id="segment58">
+
+<transcription><t>NOISE</t></transcription></segment>
+<segment start="91.7753" end="91.8016" source="source2" track="track2" id="segment59">
+
+<transcription><t>CLICK</t></transcription></segment>
+<segment start="92.7314" end="93.1927" source="source2" track="track2" id="segment60">
+
+<transcription><t>it's</t></transcription></segment>
+<segment start="93.3217" end="94.4881" source="source2" track="track2" id="segment61">
+
+<transcription><t>okay</t><t>it's</t><t>blue</t></transcription></segment>
+<segment start="93.9551" end="94.2921" source="source1" track="track1" id="segment62">
+
+<transcription><t>BREATH</t></transcription></segment>
+<segment start="94.6435" end="95.0044" source="source1" track="track1" id="segment63">
+
+<transcription><t>okay</t></transcription></segment>
+<segment start="95.0164" end="95.0785" source="source2" track="track2" id="segment64">
+
+<transcription><t>CLICK</t></transcription></segment>
+<segment start="95.2960" end="99.8708" source="source2" track="track2" id="segment65">
+
+<transcription><t>it's</t><t>in</t><t>the</t><t>lower</t><t>side</t><t>of</t><t>the</t><t>screen</t><t>but</t><t>like</t><t>you</t><t>have</t></transcription></segment>
+<segment start="97.6790" end="98.0686" source="source1" track="track1" id="segment67">
+
+<transcription><t>okay</t></transcription></segment>
+<segment start="99.9401" end="100.9272" source="source2" track="track2" id="segment66">
+
+<transcription><t>it's</t><t>the</t><t>lowest</t></transcription></segment>
+<segment start="101.4196" end="102.0124" source="source2" track="track2" id="segment68">
+
+<transcription><t>you</t><t>have</t></transcription></segment>
+<segment start="102.6362" end="102.9565" source="source1" track="track1" id="segment69">
+
+<transcription><t>that's</t><t>it</t></transcription></segment>
+<segment start="108.1599" end="108.6499" source="source1" track="track1" id="segment70">
+
+<transcription><t>oh</t><t>okay</t></transcription></segment>
+<segment start="109.0299" end="114.7807" source="source1" track="track1" id="segment71">
+
+<transcription><t>it's</t><t>the</t><t>same</t><t>uh</t><t>pink</t><t>bird</t><t>uh</t><t>moved</t><t>to</t><t>the</t><t>right</t><t>uh</t><t>side</t><t>of</t><t>the</t><t>screen</t></transcription></segment>
+<segment start="115.1535" end="116.1741" source="source2" track="track2" id="segment73">
+
+<transcription><t>excelente</t></transcription></segment>
+<segment start="118.7507" end="119.9386" source="source1" track="track1" id="segment74">
+
+<transcription><t>this</t><t>bird</t><t>moves</t><t>around</t></transcription></segment>
+<segment start="120.5362" end="120.8206" source="source1" track="track1" id="segment75">
+
+<transcription><t>LAUGHTER</t></transcription></segment>
+<segment start="120.7776" end="122.5654" source="source2" track="track2" id="segment77">
+
+<transcription><t>BREATH</t><t>LAUGHTER</t><t>BREATH</t></transcription></segment>
+<segment start="123.4833" end="123.8418" source="source2" track="track2" id="segment78">
+
+<transcription><t>that's</t><t>right</t></transcription></segment>
+<segment start="126.2869" end="126.3347" source="source2" track="track2" id="segment79">
+
+<transcription><t>CLICK</t></transcription></segment>
+<segment start="126.9801" end="131.7867" source="source2" track="track2" id="segment80">
+
+<transcription><t>okay</t><t>it's</t><t>blue</t><t>l-</t><t>to</t><t>the</t><t>left</t><t>but</t><t>you've</t><t>you</t><t>pay</t><t>pay</t><t>attention</t><t>you</t><t>have</t><t>a</t><t>lot</t></transcription></segment>
+<segment start="128.3951" end="128.6269" source="source1" track="track1" id="segment81">
+
+<transcription><t>oh</t></transcription></segment>
+<segment start="131.9994" end="132.3962" source="source1" track="track1" id="segment82">
+
+<transcription><t>mm-hmm</t></transcription></segment>
+<segment start="132.4488" end="136.7822" source="source2" track="track2" id="segment83">
+
+<transcription><t>uh</t><t>you</t><t>have</t><t>like</t><t>a</t><t>mountain</t><t>there</t><t>it's</t><t>above</t><t>the</t><t>mou-</t><t>a</t><t>mountain</t></transcription></segment>
+<segment start="136.9997" end="137.3128" source="source1" track="track1" id="segment84">
+
+<transcription><t>okay</t></transcription></segment>
+<segment start="137.0761" end="137.6498" source="source2" track="track2" id="segment85">
+
+<transcription><t>looks</t><t>like</t></transcription></segment>
+<segment start="137.7549" end="138.2832" source="source1" track="track1" id="segment86">
+
+<transcription><t>yeah</t><t>I</t><t>selected</t></transcription></segment>
+<segment start="138.3788" end="138.9524" source="source1" track="track1" id="segment87">
+
+<transcription><t>the</t><t>the</t><t>biggest</t><t>one</t></transcription></segment>
+<segment start="142.5257" end="143.4077" source="source1" track="track1" id="segment88">
+
+<transcription><t>yeah</t><t>correct</t></transcription></segment>
+<segment start="144.8131" end="148.1785" source="source1" track="track1" id="segment89">
+
+<transcription><t>it's</t><t>blue</t><t>the</t><t>first</t><t>one</t><t>from</t><t>the</t><t>upper</t></transcription></segment>
+<segment start="148.5083" end="148.7234" source="source1" track="track1" id="segment90">
+
+<transcription><t>yeah</t></transcription></segment>
+<segment start="148.8836" end="149.5361" source="source1" track="track1" id="segment91">
+
+<transcription><t>from</t><t>up</t></transcription></segment>
+<segment start="149.8874" end="151.6251" source="source2" track="track2" id="segment92">
+
+<transcription><t>uh</t><t>you</t><t>have</t><t>a</t><t>lot</t><t>of</t><t>blue</t><t>ones</t></transcription></segment>
+<segment start="150.4898" end="153.6257" source="source1" track="track1" id="segment93">
+
+<transcription><t>i-</t><t>it's</t><t>like</t><t>a</t><t>it's</t><t>like</t><t>a</t><t>triangle</t><t>down</t></transcription></segment>
+<segment start="154.0105" end="154.5005" source="source2" track="track2" id="segment94">
+
+<transcription><t>the</t><t>small</t></transcription></segment>
+<segment start="154.7562" end="155.2127" source="source2" track="track2" id="segment95">
+
+<transcription><t>the</t><t>small</t></transcription></segment>
+<segment start="154.8805" end="156.4437" source="source1" track="track1" id="segment96">
+
+<transcription><t>yeah</t><t>the</t><t>small</t><t>small</t><t>small</t><t>one</t></transcription></segment>
+<segment start="156.5082" end="157.2420" source="source2" track="track2" id="segment97">
+
+<transcription><t>yeah</t><t>huh</t><t>but</t><t>not</t></transcription></segment>
+<segment start="157.3209" end="160.6145" source="source2" track="track2" id="segment98">
+
+<transcription><t>okay</t><t>it</t><t>has</t><t>four</t><t>four</t><t>corners</t><t>right</t><t>small</t><t>and</t><t>four</t><t>corners</t></transcription></segment>
+<segment start="160.2895" end="160.5046" source="source1" track="track1" id="segment99">
+
+<transcription><t>yeah</t></transcription></segment>
+<segment start="167.7994" end="172.4219" source="source2" track="track2" id="segment100">
+
+<transcription><t>okay</t><t>pink</t><t>bird</t><t>uh</t><t>it's</t><t>on</t><t>the</t><t>lower</t><t>side</t></transcription></segment>
+<segment start="170.8038" end="171.4013" source="source1" track="track1" id="segment101">
+
+<transcription><t>pink</t><t>bird</t></transcription></segment>
+<segment start="171.9583" end="172.0730" source="source1" track="track1" id="segment102">
+
+<transcription><t>yep</t></transcription></segment>
+<segment start="173.0410" end="173.2896" source="source2" track="track2" id="segment103">
+
+<transcription><t>okay</t></transcription></segment>
+<segment start="173.2418" end="173.8130" source="source1" track="track1" id="segment104">
+
+<transcription><t>it's</t><t>the</t><t>only</t><t>one</t></transcription></segment>
+<segment start="179.4706" end="179.6187" source="source1" track="track1" id="segment105">
+
+<transcription><t>BREATH</t></transcription></segment>
+<segment start="179.8960" end="185.9049" source="source1" track="track1" id="segment106">
+
+<transcription><t>the</t><t>biggest</t><t>blue</t><t>object</t><t>you</t><t>see</t><t>on</t><t>the</t><t>screen</t><t>blue</t><t>not</t><t>the</t><t>violet</t><t>blue</t></transcription></segment>
+<segment start="186.3351" end="189.1818" source="source2" track="track2" id="segment108">
+
+<transcription><t>okay</t><t>the</t><t>one</t><t>under</t><t>the</t><t>blue</t><t>bird</t><t>BREATH</t></transcription></segment>
+<segment start="188.4026" end="188.5819" source="source1" track="track1" id="segment109">
+
+<transcription><t>uh</t></transcription></segment>
+<segment start="189.1149" end="189.8463" source="source1" track="track1" id="segment110">
+
+<transcription><t>yeah</t><t>yeah</t><t>yeah</t><t>LAUGHTER</t></transcription></segment>
+<segment start="189.8726" end="190.5299" source="source2" track="track2" id="segment111">
+
+<transcription><t>we</t><t>love</t><t>the</t><t>bird</t></transcription></segment>
+<segment start="191.8349" end="194.5908" source="source1" track="track1" id="segment112">
+
+<transcription><t>or</t><t>the</t><t>blue</t><t>word</t><t>it's</t><t>green</t><t>to</t><t>me</t><t>LAUGHTER</t></transcription></segment>
+<segment start="196.1946" end="196.4192" source="source2" track="track2" id="segment113">
+
+<transcription><t>NOISE</t></transcription></segment>
+<segment start="197.7147" end="205.7672" source="source2" track="track2" id="segment114">
+
+<transcription><t>okay</t><t>um</t><t>upper</t><t>side</t><t>of</t><t>the</t><t>screen</t><t>you</t><t>have</t><t>like</t><t>a</t><t>green</t><t>TV</t><t>but</t><t>that's</t><t>not</t><t>the</t><t>one</t></transcription></segment>
+<segment start="200.4060" end="200.8410" source="source1" track="track1" id="segment115">
+
+<transcription><t>mm-hmm</t></transcription></segment>
+<segment start="205.8102" end="210.5786" source="source2" track="track2" id="segment117">
+
+<transcription><t>it's</t><t>the</t><t>one</t><t>close</t><t>to</t><t>it</t><t>NOISE</t><t>that</t><t>looks</t><t>like</t><t>a</t><t>fountain</t><t>or</t><t>something</t><t>like</t><t>that</t></transcription></segment>
+<segment start="211.1498" end="211.2980" source="source1" track="track1" id="segment118">
+
+<transcription><t>yep</t></transcription></segment>
+<segment start="216.3365" end="216.9651" source="source2" track="track2" id="segment119">
+
+<transcription><t>NOISE</t></transcription></segment>
+<segment start="216.4465" end="216.6903" source="source1" track="track1" id="segment120">
+
+<transcription><t>oh</t></transcription></segment>
+<segment start="217.2687" end="223.0361" source="source1" track="track1" id="segment121">
+
+<transcription><t>it's</t><t>the</t><t>um</t><t>dark</t><t>blue</t><t>in</t><t>the</t><t>um</t><t>left</t><t>uh</t><t>down</t><t>corner</t></transcription></segment>
+<segment start="223.9372" end="224.9937" source="source1" track="track1" id="segment122">
+
+<transcription><t>the</t><t>darkest</t></transcription></segment>
+<segment start="224.9985" end="226.1888" source="source1" track="track1" id="segment123">
+
+<transcription><t>it's</t><t>like</t><t>a</t><t>crown</t></transcription></segment>
+<segment start="226.9919" end="227.7639" source="source1" track="track1" id="segment124">
+
+<transcription><t>with</t><t>a</t><t>dark</t><t>blue</t></transcription></segment>
+<segment start="227.0851" end="227.2763" source="source2" track="track2" id="segment126">
+
+<transcription><t>yeah</t></transcription></segment>
+<segment start="227.8762" end="228.0149" source="source1" track="track1" id="segment125">
+
+<transcription><t>yeah</t></transcription></segment>
+<segment start="228.5001" end="229.5972" source="source2" track="track2" id="segment127">
+
+<transcription><t>crown</t><t>for</t><t>queens</t></transcription></segment>
+<segment start="229.6975" end="230.6393" source="source1" track="track1" id="segment128">
+
+<transcription><t>yes</t></transcription></segment>
+<segment start="230.4122" end="231.7937" source="source2" track="track2" id="segment129">
+
+<transcription><t>yeah</t><t>yeah</t><t>yeah</t><t>LAUGHTER</t></transcription></segment>
+<segment start="231.3659" end="231.9252" source="source1" track="track1" id="segment130">
+
+<transcription><t>LAUGHTER</t></transcription></segment>
+<segment start="232.4654" end="232.9195" source="source2" track="track2" id="segment132">
+
+<transcription><t>BREATH</t><t>NOISE</t></transcription></segment>
+<segment start="234.6476" end="234.7097" source="source2" track="track2" id="segment133">
+
+<transcription><t>NOISE</t></transcription></segment>
+<segment start="235.0945" end="235.2858" source="source2" track="track2" id="segment134">
+
+<transcription><t>NOISE</t></transcription></segment>
+<segment start="235.7471" end="236.1223" source="source2" track="track2" id="segment135">
+
+<transcription><t>okay</t></transcription></segment>
+<segment start="236.4259" end="236.5263" source="source2" track="track2" id="segment136">
+
+<transcription><t>CLICK</t></transcription></segment>
+<segment start="236.6744" end="237.7452" source="source2" track="track2" id="segment137">
+
+<transcription><t>uh</t><t>left</t><t>side</t></transcription></segment>
+<segment start="238.0655" end="238.4025" source="source1" track="track1" id="segment138">
+
+<transcription><t>mm-hmm</t></transcription></segment>
+<segment start="238.1085" end="240.0948" source="source2" track="track2" id="segment139">
+
+<transcription><t>upper</t><t>upper</t><t>side</t><t>of</t><t>the</t><t>screen</t></transcription></segment>
+<segment start="239.7147" end="240.1354" source="source1" track="track1" id="segment140">
+
+<transcription><t>mm-hmm</t></transcription></segment>
+<segment start="240.7831" end="241.4548" source="source2" track="track2" id="segment141">
+
+<transcription><t>it's</t><t>blue</t></transcription></segment>
+<segment start="242.2268" end="244.7126" source="source2" track="track2" id="segment142">
+
+<transcription><t>but</t><t>you</t><t>have</t><t>like</t><t>a</t><t>lot</t><t>of</t><t>blues</t><t>there</t></transcription></segment>
+<segment start="245.2910" end="245.6447" source="source1" track="track1" id="segment143">
+
+<transcription><t>yeah</t></transcription></segment>
+<segment start="245.6663" end="248.0947" source="source2" track="track2" id="segment144">
+
+<transcription><t>uh</t><t>okay</t><t>let</t><t>me</t><t>how</t><t>I'm</t><t>going</t><t>to</t><t>explain</t><t>this</t></transcription></segment>
+<segment start="248.2166" end="254.7608" source="source2" track="track2" id="segment145">
+
+<transcription><t>you</t><t>have</t><t>the</t><t>bird</t><t>and</t><t>close</t><t>to</t><t>the</t><t>bird's</t><t>whatever</t><t>it</t><t>is</t><t>like</t><t>what</t><t>does</t><t>a</t><t>bird</t><t>have</t></transcription></segment>
+<segment start="249.3925" end="249.6483" source="source1" track="track1" id="segment146">
+
+<transcription><t>yeah</t></transcription></segment>
+<segment start="255.1385" end="255.6763" source="source1" track="track1" id="segment147">
+
+<transcription><t>okay</t></transcription></segment>
+<segment start="255.2389" end="255.4564" source="source2" track="track2" id="segment148">
+
+<transcription><t>CLICK</t></transcription></segment>
+<segment start="255.7958" end="256.6084" source="source1" track="track1" id="segment149">
+
+<transcription><t>I</t><t>selected</t><t>one</t></transcription></segment>
+<segment start="256.7901" end="258.5373" source="source2" track="track2" id="segment150">
+
+<transcription><t>it's</t><t>perfect</t><t>LAUGHTER</t></transcription></segment>
+<segment start="256.6156" end="257.0913" source="source1" track="track1" id="segment153">
+
+<transcription><t>now</t><t>I</t><t>know</t></transcription></segment>
+<segment start="257.9708" end="259.1086" source="source1" track="track1" id="segment151">
+
+<transcription><t>LAUGHTER</t><t>okay</t></transcription></segment>
+<segment start="258.5588" end="259.0082" source="source2" track="track2" id="segment152">
+
+<transcription><t>good</t><t>one</t></transcription></segment>
+<segment start="259.4145" end="261.1522" source="source2" track="track2" id="segment154">
+
+<transcription><t>LAUGHTER</t><t>I</t><t>hope</t><t>it</t><t>is</t><t>SNIFF</t></transcription></segment>
+<segment start="260.9347" end="262.0676" source="source1" track="track1" id="segment155">
+
+<transcription><t>yes</t><t>it</t><t>is</t><t>LAUGHTER</t></transcription></segment>
+<segment start="261.3362" end="261.4557" source="source2" track="track2" id="segment157">
+
+<transcription><t>BREATH</t></transcription></segment>
+<segment start="262.1608" end="262.4285" source="source1" track="track1" id="segment156">
+
+<transcription><t>BREATH</t></transcription></segment>
+<segment start="261.9003" end="262.4333" source="source2" track="track2" id="segment158">
+
+<transcription><t>LAUGHTER</t></transcription></segment>
+<segment start="262.7416" end="269.1258" source="source1" track="track1" id="segment159">
+
+<transcription><t>okay</t><t>so</t><t>um</t><t>the</t><t>triangle</t><t>that</t><t>you</t><t>selected</t><t>before</t><t>blue</t><t>one</t></transcription></segment>
+<segment start="269.1760" end="269.5177" source="source2" track="track2" id="segment160">
+
+<transcription><t>uh-huh</t></transcription></segment>
+<segment start="269.3887" end="272.0752" source="source1" track="track1" id="segment161">
+
+<transcription><t>in</t><t>the</t><t>down</t><t>uh</t><t>left</t><t>corner</t></transcription></segment>
+<segment start="272.7014" end="273.2368" source="source2" track="track2" id="segment162">
+
+<transcription><t>down</t></transcription></segment>
+<segment start="273.6145" end="274.1905" source="source1" track="track1" id="segment163">
+
+<transcription><t>down</t></transcription></segment>
+<segment start="273.5667" end="275.6294" source="source2" track="track2" id="segment164">
+
+<transcription><t>left</t><t>it's</t><t>not</t><t>quite</t><t>left</t></transcription></segment>
+<segment start="274.9841" end="275.6127" source="source1" track="track1" id="segment165">
+
+<transcription><t>it's</t><t>it's</t></transcription></segment>
+<segment start="275.6175" end="276.4779" source="source1" track="track1" id="segment166">
+
+<transcription><t>yeah</t><t>it's</t></transcription></segment>
+<segment start="275.6342" end="276.4564" source="source2" track="track2" id="segment167">
+
+<transcription><t>it's</t><t>just</t></transcription></segment>
+<segment start="276.8580" end="277.1997" source="source1" track="track1" id="segment168">
+
+<transcription><t>yeah</t></transcription></segment>
+<segment start="276.7743" end="277.0755" source="source2" track="track2" id="segment169">
+
+<transcription><t>uh-huh</t></transcription></segment>
+<segment start="277.3384" end="278.2921" source="source2" track="track2" id="segment170">
+
+<transcription><t>it's</t><t>the</t><t>smallest</t></transcription></segment>
+<segment start="278.2825" end="280.1636" source="source1" track="track1" id="segment171">
+
+<transcription><t>yeah</t><t>it's</t><t>the</t><t>smallest</t><t>one</t><t>or</t><t>I</t><t>don't</t></transcription></segment>
+<segment start="279.7023" end="280.1038" source="source2" track="track2" id="segment172">
+
+<transcription><t>okay</t></transcription></segment>
+<segment start="281.2057" end="283.4931" source="source1" track="track1" id="segment173">
+
+<transcription><t>if</t><t>you</t><t>divide</t><t>it</t><t>in</t><t>four</t><t>corners</t><t>LAUGHTER</t></transcription></segment>
+<segment start="282.8405" end="284.2316" source="source2" track="track2" id="segment174">
+
+<transcription><t>LAUGHTER</t><t>LAUGHTER</t><t>LAUGHTER</t></transcription></segment>
+<segment start="284.5471" end="284.9439" source="source2" track="track2" id="segment175">
+
+<transcription><t>BREATH</t></transcription></segment>
+<segment start="285.0467" end="285.4100" source="source2" track="track2" id="segment176">
+
+<transcription><t>okay</t></transcription></segment>
+<segment start="285.6131" end="286.1199" source="source2" track="track2" id="segment177">
+
+<transcription><t>okay</t><t>um</t></transcription></segment>
+<segment start="286.1700" end="286.7341" source="source2" track="track2" id="segment178">
+
+<transcription><t>pay</t><t>attention</t></transcription></segment>
+<segment start="286.9588" end="287.7452" source="source2" track="track2" id="segment179">
+
+<transcription><t>it's</t><t>pink</t></transcription></segment>
+<segment start="287.0472" end="287.4034" source="source1" track="track1" id="segment180">
+
+<transcription><t>mm</t></transcription></segment>
+<segment start="288.2543" end="288.6415" source="source1" track="track1" id="segment181">
+
+<transcription><t>pink</t></transcription></segment>
+<segment start="288.2543" end="293.1708" source="source2" track="track2" id="segment182">
+
+<transcription><t>it's</t><t>in</t><t>the</t><t>right</t><t>side</t><t>of</t><t>the</t><t>screen</t><t>up</t><t>but</t><t>you</t><t>have</t></transcription></segment>
+<segment start="293.2306" end="295.9076" source="source2" track="track2" id="segment183">
+
+<transcription><t>it's</t><t>the</t><t>smallest</t><t>pink</t><t>y-</t><t>you</t><t>have</t><t>there</t></transcription></segment>
+<segment start="295.1858" end="295.4845" source="source1" track="track1" id="segment184">
+
+<transcription><t>yeah</t></transcription></segment>
+<segment start="296.3211" end="296.8708" source="source1" track="track1" id="segment185">
+
+<transcription><t>yeah</t><t>I</t><t>got</t><t>it</t></transcription></segment>
+<segment start="296.4310" end="296.6963" source="source2" track="track2" id="segment186">
+
+<transcription><t>mm-hmm</t></transcription></segment>
+<segment start="299.9135" end="300.0402" source="source1" track="track1" id="segment187">
+
+<transcription><t>CLICK</t></transcription></segment>
+<segment start="300.2218" end="302.9777" source="source1" track="track1" id="segment188">
+
+<transcription><t>it's</t><t>pink</t><t>it's</t><t>was</t><t>next</t><t>to</t><t>the</t><t>one</t><t>that</t><t>I</t><t>choosed</t></transcription></segment>
+<segment start="303.2358" end="304.4835" source="source2" track="track2" id="segment189">
+
+<transcription><t>uh</t><t>I</t><t>don't</t><t>know</t></transcription></segment>
+<segment start="304.0366" end="310.4279" source="source1" track="track1" id="segment190">
+
+<transcription><t>uh</t><t>the</t><t>the</t><t>upper</t><t>corner</t><t>uh</t><t>left</t><t>or</t><t>right</t><t>right</t><t>I'm</t><t>sorry</t></transcription></segment>
+<segment start="310.7434" end="311.1760" source="source2" track="track2" id="segment191">
+
+<transcription><t>right</t></transcription></segment>
+<segment start="310.7434" end="313.5829" source="source1" track="track1" id="segment192">
+
+<transcription><t>right</t><t>upper</t><t>corner</t><t>first</t><t>pink</t><t>object</t></transcription></segment>
+<segment start="313.6235" end="315.2369" source="source1" track="track1" id="segment193">
+
+<transcription><t>it's</t><t>smaller</t><t>than</t><t>this</t><t>big</t><t>one</t></transcription></segment>
+<segment start="315.9348" end="317.3641" source="source2" track="track2" id="segment194">
+
+<transcription><t>it's</t><t>smaller</t><t>than</t><t>the</t><t>biggest</t><t>one</t></transcription></segment>
+<segment start="317.0725" end="317.5984" source="source1" track="track1" id="segment196">
+
+<transcription><t>yeah</t><t>yeah</t><t>yeah</t></transcription></segment>
+<segment start="317.7418" end="318.2820" source="source2" track="track2" id="segment195">
+
+<transcription><t>ah</t><t>okay</t><t>cool</t></transcription></segment>
+<segment start="319.1424" end="322.6703" source="source2" track="track2" id="segment197">
+
+<transcription><t>I</t><t>like</t><t>this</t><t>this</t><t>is</t><t>so</t><t>easy</t><t>LAUGHTER</t><t>and</t><t>fun</t></transcription></segment>
+<segment start="321.0593" end="321.5589" source="source1" track="track1" id="segment198">
+
+<transcription><t>LAUGHTER</t></transcription></segment>
+<segment start="324.0518" end="324.4534" source="source2" track="track2" id="segment199">
+
+<transcription><t>okay</t></transcription></segment>
+<segment start="324.8167" end="325.0222" source="source2" track="track2" id="segment200">
+
+<transcription><t>CLICK</t></transcription></segment>
+<segment start="325.2254" end="328.6768" source="source2" track="track2" id="segment201">
+
+<transcription><t>smallest</t><t>pink</t><t>thing</t><t>you</t><t>have</t><t>there</t></transcription></segment>
+<segment start="329.2863" end="329.4632" source="source2" track="track2" id="segment202">
+
+<transcription><t>I</t><t>th-</t></transcription></segment>
+<segment start="329.5301" end="329.7333" source="source1" track="track1" id="segment203">
+
+<transcription><t>yeah</t></transcription></segment>
+<segment start="330.0774" end="330.5889" source="source1" track="track1" id="segment204">
+
+<transcription><t>LAUGHTER</t></transcription></segment>
+<segment start="331.0933" end="331.5546" source="source1" track="track1" id="segment205">
+
+<transcription><t>I</t><t>got</t><t>it</t></transcription></segment>
+<segment start="334.5638" end="334.6140" source="source1" track="track1" id="segment206">
+
+<transcription><t>CLICK</t></transcription></segment>
+<segment start="334.7526" end="337.3316" source="source1" track="track1" id="segment207">
+
+<transcription><t>the</t><t>same</t><t>one</t><t>that</t><t>I</t><t>you</t><t>just</t><t>chose</t></transcription></segment>
+<segment start="337.4583" end="339.4087" source="source1" track="track1" id="segment208">
+
+<transcription><t>next</t><t>to</t><t>the</t><t>biggest</t><t>pink</t><t>object</t></transcription></segment>
+<segment start="339.5807" end="340.8021" source="source2" track="track2" id="segment209">
+
+<transcription><t>next</t><t>to</t><t>the</t><t>biggest</t><t>thing</t></transcription></segment>
+<segment start="339.9919" end="340.9455" source="source1" track="track1" id="segment210">
+
+<transcription><t>it's</t><t>like</t><t>a</t><t>tria-</t></transcription></segment>
+<segment start="340.9790" end="343.5436" source="source1" track="track1" id="segment211">
+
+<transcription><t>no</t><t>it's</t><t>not</t><t>triangle</t><t>it's</t><t>like</t><t>a</t><t>hectangle</t><t>or</t></transcription></segment>
+<segment start="342.2649" end="342.6641" source="source2" track="track2" id="segment212">
+
+<transcription><t>yeah</t></transcription></segment>
+<segment start="343.0321" end="345.3984" source="source2" track="track2" id="segment213">
+
+<transcription><t>looks</t><t>like</t><t>chalk</t><t>you</t><t>know</t><t>from</t><t>school</t><t>I</t><t>don't</t><t>know</t><t>I</t></transcription></segment>
+<segment start="344.1053" end="344.9084" source="source1" track="track1" id="segment214">
+
+<transcription><t>yeah</t><t>yeah</t><t>yeah</t></transcription></segment>
+<segment start="345.0781" end="345.3745" source="source1" track="track1" id="segment215">
+
+<transcription><t>BREATH</t></transcription></segment>
+<segment start="345.3865" end="346.1370" source="source1" track="track1" id="segment216">
+
+<transcription><t>it's</t><t>a</t><t>diamond</t></transcription></segment>
+<segment start="346.5815" end="346.7560" source="source2" track="track2" id="segment217">
+
+<transcription><t>oh</t></transcription></segment>
+<segment start="346.6963" end="347.5209" source="source1" track="track1" id="segment218">
+
+<transcription><t>LAUGHTER</t></transcription></segment>
+<segment start="347.2484" end="349.8346" source="source2" track="track2" id="segment219">
+
+<transcription><t>maybe</t><t>LAUGHTER</t><t>LAUGHTER</t><t>LAUGHTER</t><t>LAUGHTER</t></transcription></segment>
+<segment start="351.9021" end="355.2220" source="source2" track="track2" id="segment220">
+
+<transcription><t>um</t><t>it's</t><t>a</t><t>blue</t><t>little</t><t>one</t></transcription></segment>
+<segment start="354.1369" end="354.3854" source="source1" track="track1" id="segment221">
+
+<transcription><t>wow</t></transcription></segment>
+<segment start="355.6259" end="357.8775" source="source2" track="track2" id="segment222">
+
+<transcription><t>uh</t><t>CLICK</t><t>left</t><t>side</t></transcription></segment>
+<segment start="358.7762" end="359.1801" source="source1" track="track1" id="segment223">
+
+<transcription><t>okay</t></transcription></segment>
+<segment start="359.3427" end="361.3265" source="source2" track="track2" id="segment224">
+
+<transcription><t>okay</t><t>left</t><t>side</t><t>next</t><t>to</t><t>a</t><t>pink</t></transcription></segment>
+<segment start="361.3552" end="361.9862" source="source1" track="track1" id="segment225">
+
+<transcription><t>yeah</t><t>I</t><t>got</t><t>it</t></transcription></segment>
+<segment start="363.6402" end="363.6736" source="source2" track="track2" id="segment226">
+
+<transcription><t>NOISE</t></transcription></segment>
+<segment start="366.6972" end="366.9864" source="source1" track="track1" id="segment227">
+
+<transcription><t>oh</t></transcription></segment>
+<segment start="367.9473" end="369.9670" source="source1" track="track1" id="segment229">
+
+<transcription><t>um</t><t>it's</t><t>violet</t></transcription></segment>
+<segment start="370.0697" end="374.1593" source="source1" track="track1" id="segment228">
+
+<transcription><t>it's</t><t>in</t><t>right</t><t>in</t><t>the</t><t>middle</t><t>of</t><t>the</t><t>screen</t><t>next</t><t>to</t><t>the</t><t>pink</t><t>uh</t><t>big</t><t>object</t></transcription></segment>
+<segment start="375.3090" end="375.9352" source="source2" track="track2" id="segment230">
+
+<transcription><t>looks</t><t>like</t></transcription></segment>
+<segment start="375.8372" end="379.5300" source="source1" track="track1" id="segment231">
+
+<transcription><t>like</t><t>a</t><t>crown</t><t>uh</t><t>or</t><t>I</t><t>don't</t><t>know</t><t>a</t><t>big</t><t>crown</t><t>LAUGHTER</t></transcription></segment>
+<segment start="377.9621" end="380.2853" source="source2" track="track2" id="segment232">
+
+<transcription><t>or</t><t>like</t><t>something</t><t>to</t><t>cut</t><t>stuff</t><t>with</t><t>it</t></transcription></segment>
+<segment start="380.5554" end="384.1789" source="source1" track="track1" id="segment233">
+
+<transcription><t>it's</t><t>like</t><t>a</t><t>mouth</t><t>of</t><t>a</t><t>um</t><t>plant</t><t>LAUGHTER</t></transcription></segment>
+<segment start="382.2978" end="382.6133" source="source2" track="track2" id="segment234">
+
+<transcription><t>uh-huh</t></transcription></segment>
+<segment start="384.3868" end="386.8989" source="source2" track="track2" id="segment235">
+
+<transcription><t>eating</t><t>plant</t><t>LAUGHTER</t><t>LAUGHTER</t><t>LAUGHTER</t></transcription></segment>
+<segment start="389.1409" end="389.1743" source="source2" track="track2" id="segment236">
+
+<transcription><t>NOISE</t></transcription></segment>
+<segment start="389.6619" end="389.7145" source="source2" track="track2" id="segment237">
+
+<transcription><t>CLICK</t></transcription></segment>
+<segment start="389.9296" end="392.6496" source="source2" track="track2" id="segment238">
+
+<transcription><t>oh</t><t>my</t><t>God</t><t>it's</t><t>again</t><t>the</t><t>pink</t><t>bird</t></transcription></segment>
+<segment start="393.2615" end="394.0598" source="source1" track="track1" id="segment239">
+
+<transcription><t>the</t><t>pink</t><t>bird</t></transcription></segment>
+<segment start="394.0814" end="394.8821" source="source2" track="track2" id="segment240">
+
+<transcription><t>the</t><t>yeah</t><t>left</t><t>side</t></transcription></segment>
+<segment start="395.1259" end="395.2478" source="source1" track="track1" id="segment241">
+
+<transcription><t>yep</t></transcription></segment>
+<segment start="398.2187" end="398.2713" source="source1" track="track1" id="segment242">
+
+<transcription><t>CLICK</t></transcription></segment>
+<segment start="398.4817" end="409.4262" source="source1" track="track1" id="segment243">
+
+<transcription><t>it's</t><t>the</t><t>biggest</t><t>blue</t><t>object</t><t>um</t><t>next</t><t>to</t><t>the</t><t>uh</t><t>green</t><t>triangle</t><t>and</t><t>after</t><t>that</t><t>it's</t><t>like</t><t>the</t><t>blue</t><t>triangle</t></transcription></segment>
+<segment start="401.4359" end="401.4670" source="source2" track="track2" id="segment244">
+
+<transcription><t>NOISE</t></transcription></segment>
+<segment start="409.7752" end="411.0707" source="source1" track="track1" id="segment246">
+
+<transcription><t>it's</t><t>blue</t><t>the</t><t>biggest</t><t>one</t></transcription></segment>
+<segment start="411.8021" end="412.6577" source="source2" track="track2" id="segment247">
+
+<transcription><t>I</t><t>have</t><t>a</t><t>lot</t><t>of</t><t>blues</t></transcription></segment>
+<segment start="412.8537" end="413.2218" source="source1" track="track1" id="segment248">
+
+<transcription><t>okay</t></transcription></segment>
+<segment start="412.8992" end="415.0384" source="source2" track="track2" id="segment249">
+
+<transcription><t>do</t><t>you</t><t>see</t><t>the</t><t>V</t><t>there's</t><t>something</t><t>that</t><t>look-</t></transcription></segment>
+<segment start="414.7324" end="416.1928" source="source1" track="track1" id="segment250">
+
+<transcription><t>yeah</t><t>yeah</t><t>yeah</t><t>next</t><t>to</t><t>the</t><t>V</t><t>one</t></transcription></segment>
+<segment start="416.1354" end="418.3941" source="source2" track="track2" id="segment251">
+
+<transcription><t>next</t><t>to</t><t>the</t><t>V</t><t>and</t><t>it's</t><t>blue</t><t>and</t><t>the</t><t>biggest</t></transcription></segment>
+<segment start="417.7034" end="419.9740" source="source1" track="track1" id="segment252">
+
+<transcription><t>yes</t><t>it's</t><t>blue</t><t>it's</t><t>uh</t><t>light</t><t>blue</t></transcription></segment>
+<segment start="420.7102" end="421.3341" source="source2" track="track2" id="segment253">
+
+<transcription><t>'kay</t><t>gotcha</t></transcription></segment>
+<segment start="421.7667" end="421.8957" source="source1" track="track1" id="segment254">
+
+<transcription><t>yep</t></transcription></segment>
+<segment start="425.7989" end="426.0929" source="source2" track="track2" id="segment255">
+
+<transcription><t>ah</t><t>yet</t></transcription></segment>
+<segment start="426.2602" end="429.9721" source="source2" track="track2" id="segment256">
+
+<transcription><t>uh</t><t>biggest</t><t>pink</t><t>under</t><t>the</t><t>scary</t><t>mouth</t></transcription></segment>
+<segment start="430.5936" end="430.7418" source="source1" track="track1" id="segment257">
+
+<transcription><t>yep</t></transcription></segment>
+<segment start="430.5434" end="430.6963" source="source2" track="track2" id="segment258">
+
+<transcription><t>yeah</t></transcription></segment>
+<segment start="430.9808" end="431.6787" source="source2" track="track2" id="segment259">
+
+<transcription><t>close</t><t>to</t><t>the</t><t>bird</t></transcription></segment>
+<segment start="434.9700" end="435.0058" source="source1" track="track1" id="segment260">
+
+<transcription><t>CLICK</t></transcription></segment>
+<segment start="435.0990" end="437.7163" source="source1" track="track1" id="segment261">
+
+<transcription><t>um</t><t>the</t><t>first</t><t>object</t><t>in</t></transcription></segment>
+<segment start="438.2732" end="441.4640" source="source1" track="track1" id="segment262">
+
+<transcription><t>it's</t><t>green</t><t>upper</t><t>corner</t><t>left</t></transcription></segment>
+<segment start="442.0305" end="443.0224" source="source1" track="track1" id="segment263">
+
+<transcription><t>it's</t><t>like</t><t>an</t><t>M</t></transcription></segment>
+<segment start="444.2032" end="444.5856" source="source2" track="track2" id="segment264">
+
+<transcription><t>green</t></transcription></segment>
+<segment start="445.4556" end="446.1679" source="source2" track="track2" id="segment265">
+
+<transcription><t>upper</t></transcription></segment>
+<segment start="445.2596" end="447.1885" source="source1" track="track1" id="segment268">
+
+<transcription><t>it's</t><t>l-</t><t>I</t><t>don't</t><t>know</t><t>green</t><t>uh</t></transcription></segment>
+<segment start="447.4992" end="448.3979" source="source2" track="track2" id="segment267">
+
+<transcription><t>it's</t><t>like</t><t>an</t><t>M</t></transcription></segment>
+<segment start="448.8090" end="449.1413" source="source1" track="track1" id="segment269">
+
+<transcription><t>yeah</t></transcription></segment>
+<segment start="449.5739" end="450.9984" source="source2" track="track2" id="segment270">
+
+<transcription><t>it's</t><t>under</t><t>the</t><t>green</t><t>TV</t></transcription></segment>
+<segment start="451.5529" end="453.3671" source="source2" track="track2" id="segment271">
+
+<transcription><t>uh</t><t>no</t><t>no</t><t>no</t><t>it's</t><t>bigger</t></transcription></segment>
+<segment start="451.8685" end="452.7576" source="source1" track="track1" id="segment272">
+
+<transcription><t>no</t><t>no</t><t>no</t><t>it's</t></transcription></segment>
+<segment start="452.8173" end="453.9957" source="source1" track="track1" id="segment273">
+
+<transcription><t>yeah</t><t>it's</t><t>the</t><t>biggest</t><t>one</t></transcription></segment>
+<segment start="454.0746" end="454.8705" source="source2" track="track2" id="segment274">
+
+<transcription><t>it's</t><t>like</t><t>Batman</t></transcription></segment>
+<segment start="455.1215" end="455.1645" source="source1" track="track1" id="segment275">
+
+<transcription><t>CLICK</t></transcription></segment>
+<segment start="455.2673" end="456.5890" source="source1" track="track1" id="segment276">
+
+<transcription><t>yeah</t><t>LAUGHTER</t><t>okay</t></transcription></segment>
+<segment start="455.8624" end="458.1474" source="source2" track="track2" id="segment277">
+
+<transcription><t>LAUGHTER</t><t>BREATH</t></transcription></segment>
+<segment start="459.1895" end="459.4023" source="source2" track="track2" id="segment278">
+
+<transcription><t>NOISE</t></transcription></segment>
+<segment start="459.8922" end="463.7141" source="source2" track="track2" id="segment279">
+
+<transcription><t>oh</t><t>okay</t><t>now</t><t>it's</t><t>the</t><t>object</t><t>you</t><t>have</t><t>upper</t><t>side</t></transcription></segment>
+<segment start="464.0296" end="464.3858" source="source1" track="track1" id="segment280">
+
+<transcription><t>mm</t></transcription></segment>
+<segment start="464.0248" end="465.8103" source="source2" track="track2" id="segment281">
+
+<transcription><t>you</t><t>have</t><t>like</t><t>a</t><t>green</t><t>TV</t></transcription></segment>
+<segment start="465.9274" end="466.1927" source="source1" track="track1" id="segment283">
+
+<transcription><t>yeah</t></transcription></segment>
+<segment start="465.9896" end="466.5752" source="source2" track="track2" id="segment286">
+
+<transcription><t>under</t><t>it</t></transcription></segment>
+<segment start="466.8213" end="467.1225" source="source1" track="track1" id="segment284">
+
+<transcription><t>okay</t></transcription></segment>
+<segment start="468.9653" end="469.1087" source="source2" track="track2" id="segment285">
+
+<transcription><t>BREATH</t></transcription></segment>
+<segment start="470.9563" end="471.0782" source="source2" track="track2" id="segment287">
+
+<transcription><t>NOISE</t></transcription></segment>
+<segment start="471.6017" end="471.8646" source="source1" track="track1" id="segment288">
+
+<transcription><t>oh</t></transcription></segment>
+<segment start="472.0104" end="472.5076" source="source1" track="track1" id="segment289">
+
+<transcription><t>BREATH</t></transcription></segment>
+<segment start="472.5697" end="479.6637" source="source1" track="track1" id="segment290">
+
+<transcription><t>um</t><t>BREATH</t><t>right</t><t>down</t><t>uh</t><t>right</t><t>corner</t><t>down</t><t>down</t><t>the</t><t>blue</t><t>the</t><t>blue</t><t>crown</t></transcription></segment>
+<segment start="486.3992" end="486.7769" source="source2" track="track2" id="segment291">
+
+<transcription><t>okay</t></transcription></segment>
+<segment start="487.1019" end="489.8626" source="source2" track="track2" id="segment292">
+
+<transcription><t>um</t><t>CLICK</t><t>you</t><t>have</t><t>a</t><t>blue</t><t>V</t></transcription></segment>
+<segment start="490.6967" end="490.8712" source="source1" track="track1" id="segment293">
+
+<transcription><t>yep</t></transcription></segment>
+<segment start="490.2617" end="494.6644" source="source2" track="track2" id="segment294">
+
+<transcription><t>above</t><t>it</t><t>there's</t><t>a</t><t>green</t><t>NOISE</t><t>diamond</t><t>or</t><t>something</t></transcription></segment>
+<segment start="494.1242" end="494.9297" source="source1" track="track1" id="segment295">
+
+<transcription><t>the</t><t>green</t><t>one</t><t>yeah</t></transcription></segment>
+<segment start="494.7313" end="495.0325" source="source2" track="track2" id="segment296">
+
+<transcription><t>yeah</t></transcription></segment>
+<segment start="502.6356" end="502.7384" source="source1" track="track1" id="segment297">
+
+<transcription><t>CLICK</t></transcription></segment>
+<segment start="503.1017" end="506.9451" source="source1" track="track1" id="segment298">
+
+<transcription><t>uh</t><t>yellow</t><t>crown</t><t>in</t><t>the</t><t>right</t><t>uh</t><t>down</t><t>corner</t></transcription></segment>
+<segment start="508.7353" end="510.2698" source="source2" track="track2" id="segment299">
+
+<transcription><t>it's</t><t>a</t><t>different</t><t>crown</t><t>okay</t></transcription></segment>
+<segment start="510.2053" end="510.6929" source="source1" track="track1" id="segment300">
+
+<transcription><t>yeah</t><t>i-</t></transcription></segment>
+<segment start="511.4338" end="512.3971" source="source1" track="track1" id="segment301">
+
+<transcription><t>a</t><t>sort</t><t>of</t><t>crown</t></transcription></segment>
+<segment start="513.0329" end="514.0104" source="source2" track="track2" id="segment302">
+
+<transcription><t>LAUGHTER</t></transcription></segment>
+<segment start="514.6892" end="514.7251" source="source2" track="track2" id="segment303">
+
+<transcription><t>CLICK</t></transcription></segment>
+<segment start="515.6525" end="518.7454" source="source2" track="track2" id="segment304">
+
+<transcription><t>okay</t><t>it's</t><t>uh</t><t>upper</t><t>side</t></transcription></segment>
+<segment start="519.1828" end="519.4481" source="source1" track="track1" id="segment305">
+
+<transcription><t>mm</t></transcription></segment>
+<segment start="519.6966" end="520.0576" source="source2" track="track2" id="segment309">
+
+<transcription><t>right</t></transcription></segment>
+<segment start="520.3778" end="520.7340" source="source1" track="track1" id="segment306">
+
+<transcription><t>mm-hmm</t></transcription></segment>
+<segment start="520.5882" end="524.1830" source="source2" track="track2" id="segment308">
+
+<transcription><t>the</t><t>scary</t><t>mouth</t><t>but</t><t>it's</t><t>it's</t><t>it's</t><t>violet</t><t>the</t><t>biggest</t></transcription></segment>
+<segment start="521.7426" end="522.0486" source="source1" track="track1" id="segment307">
+
+<transcription><t>mm-hmm</t></transcription></segment>
+<segment start="523.7241" end="524.0587" source="source1" track="track1" id="segment310">
+
+<transcription><t>mm-hmm</t></transcription></segment>
+<segment start="525.1367" end="525.4856" source="source2" track="track2" id="segment311">
+
+<transcription><t>okay</t></transcription></segment>
+<segment start="528.7769" end="528.8032" source="source1" track="track1" id="segment312">
+
+<transcription><t>CLICK</t></transcription></segment>
+<segment start="528.8582" end="530.0437" source="source1" track="track1" id="segment313">
+
+<transcription><t>uh</t><t>the</t><t>pink</t><t>bird</t></transcription></segment>
+<segment start="531.3176" end="532.3813" source="source2" track="track2" id="segment314">
+
+<transcription><t>where</t><t>are</t><t>you</t><t>pink</t><t>bird</t></transcription></segment>
+<segment start="532.6944" end="534.0209" source="source1" track="track1" id="segment315">
+
+<transcription><t>it's</t><t>uh</t><t>on</t><t>the</t><t>right</t></transcription></segment>
+<segment start="532.5940" end="533.0649" source="source2" track="track2" id="segment316">
+
+<transcription><t>uh-huh</t></transcription></segment>
+<segment start="533.1963" end="533.8464" source="source2" track="track2" id="segment317">
+
+<transcription><t>I</t><t>found</t><t>it</t></transcription></segment>
+<segment start="536.6955" end="537.8261" source="source2" track="track2" id="segment318">
+
+<transcription><t>just</t><t>a</t><t>moment</t><t>it's</t><t>stuck</t></transcription></segment>
+<segment start="537.9073" end="537.9790" source="source2" track="track2" id="segment319">
+
+<transcription><t>NOISE</t></transcription></segment>
+<segment start="538.0388" end="539.0642" source="source2" track="track2" id="segment321">
+
+<transcription><t>NOISE</t><t>NOISE</t></transcription></segment>
+<segment start="543.7346" end="544.4731" source="source2" track="track2" id="segment322">
+
+<transcription><t>oh</t><t>okay</t><t>sorry</t></transcription></segment>
+<segment start="543.4406" end="543.6820" source="source2" track="track2" id="segment323">
+
+<transcription><t>CLICK</t></transcription></segment>
+<segment start="544.8245" end="545.3121" source="source2" track="track2" id="segment324">
+
+<transcription><t>uh</t><t>blue</t></transcription></segment>
+<segment start="545.8355" end="546.1534" source="source1" track="track1" id="segment325">
+
+<transcription><t>mm-hmm</t></transcription></segment>
+<segment start="546.0411" end="550.5131" source="source2" track="track2" id="segment326">
+
+<transcription><t>um</t><t>BREATH</t><t>and</t><t>um</t><t>BREATH</t><t>it's</t><t>down</t></transcription></segment>
+<segment start="550.8119" end="551.1608" source="source1" track="track1" id="segment327">
+
+<transcription><t>mm-hmm</t></transcription></segment>
+<segment start="551.1035" end="553.1303" source="source2" track="track2" id="segment328">
+
+<transcription><t>it</t><t>looks</t><t>like</t><t>a</t><t>mountain</t><t>or</t><t>crown</t></transcription></segment>
+<segment start="553.4697" end="554.5142" source="source2" track="track2" id="segment329">
+
+<transcription><t>it's</t><t>the</t><t>left</t></transcription></segment>
+<segment start="554.8202" end="555.1476" source="source2" track="track2" id="segment330">
+
+<transcription><t>ah</t><t>okay</t></transcription></segment>
+<segment start="554.8465" end="555.0544" source="source1" track="track1" id="segment331">
+
+<transcription><t>yep</t></transcription></segment>
+<segment start="555.5922" end="556.1419" source="source1" track="track1" id="segment332">
+
+<transcription><t>I</t><t>got</t><t>it</t></transcription></segment>
+<segment start="557.6621" end="558.2811" source="source2" track="track2" id="segment333">
+
+<transcription><t>BREATH</t></transcription></segment>
+<segment start="558.2859" end="560.1622" source="source1" track="track1" id="segment334">
+
+<transcription><t>it's</t><t>the</t><t>dark</t><t>blue</t><t>V</t></transcription></segment>
+<segment start="561.5222" end="562.3014" source="source2" track="track2" id="segment335">
+
+<transcription><t>and</t><t>down</t></transcription></segment>
+<segment start="562.3301" end="564.2972" source="source1" track="track1" id="segment336">
+
+<transcription><t>un-</t><t>under</t><t>the</t><t>mouth</t><t>LAUGHTER</t></transcription></segment>
+<segment start="564.2326" end="566.5678" source="source2" track="track2" id="segment337">
+
+<transcription><t>okay</t><t>v-</t><t>it's</t><t>dark</t><t>blue</t><t>V</t><t>if</t><t>it's</t><t>a</t><t>V</t></transcription></segment>
+<segment start="567.3184" end="567.6076" source="source1" track="track1" id="segment339">
+
+<transcription><t>yeah</t></transcription></segment>
+<segment start="571.1187" end="577.2734" source="source2" track="track2" id="segment340">
+
+<transcription><t>now</t><t>okay</t><t>you</t><t>have</t><t>like</t><t>turquoise</t><t>bird</t><t>like</t><t>a</t><t>blue</t><t>bird</t></transcription></segment>
+<segment start="575.9301" end="577.5770" source="source1" track="track1" id="segment341">
+
+<transcription><t>turquoise</t><t>bird</t></transcription></segment>
+<segment start="577.3929" end="579.7090" source="source2" track="track2" id="segment342">
+
+<transcription><t>under</t><t>that</t><t>you</t><t>have</t></transcription></segment>
+<segment start="578.4780" end="578.6860" source="source1" track="track1" id="segment343">
+
+<transcription><t>uh</t></transcription></segment>
+<segment start="579.8046" end="580.6794" source="source1" track="track1" id="segment344">
+
+<transcription><t>blue</t><t>thing</t></transcription></segment>
+<segment start="580.8778" end="581.7143" source="source2" track="track2" id="segment345">
+
+<transcription><t>a</t><t>blue</t><t>thing</t><t>yeah</t></transcription></segment>
+<segment start="581.7765" end="581.9390" source="source2" track="track2" id="segment346">
+
+<transcription><t>CLICK</t></transcription></segment>
+<segment start="585.3928" end="586.6476" source="source1" track="track1" id="segment347">
+
+<transcription><t>yep</t><t>I</t><t>selected</t><t>it</t></transcription></segment>
+<segment start="588.1009" end="588.2873" source="source2" track="track2" id="segment348">
+
+<transcription><t>NOISE</t></transcription></segment>
+<segment start="588.5383" end="588.7414" source="source1" track="track1" id="segment349">
+
+<transcription><t>BREATH</t></transcription></segment>
+<segment start="589.4417" end="594.2532" source="source1" track="track1" id="segment350">
+
+<transcription><t>ah</t><t>okay</t><t>the</t><t>um</t><t>left</t><t>side</t><t>pink</t><t>the</t><t>biggest</t><t>object</t></transcription></segment>
+<segment start="594.6045" end="596.1462" source="source1" track="track1" id="segment351">
+
+<transcription><t>like</t><t>a</t><t>house</t><t>or</t><t>I</t><t>don't</t><t>know</t></transcription></segment>
+<segment start="597.2194" end="598.2591" source="source2" track="track2" id="segment352">
+
+<transcription><t>in</t><t>Sweden</t><t>LAUGHTER</t></transcription></segment>
+<segment start="598.2423" end="599.4781" source="source1" track="track1" id="segment353">
+
+<transcription><t>LAUGHTER</t><t>maybe</t></transcription></segment>
+<segment start="600.1569" end="601.8013" source="source2" track="track2" id="segment354">
+
+<transcription><t>hopefully</t><t>LAUGHTER</t></transcription></segment>
+<segment start="601.8993" end="605.9745" source="source2" track="track2" id="segment355">
+
+<transcription><t>yellow</t><t>um</t><t>CLICK</t><t>a</t><t>yellow</t><t>bird</t><t>uh</t><t>on</t><t>the</t><t>right</t><t>side</t></transcription></segment>
+<segment start="606.6892" end="606.8183" source="source1" track="track1" id="segment357">
+
+<transcription><t>yep</t></transcription></segment>
+<segment start="609.3279" end="609.7821" source="source1" track="track1" id="segment358">
+
+<transcription><t>BREATH</t></transcription></segment>
+<segment start="609.8060" end="612.2583" source="source1" track="track1" id="segment359">
+
+<transcription><t>oh</t><t>the</t><t>green</t><t>TV</t><t>in</t><t>the</t><t>upper</t></transcription></segment>
+<segment start="612.3061" end="612.6885" source="source2" track="track2" id="segment360">
+
+<transcription><t>ah</t><t>okay</t></transcription></segment>
+<segment start="613.4056" end="615.6499" source="source1" track="track1" id="segment361">
+
+<transcription><t>yeah</t><t>the</t><t>satellite</t><t>dish</t><t>TV</t></transcription></segment>
+<segment start="616.3646" end="617.2298" source="source2" track="track2" id="segment362">
+
+<transcription><t>LAUGHTER</t></transcription></segment>
+<segment start="619.1348" end="621.7568" source="source2" track="track2" id="segment363">
+
+<transcription><t>ah</t><t>okay</t><t>uh</t><t>I</t><t>it's</t><t>uh</t><t>it's</t><t>green</t></transcription></segment>
+<segment start="622.3424" end="622.6340" source="source1" track="track1" id="segment364">
+
+<transcription><t>mm</t></transcription></segment>
+<segment start="622.5599" end="627.8948" source="source2" track="track2" id="segment366">
+
+<transcription><t>it's</t><t>down</t><t>and</t><t>it</t><t>looks</t><t>like</t><t>it</t><t>has</t><t>four</t><t>co-</t><t>four</t><t>corners</t></transcription></segment>
+<segment start="624.1637" end="624.5151" source="source1" track="track1" id="segment365">
+
+<transcription><t>mm-hmm</t></transcription></segment>
+<segment start="628.4039" end="628.9751" source="source1" track="track1" id="segment367">
+
+<transcription><t>yeah</t><t>I</t><t>got</t><t>it</t></transcription></segment>
+<segment start="633.0002" end="633.0862" source="source1" track="track1" id="segment368">
+
+<transcription><t>CLICK</t></transcription></segment>
+<segment start="633.6407" end="639.3556" source="source1" track="track1" id="segment369">
+
+<transcription><t>the</t><t>yellow</t><t>crown</t><t>that</t><t>moved</t><t>to</t><t>the</t><t>upper</t><t>part</t><t>left</t></transcription></segment>
+<segment start="639.7787" end="640.5603" source="source2" track="track2" id="segment370">
+
+<transcription><t>next</t><t>to</t><t>that</t><t>bird</t></transcription></segment>
+<segment start="640.8160" end="641.3203" source="source1" track="track1" id="segment371">
+
+<transcription><t>yeah</t><t>yeah</t><t>yeah</t></transcription></segment>
+<segment start="647.7858" end="650.0182" source="source2" track="track2" id="segment372">
+
+<transcription><t>green</t><t>TV</t><t>r-</t><t>l-</t><t>right</t></transcription></segment>
+<segment start="650.5297" end="650.7041" source="source1" track="track1" id="segment373">
+
+<transcription><t>yep</t></transcription></segment>
+<segment start="653.6703" end="653.7540" source="source1" track="track1" id="segment374">
+
+<transcription><t>CLICK</t></transcription></segment>
+<segment start="654.2464" end="659.4832" source="source1" track="track1" id="segment375">
+
+<transcription><t>it's</t><t>also</t><t>the</t><t>same</t><t>color</t><t>as</t><t>TV</t><t>and</t><t>it</t><t>uh</t><t>has</t><t>a</t><t>shape</t><t>of</t><t>an</t><t>triangle</t></transcription></segment>
+<segment start="659.6601" end="660.0306" source="source2" track="track2" id="segment376">
+
+<transcription><t>diamond</t></transcription></segment>
+<segment start="659.7653" end="660.2122" source="source1" track="track1" id="segment377">
+
+<transcription><t>upper</t></transcription></segment>
+<segment start="660.6855" end="661.0106" source="source1" track="track1" id="segment378">
+
+<transcription><t>yeah</t></transcription></segment>
+<segment start="661.2065" end="662.0503" source="source1" track="track1" id="segment379">
+
+<transcription><t>oh</t><t>diamond</t><t>yeah</t></transcription></segment>
+<segment start="661.2328" end="661.7037" source="source2" track="track2" id="segment380">
+
+<transcription><t>all</t><t>right</t><t>got</t><t>it</t></transcription></segment>
+<segment start="667.1174" end="667.7054" source="source2" track="track2" id="segment381">
+
+<transcription><t>green</t><t>TV</t></transcription></segment>
+<segment start="668.3938" end="669.0559" source="source1" track="track1" id="segment382">
+
+<transcription><t>green</t><t>TV</t></transcription></segment>
+<segment start="669.5458" end="669.8685" source="source1" track="track1" id="segment383">
+
+<transcription><t>LAUGHTER</t></transcription></segment>
+<segment start="671.8667" end="673.2482" source="source1" track="track1" id="segment384">
+
+<transcription><t>yeah</t><t>it's</t><t>easier</t><t>to</t><t>give</t><t>names</t></transcription></segment>
+<segment start="673.4609" end="675.1054" source="source1" track="track1" id="segment385">
+
+<transcription><t>the</t><t>the</t><t>diamond</t><t>LAUGHTER</t></transcription></segment>
+<segment start="675.3492" end="675.8654" source="source2" track="track2" id="segment386">
+
+<transcription><t>okay</t><t>which</t></transcription></segment>
+<segment start="675.4280" end="676.3530" source="source1" track="track1" id="segment387">
+
+<transcription><t>the</t><t>same</t><t>diamond</t></transcription></segment>
+<segment start="676.5060" end="677.6150" source="source2" track="track2" id="segment388">
+
+<transcription><t>the</t><t>the</t><t>a</t><t>green</t><t>diamond</t></transcription></segment>
+<segment start="677.3330" end="679.0396" source="source1" track="track1" id="segment389">
+
+<transcription><t>the</t><t>green</t><t>diamond</t><t>yeah</t><t>LAUGHTER</t></transcription></segment>
+<segment start="678.8173" end="680.0650" source="source2" track="track2" id="segment390">
+
+<transcription><t>under</t><t>the</t><t>blue</t><t>bird</t></transcription></segment>
+<segment start="680.3231" end="680.5048" source="source1" track="track1" id="segment391">
+
+<transcription><t>yep</t></transcription></segment>
+<segment start="686.4252" end="686.6833" source="source2" track="track2" id="segment392">
+
+<transcription><t>'kay</t></transcription></segment>
+<segment start="687.2044" end="694.1383" source="source2" track="track2" id="segment393">
+
+<transcription><t>uh</t><t>it's</t><t>the</t><t>lowest</t><t>blue</t><t>thing</t><t>looks</t><t>like</t><t>a</t><t>blue</t><t>diamond</t></transcription></segment>
+<segment start="694.3271" end="694.4586" source="source1" track="track1" id="segment394">
+
+<transcription><t>yep</t></transcription></segment>
+<segment start="698.7155" end="698.9927" source="source1" track="track1" id="segment395">
+
+<transcription><t>oh</t></transcription></segment>
+<segment start="699.4516" end="702.7046" source="source1" track="track1" id="segment396">
+
+<transcription><t>the</t><t>pink</t><t>man</t><t>uh</t><t>left</t><t>side</t></transcription></segment>
+<segment start="703.1349" end="703.5962" source="source2" track="track2" id="segment397">
+
+<transcription><t>looks</t><t>l-</t></transcription></segment>
+<segment start="703.1851" end="703.9906" source="source1" track="track1" id="segment398">
+
+<transcription><t>it's</t><t>like</t><t>a</t><t>man</t></transcription></segment>
+<segment start="704.3204" end="705.9122" source="source2" track="track2" id="segment399">
+
+<transcription><t>yeah</t><t>looks</t><t>like</t><t>a</t><t>postman</t><t>right</t></transcription></segment>
+<segment start="705.6446" end="706.4739" source="source1" track="track1" id="segment400">
+
+<transcription><t>yeah</t><t>LAUGHTER</t></transcription></segment>
+<segment start="707.6475" end="708.2761" source="source2" track="track2" id="segment401">
+
+<transcription><t>or</t><t>someone</t></transcription></segment>
+<segment start="709.7724" end="711.3714" source="source2" track="track2" id="segment402">
+
+<transcription><t>or</t><t>a</t><t>Nazi</t><t>criminal</t></transcription></segment>
+<segment start="711.1252" end="711.6439" source="source1" track="track1" id="segment403">
+
+<transcription><t>LAUGHTER</t></transcription></segment>
+<segment start="712.5115" end="712.7362" source="source2" track="track2" id="segment404">
+
+<transcription><t>okay</t></transcription></segment>
+<segment start="713.0206" end="719.0486" source="source2" track="track2" id="segment405">
+
+<transcription><t>um</t><t>up</t><t>above</t><t>the</t><t>bird</t><t>you</t><t>have</t><t>like</t><t>I</t><t>don't</t><t>know</t><t>what</t><t>is</t><t>that</t></transcription></segment>
+<segment start="719.0940" end="719.3856" source="source1" track="track1" id="segment406">
+
+<transcription><t>yeah</t></transcription></segment>
+<segment start="719.7059" end="720.3082" source="source1" track="track1" id="segment407">
+
+<transcription><t>I</t><t>got</t><t>it</t></transcription></segment>
+<segment start="721.7734" end="723.9341" source="source2" track="track2" id="segment408">
+
+<transcription><t>crown</t><t>or</t><t>tree</t></transcription></segment>
+<segment start="726.2884" end="726.6446" source="source1" track="track1" id="segment409">
+
+<transcription><t>oh</t></transcription></segment>
+<segment start="727.1107" end="727.6747" source="source2" track="track2" id="segment410">
+
+<transcription><t>it's</t><t>over</t></transcription></segment>
+<segment start="727.1919" end="729.8952" source="source1" track="track1" id="segment411">
+
+<transcription><t>oh</t><t>I</t><t>didn't</t><t>get</t><t>it</t><t>yeah</t><t>but</t><t>it's</t><t>okay</t></transcription></segment>
+<segment start="729.6920" end="729.9263" source="source2" track="track2" id="segment412">
+
+<transcription><t>BREATH</t></transcription></segment>
+<segment start="732.4527" end="733.8796" source="source1" track="track1" id="segment413">
+
+<transcription><t>the</t><t>bir-</t><t>above</t><t>the</t><t>bird</t></transcription></segment>
+<segment start="734.1855" end="734.4556" source="source2" track="track2" id="segment414">
+
+<transcription><t>yeah</t></transcription></segment>
+<segment start="734.1449" end="734.3959" source="source1" track="track1" id="segment415">
+
+<transcription><t>okay</t></transcription></segment>
+<segment start="735.5599" end="737.4649" source="source1" track="track1" id="segment416">
+
+<transcription><t>above</t><t>the</t><t>bird</t><t>the</t><t>pink</t><t>one</t></transcription></segment>
+<segment start="738.0361" end="739.4702" source="source2" track="track2" id="segment418">
+
+<transcription><t>no</t><t>the</t><t>not</t><t>the</t><t>pink</t><t>the</t><t>green</t></transcription></segment>
+<segment start="740.7394" end="741.6285" source="source1" track="track1" id="segment419">
+
+<transcription><t>oh</t><t>okay</t></transcription></segment>
+<segment start="742.3265" end="742.7328" source="source1" track="track1" id="segment420">
+
+<transcription><t>okay</t></transcription></segment>
+<segment start="743.2323" end="744.8314" source="source1" track="track1" id="segment421">
+
+<transcription><t>I</t><t>I</t><t>choosed</t><t>another</t><t>one</t></transcription></segment>
+<segment start="746.3754" end="748.2206" source="source1" track="track1" id="segment422">
+
+<transcription><t>I</t><t>choosed</t><t>from</t><t>the</t><t>pink</t><t>bird</t></transcription></segment>
+<segment start="748.2373" end="748.6843" source="source1" track="track1" id="segment423">
+
+<transcription><t>BREATH</t></transcription></segment>
+<segment start="748.7441" end="753.5698" source="source1" track="track1" id="segment424">
+
+<transcription><t>okay</t><t>the</t><t>the</t><t>blue</t><t>crown</t><t>the</t><t>dark</t><t>blue</t><t>crown</t><t>in</t><t>the</t><t>upper</t><t>corner</t><t>right</t></transcription></segment>
+<segment start="754.3681" end="755.3027" source="source1" track="track1" id="segment425">
+
+<transcription><t>the</t><t>darker</t><t>one</t></transcription></segment>
+<segment start="754.4135" end="754.8199" source="source2" track="track2" id="segment426">
+
+<transcription><t>dark</t></transcription></segment>
+<segment start="755.6158" end="756.4069" source="source1" track="track1" id="segment427">
+
+<transcription><t>smaller</t><t>one</t></transcription></segment>
+<segment start="755.6803" end="757.8697" source="source2" track="track2" id="segment428">
+
+<transcription><t>dark</t><t>blue</t><t>crown</t><t>upper</t><t>corner</t><t>right</t></transcription></segment>
+<segment start="758.0562" end="758.3382" source="source1" track="track1" id="segment429">
+
+<transcription><t>yeah</t></transcription></segment>
+<segment start="763.0851" end="763.4221" source="source2" track="track2" id="segment430">
+
+<transcription><t>okay</t></transcription></segment>
+<segment start="765.2888" end="771.0539" source="source2" track="track2" id="segment431">
+
+<transcription><t>okay</t><t>it's</t><t>pink</t><t>and</t><t>it's</t><t>down</t><t>and</t><t>looks</t><t>like</t><t>chalk</t></transcription></segment>
+<segment start="767.0097" end="767.3778" source="source1" track="track1" id="segment432">
+
+<transcription><t>mm-hmm</t></transcription></segment>
+<segment start="771.5654" end="772.6625" source="source2" track="track2" id="segment433">
+
+<transcription><t>we've</t><t>seen</t><t>it</t><t>before</t></transcription></segment>
+<segment start="772.7413" end="773.0592" source="source1" track="track1" id="segment434">
+
+<transcription><t>mm-hmm</t></transcription></segment>
+<segment start="776.8142" end="776.9552" source="source1" track="track1" id="segment435">
+
+<transcription><t>CLICK</t></transcription></segment>
+<segment start="778.0475" end="778.6259" source="source1" track="track1" id="segment436">
+
+<transcription><t>oi</t></transcription></segment>
+<segment start="778.6618" end="782.8494" source="source1" track="track1" id="segment437">
+
+<transcription><t>a</t><t>blue</t><t>thing</t><t>on</t><t>the</t><t>your</t><t>left</t><t>side</t><t>next</t><t>to</t><t>the</t><t>biggest</t><t>one</t></transcription></segment>
+<segment start="783.0717" end="784.4651" source="source1" track="track1" id="segment438">
+
+<transcription><t>it's</t><t>dark</t><t>blue</t></transcription></segment>
+<segment start="784.0110" end="784.2667" source="source2" track="track2" id="segment439">
+
+<transcription><t>uh-huh</t></transcription></segment>
+<segment start="785.1105" end="785.5311" source="source1" track="track1" id="segment440">
+
+<transcription><t>small</t></transcription></segment>
+<segment start="787.6273" end="787.9500" source="source2" track="track2" id="segment441">
+
+<transcription><t>got</t><t>it</t></transcription></segment>
+<segment start="789.7331" end="792.5654" source="source2" track="track2" id="segment442">
+
+<transcription><t>okay</t><t>you</t><t>have</t><t>like</t><t>the</t><t>pink</t><t>postman</t><t>up</t></transcription></segment>
+<segment start="793.0434" end="793.4402" source="source1" track="track1" id="segment443">
+
+<transcription><t>mm-hmm</t></transcription></segment>
+<segment start="795.0105" end="795.4193" source="source1" track="track1" id="segment444">
+
+<transcription><t>the</t><t>one</t></transcription></segment>
+<segment start="795.6200" end="796.1698" source="source1" track="track1" id="segment445">
+
+<transcription><t>this</t><t>one</t></transcription></segment>
+<segment start="796.4853" end="797.6230" source="source2" track="track2" id="segment446">
+
+<transcription><t>uh</t><t>yeah</t><t>it's</t><t>cool</t><t>uh</t></transcription></segment>
+<segment start="797.8381" end="798.5193" source="source2" track="track2" id="segment447">
+
+<transcription><t>yeah</t><t>th-</t></transcription></segment>
+<segment start="798.5910" end="799.1886" source="source2" track="track2" id="segment448">
+
+<transcription><t>yeah</t><t>that</t><t>one</t></transcription></segment>
+<segment start="799.3941" end="799.9845" source="source2" track="track2" id="segment449">
+
+<transcription><t>close</t><t>to</t></transcription></segment>
+<segment start="799.2244" end="799.5160" source="source1" track="track1" id="segment451">
+
+<transcription><t>mm-hmm</t></transcription></segment>
+<segment start="800.0179" end="800.5103" source="source2" track="track2" id="segment450">
+
+<transcription><t>mm-hmm</t></transcription></segment>
+<segment start="802.9937" end="803.1778" source="source1" track="track1" id="segment452">
+
+<transcription><t>CLICK</t></transcription></segment>
+<segment start="803.6940" end="810.8358" source="source1" track="track1" id="segment453">
+
+<transcription><t>okay</t><t>it's</t><t>on</t><t>the</t><t>right</t><t>part</t><t>um</t><t>above</t><t>this</t><t>yellow</t><t>bird</t></transcription></segment>
+<segment start="811.0844" end="814.3613" source="source1" track="track1" id="segment454">
+
+<transcription><t>it's</t><t>a</t><t>green</t><t>crown</t><t>or</t><t>how</t><t>you</t><t>call</t><t>it</t></transcription></segment>
+<segment start="813.5033" end="816.0560" source="source2" track="track2" id="segment455">
+
+<transcription><t>yeah</t><t>or</t><t>looks</t><t>like</t><t>a</t><t>bra</t></transcription></segment>
+<segment start="815.7333" end="816.3954" source="source1" track="track1" id="segment457">
+
+<transcription><t>under</t><t>the</t><t>V</t></transcription></segment>
+<segment start="816.7252" end="817.1339" source="source2" track="track2" id="segment456">
+
+<transcription><t>yeah</t><t>yeah</t><t>yeah</t></transcription></segment>
+<segment start="816.7467" end="816.8543" source="source1" track="track1" id="segment458">
+
+<transcription><t>yep</t></transcription></segment>
+<segment start="821.9406" end="821.9908" source="source2" track="track2" id="segment459">
+
+<transcription><t>CLICK</t></transcription></segment>
+<segment start="823.1715" end="825.6310" source="source2" track="track2" id="segment460">
+
+<transcription><t>oh</t><t>PUFF</t><t>turquoise</t><t>bird</t></transcription></segment>
+<segment start="826.8810" end="828.3845" source="source1" track="track1" id="segment461">
+
+<transcription><t>turquoise</t><t>bird</t></transcription></segment>
+<segment start="828.9031" end="829.1039" source="source1" track="track1" id="segment462">
+
+<transcription><t>wha-</t></transcription></segment>
+<segment start="828.8004" end="829.6202" source="source2" track="track2" id="segment463">
+
+<transcription><t>like</t><t>blue</t><t>but</t></transcription></segment>
+<segment start="830.4998" end="830.9109" source="source1" track="track1" id="segment464">
+
+<transcription><t>okay</t></transcription></segment>
+<segment start="834.3575" end="834.5869" source="source1" track="track1" id="segment465">
+
+<transcription><t>CLICK</t></transcription></segment>
+<segment start="834.6037" end="834.9813" source="source1" track="track1" id="segment466">
+
+<transcription><t>BREATH</t></transcription></segment>
+<segment start="835.0052" end="835.3231" source="source1" track="track1" id="segment467">
+
+<transcription><t>okay</t></transcription></segment>
+<segment start="835.4785" end="837.6631" source="source1" track="track1" id="segment468">
+
+<transcription><t>uh</t><t>the</t><t>pink</t><t>V</t></transcription></segment>
+<segment start="839.3099" end="840.5815" source="source1" track="track1" id="segment469">
+
+<transcription><t>yeah</t><t>it's</t><t>the</t><t>only</t><t>one</t></transcription></segment>
+<segment start="840.7201" end="840.9400" source="source2" track="track2" id="segment470">
+
+<transcription><t>CLICK</t></transcription></segment>
+<segment start="841.4491" end="842.0084" source="source2" track="track2" id="segment471">
+
+<transcription><t>yeah</t><t>but</t></transcription></segment>
+<segment start="841.4778" end="844.6902" source="source1" track="track1" id="segment472">
+
+<transcription><t>it's</t><t>under</t><t>the</t><t>mouth</t><t>and</t><t>next</t><t>to</t><t>the</t><t>bird</t></transcription></segment>
+<segment start="845.2782" end="845.6056" source="source2" track="track2" id="segment473">
+
+<transcription><t>oh</t><t>okay</t></transcription></segment>
+<segment start="845.8614" end="846.2629" source="source1" track="track1" id="segment474">
+
+<transcription><t>NOISE</t></transcription></segment>
+<segment start="851.6456" end="852.0639" source="source2" track="track2" id="segment475">
+
+<transcription><t>CLICK</t><t>BREATH</t></transcription></segment>
+<segment start="852.1834" end="852.6757" source="source2" track="track2" id="segment476">
+
+<transcription><t>pink</t><t>bird</t></transcription></segment>
+<segment start="853.6318" end="854.0955" source="source1" track="track1" id="segment477">
+
+<transcription><t>pink</t><t>bird</t></transcription></segment>
+<segment start="858.2424" end="858.4002" source="source1" track="track1" id="segment478">
+
+<transcription><t>CLICK</t></transcription></segment>
+<segment start="858.4121" end="858.9452" source="source1" track="track1" id="segment479">
+
+<transcription><t>BREATH</t></transcription></segment>
+<segment start="859.0599" end="867.5952" source="source1" track="track1" id="segment480">
+
+<transcription><t>okay</t><t>upper</t><t>corner</t><t>right</t><t>the</t><t>uh</t><t>blue</t><t>crown</t><t>or</t><t>mountain</t><t>or</t><t>how</t><t>you</t><t>call</t><t>it</t><t>mountain</t></transcription></segment>
+<segment start="867.8461" end="868.1497" source="source2" track="track2" id="segment481">
+
+<transcription><t>uh-huh</t></transcription></segment>
+<segment start="873.1212" end="873.7522" source="source1" track="track1" id="segment482">
+
+<transcription><t>mm-hmm</t></transcription></segment>
+<segment start="874.2303" end="875.3584" source="source2" track="track2" id="segment483">
+
+<transcription><t>upper</t><t>side</t><t>BREATH</t></transcription></segment>
+<segment start="875.4278" end="875.7600" source="source1" track="track1" id="segment484">
+
+<transcription><t>mm-hmm</t></transcription></segment>
+<segment start="875.5329" end="878.2123" source="source2" track="track2" id="segment485">
+
+<transcription><t>blue</t><t>thing</t><t>the</t><t>only</t><t>blue</t><t>thing</t></transcription></segment>
+<segment start="878.8409" end="879.1731" source="source1" track="track1" id="segment486">
+
+<transcription><t>mm-hmm</t></transcription></segment>
+<segment start="881.8860" end="881.9696" source="source1" track="track1" id="segment487">
+
+<transcription><t>CLICK</t></transcription></segment>
+<segment start="881.9959" end="882.4859" source="source1" track="track1" id="segment488">
+
+<transcription><t>BREATH</t></transcription></segment>
+<segment start="882.5074" end="888.1172" source="source1" track="track1" id="segment489">
+
+<transcription><t>um</t><t>the</t><t>green</t><t>M</t><t>or</t><t>Batman</t><t>how</t><t>you</t><t>call</t><t>it</t></transcription></segment>
+<segment start="888.6502" end="889.9409" source="source2" track="track2" id="segment490">
+
+<transcription><t>uh</t><t>wait</t><t>a</t><t>moment</t></transcription></segment>
+<segment start="890.0341" end="890.3233" source="source2" track="track2" id="segment492">
+
+<transcription><t>like</t></transcription></segment>
+<segment start="890.1631" end="892.9811" source="source1" track="track1" id="segment493">
+
+<transcription><t>next</t><t>to</t><t>the</t><t>pink</t><t>biggest</t><t>object</t></transcription></segment>
+<segment start="894.5778" end="897.2524" source="source1" track="track1" id="segment494">
+
+<transcription><t>M</t><t>it's</t><t>like</t><t>turquoise</t><t>you</t><t>called</t><t>it</t><t>turquoise</t></transcription></segment>
+<segment start="895.7059" end="897.2046" source="source2" track="track2" id="segment495">
+
+<transcription><t>LAUGHTER</t><t>ah</t><t>yeah</t><t>yeah</t><t>yeah</t><t>sorry</t></transcription></segment>
+<segment start="897.3623" end="898.5765" source="source2" track="track2" id="segment496">
+
+<transcription><t>not</t><t>a</t><t>big</t><t>fan</t><t>of</t><t>Batman</t></transcription></segment>
+<segment start="898.9303" end="899.4107" source="source1" track="track1" id="segment497">
+
+<transcription><t>okay</t></transcription></segment>
+<segment start="901.8917" end="903.9903" source="source2" track="track2" id="segment498">
+
+<transcription><t>'kay</t><t>scary</t><t>mouth</t><t>violet</t></transcription></segment>
+<segment start="904.5352" end="905.0921" source="source1" track="track1" id="segment499">
+
+<transcription><t>mm-hmm</t></transcription></segment>
+<segment start="908.4647" end="908.5889" source="source1" track="track1" id="segment500">
+
+<transcription><t>CLICK</t></transcription></segment>
+<segment start="908.6009" end="909.0001" source="source1" track="track1" id="segment501">
+
+<transcription><t>BREATH</t></transcription></segment>
+<segment start="909.0335" end="910.4437" source="source1" track="track1" id="segment502">
+
+<transcription><t>the</t><t>dark</t><t>blue</t><t>V</t><t>BREATH</t></transcription></segment>
+<segment start="916.9235" end="916.9569" source="source2" track="track2" id="segment503">
+
+<transcription><t>CLICK</t></transcription></segment>
+<segment start="917.1983" end="917.9226" source="source2" track="track2" id="segment504">
+
+<transcription><t>biggest</t><t>pink</t></transcription></segment>
+<segment start="920.1645" end="920.4896" source="source1" track="track1" id="segment505">
+
+<transcription><t>mm-hmm</t></transcription></segment>
+<segment start="921.0585" end="922.1508" source="source1" track="track1" id="segment506">
+
+<transcription><t>like</t><t>a</t><t>house</t></transcription></segment>
+<segment start="924.0031" end="924.0294" source="source1" track="track1" id="segment507">
+
+<transcription><t>CLICK</t></transcription></segment>
+<segment start="924.2565" end="927.1940" source="source1" track="track1" id="segment508">
+
+<transcription><t>the</t><t>yellow</t><t>bird</t><t>down</t><t>right</t></transcription></segment>
+<segment start="933.4156" end="938.1099" source="source2" track="track2" id="segment509">
+
+<transcription><t>um</t><t>green</t><t>diamond</t><t>left</t><t>uh</t><t>down</t></transcription></segment>
+<segment start="939.4484" end="940.0077" source="source1" track="track1" id="segment510">
+
+<transcription><t>green</t></transcription></segment>
+<segment start="940.5574" end="941.5565" source="source2" track="track2" id="segment512">
+
+<transcription><t>yeah</t><t>uh</t><t>on</t></transcription></segment>
+<segment start="941.3773" end="942.0417" source="source1" track="track1" id="segment511">
+
+<transcription><t>oh</t><t>okay</t></transcription></segment>
+<segment start="941.9198" end="942.3047" source="source2" track="track2" id="segment513">
+
+<transcription><t>mm-hmm</t></transcription></segment>
+<segment start="943.2559" end="943.6455" source="source2" track="track2" id="segment514">
+
+<transcription><t>that</t><t>one</t></transcription></segment>
+<segment start="944.4725" end="944.8502" source="source1" track="track1" id="segment515">
+
+<transcription><t>mm-hmm</t></transcription></segment>
+<segment start="946.3990" end="946.8508" source="source1" track="track1" id="segment517">
+
+<transcription><t>COUGH</t><t>CLICK</t></transcription></segment>
+<segment start="946.9870" end="952.8094" source="source1" track="track1" id="segment516">
+
+<transcription><t>the</t><t>blue</t><t>diamond</t><t>on</t><t>upper</t><t>righ-</t><t>uh</t><t>left</t><t>corner</t><t>upper</t><t>left</t><t>corner</t></transcription></segment>
+<segment start="952.0470" end="953.0126" source="source2" track="track2" id="segment518">
+
+<transcription><t>le-</t><t>next</t><t>to</t><t>the</t><t>bird</t></transcription></segment>
+<segment start="953.2970" end="953.4739" source="source1" track="track1" id="segment520">
+
+<transcription><t>yeah</t></transcription></segment>
+<segment start="960.7329" end="961.3017" source="source2" track="track2" id="segment521">
+
+<transcription><t>um</t></transcription></segment>
+<segment start="963.3214" end="964.1914" source="source2" track="track2" id="segment522">
+
+<transcription><t>it's</t><t>blue</t></transcription></segment>
+<segment start="964.4782" end="964.8344" source="source1" track="track1" id="segment523">
+
+<transcription><t>mm-hmm</t></transcription></segment>
+<segment start="965.1690" end="968.4674" source="source2" track="track2" id="segment524">
+
+<transcription><t>close</t><t>to</t><t>scary</t><t>mouth</t><t>and</t><t>uh</t><t>Batman</t></transcription></segment>
+<segment start="968.7327" end="970.7357" source="source2" track="track2" id="segment525">
+
+<transcription><t>it's</t><t>under</t><t>the</t><t>uh</t><t>yellow</t><t>stuff</t></transcription></segment>
+<segment start="969.8729" end="970.3174" source="source1" track="track1" id="segment526">
+
+<transcription><t>okay</t></transcription></segment>
+<segment start="971.9619" end="972.4327" source="source2" track="track2" id="segment527">
+
+<transcription><t>that</t><t>one</t></transcription></segment>
+<segment start="976.5749" end="977.1270" source="source1" track="track1" id="segment528">
+
+<transcription><t>the</t><t>Batman</t></transcription></segment>
+<segment start="976.2020" end="976.5534" source="source1" track="track1" id="segment529">
+
+<transcription><t>BREATH</t></transcription></segment>
+<segment start="978.8957" end="978.9412" source="source1" track="track1" id="segment530">
+
+<transcription><t>CLICK</t></transcription></segment>
+</segments></annotation>

@@ -1,0 +1,318 @@
+ROUND	SPEAKER	DIALOGUE_ROLE	START_TIME	END_TIME	TOKENS
+0	A	INSTRUCTOR	0.0	0.2253	all right
+0	A	INSTRUCTOR	1.8087	1.9943	aye
+0	B	MANIPULATOR	2.9814	3.2796	NOISE
+0	A	INSTRUCTOR	3.3591	3.695	eh
+0	B	MANIPULATOR	3.4916	3.6837	NOISE
+0	A	INSTRUCTOR	4.1541	6.1283	it says press okay to continue to next turn
+0	B	MANIPULATOR	5.519	5.9496	I just
+0	B	MANIPULATOR	6.7977	9.4225	uh uh uh uh uh uh
+0	A	INSTRUCTOR	7.3079	7.7584	I hit okay
+1	A	INSTRUCTOR	9.5075	15.3209	okay top top left hand corner looks like a triangle pointing down with a small triangle in the middle
+1	B	MANIPULATOR	10.1502	11.1904	select piece to move
+1	B	MANIPULATOR	17.1996	17.718	okay
+2	B	INSTRUCTOR	20.3732	24.5707	uh third row down looks like a blue television second from the right
+2	A	MANIPULATOR	25.2495	26.4059	uh second from the
+2	B	INSTRUCTOR	25.9717	30.3865	navy blue triangle with rectangle on the top two birds
+2	A	MANIPULATOR	26.7664	27.4423	yeah
+2	B	INSTRUCTOR	30.4316	31.1078	great
+3	A	INSTRUCTOR	33.6042	35.3281	uh it sort of looks like it's
+3	A	INSTRUCTOR	35.731	40.3749	on the top row there there's an orange shape with a green shape below it like a fluorescent green
+3	A	INSTRUCTOR	40.8856	41.6077	on the left hand side
+3	A	INSTRUCTOR	42.2225	43.0786	on the left hand side
+3	B	MANIPULATOR	44.0459	44.4434	yes
+3	A	INSTRUCTOR	46.6166	48.486	it says that you just selected the wrong piece
+3	A	INSTRUCTOR	48.8825	49.5224	so it's
+3	B	MANIPULATOR	49.6841	50.4488	ah shit
+3	B	MANIPULATOR	50.7111	53.3793	on the left hand side there's an orange piece on the second row
+3	A	INSTRUCTOR	51.46	51.8205	no
+3	A	INSTRUCTOR	52.8119	53.1319	bel-
+3	A	INSTRUCTOR	53.2852	53.5407	yeah
+3	A	INSTRUCTOR	53.5589	59.1254	and there's an orange piece on the top row and then below it there's like a fluorescent green piece
+3	B	MANIPULATOR	55.9452	56.5878	top row
+3	A	INSTRUCTOR	59.3408	63.8816	which is eh it's kind of like a right angle at the top left
+3	B	MANIPULATOR	59.6224	60.0935	yes
+3	B	MANIPULATOR	63.0407	64.4467	you want me to select the green piece
+3	A	INSTRUCTOR	64.2685	64.4766	yeah
+3	A	INSTRUCTOR	66.1118	66.4331	okay
+4	B	INSTRUCTOR	70.5476	79.5843	uh third row down there's a yellow shape pointing towards the left that's just immediately to the left of the purple shape with triangles pointing upwards
+4	A	MANIPULATOR	80.3135	82.377	it's the third row down where it is
+4	B	INSTRUCTOR	81.2203	81.7755	it's the
+4	B	INSTRUCTOR	82.109	84.1712	yeah third row down there's a yellow shape
+4	B	INSTRUCTOR	84.7526	86.4208	next to a green shape
+4	A	MANIPULATOR	86.6404	87.3704	okay is
+4	B	INSTRUCTOR	87.0051	88.6996	next to two green shapes
+4	A	MANIPULATOR	88.423	89.3853	kind of looks like a bird
+4	B	INSTRUCTOR	89.8011	90.2189	yes
+4	B	INSTRUCTOR	92.3517	93.1404	great
+5	A	INSTRUCTOR	94.0944	96.4812	okay top left hand corner your TV set
+5	B	MANIPULATOR	99.8893	100.6781	okay
+6	B	INSTRUCTOR	101.3824	104.9144	uh top left hand corner your hexagon green hexagon
+6	A	MANIPULATOR	105.2709	106.1469	eg- uh
+6	B	INSTRUCTOR	105.382	107.9822	no an uh NOISE multi edged shape
+6	A	MANIPULATOR	107.753	108.3078	ah okay
+6	B	INSTRUCTOR	109.6767	110.2902	great
+7	A	INSTRUCTOR	111.6253	119.5758	eh it's the left hand side there's two green objects it's the bottom green object on the left hand side it's between the ab- it's by the pale blue
+7	B	MANIPULATOR	119.0193	120.0992	okay the darker green
+7	A	INSTRUCTOR	120.1854	121.5833	yeah at the bottom yeah beside yeah
+8	B	INSTRUCTOR	124.7304	130.5368	okay it's the downward pointing arrow uh second row from the bottom aquamarine
+8	A	MANIPULATOR	129.3881	130.0904	looks like a V
+8	B	INSTRUCTOR	130.7706	131.4718	looks like a V
+8	B	INSTRUCTOR	132.9791	133.5169	great
+9	A	INSTRUCTOR	135.3841	137.3631	it's on the left hand side the green shape
+9	A	INSTRUCTOR	138.0348	138.9984	the the one one that you're tr-
+9	B	MANIPULATOR	138.9022	139.623	like a pentagon
+9	A	INSTRUCTOR	139.524	140.3709	yeah or uh
+9	B	MANIPULATOR	139.9358	140.3534	mm-hmm
+10	B	INSTRUCTOR	143.3678	143.4738	NOISE
+10	B	INSTRUCTOR	143.7255	149.1474	uh immediately to the right of that there was another green shape looks like a nose pointing towards the right
+10	A	MANIPULATOR	149.7153	151.0294	which where is this sorry
+10	B	INSTRUCTOR	150.725	154.0557	there was a face next to the TV screen lime green just above that
+10	A	MANIPULATOR	151.7886	154.9423	oh okay yeah so it looks like a person's face looks like a person's face
+10	B	INSTRUCTOR	154.3478	155.2828	yes yes
+10	B	INSTRUCTOR	157.1525	157.6201	'kay
+11	A	INSTRUCTOR	158.6801	165.0168	it's the one that looks like a set of mountains in a sort of orangey orangey color it's eh
+11	B	MANIPULATOR	165.2746	166.9399	okay next to above the two blues
+11	A	INSTRUCTOR	166.3017	169.543	BREATH above beside the TV sort of diagonally up from the TV shape
+11	B	MANIPULATOR	169.0435	169.3941	yeah
+12	B	INSTRUCTOR	172.6371	175.5294	it's the top green shape in the center
+12	B	INSTRUCTOR	177.1948	179.0354	great NOISE COUGH
+13	A	INSTRUCTOR	179.1211	182.3624	it's the top left hand corner the yellow shape sort of looks like a bird
+13	B	MANIPULATOR	181.9277	182.2491	great
+14	B	INSTRUCTOR	185.4628	188.2968	it's the blue TV screen on the left
+14	B	INSTRUCTOR	188.326	188.735	great
+15	A	INSTRUCTOR	189.8672	196.1746	it's on the right hand side there is it goes orange green and then a pink shape
+15	A	INSTRUCTOR	196.6429	198.9488	the large the large pink shape on the right hand side
+15	B	MANIPULATOR	196.9609	197.4998	pink shape
+15	B	MANIPULATOR	199.5183	199.8663	uh-huh
+16	B	INSTRUCTOR	203.4891	208.7187	it's the green bird at the center uh to the left of the face
+16	B	INSTRUCTOR	208.7625	209.1569	great
+17	A	INSTRUCTOR	211.279	215.5059	it's the same shape as before the big pink one on the left hand side of the screen
+17	B	MANIPULATOR	215.6648	215.9424	great
+18	B	INSTRUCTOR	219.8281	222.1507	uh the green bird on the bottom left hand corner
+18	B	INSTRUCTOR	223.6481	223.9329	great
+19	A	INSTRUCTOR	225.1716	229.2087	it's on the top right there's like an M shaped thing in red
+19	A	INSTRUCTOR	229.6978	230.4059	sort of like an M
+19	B	MANIPULATOR	231.4196	231.7628	okay
+20	B	INSTRUCTOR	233.911	234.1959	BREATH
+20	B	INSTRUCTOR	234.2316	239.5853	it's uh the green shape on the bottom right hand corner just above the yellow and blue bird
+20	A	MANIPULATOR	240.2176	240.6556	mm-kay
+20	B	INSTRUCTOR	240.5276	242.3755	like an like a W
+21	A	INSTRUCTOR	243.2399	245.941	okay it's the V in the top left hand corner pale blue
+21	B	MANIPULATOR	243.6245	243.7778	mm
+22	B	INSTRUCTOR	250.7386	257.0784	it's the American shape the green shape on the second row form the bottom immediately below the TV screen
+22	A	MANIPULATOR	257.096	257.5267	okay
+22	B	INSTRUCTOR	259.1235	259.3281	yeah
+23	A	INSTRUCTOR	260.3884	265.2431	okay it's the the TV screen sort of diagonally up right from it
+23	A	INSTRUCTOR	266.0097	268.2509	it's another blue shape with a lot lot of points
+23	B	MANIPULATOR	266.1135	266.559	okay
+23	B	MANIPULATOR	266.8366	267.0338	blue
+23	B	MANIPULATOR	267.2529	267.4939	blue
+23	B	MANIPULATOR	267.5961	267.8298	great
+24	B	INSTRUCTOR	271.0266	274.3195	it's the purple haunted castle on the bottom right hand corner
+24	A	MANIPULATOR	275.0682	276.8872	uh bottom right and corner
+24	A	MANIPULATOR	277.5515	277.6975	oh
+24	B	INSTRUCTOR	277.5953	278.2892	purple shape
+24	A	MANIPULATOR	278.1282	280.8148	oh like the triangular shape with a lot of points on top
+24	B	INSTRUCTOR	280.5315	282.0727	yes with four points on top
+24	B	INSTRUCTOR	282.321	282.6497	NOISE
+24	A	MANIPULATOR	282.6763	282.8953	yeah
+25	A	INSTRUCTOR	285.0781	287.407	the bottom left hand corner the green shape looks like a W
+26	B	INSTRUCTOR	291.7285	294.2265	the blue V top row on the right
+27	A	INSTRUCTOR	298.1019	302.5698	it's the funny pale blue shape on the left hand side
+27	A	INSTRUCTOR	302.9202	305.8111	sort of below the red M or the pink thing there
+27	B	MANIPULATOR	305.9824	307.717	is it like a claw a crab claw
+27	A	INSTRUCTOR	306.3586	309.4686	pale it's pale pale blue beside the TV
+27	B	MANIPULATOR	310.4048	310.7116	mm-hmm
+28	B	INSTRUCTOR	314.4878	320.9007	it's above the purple shape on the second row it's kind of like a cat with its tail up
+28	A	MANIPULATOR	321.6966	323.7115	cat with its tail up is it below the pink shape
+28	B	INSTRUCTOR	321.9962	322.566	NOISE to
+28	B	INSTRUCTOR	323.6177	324.2604	second row
+28	A	MANIPULATOR	324.2372	324.7044	pink object
+28	B	INSTRUCTOR	324.5089	325.3707	below the pink shape
+28	B	INSTRUCTOR	325.4145	325.6775	yes
+28	A	MANIPULATOR	325.7264	327.7267	it looks like a sort of K with a weird
+28	B	INSTRUCTOR	327.9782	328.19	yeah
+28	B	INSTRUCTOR	328.5041	328.6941	mm-hmm
+29	A	INSTRUCTOR	331.5765	334.1583	eh the large pink object in the top row
+29	A	INSTRUCTOR	334.9321	335.3702	center
+30	B	INSTRUCTOR	338.642	341.381	it's the green bird below the purple shape in the center
+31	A	INSTRUCTOR	344.1671	348.1896	it's in the bottom right hand corner there's a blue shape that looks like a bird
+32	B	INSTRUCTOR	352.8556	357.7931	bottom left corner looks like a blue hairstyle f- uh
+32	A	MANIPULATOR	357.9523	359.1255	is this to the bottom
+32	B	INSTRUCTOR	359.0201	361.1748	four it's got like four shapes
+32	A	MANIPULATOR	361.1258	365.0241	so it's like eh diag- diagonally down from the bird pale blue bird
+32	B	INSTRUCTOR	365.9955	368.194	uh yes to the right of the pale blue bird
+33	A	INSTRUCTOR	371.2562	375.0857	so it's the M shape sort of reddy color eh on the left hand side
+34	B	INSTRUCTOR	377.9813	382.2906	it's the green continent on the right side third shape down
+35	A	INSTRUCTOR	386.4287	390.9403	on the bottom row there's a pink object looks like a triangle and a square sort of squished together
+36	B	INSTRUCTOR	394.3861	396.3947	orange continent top left corner
+36	A	MANIPULATOR	397.0799	397.3135	okay
+37	A	INSTRUCTOR	400.0731	407.242	ah I think it's in the it's in the top one there's a pale blue it's the green one below it the continent shape one below the
+38	B	INSTRUCTOR	410.4694	413.7782	the pink arrow with the square on the top row
+38	A	MANIPULATOR	414.2941	414.6956	okay
+38	B	INSTRUCTOR	414.9029	415.7064	top top center
+38	B	INSTRUCTOR	415.8379	416.0497	great
+39	A	INSTRUCTOR	418.4407	422.945	it's the sort of mountainy shape on the left hand side in orange middle way down midway down
+40	B	INSTRUCTOR	425.8299	425.916	CLICK
+40	B	INSTRUCTOR	426.5164	428.503	top right hand corner green rectangle
+40	A	MANIPULATOR	428.9751	431.063	top right hand corner green rectangle
+40	A	MANIPULATOR	431.5375	432.9246	is it are you sure it's it it's like
+40	B	INSTRUCTOR	431.5707	431.8117	yeah
+40	B	INSTRUCTOR	432.6806	432.7734	NOISE
+40	B	INSTRUCTOR	432.9	434.1855	it's a 3D rectangle
+40	A	MANIPULATOR	434.4827	435.3118	ah okay yeah
+41	A	INSTRUCTOR	438.1151	442.3493	eh it's the yellow bird object in the bottom sort of rightish bit middle
+41	A	INSTRUCTOR	442.3785	442.6413	all right
+42	B	INSTRUCTOR	445.4117	447.4349	blue TV screen center left
+42	B	INSTRUCTOR	448.4237	448.5981	NOISE
+43	A	INSTRUCTOR	450.4819	453.1903	it's the gr- green continent shaped object
+43	A	INSTRUCTOR	454.4971	455.5702	on the top left
+43	B	MANIPULATOR	454.8193	455.2429	top left
+43	A	INSTRUCTOR	455.5994	455.7965	yeah
+44	B	INSTRUCTOR	459.5269	459.8714	BREATH
+44	B	INSTRUCTOR	460.3948	462.9191	pink triangle and square bottom left corner
+45	A	INSTRUCTOR	465.8078	468.6501	the pale blue V on the right hand side
+46	B	INSTRUCTOR	472.1483	476.4085	top left hand corner gre- uh crab hands aqua blue
+46	A	MANIPULATOR	476.3908	476.7596	okay
+47	A	INSTRUCTOR	479.9531	485.9396	it's the weird blue object beside the green continent on the right hand side lots of points on it
+47	B	MANIPULATOR	487.5193	487.9063	cool
+48	B	INSTRUCTOR	489.7124	491.9966	it's the purple shape in the center four peaks
+48	A	MANIPULATOR	492.1887	492.6851	okay
+49	A	INSTRUCTOR	495.3175	497.3281	it's the one that the weird one we had
+49	A	INSTRUCTOR	497.4011	504.7526	y- do you see the it's a blue object but it's beside the yellow bird and but it's not the pale blue one it's the darker K shaped one
+49	B	MANIPULATOR	504.5083	505.9471	the the backward K got it
+49	A	INSTRUCTOR	505.5264	505.8476	yeah
+49	B	MANIPULATOR	507.4591	508.6861	COUGH COUGH excuse me
+50	B	INSTRUCTOR	509.0368	511.4836	the pink house on the top right hand corner
+50	A	MANIPULATOR	512.0164	513.1991	pink house large
+50	B	INSTRUCTOR	513.5653	513.7625	yes
+50	B	INSTRUCTOR	514.7631	514.9529	COUGH
+51	A	INSTRUCTOR	517.4994	521.8865	it's the one that looks like it's a green object that looks like a face near the center
+52	B	INSTRUCTOR	526.2914	528.1951	bottom uh green W
+53	A	INSTRUCTOR	532.4994	535.5527	it's the on the left hand side on the bottom corner there's a blue bird
+54	B	INSTRUCTOR	539.3236	543.3581	it's the blue hairstyle uh northeast of the pink house
+54	A	MANIPULATOR	544.2264	547.1164	uh pink house is it found uh beside the green bird
+54	B	INSTRUCTOR	545.1209	546.4843	aqua blue w- with
+54	B	INSTRUCTOR	547.3338	547.6821	yes
+55	A	INSTRUCTOR	551.2759	552.6647	it is the big pink house
+56	B	INSTRUCTOR	556.351	558.2583	the green face to the left of the pink house
+57	A	INSTRUCTOR	561.8236	567.2362	it's middle top there's a blue spiky object but above the four peaked one
+57	B	MANIPULATOR	568.6743	570.12	above the four p- oh yeah okay
+58	A	MANIPULATOR	570.0126	570.2114	'kay
+58	B	INSTRUCTOR	570.2246	570.695	BREATH
+58	B	INSTRUCTOR	570.854	572.1359	the pink house at the bottom
+59	A	INSTRUCTOR	575.684	577.9531	it's the TV screen on the right hand side blue
+60	B	INSTRUCTOR	581.5806	583.384	bottom right green continent
+61	A	INSTRUCTOR	586.4967	590.1008	it's the K shaped object on the right hand side the funny K blueish
+61	A	INSTRUCTOR	591.1229	591.4149	blue
+62	B	INSTRUCTOR	593.5727	595.8885	bottom uh top right W green
+63	A	INSTRUCTOR	600.2643	602.6574	uh the yellow bird bottom leftish
+64	B	INSTRUCTOR	607.9101	610.4211	CLICK it's the uh pink arrow top right hand corner
+64	A	MANIPULATOR	610.8046	611.3302	top right hand
+65	A	INSTRUCTOR	614.8271	617.4333	it's the pale V on the top left
+66	B	INSTRUCTOR	620.1539	620.2798	CLICK
+66	B	INSTRUCTOR	620.8231	624.8513	the blue crab claws in the center left above the pink arrow
+67	A	INSTRUCTOR	626.8361	631.3915	TV screen bottom right bottom corner or bottom whatever middle
+68	B	INSTRUCTOR	632.9343	637.0538	green continent uh bottom right left bottom LAUGHTER
+68	A	MANIPULATOR	636.4726	637.3486	yeah I got it now
+69	B	MANIPULATOR	638.5729	639.0697	BREATH
+69	A	INSTRUCTOR	638.6852	644.138	uh it's it's the one that you it's not the top left hand object the one below it green looks like a cuboid
+69	A	INSTRUCTOR	644.4445	645.0577	right
+69	A	INSTRUCTOR	646.7222	647.1602	right
+70	B	INSTRUCTOR	648.8685	652.1584	above that blue jagged edges top left hand corner
+70	A	MANIPULATOR	652.6517	655.2198	uh top left hand corner the blue jagged edge
+70	B	INSTRUCTOR	654.6923	655.1676	a ver-
+70	B	INSTRUCTOR	655.5602	655.9272	yes
+71	A	INSTRUCTOR	659.403	663.7466	eh it's the orange set of what looks like mountains spiky ones above the pink house
+72	B	INSTRUCTOR	666.591	668.8699	the purple jagged edged second row
+72	A	MANIPULATOR	669.2484	671.2806	purple jagged edge yeah second row
+73	A	INSTRUCTOR	673.8795	677.6465	uh top of the screen the mountains the middle top middle
+73	B	MANIPULATOR	677.4886	678.1022	orange
+73	A	INSTRUCTOR	678.0845	679.0481	orange yeah sorry
+74	B	INSTRUCTOR	683.1273	686.0489	purple peaks left top corner
+75	A	INSTRUCTOR	688.6476	690.8747	uh top left corner the mountains orange
+76	B	INSTRUCTOR	695.2598	698.2904	purple h- of ranges purple peaks left hand corner
+76	A	MANIPULATOR	698.7183	700.2483	left hand corner at the bottom left
+76	B	INSTRUCTOR	699.9265	701.8255	pink pink uh purple purple
+76	A	MANIPULATOR	701.395	703.3436	up uh top right from the houses
+76	B	INSTRUCTOR	702.1761	702.9065	uh below yes
+76	A	MANIPULATOR	703.5772	704.9789	uh below the cr- claw okay
+76	B	INSTRUCTOR	703.929	704.455	yes
+76	B	INSTRUCTOR	705.419	705.7112	yeah
+77	A	INSTRUCTOR	708.1794	713.7977	BREATH eh it's the one beside the it's the blue object between the TV and the fa- the green face
+77	A	INSTRUCTOR	714.2357	714.849	spiky one
+78	B	INSTRUCTOR	717.6538	720.8743	the uh northeast of that orange ranges
+78	A	MANIPULATOR	721.7748	724.0182	orange ra- the whole which ones the
+78	B	INSTRUCTOR	723.451	724.6503	beside the pink M
+78	A	MANIPULATOR	724.8159	725.6535	so it's a pale blue
+78	B	INSTRUCTOR	726.2205	727.331	no orange ranges
+78	A	MANIPULATOR	727.3468	728.3692	oh the orange ranges okay
+78	A	MANIPULATOR	730.0045	731.3185	thought it was beside the orange ranges sorry
+79	A	INSTRUCTOR	732.1569	734.7643	the claw pale blue clawish object
+80	B	INSTRUCTOR	738.1198	738.9882	blue TV screen
+81	A	INSTRUCTOR	742.3004	744.5759	ah bottom right hand corner the cuboid green
+82	B	INSTRUCTOR	748.7205	750.5869	purple ranges top left hand corner
+82	A	MANIPULATOR	751.8471	752.3143	mm-kay
+83	A	INSTRUCTOR	753.2986	758.4174	eh b- beside the pink house is a pale blue smallish
+83	A	INSTRUCTOR	758.6218	758.8846	yeah
+84	B	INSTRUCTOR	761.1564	762.7408	pink house left hand corner
+85	A	INSTRUCTOR	764.9196	769.8935	top right hand corner the tri- the big downward triangle with the small triangle
+86	B	INSTRUCTOR	772.1877	773.7844	green bird above the blue V
+87	A	INSTRUCTOR	776.6467	781.136	uh the in the middle at the bottom the continent shape green pale green object
+88	B	INSTRUCTOR	784.1732	788.1002	blue jagged edge left hand side above the pur- pink arrow
+88	A	MANIPULATOR	788.4731	789.8088	above eh so th-
+88	B	INSTRUCTOR	789.4669	790.5601	below the blue claw
+88	A	MANIPULATOR	791.1696	791.4678	okay
+89	A	INSTRUCTOR	793.7469	795.6491	uh yellow bird right hand side
+90	B	INSTRUCTOR	799.4779	802.7374	pink arrow above the pink M to the left of the blue V
+90	A	MANIPULATOR	802.599	803.183	mm-kay
+91	A	INSTRUCTOR	804.6656	806.3368	TV screen bottom left
+92	B	INSTRUCTOR	810.178	812.2325	green cuboid top right hand corner
+93	A	INSTRUCTOR	814.882	816.6157	uh green face bottom left
+94	B	INSTRUCTOR	821.2019	823.2761	backwards K top right hand corner
+95	A	INSTRUCTOR	826.8069	832.2384	the it's the the bes- the pale or the blue bird beside the M in the middle
+96	B	INSTRUCTOR	835.5177	838.001	green W uh southeast
+97	A	INSTRUCTOR	841.2616	842.342	TV screen
+98	B	INSTRUCTOR	846.8826	849.3368	l- uh green cuboid bottom row
+99	A	INSTRUCTOR	852.0077	854.519	uh right hand side the orange mountains
+99	A	INSTRUCTOR	855.2198	856.1835	above the yeah
+100	B	INSTRUCTOR	859.7961	861.4614	blue claw top left
+101	A	INSTRUCTOR	863.6882	864.8271	the red M
+101	A	INSTRUCTOR	865.5863	866.4624	in the center yeah
+102	B	INSTRUCTOR	868.853	870.7813	orange continent right hand side
+103	A	INSTRUCTOR	874.9813	877.9979	uh the cuboid on the left hand side above the TV screen green
+104	B	INSTRUCTOR	880.62	884.2207	orange peaks above the green W second row
+105	A	INSTRUCTOR	886.0322	888.1298	the orange continent at the bottom of the screen
+106	B	INSTRUCTOR	891.0428	892.9563	green cuboid right hand side
+107	A	INSTRUCTOR	895.2791	897.1051	the pale blue V in the center
+108	B	INSTRUCTOR	900.5231	902.0716	purple ranges bottom row
+109	A	INSTRUCTOR	905.3075	906.7537	the green face top right
+110	B	INSTRUCTOR	911.1945	912.677	backwards K left hand side
+111	A	INSTRUCTOR	915.6426	917.5647	uh the yellow bird left hand side
+112	B	INSTRUCTOR	921.179	923.1071	pur- pink arrow right hand side
+113	A	INSTRUCTOR	925.4081	930.8221	uh y- green face bottom corner bottom left sort of green face beside the TV
+114	B	INSTRUCTOR	933.7857	935.6115	backwards K blue center
+115	A	INSTRUCTOR	938.2192	941.101	uh green face near where that K was uh
+116	B	INSTRUCTOR	943.9088	945.8519	backwards K left hand side blue
+117	A	INSTRUCTOR	948.3134	951.1473	uh the purple peaks in the middle four
+118	B	INSTRUCTOR	954.2442	955.7707	yellow face bottom
+118	A	MANIPULATOR	956.8444	958.2468	yellow the bird or
+118	B	INSTRUCTOR	958.1591	959.2238	next to the blue K
+118	A	MANIPULATOR	959.7149	960.6367	yeah the bird or okay
+119	A	INSTRUCTOR	962.8921	965.0103	the red M in the top left
+120	B	INSTRUCTOR	968.7572	971.2258	orange peaks above the orange continent
+121	A	INSTRUCTOR	973.3441	975.6754	the backwards K beside the TV screen
+122	B	INSTRUCTOR	978.8732	980.3703	purple ranges second row
+122	A	MANIPULATOR	980.9298	981.6653	all right yeah okay
+123	A	INSTRUCTOR	984.4754	988.1931	uh top of the screen there's uh sort of a pinky arrow
+124	B	INSTRUCTOR	992.6119	994.7738	green face left hand side center
+125	A	INSTRUCTOR	997.3377	998.5985	uh backwards K
+126	B	INSTRUCTOR	1002.5747	1004.7364	purple ranges left hand side
+127	A	INSTRUCTOR	1006.8402	1008.2353	uh orange continent bottom right
+128	B	INSTRUCTOR	1011.8873	1014.0271	green cuboid center of the bottom
+129	A	INSTRUCTOR	1018.8553	1022.5728	oh eh the pink arrow bottom screen beside the green face
+130	B	INSTRUCTOR	1025.2461	1026.736	green face bottom
+131	A	INSTRUCTOR	1029.6798	1031.304	uh or- uh green continent
+132	B	INSTRUCTOR	1035.5376	1039.825	blue jagged edge right hand side dark blue next to the green cuboid
+133	A	INSTRUCTOR	1041.4976	1045.0255	eh red M in the center bottom

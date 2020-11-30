@@ -1,0 +1,349 @@
+ROUND	SPEAKER	DIALOGUE_ROLE	START_TIME	END_TIME	TOKENS
+0	B	MANIPULATOR	0.0	0.7695	START_SIGNAL
+0	A	INSTRUCTOR	0.1892	0.7749	Sebastian
+0	B	MANIPULATOR	0.7141	1.0424	CLICK BREATH
+0	A	INSTRUCTOR	1.9292	2.6297	START_SIGNAL
+0	A	INSTRUCTOR	7.0378	7.6507	'kay
+0	A	INSTRUCTOR	10.418	12.4795	okay I'm gonna start okay Sebastian
+0	B	MANIPULATOR	11.7737	12.9995	oh okay
+0	A	INSTRUCTOR	13.1852	13.7052	mm-hmm
+1	A	INSTRUCTOR	15.2908	15.7594	uh
+1	A	INSTRUCTOR	16.9397	29.5454	it's with eh GROAN okay rectangle but three si- eh two sides tapered on the top and it's magen- pink colored on on pink colored with two tapered sides do you get it
+1	B	MANIPULATOR	29.4914	32.9644	rectangle it's like dark p- pink or
+1	A	INSTRUCTOR	32.9694	38.637	yeah dark pink which has eh if you take a rectangle and then you take the top two sides and taper it
+1	B	MANIPULATOR	38.666	40.0032	ah okay I think I know
+1	A	INSTRUCTOR	41.3776	41.879	okay
+2	A	MANIPULATOR	46.4849	47.042	'kay
+2	B	INSTRUCTOR	47.3051	51.4807	okay i- so it's kind of eh small yellow shape
+2	A	MANIPULATOR	51.5179	51.945	yeah
+2	B	INSTRUCTOR	52.6508	58.5753	eh it's it's not any rectangle or it's kind of
+2	A	MANIPULATOR	54.9351	56.2166	the the
+2	A	MANIPULATOR	58.5753	60.3582	eh there only two shapes at me
+2	B	INSTRUCTOR	60.2096	60.6739	yeah
+2	A	MANIPULATOR	60.5996	64.314	so one is with the other a triangular base is it that one
+2	B	INSTRUCTOR	64.3697	69.0128	no the one that is like very half like eh many peaks
+2	A	MANIPULATOR	68.2455	68.3716	gl-
+2	A	MANIPULATOR	68.9844	70.1457	yeah okay I got it
+2	B	INSTRUCTOR	70.2385	71.1671	okay great
+2	A	MANIPULATOR	71.3721	72.4264	but how do I select it
+2	A	MANIPULATOR	72.6606	73.0841	okay yeah
+2	A	MANIPULATOR	73.4986	73.823	okay
+3	A	INSTRUCTOR	74.2465	74.8258	yeah got it
+3	A	INSTRUCTOR	75.3644	80.936	so is eh so it's like a pyramid but at the base two two triangles are absent are removed
+3	B	MANIPULATOR	80.806	82.0132	okay I think I know
+3	A	INSTRUCTOR	81.326	81.7532	yeah
+3	A	INSTRUCTOR	82.0875	82.7932	you know okay
+4	B	INSTRUCTOR	87.1576	97.298	okay so it's eh blue si- eh object similar to camera symbol like rectangle and eh triangle
+4	A	MANIPULATOR	89.9249	97.1866	mm-hmm SNIFF camera's yeah ye- and a triangle
+4	B	INSTRUCTOR	97.5023	97.7623	yeah
+4	A	MANIPULATOR	97.9851	98.468	okay
+4	B	INSTRUCTOR	98.8395	99.3223	oh
+4	A	MANIPULATOR	101.0495	101.9039	uh
+4	B	INSTRUCTOR	103.9839	104.5039	uh
+4	A	MANIPULATOR	105.9897	107.754	you have to confirm or
+4	B	INSTRUCTOR	107.7726	109.9641	hmm d- you selected wrong object
+4	A	MANIPULATOR	110.4597	111.2075	is it okay
+4	B	INSTRUCTOR	111.9699	115.5543	blue blue rectangle and triangle at the bottom
+4	A	MANIPULATOR	112.1086	112.4899	oh i-
+4	A	MANIPULATOR	116.5057	117.2806	at the bottom
+4	B	INSTRUCTOR	117.6529	118.1358	yeah
+4	A	MANIPULATOR	117.9924	118.7858	oh okay
+4	A	MANIPULATOR	119.5659	119.9745	SNIFF
+4	B	INSTRUCTOR	121.6958	122.2094	no
+4	B	INSTRUCTOR	123.3267	125.5275	it's like eh similar to camera symbol
+4	A	MANIPULATOR	126.5975	127.3363	yes
+4	A	MANIPULATOR	127.877	128.1833	so
+4	B	INSTRUCTOR	128.3133	131.1177	the it's it's it's small small blue
+4	A	MANIPULATOR	128.3996	128.7033	COUGH
+4	A	MANIPULATOR	130.4119	132.8778	oh it's the small one ah okay sorry
+4	A	MANIPULATOR	133.5175	133.896	my bad
+5	A	INSTRUCTOR	135.5809	135.9594	yes
+5	A	INSTRUCTOR	136.2477	140.9051	so it's again eh the pyramid with two uh two triangles absent
+5	B	MANIPULATOR	140.8494	141.5923	CLICK oh okay
+6	A	MANIPULATOR	146.4386	146.79	go ahead
+6	A	MANIPULATOR	147.4027	147.9884	COUGH
+6	B	INSTRUCTOR	147.8082	149.8197	eh it's eh the same camera symbol
+6	A	MANIPULATOR	150.6369	151.5025	just
+6	A	MANIPULATOR	152.3585	152.7639	mm-hmm
+7	A	INSTRUCTOR	155.2056	156.1899	uh it's a V
+7	B	MANIPULATOR	157.0169	157.6927	mm
+7	B	MANIPULATOR	159.1254	159.7001	okay
+8	B	INSTRUCTOR	163.5405	169.6857	it's eh like looks like a person with a hat like b- big
+8	A	MANIPULATOR	169.8032	170.4347	which color
+8	B	INSTRUCTOR	170.1091	173.4062	light blue like a sea color
+8	A	MANIPULATOR	171.5676	171.9205	yeah
+9	A	INSTRUCTOR	176.6378	180.1293	triangle with two eh pyramid with two triangles missing COUGH
+9	B	MANIPULATOR	180.5193	182.8594	mm LAUGHTER the same alway-
+9	A	INSTRUCTOR	183.4351	184.2152	jus-
+10	B	INSTRUCTOR	184.7723	186.1466	eh the camera symbol
+10	A	MANIPULATOR	187.9296	188.4124	mm-hmm
+11	A	INSTRUCTOR	192.3869	197.4013	ah it's it's the mountain three mountain peaks one bi- the center one big the highest red color
+12	B	INSTRUCTOR	202.592	207.3374	eh it's a very small pink shape with eh
+12	A	MANIPULATOR	205.4244	205.9816	mm-hmm
+12	A	MANIPULATOR	207.3931	209.0831	like a K kind of
+12	B	INSTRUCTOR	209.0831	209.8074	yeah
+13	A	INSTRUCTOR	213.801	217.422	ah it's a small yellow shape with a lot of peaks
+14	B	INSTRUCTOR	224.7394	227.4695	V pink V small V
+14	A	MANIPULATOR	226.8194	228.9181	V s- COUGH
+15	A	INSTRUCTOR	233.4169	237.7419	ah it's a ve- V but b- a thicker one and there's a peak at the center of the V
+15	A	INSTRUCTOR	240.4	242.8058	okay you come again it's it's pink colored and yeah
+15	A	INSTRUCTOR	243.1933	243.9051	and i-
+15	B	MANIPULATOR	243.2293	244.3196	the CLICK pink okay
+15	A	INSTRUCTOR	244.3827	244.5899	yeah
+15	B	MANIPULATOR	245.6982	246.6623	oh yeah I see
+15	A	INSTRUCTOR	248.4373	248.7902	SNIFF
+16	B	INSTRUCTOR	251.1676	256.9433	CLICK eh the yellow eh small yellow rectangular shape
+16	A	MANIPULATOR	257.2677	261.4934	rectangular shape eh no I don't see any
+16	B	INSTRUCTOR	259.4134	259.9148	uh
+16	B	INSTRUCTOR	261.0701	267.0836	like a th- like sq- rotated square something's like tha- like V with a peak on it but yellow small
+16	A	MANIPULATOR	267.2322	269.108	uh yellow
+16	B	INSTRUCTOR	269.4051	271.4666	yeah you on- only have two yellow objects
+16	A	MANIPULATOR	271.2252	274.0481	yes we only have two yellow oh okay yes okay
+17	A	INSTRUCTOR	276.5554	281.6998	SNIFF ah it's eh it's again the rectangle with two sides tapered on the top
+17	A	INSTRUCTOR	283.7799	286.9371	pink colored pink colored yeah
+17	B	MANIPULATOR	284.4671	285.2842	uh
+17	B	MANIPULATOR	286.4543	287.5314	eh a- again
+17	A	INSTRUCTOR	287.68	291.7102	eh pink colored rectangle and if you put if you taper two upsides
+17	B	MANIPULATOR	291.7473	292.323	ah okay
+17	A	INSTRUCTOR	292.3787	293.6231	the one we have only yeah
+17	A	INSTRUCTOR	295.1274	295.4246	SNIFF
+18	B	INSTRUCTOR	296.5084	297.3734	uh the
+18	B	INSTRUCTOR	298.3645	304.5992	the big b- blue object similar to someone's face with a hat something like that
+18	A	MANIPULATOR	303.9863	304.2463	SNIFF
+18	A	MANIPULATOR	305.8435	306.3635	blue
+18	B	INSTRUCTOR	306.6049	307.1621	blue
+18	A	MANIPULATOR	307.2178	307.5521	yeah
+18	B	INSTRUCTOR	307.4593	308.2764	the big yeah
+19	A	INSTRUCTOR	310.8765	316.8196	eh it's again a blue stuff with a eh triangle on the top left and a rectangle on the bottom right
+19	A	INSTRUCTOR	319.1782	319.5497	SNIFF
+20	B	INSTRUCTOR	321.954	325.5299	it's a big pink object
+20	A	MANIPULATOR	325.6041	325.9727	yes
+20	A	MANIPULATOR	326.4593	326.7476	SNIFF
+20	B	INSTRUCTOR	327.1711	334.2587	eh which um it it's built from like a set of triangles I would say
+20	A	MANIPULATOR	334.5559	336.4131	hmm pink object SNIFF
+20	B	INSTRUCTOR	336.5245	336.9331	yeah
+20	A	MANIPULATOR	337.4431	338.6595	is it this correct
+20	B	INSTRUCTOR	338.6603	340.7404	they ar- all like two the same objects
+20	A	MANIPULATOR	342.0218	342.839	'kay
+20	B	INSTRUCTOR	345.0491	345.7177	uh
+20	A	MANIPULATOR	345.6426	346.0661	no
+20	A	MANIPULATOR	346.3634	346.5527	SNIFF
+20	A	MANIPULATOR	347.4627	348.6071	oh you said triangles
+20	B	INSTRUCTOR	350.6578	351.0478	yeah
+20	A	MANIPULATOR	351.5493	352.0136	sorry
+21	A	INSTRUCTOR	353.8422	357.1023	uh it's again the small yellow object with a lot of peaks
+21	B	MANIPULATOR	357.5184	357.7437	CLICK
+21	B	MANIPULATOR	357.7978	358.9967	uh yellow
+21	A	INSTRUCTOR	358.9224	359.3681	SNIFF
+21	B	MANIPULATOR	360.1667	360.9653	okay yeah
+22	A	MANIPULATOR	363.2311	363.7325	SNIFF
+22	B	INSTRUCTOR	364.024	364.1862	CLICK
+22	B	INSTRUCTOR	364.3214	366.0912	uh small V
+22	A	MANIPULATOR	367.0198	368.227	uh which co- eh yeah
+23	A	INSTRUCTOR	371.3657	373.1486	SNIFF uh it's a bird green colored
+23	B	MANIPULATOR	374.8015	375.6001	hmm green
+23	A	INSTRUCTOR	378.0702	378.4602	SNIFF
+24	B	INSTRUCTOR	380.7655	381.7026	oh uh
+24	B	INSTRUCTOR	382.1171	389.1577	it's uh like eh CLICK sea color of the sea like the with a lot of peaks
+24	A	MANIPULATOR	386.8547	387.4862	mm-hmm
+24	A	MANIPULATOR	389.102	390.9777	yeah but there are two of them light and dark
+24	B	INSTRUCTOR	391.182	393.5593	on the bottom left
+24	A	MANIPULATOR	392.4821	393.0021	lighter
+24	A	MANIPULATOR	393.8193	396.0479	uh but is it the lighter one or the l- dark one
+24	B	INSTRUCTOR	396.0665	397.2551	I think the lighter
+24	A	MANIPULATOR	397.2922	397.868	okay
+24	B	INSTRUCTOR	397.9051	399.1123	oh okay
+25	A	INSTRUCTOR	402.2138	406.4668	uh it's it's a pink K which has been rotated ninety degrees
+26	B	INSTRUCTOR	410.9236	411.1579	CLICK
+26	B	INSTRUCTOR	411.221	414.3785	uh big V with a peak on it
+27	A	INSTRUCTOR	418.1115	422.2159	eh it's it's again the sea blue thing with a lot of four peaks on top
+27	B	MANIPULATOR	423.0145	423.9245	which one
+27	A	INSTRUCTOR	423.8874	425.1503	uh the lighter one
+27	B	MANIPULATOR	425.5589	427.8432	mm they seem the same for me but
+27	A	INSTRUCTOR	427.5647	431.892	yeah LAUGHTER no you did the wrong one do the other one
+27	A	INSTRUCTOR	433.1177	433.3963	yeah
+28	B	INSTRUCTOR	437.2343	437.4505	CLICK
+28	B	INSTRUCTOR	437.6217	440.0265	uh big orange object
+28	A	MANIPULATOR	440.0822	441.3823	mm-hmm huh yeah
+29	A	INSTRUCTOR	444.695	449.0711	uh it's the blue object with triangular on top left and rectangular on bottom right
+30	B	INSTRUCTOR	455.4413	464.0587	it's a eh the the pink object base on eh made of triangles
+30	A	MANIPULATOR	463.743	466.6403	mm-hmm they're two of them again light
+30	B	INSTRUCTOR	465.4702	467.216	the lighter I mean
+30	A	MANIPULATOR	467.996	468.4603	okay
+31	A	INSTRUCTOR	468.9062	469.2756	COUGH
+31	A	INSTRUCTOR	469.6901	472.7876	it's a bat light blue colored and is small
+32	A	MANIPULATOR	475.1462	475.4248	SNIFF
+32	B	INSTRUCTOR	475.3397	476.0695	CLICK BREATH
+32	B	INSTRUCTOR	476.1056	481.8002	it's a big rectangle wi- with like a removed uh
+32	B	INSTRUCTOR	482.1696	482.4219	yeah
+33	A	INSTRUCTOR	486.9272	491.7478	uh it's it's a mountain with three peaks one big and it's red colored so it should be easy to find
+33	A	INSTRUCTOR	491.7838	492.0001	yeah
+33	A	INSTRUCTOR	492.4292	493.4015	ah okay
+34	B	INSTRUCTOR	494.4516	495.3383	BREATH
+34	A	MANIPULATOR	494.4612	495.9284	should have said red BREATH
+34	B	INSTRUCTOR	495.4826	498.4356	eh it's small yellow or green
+34	B	INSTRUCTOR	499.8482	506.2544	no small green object with like a rotated square
+34	A	MANIPULATOR	503.2829	503.7843	mm-hmm
+35	A	INSTRUCTOR	507.4981	507.8495	COUGH
+35	A	INSTRUCTOR	508.8137	511.0832	uh it's a brick blue colored dark blue
+35	B	MANIPULATOR	512.0214	512.5132	CLICK okay
+36	B	INSTRUCTOR	517.9954	518.9234	uh yeah
+36	B	INSTRUCTOR	519.0586	529.1143	again the the pink or violet eh object made of triangles the darker
+36	B	INSTRUCTOR	529.3846	529.718	okay
+37	A	INSTRUCTOR	532.0427	532.1509	CLICK
+37	A	INSTRUCTOR	532.295	536.3407	uh it's again a a blue with triangular on top left rectangular on the bottom right
+37	A	INSTRUCTOR	536.3948	536.6201	yes
+37	A	INSTRUCTOR	536.8543	537.0976	correct
+37	A	INSTRUCTOR	537.3139	537.9176	good good good
+38	B	INSTRUCTOR	539.152	539.3052	CLICK
+38	B	INSTRUCTOR	539.3412	544.4571	the same like the o- made of triangles the dark one
+38	A	MANIPULATOR	542.6556	543.3242	yeah yeah
+38	A	MANIPULATOR	544.81	545.1257	SNIFF
+39	A	INSTRUCTOR	547.3729	550.3816	it's a V vi- violet colored small
+39	B	MANIPULATOR	549.9359	550.7345	small mm
+39	B	MANIPULATOR	552.7774	553.4646	oh okay
+40	B	INSTRUCTOR	557.0288	559.6305	it's eh like a green bird
+41	A	INSTRUCTOR	563.4533	564.4174	uh it's
+41	A	INSTRUCTOR	564.9581	568.7865	it's kind of an irregular shape but it's orange colored and I think it's the only orange colored
+41	B	MANIPULATOR	569.0465	569.3437	mm-hmm
+42	B	INSTRUCTOR	572.1304	572.3737	CLICK
+42	B	INSTRUCTOR	572.5269	573.4852	it's a bat
+42	A	MANIPULATOR	574.2749	576.2212	bat bat bat where is the bat
+42	A	MANIPULATOR	576.3473	576.8069	yes
+43	A	INSTRUCTOR	579.614	580.4126	it's a brick
+43	B	MANIPULATOR	580.8583	581.7176	mm
+43	B	MANIPULATOR	582.2672	582.5646	okay
+44	B	INSTRUCTOR	586.7995	587.1599	CLICK
+44	B	INSTRUCTOR	587.4483	593.3759	it's uh the eh pink object made of triangles
+44	A	MANIPULATOR	593.8402	595.3074	LAUGHTER which one
+44	B	INSTRUCTOR	595.1588	596.756	BREATH lighter
+45	A	INSTRUCTOR	600.6937	603.7391	eh it's a V with the centered peak pink colored
+46	B	INSTRUCTOR	607.2492	611.7994	it's a blue like mountain with many peaks on it
+46	A	MANIPULATOR	611.5765	613.3408	again the two of them LAUGHTER
+46	B	INSTRUCTOR	613.3223	614.5295	lighter I think
+47	A	INSTRUCTOR	616.9486	617.6064	okay good
+47	A	INSTRUCTOR	618.1831	620.5282	it's a camera with a triangle at the base
+48	B	INSTRUCTOR	624.6616	632.6186	it's a uh like a square wi- with removed eh top left and top right
+48	A	MANIPULATOR	631.1143	632.1915	yeah but which color
+48	B	INSTRUCTOR	633.0644	634.9401	eh like a violet
+49	A	INSTRUCTOR	638.4026	638.6008	CLICK
+49	A	INSTRUCTOR	638.763	643.9847	uh it's a blue colored rectangular bottom right triangular bottom r- eh top left
+50	B	INSTRUCTOR	646.7193	646.8545	CLICK
+50	B	INSTRUCTOR	647.0977	649.6863	it's a object made of triangles
+50	A	MANIPULATOR	649.5192	652.3793	yeah but okay it's the same color LAUGHTER now
+50	B	INSTRUCTOR	650.7264	652.3793	light ligh-
+50	A	MANIPULATOR	652.7507	654.7379	I don't know if the positioning is same for us
+50	B	INSTRUCTOR	655.6108	657.1894	they're all like on top of each other
+50	A	MANIPULATOR	656.9666	658.0623	yeah and bu-
+50	B	INSTRUCTOR	657.5052	658.7309	it's on the top
+50	A	MANIPULATOR	658.8424	659.4738	okay
+50	A	MANIPULATOR	661.6407	662.1002	okay
+51	A	INSTRUCTOR	663.0914	663.8212	yeah it's
+51	A	INSTRUCTOR	664.1546	670.0925	I think we can just sa- bottom left eh pin- pink color yeah that works
+51	B	MANIPULATOR	666.7586	667.5966	LAUGHTER
+51	A	INSTRUCTOR	670.8044	671.318	BREATH
+52	B	INSTRUCTOR	672.1957	673.3843	top left
+52	A	MANIPULATOR	672.8828	674.61	BREATH
+53	A	INSTRUCTOR	678.0848	679.0302	bottom right
+54	B	INSTRUCTOR	683.8786	684.6204	top left
+55	A	INSTRUCTOR	688.8344	688.9695	CLICK
+55	A	INSTRUCTOR	689.0867	698.2864	um it's at the the right bottom but it's like uh bl- sea colored object on the bottom right and it's a face and with a triangular
+55	A	INSTRUCTOR	698.3494	698.6558	yeah
+55	A	INSTRUCTOR	698.8991	699.1063	ah
+56	A	MANIPULATOR	700.5223	700.9968	'kay
+56	B	INSTRUCTOR	701.2846	701.4557	CLICK
+56	A	MANIPULATOR	701.3546	701.9295	that was it
+56	B	INSTRUCTOR	701.5121	702.2266	bottom left
+57	A	INSTRUCTOR	705.3506	705.6119	SNIFF
+57	A	INSTRUCTOR	706.0804	707.4454	bottom right LAUGHTER
+57	A	INSTRUCTOR	709.934	711.4198	you're late at this game
+58	B	INSTRUCTOR	711.6579	711.8382	CLICK
+58	B	INSTRUCTOR	711.9823	712.4148	uh
+58	B	INSTRUCTOR	713.3789	718.6231	it's at the top left but this eh rectangle with removed
+58	A	MANIPULATOR	716.8243	717.2143	mm-hmm
+58	B	INSTRUCTOR	718.6951	719.2448	top left
+58	B	INSTRUCTOR	719.5331	719.6953	yeah
+59	A	INSTRUCTOR	722.0987	725.9803	uh it's at the center yellow colored with a lot of peaks small object
+59	A	INSTRUCTOR	726.273	726.4622	SNIFF
+59	A	INSTRUCTOR	726.9127	727.3722	oops
+59	A	INSTRUCTOR	727.5885	728.8049	the no not this
+59	B	MANIPULATOR	728.3389	729.1004	oh okay
+60	B	INSTRUCTOR	731.8234	732.0847	CLICK
+60	B	INSTRUCTOR	732.1839	734.8392	uh at the right pink object
+60	A	MANIPULATOR	733.0669	733.3012	SNIFF
+60	A	MANIPULATOR	733.8148	734.282	mm-hmm
+60	A	MANIPULATOR	736.1763	737.2658	there's two of them
+60	A	MANIPULATOR	737.473	738.329	the K or the
+60	B	INSTRUCTOR	738.405	738.8693	K
+60	B	INSTRUCTOR	740.3179	741.2651	there's only one
+61	A	INSTRUCTOR	743.0685	743.3388	SNIFF
+61	A	INSTRUCTOR	744.1588	748.2296	uh bird on the left eh like it's not bird
+61	B	MANIPULATOR	748.3039	749.1211	oh sorry
+61	A	INSTRUCTOR	748.3782	749.8082	yea- yeah okay yeah it's good
+61	B	MANIPULATOR	750.1246	751.8883	LAUGHTER
+61	A	INSTRUCTOR	750.4301	751.3762	LAUGHTER
+62	A	MANIPULATOR	751.5384	753.2204	it looks like a bird as well actually
+62	B	INSTRUCTOR	752.9098	757.9629	eh at the top the rectangle with removed uh two triangles
+63	A	INSTRUCTOR	759.1973	759.4226	SNIFF
+63	A	INSTRUCTOR	760.5849	766.2445	uh it's it's again three triangles on co- right bottom corner next to the K
+64	B	INSTRUCTOR	772.3707	772.6049	CLICK
+64	B	INSTRUCTOR	772.677	776.8677	uh the rectangle with removed triangles at the left side
+64	A	MANIPULATOR	777.0534	778.9754	left eh with removed
+64	A	MANIPULATOR	779.1736	779.6061	oh okay
+65	A	INSTRUCTOR	783.5166	783.6518	CLICK
+65	A	INSTRUCTOR	783.7149	788.1409	it's a V with a centered peak pink colored left
+66	B	INSTRUCTOR	793.6895	794.8699	oh yeah that's my turn
+66	B	INSTRUCTOR	794.9329	799.8042	uh it's that's mountain with many peaks at e- in the center center
+66	A	MANIPULATOR	797.5012	799.0984	yeah red colored
+66	B	INSTRUCTOR	801.0781	802.0143	eh n-
+66	A	MANIPULATOR	801.4295	802.4228	red colored or blue
+66	B	INSTRUCTOR	802.8314	804.02	b- blue
+67	B	MANIPULATOR	806.7501	807.6602	oh it's a green
+67	A	INSTRUCTOR	807.8459	809.2759	yeah bottom right
+67	A	INSTRUCTOR	810.7914	811.6925	uh tria- uh
+67	A	INSTRUCTOR	811.7375	812.0619	yeah
+67	A	INSTRUCTOR	812.6115	812.8819	good
+67	A	INSTRUCTOR	813.6207	814.2424	BREATH
+68	B	INSTRUCTOR	814.756	814.8371	CLICK
+68	B	INSTRUCTOR	815.0263	815.549	um
+68	A	MANIPULATOR	815.1165	816.1887	NOISE
+68	B	INSTRUCTOR	815.8823	818.6177	the V with a like a peak on it
+68	A	MANIPULATOR	817.8748	818.1162	SNIFF
+68	A	MANIPULATOR	818.9099	819.054	CLICK
+68	A	MANIPULATOR	819.4595	820.3634	yes
+68	B	INSTRUCTOR	819.7877	820.772	th- the big V
+69	A	INSTRUCTOR	824.7847	824.8748	CLICK
+69	A	INSTRUCTOR	825.037	826.2354	uh it's orange colored
+69	A	INSTRUCTOR	826.3706	826.9292	it's at the center
+69	A	INSTRUCTOR	828.5166	828.888	SNIFF
+70	B	INSTRUCTOR	830.6505	832.101	bat in the center
+71	A	INSTRUCTOR	835.4996	836.6876	uh top right
+71	A	INSTRUCTOR	837.3634	837.877	yellow colored
+71	A	INSTRUCTOR	838.6429	838.7149	CLICK
+71	B	MANIPULATOR	839.0844	839.3277	uh
+71	B	MANIPULATOR	840.463	840.8375	okay
+72	B	INSTRUCTOR	842.7156	845.5103	uh V small V close to the center
+72	A	MANIPULATOR	844.4965	845.0209	ye- ye-
+73	A	INSTRUCTOR	847.4681	847.7011	SNIFF
+73	A	INSTRUCTOR	848.7732	850.696	uh on the top yellow colored
+73	B	MANIPULATOR	851.9312	852.1526	to-
+74	B	INSTRUCTOR	856.4409	859.0279	eh on the right the K rotated
+74	A	MANIPULATOR	856.5691	856.7905	SNIFF
+74	A	MANIPULATOR	861.2592	861.5025	SNIFF
+75	A	INSTRUCTOR	862.6108	863.6308	the bat at the center
+76	B	INSTRUCTOR	867.0439	867.3052	CLICK
+76	B	INSTRUCTOR	867.6567	872.6619	uh rotated eh square at the close to the center yellow
+76	A	MANIPULATOR	873.8972	875.6801	mm rotated square
+76	B	INSTRUCTOR	875.8922	877.8242	with yellow or green
+76	A	MANIPULATOR	878.1505	879.4207	greenish yellow okay yea- yea-
+76	B	INSTRUCTOR	878.6314	879.4906	clo- yeah
+77	A	INSTRUCTOR	881.3076	881.4788	SNIFF
+77	A	INSTRUCTOR	882.4789	884.9326	uh it's a V with a peak at the center yellow colored
+77	B	MANIPULATOR	885.4104	885.9697	CLICK yellow
+77	A	INSTRUCTOR	886.4009	889.0927	oh sorry LAUGHTER my bad
+77	B	MANIPULATOR	887.2516	888.1255	LAUGHTER
+78	B	INSTRUCTOR	889.4981	890.3629	uh orange
+78	A	MANIPULATOR	890.5261	891.0854	BREATH
+79	A	INSTRUCTOR	895.5019	896.5157	uh top right
+80	B	INSTRUCTOR	902.6376	905.832	eh rotated K in the center
+81	A	INSTRUCTOR	908.3392	909.435	bird at the center

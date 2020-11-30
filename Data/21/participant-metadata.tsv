@@ -1,0 +1,19 @@
+PARTICIPANT_ID	A	B
+INITIAL_ROLE	MOVE_SUBMISSION	WAITING_FOR_NEXT_MOVE
+SOURCE_ID	source1	source2
+ACCENT	Arabic	?
+AGE	Adult	Adult
+DYAD_PARTNER_FAMILIARITY	?	?
+GENDER	Feminine	Feminine
+SAMPLING_RATE	44100	44100
+BIT_DEPTH	16	16
+MICROPHONE	Shure WH20	Shure WH20
+AUDIO_CARD	Focusrite Scarlett 2i2 (1st gen.)	Focusrite Scarlett 2i2 (1st gen.)
+RECORDING_LIBRARY	PortAudio V19-devel	PortAudio V19-devel
+SOUND_SERVER	Apple CoreAudio 4.3.0	Apple CoreAudio 4.3.0
+RECORDING_SOFTWARE	Audacity 2.1.2	Audacity 2.1.2
+COMPUTER	Apple Macbook Pro 7,1 MC374LL/A (13-inch, mid 2010)	Gigabyte GB-BXi7H-4500
+DISPLAY	Apple Macbook Pro 7,1 MC374LL/A (13-inch, mid 2010)	Dell P2311Hb (23-inch)
+GRAPHICS_CARD	Nvidia GeForce 320M 	Intel HD 4400
+NOTES		
+CONSENT_FORM	Present	Absent

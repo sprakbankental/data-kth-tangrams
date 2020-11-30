@@ -1,0 +1,12 @@
+18:04:35.419	INFO 	LoggingModule:158	Start logging 2017-06-21 18-04-34
+18:04:35.419	INFO 	LoggingModule:158	Start logging 2017-06-21 18-04-34
+18:04:35.528	INFO 	IrisSystem:136	Initializing module GameManagementClientModule
+18:04:35.528	INFO 	IrisSystem:136	Initializing module GameManagementClientModule
+18:04:35.856	INFO 	IrisSystem:364	System started
+18:04:35.856	INFO 	IrisSystem:364	System started
+18:21:51.976	INFO 	IrisSystem:321	Stopping module LoggingModule
+18:21:51.976	INFO 	IrisSystem:321	Stopping module LoggingModule
+18:21:51.992	INFO 	IrisSystem:321	Stopping module GameManagementClientModule
+18:21:51.992	INFO 	IrisSystem:321	Stopping module GameManagementClientModule
+18:21:52.040	INFO 	IrisSystem:379	System stopped
+18:21:52.040	INFO 	IrisSystem:379	System stopped

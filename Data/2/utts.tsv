@@ -1,0 +1,432 @@
+ROUND	SPEAKER	DIALOGUE_ROLE	START_TIME	END_TIME	TOKENS
+0	A	INSTRUCTOR	1.938	2.7286	fantastic
+0	A	INSTRUCTOR	4.19	9.01	okay I guess it's your turn because I don't see anything I can click on
+0	B	MANIPULATOR	8.438	9.2772	eh uh
+0	A	INSTRUCTOR	9.724	14.314	wait s- oh yeah yeah you should tell me what to take on I guess
+0	B	MANIPULATOR	11.119	13.004	now uh it says
+0	B	MANIPULATOR	14.728	17.016	uh I don't see any piece highlighted
+0	A	INSTRUCTOR	17.54	19.55	oh are you sure is is
+0	B	MANIPULATOR	18.9978	23.476	um so it says waiting for other player to submit next turn
+0	A	INSTRUCTOR	23.26	25.5	um I'm not seeing anything highlighted here
+0	B	MANIPULATOR	25.988	29.936	um yeah I'm not seeing anything either
+0	A	INSTRUCTOR	26.5	27.2	um
+0	A	INSTRUCTOR	30.82	31.28	I s-
+0	A	INSTRUCTOR	32.3738	32.6497	okay
+0	A	INSTRUCTOR	32.9235	34.1681	I'm I'm me neither
+1	A	INSTRUCTOR	34.6182	34.9833	I'm
+1	A	INSTRUCTOR	35.7944	36.7776	okay I uh
+1	B	MANIPULATOR	35.923	36.4519	okay now
+1	A	INSTRUCTOR	36.8004	37.4559	you see something now
+1	B	MANIPULATOR	38.3188	40.544	it says select piece to move
+1	A	INSTRUCTOR	40.8806	42.5628	all right okay now I see something okay BREATH
+1	A	INSTRUCTOR	42.679	48.261	in uh the bottom uh right corner there's uh there's like it looks like an envelope that's pink
+1	A	INSTRUCTOR	48.688	50.116	eh uh
+1	B	MANIPULATOR	49.0057	50.676	right I I see two
+1	A	INSTRUCTOR	50.7253	53.176	okay the one to the the uh the most
+1	B	MANIPULATOR	52.895	53.43	the small one
+1	A	INSTRUCTOR	53.7392	56.44	yeah the small one at at the bottom uh bottom bottom right
+1	B	MANIPULATOR	55.568	55.946	yeah
+1	A	INSTRUCTOR	56.8777	57.4917	so that's the one
+1	B	MANIPULATOR	56.968	57.306	yep
+1	A	INSTRUCTOR	57.8443	58.2654	click that one
+1	A	INSTRUCTOR	60.08	61.37	awesome good work
+1	B	MANIPULATOR	60.458	60.978	okay
+1	B	MANIPULATOR	61.758	63.052	yeah right
+1	A	INSTRUCTOR	62.66	63.138	okay
+1	B	MANIPULATOR	64.3784	65.1542	uh so now it's
+1	B	MANIPULATOR	65.3658	66.7823	am I supposed to click next turn
+1	A	INSTRUCTOR	67.11	67.558	yeah
+1	B	MANIPULATOR	67.2939	68.3513	uh right
+1	A	INSTRUCTOR	68.39	68.816	I got
+2	B	INSTRUCTOR	69.8048	76.6811	okay so it's a uh a pink uh piece
+2	B	INSTRUCTOR	76.7247	77.3034	okay so you
+2	B	INSTRUCTOR	77.7349	77.9734	eh
+2	B	INSTRUCTOR	78.1912	88.668	to the left uh to the left side somewhere in the middle you see a a red piece and to the bottom right of that piece
+2	A	MANIPULATOR	79.21	79.662	yeah
+2	A	MANIPULATOR	80.77	81.192	mm-hmm
+2	A	MANIPULATOR	88.27	90.338	wait wait what what color is the piece
+2	B	INSTRUCTOR	90.918	93.686	uh so it's uh purple I'd say
+2	A	MANIPULATOR	93.8129	95.0699	okay I I
+2	B	INSTRUCTOR	94.57	95.352	and so
+2	A	MANIPULATOR	95.7088	97.3621	I see a thing that's like a like a
+2	A	MANIPULATOR	97.3621	99.62	is it a big piece or a small piece
+2	B	INSTRUCTOR	100.2184	102.4815	uh I guess a bit on the smaller side BREATH
+2	B	INSTRUCTOR	102.6287	114.426	so it's it's above a cyan or ta- uh like li- uh a blueish piece and to the bottom right of a red piece
+2	A	MANIPULATOR	115.2094	116.4167	wait hold on it's
+2	A	MANIPULATOR	116.4706	119.17	uh it's uh can you describe how it looks like
+2	B	INSTRUCTOR	119.1031	125.986	um it's kind of squarish but with a triangle sticking out on the
+2	A	MANIPULATOR	122.22	122.774	yeah
+2	B	INSTRUCTOR	126.718	133.772	eh a small triangle sticking out on the right side and a slightly bigger triangle sticking out on the bottom left side
+2	A	MANIPULATOR	133.7082	136.4525	right I think it's it's it's it's next to something that le- left
+2	A	MANIPULATOR	136.4525	140.6426	on the left side is something that kinda looks like a peacock a red thing and below is like a
+2	A	MANIPULATOR	140.9641	141.9142	like a uh it looks a
+2	A	MANIPULATOR	142.1734	143.0696	I don't know it's a it's a
+2	A	MANIPULATOR	143.0696	146.2412	it's a blue uh like light blue piece right below it
+2	A	MANIPULATOR	146.5938	147.2285	could that be the thing
+2	B	INSTRUCTOR	148.0728	149.2593	em right so y-
+2	B	INSTRUCTOR	149.4688	152.7607	but you said the uh the peacock looking thing was on on which side
+2	A	MANIPULATOR	152.9702	155.108	yeah i- uh so is it pink or is it purple
+2	B	INSTRUCTOR	155.6378	157.062	uh purplish
+2	A	MANIPULATOR	157.15	157.5939	purplish
+2	A	MANIPULATOR	157.8055	158.8883	so I think the i-
+2	A	MANIPULATOR	158.8883	160.0001	and it's quite small right
+2	B	INSTRUCTOR	161.1596	163.114	um y-
+2	A	MANIPULATOR	162.0454	162.6926	so it's like I
+2	A	MANIPULATOR	162.6926	169.2785	are are you looking at something that's like a rectangle but on the bottom there's uh like a triangle and on the right side there's also a triangle
+2	B	INSTRUCTOR	163.9911	165.494	BREATH NOISE BREATH
+2	B	INSTRUCTOR	169.7577	172.2199	yeah so a a very small triangle on the right side
+2	A	MANIPULATOR	173.0019	174.6655	I I guess so it's part of the the piece
+2	A	MANIPULATOR	174.9269	175.321	I'm I'm
+2	B	INSTRUCTOR	175.4745	175.7317	yeah
+2	A	MANIPULATOR	175.8748	177.2273	this should be it I guess
+2	A	MANIPULATOR	177.4098	192.1374	so on on on my right side there's a green thing that looks kind of like a flower or like a uh like a flower with different leaves on and on and on the left side there's this this thing like I uh I think it looks like a like a I don't know like a rooster or something and it's red
+2	B	INSTRUCTOR	178.2769	178.652	NOISE
+2	A	MANIPULATOR	192.746	194.582	would you say that's the one we're looking at
+2	B	INSTRUCTOR	194.968	197.386	uh no so it would be
+2	B	INSTRUCTOR	198.032	198.712	eh
+2	B	INSTRUCTOR	199.188	201.602	it is okay so on the very
+2	A	MANIPULATOR	200.9989	202.5297	but the wait wait wait so one question
+2	B	INSTRUCTOR	202.0361	202.3161	NOISE
+2	A	MANIPULATOR	202.5297	207.4	there's only one purple piece so are you sure it's not the purple one 'cause there's only one purple piece
+2	B	INSTRUCTOR	207.701	209.3833	I I see like four purple pieces
+2	B	INSTRUCTOR	209.4227	210.7834	ma- mayb- or like
+2	A	MANIPULATOR	210.1632	210.5615	oh
+2	A	MANIPULATOR	211.5115	213.3743	wow that's confusing
+2	B	INSTRUCTOR	211.6547	212.3081	em
+2	B	INSTRUCTOR	213.7767	216.3426	LAUGHTER
+2	A	MANIPULATOR	213.841	217.3051	like are are you sure you're not confusing purple and pink
+2	B	INSTRUCTOR	217.7635	218.2302	em
+2	B	INSTRUCTOR	218.7322	219.4188	BREATH
+2	B	INSTRUCTOR	219.6905	224.8624	mayb- I mean I I I'd say it's more on the purplish side but em
+2	A	MANIPULATOR	219.7528	220.1282	mm
+2	A	MANIPULATOR	222.3643	222.885	oh
+2	A	MANIPULATOR	224.3266	224.951	'cause it
+2	A	MANIPULATOR	225.37	226.5524	eugh this is confusing
+2	A	MANIPULATOR	226.569	226.8822	okay
+2	B	INSTRUCTOR	227.044	230.3712	okay so it's purple or pink and so eh
+2	A	MANIPULATOR	228.3736	229.0187	BREATH
+2	A	MANIPULATOR	229.2614	229.4834	right
+2	B	INSTRUCTOR	230.5662	233.6507	look at the very very left edge
+2	A	MANIPULATOR	233.8249	234.1962	all right
+2	B	INSTRUCTOR	233.9017	242.8163	you should see a a smallish red piece on the very left and on the bottom right of that
+2	A	MANIPULATOR	237.93	238.4569	I see that yeah
+2	A	MANIPULATOR	238.7784	238.9339	yeah
+2	A	MANIPULATOR	239.4359	239.633	yeah
+2	B	INSTRUCTOR	243.9455	245.2959	bottom right of the red piece
+2	A	MANIPULATOR	245.4348	245.6589	yeah
+2	B	INSTRUCTOR	246.1505	246.2791	BREATH
+2	B	INSTRUCTOR	246.5073	247.5175	there's a
+2	A	MANIPULATOR	247.1856	248.8139	like like a square and uh
+2	A	MANIPULATOR	248.8139	252.9999	there's a square and there's a small triangle on the right side and on the bottom of it there's a tr-
+2	B	INSTRUCTOR	250.1207	250.3634	yeah
+2	B	INSTRUCTOR	252.0975	252.578	yeah em NOISE
+2	A	MANIPULATOR	253.0434	253.4562	yeah okay
+2	B	INSTRUCTOR	253.9416	254.6967	yeah that one
+2	A	MANIPULATOR	254.2922	254.6054	okay
+2	A	MANIPULATOR	254.7361	256.0947	I I'll click that one
+2	B	INSTRUCTOR	256.6382	256.7896	yeah
+2	A	MANIPULATOR	257.1008	257.2667	okay
+2	B	INSTRUCTOR	259.1066	259.4053	okay
+2	B	INSTRUCTOR	259.8783	260.2102	great
+2	B	INSTRUCTOR	260.5234	261.851	so you clicked the right one
+2	A	MANIPULATOR	262.02	262.2907	all right
+3	A	INSTRUCTOR	267.0056	268.8704	okay uh um
+3	A	INSTRUCTOR	269.306	277.5203	so on the right side uh at the top there's a thing that looks kind of like a like a Mac screen it's like a big green piece and it's like
+3	B	MANIPULATOR	277.5328	277.9829	ah yeah
+3	A	INSTRUCTOR	277.5639	278.0306	so it's i-
+3	A	INSTRUCTOR	278.5533	278.8064	yeah
+3	A	INSTRUCTOR	279.0076	279.3208	that one
+3	B	MANIPULATOR	279.9514	280.3538	okay
+3	A	INSTRUCTOR	280.5509	281.0342	is it uh
+3	B	MANIPULATOR	280.6235	281.9345	LAUGHTER
+3	A	INSTRUCTOR	281.2271	281.758	I mean
+3	B	MANIPULATOR	283.009	283.7059	yeah so
+3	A	INSTRUCTOR	283.0816	284.7286	right nice cool awesome
+4	B	INSTRUCTOR	286.4627	288.2093	okay so it's like
+4	B	INSTRUCTOR	288.4001	295.85	uh on the bottom left there's a kind of cyan or bluish space shooter kind of thing
+4	A	MANIPULATOR	290.9225	291.0988	mm
+4	A	MANIPULATOR	296.1394	298.305	um is it the one that's
+4	A	MANIPULATOR	298.3485	299.1824	okay there for i- it
+4	A	MANIPULATOR	299.2218	305.9198	there's a rectangle or like a rectangle with like a square on it on the left and it's uh kind of on top of that
+4	A	MANIPULATOR	306.1604	310.0103	it can also look like a like a haircut like in a Japanese cartoon or something
+4	B	INSTRUCTOR	310.3093	310.9652	em
+4	A	MANIPULATOR	310.448	310.8068	so it's like
+4	A	MANIPULATOR	311.1097	313.1736	it's like a shape of different triangles
+4	A	MANIPULATOR	313.3914	314.1444	would you say it it's
+4	B	INSTRUCTOR	313.9287	314.1465	yeah
+4	B	INSTRUCTOR	314.9638	316.7829	yeah so it's uh like a bunch of different triangles
+4	B	INSTRUCTOR	316.7829	325.2337	so it's on the on the very close to the left edge just above a purplish or pinkish envelope
+4	A	MANIPULATOR	317.0796	317.3036	right
+4	A	MANIPULATOR	321.3858	321.726	right
+4	A	MANIPULATOR	325.3872	326.387	right cool awesome
+4	B	INSTRUCTOR	327.0612	327.3204	yep
+5	A	INSTRUCTOR	332.2449	334.4706	uh okay so this one is the uh the
+5	A	INSTRUCTOR	334.927	337.3435	in the bottom left there's envelope that's purple
+5	B	MANIPULATOR	337.7439	337.9596	yeah
+5	B	MANIPULATOR	339.7974	340.4343	and that that's it
+5	B	MANIPULATOR	340.7267	340.8616	cool
+5	A	INSTRUCTOR	341.2266	347.5409	yeah it's one to the to the further fur- most the most to the left the left the most left bottom and left
+5	B	MANIPULATOR	345.1326	345.3151	yeah
+5	A	INSTRUCTOR	348.2752	348.5531	uh
+5	B	MANIPULATOR	348.3291	348.466	yeah
+5	A	INSTRUCTOR	349.053	349.2231	yeah
+5	B	MANIPULATOR	349.4472	349.7687	okay
+5	B	MANIPULATOR	349.8392	351.2496	yeah I'm I'm selecting that one then
+5	A	INSTRUCTOR	351.4447	353.1457	cool awesome BREATH
+5	A	INSTRUCTOR	353.8551	354.6993	um
+6	B	INSTRUCTOR	356.6471	361.389	okay so it's the red piece at the eh top right
+6	A	MANIPULATOR	362.0693	362.7228	top right
+6	B	INSTRUCTOR	363.1791	363.7703	top right
+6	A	MANIPULATOR	363.1833	364.9589	so it looks like a kind of like a
+6	A	MANIPULATOR	365.4526	366.1205	you GROAN
+6	A	MANIPULATOR	366.1205	367.7177	I guess the one that's like a top right
+6	A	MANIPULATOR	368.0994	368.7341	the toppest right
+6	A	MANIPULATOR	368.8752	372.3848	so it's just like looks like a triangle and triangle sticking up
+6	B	INSTRUCTOR	369.6551	369.8854	yeah
+6	B	INSTRUCTOR	372.7707	372.9885	yeah
+6	A	MANIPULATOR	373.2375	373.4117	cool
+6	B	INSTRUCTOR	375.5047	375.9071	I got
+6	A	MANIPULATOR	377.3176	377.9607	all right
+7	A	INSTRUCTOR	378.7427	382.7108	okay so now on the top left there's uh this
+7	A	INSTRUCTOR	382.7108	384.2168	it's the same figure as before
+7	A	INSTRUCTOR	384.9843	388.4567	it's like the it's like the kind of the space sh- thing that's blue
+7	B	MANIPULATOR	385.2394	385.5941	okay
+7	A	INSTRUCTOR	388.913	390.0912	it's on the left and top
+7	B	MANIPULATOR	389.0271	389.1993	yep
+7	B	MANIPULATOR	390.4916	390.7091	all right
+7	B	MANIPULATOR	391.0413	391.3483	okay
+7	A	INSTRUCTOR	392.5182	393.1221	awesome
+7	A	INSTRUCTOR	393.7711	393.9847	all right
+8	B	INSTRUCTOR	395.555	396.4511	eh gr- great
+8	B	INSTRUCTOR	396.6108	401.6265	okay so it's the red piece at eh at the very right edge
+8	B	INSTRUCTOR	401.6265	402.6097	so it's just
+8	B	INSTRUCTOR	403.4063	407.3869	uh just above some kind of orange thing
+8	A	MANIPULATOR	406.8953	411.5127	uh there's something that looks like a rectangle in 3D and above that there's like a thing there's
+8	A	MANIPULATOR	411.577	413.6389	like first it's like a rectangle and there's a thing in the middle
+8	B	INSTRUCTOR	412.6598	412.9937	yes
+8	B	INSTRUCTOR	413.112	415.7322	so it's it's like a spider thing
+8	A	MANIPULATOR	415.1987	416.5865	yeah uh it's that thing that's small
+8	A	MANIPULATOR	416.5865	417.6838	small red thing in the middle
+8	B	INSTRUCTOR	417.9472	418.207	yeah
+8	A	MANIPULATOR	418.2895	418.9574	right okay cool
+8	A	MANIPULATOR	422.53	423.3301	all right
+9	A	INSTRUCTOR	424.7364	429.4327	okay now it's the the computer again the green computer at the bottom bottom bottom right
+9	B	MANIPULATOR	428.7108	428.9867	okay
+9	B	MANIPULATOR	430.1068	430.2583	yep
+9	A	INSTRUCTOR	431.8617	432.6707	awesome
+9	B	MANIPULATOR	435.5291	435.5706	CLICK
+10	B	INSTRUCTOR	436.6015	436.6554	CLICK
+10	B	INSTRUCTOR	436.9666	444.3387	okay so it's the dark purple small dark purple piece right in the middle in the middle
+10	A	MANIPULATOR	442.0673	443.0464	in the absolute middle
+10	A	MANIPULATOR	443.7392	443.9549	all right
+10	A	MANIPULATOR	444.542	444.7784	awesome
+11	A	INSTRUCTOR	449.9642	457.1289	all so now so now it's the the envelope that's to the left and bottom left bottom side and it's uh
+11	A	INSTRUCTOR	457.8632	462.5604	uh above uh there's like a red thing which is three triangles and above is like an envelope
+11	B	MANIPULATOR	462.9971	466.65	okay so the envelope above the kind of kind of mountain looking thing
+11	A	INSTRUCTOR	464.4803	465.7581	yeah em the
+11	A	INSTRUCTOR	466.4654	466.8367	right
+11	A	INSTRUCTOR	467.0773	467.7535	m- m- um
+11	A	INSTRUCTOR	467.8407	467.9734	yeah
+11	A	INSTRUCTOR	468.4236	468.6102	awesome
+12	B	INSTRUCTOR	471.6781	475.5094	okay so it's the eh light blue V
+12	B	INSTRUCTOR	476.225	478.0069	so there's like a V figure
+12	A	MANIPULATOR	476.6938	477.0734	okay
+12	A	MANIPULATOR	477.7061	478.791	yeah I'll I'll click that one
+12	B	INSTRUCTOR	479.3303	479.4815	yep
+12	A	MANIPULATOR	482.0373	482.9749	CLICK awesome
+12	B	INSTRUCTOR	482.7757	482.8729	NOISE
+13	A	INSTRUCTOR	484.5202	484.848	okay
+13	A	INSTRUCTOR	485.0927	490.4258	so on the right side uh almost at the bottom there's a thing that kinda looks like a like a like a dude
+13	A	INSTRUCTOR	490.4507	492.0043	it's it's like a like a head
+13	A	INSTRUCTOR	492.386	496.5326	uh it's it's below the rectangle that's red and it's it's it's uh purple or pink
+13	B	MANIPULATOR	492.7283	493.1846	right
+13	B	MANIPULATOR	495.2361	495.4761	mm
+13	A	INSTRUCTOR	497.4764	498.0261	you see the thing
+13	B	MANIPULATOR	497.5324	497.9967	CLICK right
+13	B	MANIPULATOR	498.5778	498.6842	yeah
+13	A	INSTRUCTOR	498.9616	499.281	yeah cool
+13	A	INSTRUCTOR	501.04	501.8824	um
+14	B	INSTRUCTOR	503.3342	509.6833	okay so it's the eh the blue piece to the right of the V
+14	A	MANIPULATOR	511.227	513.2163	uh the blue piece on the right
+14	A	MANIPULATOR	513.2515	513.7826	so that
+14	A	MANIPULATOR	513.8303	516.8443	I I kind of think it looks like a crane or like a kind of
+14	B	INSTRUCTOR	516.4356	516.7302	yeah
+14	B	INSTRUCTOR	516.7965	517.116	yeah
+14	A	MANIPULATOR	517.2425	517.4313	yeah
+14	B	INSTRUCTOR	517.2944	518.2299	exactly that that one
+14	A	MANIPULATOR	518.2942	518.4726	cool
+15	A	INSTRUCTOR	523.9571	525.0648	okay it's it's
+15	A	INSTRUCTOR	525.0793	529.3627	on the left side there's a a thing that's fur- the furthest down to the left side
+15	A	INSTRUCTOR	529.3627	532.2419	it's kind of like a like a triangle and a triangle on top
+15	B	MANIPULATOR	532.8725	533.8356	yeah so th- the red one
+15	A	INSTRUCTOR	534.1731	534.9198	the red one yeah
+15	B	MANIPULATOR	535.3865	535.5836	'kay
+15	A	INSTRUCTOR	536.8033	537.1714	awesome
+16	B	INSTRUCTOR	539.3028	539.3962	CLICK
+16	B	INSTRUCTOR	540.0496	546.6314	okay so it's kind of bird bird looking eh purple pinkish
+16	A	MANIPULATOR	546.845	548.1934	it's one uh above the V
+16	B	INSTRUCTOR	547.1437	547.598	eh
+16	B	INSTRUCTOR	549.0189	549.7844	yeah above the V
+16	A	MANIPULATOR	550.1639	551.6595	yeah and it yeah it kind of looks like a rooster
+16	A	MANIPULATOR	551.9022	552.0848	and it
+16	B	INSTRUCTOR	552.3005	552.4913	yeah
+16	A	MANIPULATOR	552.6158	553.0743	okay cool
+16	A	MANIPULATOR	556.4906	557.3153	uh
+17	A	INSTRUCTOR	558.2081	559.2204	okay now it's the uh
+17	A	INSTRUCTOR	559.32	561.6079	to the left side the the the bottom
+17	A	INSTRUCTOR	561.6079	565.1156	like okay so the top and the left side it looks like a guy's head
+17	B	MANIPULATOR	565.5906	565.8105	yeah
+17	B	MANIPULATOR	566.9099	568.3059	okay so it's that that one again
+17	A	INSTRUCTOR	567.9118	570.673	yeah yeah the little guy to the le- left top
+17	B	MANIPULATOR	568.3059	568.6668	okay
+17	B	MANIPULATOR	570.9154	571.0564	yeah
+17	A	INSTRUCTOR	572.525	572.7553	awesome
+17	A	INSTRUCTOR	573.6061	574.2477	BREATH
+18	B	INSTRUCTOR	577.0657	579.2085	okay so it's the red piece
+18	B	INSTRUCTOR	579.3848	582.0047	eh the leftmost right place
+18	A	MANIPULATOR	581.9424	582.4423	BREATH
+18	A	MANIPULATOR	582.4797	585.4729	it uh looks like a crane would you say
+18	A	MANIPULATOR	585.6368	586.0019	uh an-
+18	B	INSTRUCTOR	585.7426	590.0779	yeah so it's it's to the bottom left of the computer screen looking thing
+18	A	MANIPULATOR	591.2748	591.6502	okay
+18	A	MANIPULATOR	592.0298	595.1461	yeah and it would be the most left piece of all the pieces
+18	B	INSTRUCTOR	594.3759	596.0955	yeah left leftmost piece
+18	A	MANIPULATOR	595.8279	596.1038	okay
+19	A	INSTRUCTOR	599.7981	600.5075	mm
+19	A	INSTRUCTOR	600.6196	602.4574	okay so now it's the BREATH
+19	A	INSTRUCTOR	602.866	606.2866	uh above two envelopes there's a thing that we had before
+19	A	INSTRUCTOR	606.2866	609.4955	it's like a spaceship kind of looking thing that's blue
+19	B	MANIPULATOR	608.8421	609.0424	yeah
+19	A	INSTRUCTOR	610.4705	611.238	on the on the right side
+19	B	MANIPULATOR	611.7814	611.9412	right
+19	A	INSTRUCTOR	611.796	612.1507	so th-
+19	A	INSTRUCTOR	612.3104	612.8822	yeah that's the thing
+19	B	MANIPULATOR	612.6651	612.8476	eugh
+19	B	MANIPULATOR	613.0571	613.3504	okay
+19	A	INSTRUCTOR	614.3722	614.7612	awesome
+19	A	INSTRUCTOR	615.1128	615.6645	um
+20	B	INSTRUCTOR	617.1394	617.2763	CLICK
+20	B	INSTRUCTOR	617.4028	624.4306	uh okay so it's the uh the small purp- purple pinkish piece on the top right
+20	B	INSTRUCTOR	624.5156	627.7474	so it's to the to the left of the spider looking thing
+20	A	MANIPULATOR	628.4257	628.5606	uh
+20	A	MANIPULATOR	628.6829	633.6364	right so i- it's the one that's above the rectangle and uh and uh below the thing we had before
+20	B	INSTRUCTOR	632.5868	632.9871	em
+20	A	MANIPULATOR	635.1672	635.6734	so it's like
+20	B	INSTRUCTOR	635.3643	635.9493	mm
+20	B	INSTRUCTOR	636.1857	636.5529	mm
+20	B	INSTRUCTOR	636.6379	638.7496	no it's not it's not above the rectangle
+20	B	INSTRUCTOR	638.8429	639.0483	it's
+20	B	INSTRUCTOR	639.6332	641.2014	so at the top right
+20	A	MANIPULATOR	639.6892	639.8925	wait
+20	B	INSTRUCTOR	641.2014	643.8565	so it's above the space shooter thing
+20	A	MANIPULATOR	644.0163	646.3291	okay above the spaceship thing and it's it's it's
+20	A	MANIPULATOR	646.6652	647.1837	oh wait so it
+20	A	MANIPULATOR	647.3704	648.5922	fi- on the right it's
+20	A	MANIPULATOR	648.6731	651.1332	first we have the spider and then we have a thing and
+20	A	MANIPULATOR	651.351	655.6262	is that a thing that's kind of looks like a V sort of and there's a triangle in the middle
+20	B	INSTRUCTOR	656.4767	657.7524	uh yeah exactly that that one
+20	A	MANIPULATOR	656.4933	657.2455	and it's pink
+20	A	MANIPULATOR	657.8063	658.1797	okay cool
+20	B	INSTRUCTOR	657.8789	658.6277	the the pinkish
+20	B	INSTRUCTOR	658.6422	658.8061	yeah
+20	A	MANIPULATOR	661.9674	662.961	all right
+21	A	INSTRUCTOR	663.212	664.5395	okay now it's the thing that I was saying earlier
+21	A	INSTRUCTOR	664.5395	667.1615	so it's like a peacock it's in the middle and it's pink
+21	A	INSTRUCTOR	667.4954	669.9404	it's on the right of of the V
+21	B	MANIPULATOR	667.7547	667.9061	yeah
+21	B	MANIPULATOR	670.36	670.6961	right
+21	A	INSTRUCTOR	670.9616	671.2694	awesome
+22	A	MANIPULATOR	673.4234	674.2484	BREATH
+22	B	INSTRUCTOR	673.4777	679.3543	okay so it's the reddish mountain looking thing towards the bottom like the bottom left
+22	A	MANIPULATOR	679.3709	685.4631	is it in th- like would we say the thing that's uh uh like to the right of the head thingy
+22	B	INSTRUCTOR	685.4942	685.6871	yeah
+22	A	MANIPULATOR	685.6809	685.7805	the
+22	B	INSTRUCTOR	685.9941	686.1829	yeah
+22	A	MANIPULATOR	686.017	686.1995	right
+22	B	INSTRUCTOR	686.3281	686.7698	exactly
+23	A	INSTRUCTOR	691.5222	692.3063	okay now it's
+23	A	INSTRUCTOR	692.3312	693.5467	okay above the V
+23	A	INSTRUCTOR	693.6878	698.1973	the the first thing above the V is like a V with a like a triangle in middle and it's purple
+23	B	MANIPULATOR	697.938	698.1268	yeah
+23	B	MANIPULATOR	698.8632	699.6618	okay so it's that one
+23	A	INSTRUCTOR	699.9252	700.0476	yeah
+23	B	MANIPULATOR	700.1721	700.2737	yep
+23	A	INSTRUCTOR	700.96	701.284	awesome
+24	B	INSTRUCTOR	703.4972	710.0292	okay so it's the uh the green kind of plant looking thing on the right
+24	B	INSTRUCTOR	710.2781	712.2633	the big BREATH big green
+24	A	MANIPULATOR	710.3922	710.4669	CLICK
+24	A	MANIPULATOR	711.4812	716.638	uh would you say the thing that's like diagonally below the computer thingy that's green
+24	B	INSTRUCTOR	717.2271	718.2248	uh no
+24	A	MANIPULATOR	717.7063	718.0921	or is it
+24	A	MANIPULATOR	718.1647	720.1788	no okay on the right side okay the thing that's like BREATH
+24	B	INSTRUCTOR	718.2248	720.183	so it's bu- but on the right side
+24	A	MANIPULATOR	720.3448	722.3257	so it's on the left of the rectangle
+24	B	INSTRUCTOR	722.3527	722.6265	NOISE
+24	B	INSTRUCTOR	723.3339	723.923	em
+24	A	MANIPULATOR	723.6201	724.595	th- th- the- that looks like
+24	B	INSTRUCTOR	724.2445	724.896	yeah yeah
+24	A	MANIPULATOR	724.9477	725.3688	yeah okay
+24	A	MANIPULATOR	725.6695	726.5947	the plum thingy that's green
+24	B	INSTRUCTOR	726.9992	727.14	yeah
+24	A	MANIPULATOR	727.5489	727.6941	CLICK
+24	A	MANIPULATOR	729.339	729.4593	CLICK
+24	A	MANIPULATOR	730.3056	731.204	mm
+25	A	INSTRUCTOR	732.25	736.9932	okay uh so it's the thing that looks kind of like a like a spider to the top right
+25	B	MANIPULATOR	737.4205	737.68	okay
+25	A	INSTRUCTOR	738.8954	739.1878	awesome
+26	B	INSTRUCTOR	741.2642	753.4135	uh okay so it's the eh COUGH the blue piece that's eh composed of like one big triangle pointing down and one small triangle pointing up eh towards the bottom
+26	A	MANIPULATOR	749.8685	750.55	right and then
+26	A	MANIPULATOR	754.4237	755.6102	uh one uh
+26	A	MANIPULATOR	755.772	756.1661	wait i-
+26	A	MANIPULATOR	756.2325	757.419	sorry it's it's one it
+26	A	MANIPULATOR	757.419	758.778	is it next to two envelopes
+26	B	INSTRUCTOR	759.5265	760.4309	yeah so
+26	A	MANIPULATOR	760.1343	761.9161	in the in the in the absolute middle and it's blue
+26	B	INSTRUCTOR	760.4309	760.7939	exactly
+26	B	INSTRUCTOR	762.5156	762.67	yeah
+26	A	MANIPULATOR	762.9989	763.368	okay cool
+26	A	MANIPULATOR	766.1954	767.38	um all right
+27	A	INSTRUCTOR	768.0664	770.1262	okay so it's the thing that's like kind of
+27	A	INSTRUCTOR	770.1947	772.5013	it's the only purple piece and it's to the right side
+27	A	INSTRUCTOR	772.5013	776.492	it's below the kind of spaceship blue thing and it's above the rectangle
+27	B	MANIPULATOR	775.3514	775.6335	yep
+27	A	INSTRUCTOR	776.628	777.3884	CLICK okay cool
+28	B	INSTRUCTOR	779.5478	782.3854	okay so it's the bigger of the two envelopes
+28	A	MANIPULATOR	782.9766	783.9598	uh oh on the
+28	A	MANIPULATOR	784.0013	784.8663	th- that's the
+28	B	INSTRUCTOR	784.5717	785.178	on the bottom
+28	A	MANIPULATOR	785.2521	785.4243	right
+28	A	MANIPULATOR	785.5799	785.7956	okay
+29	A	INSTRUCTOR	789.8571	790.7532	mm it's the V
+29	B	MANIPULATOR	791.6535	791.9957	okay
+29	B	MANIPULATOR	793.3274	793.7257	LAUGHTER
+29	A	INSTRUCTOR	793.7423	795.3022	BREATH LAUGHTER that's the easy one BREATH
+30	B	INSTRUCTOR	795.8768	796.1941	BREATH
+30	B	INSTRUCTOR	796.3601	804.2051	uh okay so it's the a big figure purple figure on the top that's composed of one rectangle and one big triangle
+30	A	MANIPULATOR	805.068	806.3002	uh wait one more time
+30	A	MANIPULATOR	806.3002	807.7045	on the where is it on the left
+30	A	MANIPULATOR	807.8082	808.0965	on the
+30	B	INSTRUCTOR	807.8186	809.059	purple on the top
+30	B	INSTRUCTOR	809.5257	809.8286	on the top
+30	B	INSTRUCTOR	810.3347	813.7034	so it's composed of one one big rectangle and one big triangle
+30	A	MANIPULATOR	810.3368	810.5608	on
+30	A	MANIPULATOR	814.4875	816.1102	uh oh is isn't it blue
+30	A	MANIPULATOR	816.4166	817.8728	isn't it in the uh it's it's
+30	B	INSTRUCTOR	816.8315	817.002	eugh
+30	B	INSTRUCTOR	817.5077	817.8307	eh
+30	A	MANIPULATOR	818.3893	818.9888	wait isn't it
+30	B	INSTRUCTOR	818.6237	819.4832	um eh BREATH
+30	A	MANIPULATOR	818.9888	822.2828	is it is it a rectangle and then there's this uh s- square um n
+30	B	INSTRUCTOR	821.2239	821.5103	NOISE
+30	A	MANIPULATOR	822.2828	823.2556	I'm now I'm confused sorry
+30	B	INSTRUCTOR	823.7078	824.0999	that's all right
+30	B	INSTRUCTOR	824.0999	826.7983	it's a a rectangle and one big triangle
+30	A	MANIPULATOR	829.0948	829.3956	yeah
+30	A	MANIPULATOR	829.6238	833.3637	so i- and it's next to it is like this orange thing and then uh to the right of it yeah okay
+30	B	INSTRUCTOR	832.6066	832.7995	yeah
+30	B	INSTRUCTOR	833.1646	833.3824	yeah
+30	A	MANIPULATOR	833.482	833.8388	yeah okay
+30	B	INSTRUCTOR	833.7703	834.1794	exactly
+30	A	MANIPULATOR	838.8669	839.5755	okay so it's
+30	A	MANIPULATOR	846.2245	846.3469	o-
+30	A	MANIPULATOR	848.0146	849.1928	uh like whatever it is

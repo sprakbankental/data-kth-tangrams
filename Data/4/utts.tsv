@@ -1,0 +1,416 @@
+ROUND	SPEAKER	DIALOGUE_ROLE	START_TIME	END_TIME	TOKENS
+0	A	INSTRUCTOR	5.8506	7.4332	mm okay
+0	B	MANIPULATOR	8.6946	9.4365	all right
+0	A	INSTRUCTOR	8.979	14.8654	BREATH press okay to continue to next turn so I click okay
+0	A	INSTRUCTOR	17.1861	18.8738	yep all right
+1	A	INSTRUCTOR	20.4094	24.0514	so you're selecting them oh yeah right so I have to tell you what the piece looks like right
+1	B	MANIPULATOR	24.1066	24.5129	yeah
+1	A	INSTRUCTOR	25.638	28.1433	all right it it looks like a pink bat
+1	B	MANIPULATOR	28.9551	30.1875	pink bat got it
+1	A	INSTRUCTOR	30.9188	31.4001	yeah
+1	B	MANIPULATOR	32.8555	35.8349	um how do I move oh right okay
+1	A	INSTRUCTOR	37.8393	40.7531	how you stopped and you picked the wrong piece
+1	B	MANIPULATOR	40.873	42.5894	all right LAUGHTER
+1	A	INSTRUCTOR	41.3063	46.8492	okay BREATH it's uh it's like a pink bat it's right next to the large um
+1	B	MANIPULATOR	43.1211	43.675	BREATH
+1	B	MANIPULATOR	45.1932	46.3473	BREATH
+1	A	INSTRUCTOR	47.9289	51.9432	blue or azure uh rupee to the top right of it
+1	B	MANIPULATOR	48.101	48.602	BREATH
+1	B	MANIPULATOR	49.2426	50.4885	ah right right got it
+1	B	MANIPULATOR	52.046	52.4929	this one
+1	A	INSTRUCTOR	52.3076	53.3054	ah there we go
+1	A	INSTRUCTOR	54.01	55.0899	yeah perfect
+2	B	INSTRUCTOR	58.7633	60.1262	so I have to tell you which one
+2	A	MANIPULATOR	60.5239	61.2959	yeah yeah
+2	B	INSTRUCTOR	60.9031	72.2928	BREATH so it's it uh it's right next to the middle blue one the weird parallelogram thingy to its left the small purple upside down triangle diamond
+2	A	MANIPULATOR	62.596	62.8829	NOISE
+2	A	MANIPULATOR	65.1421	65.6387	mm
+2	A	MANIPULATOR	71.5344	74.9081	BREATH yeah the upside down triangle with like a mountain on the top
+2	B	INSTRUCTOR	72.7262	72.9565	yeah
+2	B	INSTRUCTOR	73.6201	73.8774	yeah
+2	B	INSTRUCTOR	73.9586	74.2295	that's
+2	B	INSTRUCTOR	74.6764	74.9744	that one
+2	B	INSTRUCTOR	75.8005	76.0307	yep
+2	B	INSTRUCTOR	76.5454	77.5069	right cool
+3	A	INSTRUCTOR	78.5497	82.0063	BREATH okay it's the bottom left piece like the really big one purple
+3	B	MANIPULATOR	81.8384	82.423	yup
+3	B	MANIPULATOR	82.924	83.6756	BREATH
+3	A	INSTRUCTOR	84.4003	84.9291	okay
+4	B	INSTRUCTOR	86.2964	96.703	ah it's the BREATH sort of uh castle looking kind of thing which is on the right uh bottom right but next to the face looking thing a huge
+4	A	MANIPULATOR	95.9523	98.7424	BREATH or that sort of like Mordor thing
+4	B	INSTRUCTOR	98.5122	99.5144	yeah yeah exactly
+4	A	MANIPULATOR	100.5301	100.9628	all right
+4	B	INSTRUCTOR	100.8784	102.2145	cool BREATH
+5	A	INSTRUCTOR	103.7127	104.3866	um
+5	A	INSTRUCTOR	105.1889	110.7333	BREATH it's it's the purple uh arrow we were talking about before with the mountain on top
+5	B	MANIPULATOR	105.3878	106.4735	BREATH
+5	B	MANIPULATOR	111.9198	113.9057	purple arrow with the mountain on top this one
+5	A	INSTRUCTOR	114.8451	122.5915	oh no no um it's on the right it's next to that really big purple thing I told you to move last time
+5	B	MANIPULATOR	116.1724	116.7683	all right
+5	B	MANIPULATOR	122.9439	123.4992	uh-huh
+5	A	INSTRUCTOR	124.0544	128.6876	so it's a purple arrow that points down it has a much smaller arrow on top of it
+5	B	MANIPULATOR	127.1836	128.1857	BREATH
+5	B	MANIPULATOR	129.0789	130.0229	BREATH all right
+5	B	MANIPULATOR	130.4404	131.1085	this one
+5	A	INSTRUCTOR	131.4896	132.529	yes
+5	A	INSTRUCTOR	133.5887	133.7817	BREATH
+6	B	INSTRUCTOR	134.7805	138.0715	CLICK ah this is the one that I clicked like by mistake
+6	B	INSTRUCTOR	139.8863	146.4741	the huge purple thingy with a square and a uh triangle on top like kind of yeah
+6	A	MANIPULATOR	139.9269	141.0469	oh ah
+6	A	MANIPULATOR	145.2764	145.8069	right
+6	B	INSTRUCTOR	147.3079	147.6329	cool
+7	A	INSTRUCTOR	150.6394	155.7452	okay so the piece that you picked last time same but bigger and blue
+7	B	MANIPULATOR	157.5329	158.2488	wait
+7	A	INSTRUCTOR	157.9256	160.4582	and it's at the bottom left next to Mordor
+7	B	MANIPULATOR	160.5394	161.5056	CLICK ah right
+7	A	INSTRUCTOR	163.1532	163.5107	SNIFF
+7	A	INSTRUCTOR	164.196	164.9304	BREATH
+8	B	INSTRUCTOR	164.8732	169.8977	ah this one is on center top most the weird X kind uh thing
+8	B	INSTRUCTOR	170.8999	171.9291	blueish BREATH NOISE
+8	A	MANIPULATOR	171.0082	174.3668	uh CLICK yeah the it's blue
+8	B	INSTRUCTOR	174.1908	175.8431	yeah sort of the small blue one
+9	A	INSTRUCTOR	178.7548	182.3302	CLICK BREATH uh it's the blue triangle big one again
+9	B	MANIPULATOR	183.6845	185.1065	blue triangle big one
+9	A	INSTRUCTOR	185.7024	187.8117	CLICK the one that was next to Mordor last time
+9	B	MANIPULATOR	185.9736	187.4768	NOISE BREATH
+9	B	MANIPULATOR	188.5736	189.1559	ah yeah
+9	B	MANIPULATOR	190.2258	191.553	where is it ah this one
+9	A	INSTRUCTOR	192.0406	193.4903	yeah perfect
+9	B	MANIPULATOR	192.8261	193.0292	cool
+10	B	INSTRUCTOR	196.2254	199.5299	mm it's the again the X weird looking blue thingy
+10	B	INSTRUCTOR	199.9497	200.5727	on top
+10	A	MANIPULATOR	200.0581	201.4236	all right should we just call it X
+10	B	INSTRUCTOR	201.5207	202.4281	yeah call it X
+11	A	INSTRUCTOR	206.3661	206.64	okay
+11	A	INSTRUCTOR	206.9244	213.2896	um on the right next to the face there's a green V
+11	B	MANIPULATOR	214.9511	216.0795	uh yeah
+12	B	INSTRUCTOR	220.9144	232.7781	BREATH uh so the place where I selected the V right uh on the opposite end the left side of it a weird looking blue color thingy top of the Mordor
+12	A	MANIPULATOR	222.2958	223.0524	BREATH
+12	A	MANIPULATOR	231.2071	232.4053	yeah BREATH
+12	A	MANIPULATOR	233.3604	235.6621	yeah yeah what do you want to call that
+12	B	INSTRUCTOR	234.1189	234.4921	yeah
+12	B	INSTRUCTOR	235.7034	242.2584	ah um it looks like a a just call it a weird V BREATH
+12	A	MANIPULATOR	242.0415	243.512	BREATH BREATH you want to call it dog
+12	B	INSTRUCTOR	243.2333	243.5946	CLICK
+12	B	INSTRUCTOR	244.0595	247.0119	it looks like a dog to you seriously BREATH LAUGHTER
+13	A	INSTRUCTOR	246.4295	249.274	okay th- the US it looks like sort of like the US
+13	B	MANIPULATOR	247.9599	248.5216	BREATH
+13	B	MANIPULATOR	249.111	250.8039	ah right okay the US yeah
+13	A	INSTRUCTOR	250.2893	250.6102	okay
+13	A	INSTRUCTOR	252.1988	252.4474	okay
+13	A	INSTRUCTOR	252.9302	253.7835	uh X
+13	A	INSTRUCTOR	254.447	255.3702	the weird looking X
+13	A	INSTRUCTOR	256.5597	257.2074	yes
+14	B	INSTRUCTOR	258.5641	260.6091	V at the end green V
+14	A	MANIPULATOR	261.0289	263.1552	the green V at the bottom
+14	B	INSTRUCTOR	261.9498	262.1936	yeah
+14	B	INSTRUCTOR	263.101	263.7646	bottom yeah
+15	A	INSTRUCTOR	268.5995	271.606	uh the laptop looking thing on the top right that's purple
+15	B	MANIPULATOR	268.7307	269.1482	NOISE
+15	B	MANIPULATOR	271.7821	272.1749	eugh
+15	B	MANIPULATOR	272.9739	274.3257	uh let's call it the monitor
+15	A	INSTRUCTOR	274.7616	275.5793	the monitor yeah
+16	B	INSTRUCTOR	275.7638	276.0482	oh
+16	B	INSTRUCTOR	276.6712	280.9229	um this is the fractal which is on top of the Mordor the green fractal
+16	A	MANIPULATOR	283.0906	283.9301	mm
+16	B	INSTRUCTOR	284.323	286.7685	above the Mordor to the bottom left
+16	A	MANIPULATOR	285.6231	286.8826	yeah to the right of it
+16	B	INSTRUCTOR	287.3025	288.264	yeah b- yeah
+16	A	MANIPULATOR	287.3025	289.4417	in between Mordor and the monitor
+16	B	INSTRUCTOR	289.5235	290.2413	yeah exactly
+16	A	MANIPULATOR	290.7695	292.281	okay fractal gotcha
+17	A	INSTRUCTOR	294.9137	295.7048	CLICK uh the monitor
+18	B	INSTRUCTOR	298.9901	299.5589	fractal
+18	A	MANIPULATOR	300.5611	300.8455	right
+19	A	INSTRUCTOR	303.527	306.2269	uh next to the fractal there's a
+19	A	INSTRUCTOR	307.915	309.5266	like a house looking thing that's blue
+19	B	MANIPULATOR	309.3158	311.1382	mm 'kay let's call it the house
+19	A	INSTRUCTOR	311.382	312.0725	the house right
+19	A	INSTRUCTOR	313.2239	313.4922	CLICK
+20	B	INSTRUCTOR	315.3095	319.7544	uh the Mordor but in green uh blue blueish Mordor
+20	A	MANIPULATOR	318.3702	319.0037	BREATH y-
+20	A	MANIPULATOR	320.2121	321.3768	yeah the teal
+20	B	INSTRUCTOR	321.4246	322.5102	yeah teal
+20	A	MANIPULATOR	321.7595	324.7658	that's funny it actually turned more green when you said green than blue
+20	B	INSTRUCTOR	323.1783	326.8526	BREATH LAUGHTER LAUGHTER BREATH
+21	A	INSTRUCTOR	325.1824	329.7763	the monitor BREATH LAUGHTER uh it's the monitor next to Mordor
+21	B	MANIPULATOR	327.2702	327.9382	BREATH
+21	B	MANIPULATOR	330.193	330.7775	aight
+22	B	INSTRUCTOR	334.2156	335.5375	fractal on top
+22	A	MANIPULATOR	336.1658	338.2244	CLICK uh the green one
+22	B	INSTRUCTOR	338.2921	338.5629	yeah
+23	A	INSTRUCTOR	342.6394	344.6409	CLICK blue V next to the monitor
+23	B	MANIPULATOR	346.3101	346.9782	yup
+24	B	INSTRUCTOR	348.49	353.1894	BREATH the mountains on th- orange mountains on top rightish
+24	A	MANIPULATOR	352.0518	353.0752	yep gotcha
+25	A	INSTRUCTOR	355.8439	356.9166	CLICK uh the blue V again
+26	B	INSTRUCTOR	361.2069	362.6778	the same mountain orange mountain
+26	A	MANIPULATOR	363.0488	364.0984	CLICK orange mountain again
+27	A	INSTRUCTOR	366.5971	369.6934	BREATH uh in th- the blue rupee in the middle
+27	B	MANIPULATOR	371.1746	371.6968	right
+28	B	INSTRUCTOR	375.1427	380.5487	BREATH uh the Batman looking thingy pink one on the botto- uh bottom center
+28	A	MANIPULATOR	381.4809	384.1404	bottom center yeah yeah the one I called bat before
+28	B	INSTRUCTOR	383.6478	383.9728	yeah
+28	B	INSTRUCTOR	389.3223	392.1934	it says it's the wrong one it says the bottom center
+28	A	MANIPULATOR	391.2183	391.6382	oh
+28	B	INSTRUCTOR	392.8841	395.0375	I said the bottom center like exactly in the middle
+28	A	MANIPULATOR	393.6155	395.1636	BREATH
+28	B	INSTRUCTOR	396.6491	399.7556	so the next to the uh green triangle arrow thingy
+28	A	MANIPULATOR	396.7439	397.6688	BREATH
+28	A	MANIPULATOR	400.062	404.0165	oh okay I'm con- so top of the green V
+28	B	INSTRUCTOR	400.2516	401.4434	gr- green V yeah
+28	B	INSTRUCTOR	404.2468	408.7295	yeah exactly no the no no the the one next to it the huge one the bigger one
+28	B	INSTRUCTOR	410.2057	412.0314	really dark pink dark red
+28	A	MANIPULATOR	410.4089	410.6127	uh
+28	A	MANIPULATOR	411.5465	413.1179	between the green one and Mordor
+28	B	INSTRUCTOR	413.4425	414.2861	yeah exactly
+28	A	MANIPULATOR	414.553	417.0428	oh you call that a it's like a V with a hat
+28	B	INSTRUCTOR	417.3158	419.6307	yeah so it looks like a Batman symbol or something
+28	B	INSTRUCTOR	419.9838	421.5514	SNIFF bat logo
+28	A	MANIPULATOR	420.0244	421.3018	uh okay
+29	A	INSTRUCTOR	421.7715	424.4751	I thought you meant like the one that looks like a bat next to the green one
+29	B	MANIPULATOR	423.7894	425.3604	ah but not
+29	A	INSTRUCTOR	425.6177	427.5649	okay okay uh the mountains
+30	B	INSTRUCTOR	431.8475	438.3366	BREATH uh the one above Mordor below the monitor the blue spheroid or whatever whatever shape that is
+30	A	MANIPULATOR	438.4701	439.0891	the rupee
+30	B	INSTRUCTOR	439.3233	440.4338	rupee right
+31	A	INSTRUCTOR	443.5487	443.7925	CLICK
+31	A	INSTRUCTOR	446.0	450.0629	uh the bird that's top left of the fractal
+31	B	MANIPULATOR	450.5234	450.8755	got it
+31	A	INSTRUCTOR	450.6995	451.4443	yeah
+32	B	INSTRUCTOR	453.1372	455.1822	face uh above bat
+32	A	MANIPULATOR	454.4644	454.7887	yeah
+32	A	MANIPULATOR	455.575	455.7908	yep
+33	A	INSTRUCTOR	457.8908	458.2961	BREATH Mordor
+33	B	MANIPULATOR	460.0442	461.0509	which one green or
+33	A	INSTRUCTOR	460.1661	460.8848	purple Mordor
+34	A	MANIPULATOR	463.9446	464.1417	CLICK
+34	B	INSTRUCTOR	464.554	468.7337	uh the arrow upside down down arrow above V green V
+34	A	MANIPULATOR	469.9171	470.3213	right
+34	A	MANIPULATOR	470.689	472.4925	we need a better name for that 'cause there's two of them
+34	B	INSTRUCTOR	473.3028	473.6414	oh
+34	A	MANIPULATOR	474.4404	475.0499	uh
+34	A	MANIPULATOR	475.6051	477.002	chacha yeah
+34	B	INSTRUCTOR	477.7585	478.9218	say A V BREATH
+34	A	MANIPULATOR	479.3837	480.1014	A V
+35	B	MANIPULATOR	480.1848	480.421	yeah
+35	B	MANIPULATOR	480.4716	482.1871	it looks like an A and a V in the shape
+35	A	INSTRUCTOR	481.9568	483.5143	yeah sure A V that's good
+35	B	MANIPULATOR	483.1351	483.3653	right
+35	A	INSTRUCTOR	483.8529	484.1373	uh
+35	A	INSTRUCTOR	484.5706	487.9293	so in between the two A Vs there's a green shape
+35	B	MANIPULATOR	489.094	489.3649	yeah
+35	B	MANIPULATOR	489.6628	490.8411	so it's like the
+35	A	INSTRUCTOR	492.3308	493.9695	inverted Mordor kind of thing
+35	B	MANIPULATOR	492.4663	495.0093	uh yeah invert- inverted Mordor
+36	B	INSTRUCTOR	495.0468	499.2683	so now it's the it's the dinosaur which is next to the blue X
+36	A	MANIPULATOR	499.5493	499.8201	yep
+36	A	MANIPULATOR	500.7546	501.2195	dinosaur
+37	A	INSTRUCTOR	502.908	504.5467	BREATH uh so it's the purple A V
+37	B	MANIPULATOR	506.9032	511.0067	oh ah oh yeah I'm really bad with colors LAUGHTER
+37	A	INSTRUCTOR	507.5803	508.1762	at the top
+37	A	INSTRUCTOR	509.4763	510.5869	LAUGHTER okay
+38	B	INSTRUCTOR	512.6725	514.2299	uh the inverted Mordor
+38	A	MANIPULATOR	514.5821	515.75	inverted Mordor gotcha
+39	A	INSTRUCTOR	517.9137	519.4169	okay it's the bird again
+39	A	INSTRUCTOR	520.4462	521.313	next to the house
+39	B	MANIPULATOR	520.541	523.0871	a rooster LAUGHTER
+39	A	INSTRUCTOR	523.0194	523.7236	rooster yeah
+40	B	INSTRUCTOR	524.8883	526.8114	uh the face pink face next to Mordor
+40	A	MANIPULATOR	526.3239	526.5541	yep
+41	A	INSTRUCTOR	528.9648	530.2649	uh it's the green V
+41	B	MANIPULATOR	531.9172	532.486	got it
+42	B	INSTRUCTOR	534.8831	538.6887	uh the next to the fractal green fractal the house looking thing
+42	A	MANIPULATOR	539.0002	540.0836	yep the house gotcha
+42	B	INSTRUCTOR	540.0566	540.5983	the house
+43	A	INSTRUCTOR	541.5057	547.6542	CLICK uh okay okay so next to the orange mountains there's a purple bat
+43	B	MANIPULATOR	548.1147	549.6315	all right the purple bat
+43	A	INSTRUCTOR	548.9408	550.4305	or okay let's call that a cat
+43	B	MANIPULATOR	550.7285	551.7578	uh that's a cat
+43	A	INSTRUCTOR	550.8368	553.9969	cu- it kind of it kind of looks like a cat with a highlight in the back
+43	B	MANIPULATOR	552.2724	553.5725	a bunny LAUGHTER
+44	B	INSTRUCTOR	554.3987	555.8478	all right okay it's a cat now
+44	A	MANIPULATOR	555.6582	556.7552	BREATH okay
+44	B	INSTRUCTOR	557.3917	563.1068	ah ah the one above the pink face and the the weird looking shape
+44	A	MANIPULATOR	563.4048	565.5211	yeah the the triangle and square
+44	B	INSTRUCTOR	563.7569	566.5603	below yeah COUGH yeah triangle square
+45	A	INSTRUCTOR	568.1449	568.9439	okay it's the monitor
+45	B	MANIPULATOR	571.49	572.6005	uh yep
+46	B	INSTRUCTOR	574.7674	576.0405	uh the fractal green one
+46	A	MANIPULATOR	576.6228	576.8531	yep
+47	A	INSTRUCTOR	579.4127	582.1619	uh BREATH the Batman symbol
+47	B	MANIPULATOR	582.5953	583.1099	all right
+48	B	INSTRUCTOR	587.051	588.798	orange mountain bottom
+48	A	MANIPULATOR	588.5678	588.7439	yep
+48	B	INSTRUCTOR	589.096	589.6106	right
+49	A	INSTRUCTOR	592.5495	594.4151	uh the cat at the bottom
+50	B	INSTRUCTOR	597.8583	600.9597	uh the square triangle at the bottom
+50	A	MANIPULATOR	601.1899	601.4066	yep
+50	A	MANIPULATOR	602.2327	602.5989	SNIFF
+51	A	INSTRUCTOR	604.5757	605.6052	the inverted Mordor
+51	B	MANIPULATOR	607.9208	608.6522	got it
+52	B	INSTRUCTOR	609.6273	610.3643	uh the rooster
+52	A	MANIPULATOR	611.0493	611.2931	yep
+53	A	INSTRUCTOR	614.2184	614.9903	uh the face
+54	B	INSTRUCTOR	618.9855	620.8951	uh the V green V on top
+54	A	MANIPULATOR	621.3014	621.5554	yep
+54	A	MANIPULATOR	622.3984	622.641	found it
+55	A	INSTRUCTOR	624.8226	625.3968	the rooster
+55	B	MANIPULATOR	626.5019	626.9217	got it
+56	B	INSTRUCTOR	628.9126	629.4407	the face
+56	A	MANIPULATOR	630.0231	630.2804	yep
+57	A	INSTRUCTOR	632.9349	633.5806	the rooster
+57	B	MANIPULATOR	636.5509	637.1603	got it
+58	B	INSTRUCTOR	638.8938	639.5303	the face
+58	A	MANIPULATOR	640.5325	641.1799	yep got it
+59	A	INSTRUCTOR	642.564	645.1101	uh so it's the purple Mordor next to the cat
+59	B	MANIPULATOR	644.1621	644.6028	BREATH
+59	B	MANIPULATOR	646.4508	647.3853	purple Mordor
+59	A	INSTRUCTOR	649.2272	649.5386	SNIFF
+60	B	INSTRUCTOR	651.1232	652.0441	uh the dinosaur
+60	A	MANIPULATOR	652.7348	655.1258	BREATH y- yeah or he's up there
+60	B	INSTRUCTOR	654.0891	655.8765	on the top top yeah
+61	A	INSTRUCTOR	657.9895	661.1384	uh it's the blue mo- uh orange mountains next to the dinosaur
+62	B	INSTRUCTOR	664.1652	665.6413	uh the bat the cat
+62	A	MANIPULATOR	665.9935	666.3995	the cat
+62	B	INSTRUCTOR	666.806	667.2337	yep
+62	A	MANIPULATOR	666.8738	667.1446	yep
+63	A	INSTRUCTOR	670.8419	677.1721	uh the Americas next to the dinosaur on the right up above the X and below the monitor
+63	B	MANIPULATOR	677.8436	678.4125	got it
+64	B	INSTRUCTOR	680.146	680.6785	the X
+64	A	MANIPULATOR	681.3107	681.5138	yep
+65	A	INSTRUCTOR	684.6829	686.9426	uh the inverted Mordor above the face
+65	B	MANIPULATOR	687.6894	688.1093	got it
+66	B	INSTRUCTOR	690.3033	690.7831	the V
+66	A	MANIPULATOR	691.6846	692.4542	uh which V
+66	B	INSTRUCTOR	692.7952	693.7059	uh the green one
+66	A	MANIPULATOR	694.1766	694.5419	all right
+67	A	INSTRUCTOR	697.2915	700.0543	uh the Batman symbol next to the face on the left
+67	B	MANIPULATOR	702.5578	703.3094	yep got it
+67	A	INSTRUCTOR	702.9118	704.0088	yeah good
+68	B	INSTRUCTOR	705.1194	708.8209	uh the next to the inverted Mordor the square triangle
+68	A	MANIPULATOR	709.2635	709.5734	yep
+69	A	INSTRUCTOR	712.2701	715.586	uh the cat symbol above the weird square triangle
+69	B	MANIPULATOR	715.3715	715.6965	yeah
+69	B	MANIPULATOR	716.7935	717.1718	got it
+70	B	INSTRUCTOR	718.7979	720.5957	uh the Americas above the monitor
+70	A	MANIPULATOR	720.7751	721.0189	yep
+71	A	INSTRUCTOR	723.7004	726.3586	the house next to the Mor- two Mordors
+71	A	INSTRUCTOR	727.1268	727.8717	below the fractal
+71	B	MANIPULATOR	728.3457	728.696	got it
+72	B	INSTRUCTOR	730.5126	731.8534	the monitor below the house
+72	A	MANIPULATOR	732.4493	732.7053	yep
+72	A	MANIPULATOR	734.738	735.127	SNIFF
+73	A	INSTRUCTOR	735.7131	738.3004	uh the Batman symbol which is on the left
+73	B	MANIPULATOR	738.9228	739.749	got it
+73	A	INSTRUCTOR	740.5074	740.8053	oh
+73	A	INSTRUCTOR	742.6201	749.7437	uh the the Batman symbol that's the one below the mountains and to the left of the Mordor
+73	B	MANIPULATOR	751.7075	753.164	yeah this is the one right
+73	A	INSTRUCTOR	753.9827	756.2547	it's the really big uh V with a hat
+73	B	MANIPULATOR	755.9465	760.8152	ah sure sorry shit yeah I forgot LAUGHTER too many symbols to remember
+73	A	INSTRUCTOR	757.6664	760.0961	BREATH LAUGHTER BREATH
+74	B	INSTRUCTOR	760.8186	764.9628	uh yeah so the sq- square triangle below the monitor above the inverted Mordor
+74	A	MANIPULATOR	761.1605	762.1492	LAUGHTER
+74	A	MANIPULATOR	765.237	765.4537	yep
+75	A	INSTRUCTOR	768.3654	771.3698	uh the mountains which are on the left top left
+75	B	MANIPULATOR	771.1282	771.4804	yep
+76	B	INSTRUCTOR	774.3921	775.0433	the X
+76	A	MANIPULATOR	775.4349	776.0463	CLICK yep
+77	A	INSTRUCTOR	778.6446	781.3073	uh so the Batman symbol the symbol at the bottom right
+77	B	MANIPULATOR	783.4389	783.6962	yep
+77	B	MANIPULATOR	784.6171	785.0099	got it
+78	B	INSTRUCTOR	787.1226	789.2895	the square triangle below the house
+78	A	MANIPULATOR	790.3865	790.8273	yeah
+79	A	INSTRUCTOR	793.5149	795.8985	uh so the fractal which is at the center top
+79	B	MANIPULATOR	796.4808	796.6569	yep
+80	B	INSTRUCTOR	799.7718	800.3542	the rooster
+80	A	MANIPULATOR	801.3563	801.5999	yep
+81	A	INSTRUCTOR	804.4712	807.2069	BREATH uh the cat symbol that's on the bottom left
+81	B	MANIPULATOR	808.1956	808.5071	got it
+82	A	MANIPULATOR	810.7417	811.0364	BREATH
+82	B	INSTRUCTOR	810.8229	813.3737	uh the Americas on the bottom left
+82	A	MANIPULATOR	813.9243	814.6272	ah thank you
+83	A	INSTRUCTOR	816.985	818.7863	the blue V which is at the center left
+83	B	MANIPULATOR	820.276	820.6687	got it
+83	B	MANIPULATOR	820.9667	821.2376	uh
+83	B	MANIPULATOR	821.698	821.9147	shit
+83	B	MANIPULATOR	822.2533	824.3968	is that right one no this is it
+83	A	INSTRUCTOR	823.6753	825.4833	uh below the cat symbol
+83	B	MANIPULATOR	825.0161	830.3385	yeah yeah ah yeah I'm totally wrong bad with colors LAUGHTER
+83	A	INSTRUCTOR	826.1808	826.6525	okay
+84	A	MANIPULATOR	828.5508	832.4241	LAUGHTER LAUGHTER BREATH
+84	B	INSTRUCTOR	830.4197	836.013	the one above the the the ruby the one above the A V
+84	A	MANIPULATOR	836.9868	840.4314	ah the rupee above the A V the blue A V which is above the dinosaur
+84	B	INSTRUCTOR	837.1236	839.0467	the blue the rupee yeah
+84	B	INSTRUCTOR	840.7564	840.9969	yeah
+84	A	MANIPULATOR	840.9562	841.2665	gotcha
+84	A	MANIPULATOR	842.6022	842.92	'kay
+85	A	INSTRUCTOR	843.3298	846.11	uh so the mountains that are on the center left
+85	B	MANIPULATOR	847.7802	847.8958	yep
+86	B	INSTRUCTOR	850.5718	851.2866	the X
+86	A	MANIPULATOR	852.0058	852.1244	yep
+86	A	MANIPULATOR	853.6391	853.8492	SNIFF
+87	A	INSTRUCTOR	855.157	855.8128	uh the cat
+87	B	MANIPULATOR	857.4923	858.6841	the cat
+87	A	INSTRUCTOR	858.4581	860.4734	cat symbol center left
+87	B	MANIPULATOR	858.8873	859.3477	uh
+87	B	MANIPULATOR	859.4087	860.5801	yeah I'm searching for it
+87	B	MANIPULATOR	860.5903	861.22	yeah got it
+88	B	INSTRUCTOR	863.9266	866.4443	the Americas above the green fractal the bo- top
+88	A	MANIPULATOR	866.0659	866.4714	ah
+88	A	MANIPULATOR	867.084	867.3381	got it
+88	B	INSTRUCTOR	867.9611	868.2184	yep
+89	A	INSTRUCTOR	869.7418	871.5636	the face which is at the bottom center
+89	B	MANIPULATOR	872.1528	872.3402	yep
+89	B	MANIPULATOR	872.8305	873.1522	got it
+89	A	INSTRUCTOR	874.4264	875.491	um yeah
+90	B	INSTRUCTOR	878.4052	883.7388	the uh Mordor pink Mordor in the sort of middle
+90	A	MANIPULATOR	883.1679	884.4404	the one that's next to the rooster
+90	B	INSTRUCTOR	884.667	885.4181	yeah exactly
+90	A	MANIPULATOR	885.9057	886.1941	okay
+91	A	INSTRUCTOR	888.296	890.2025	uh the fractals which is next to the rooster
+91	A	INSTRUCTOR	892.2249	893.0022	um top
+91	B	MANIPULATOR	892.584	892.8532	go-
+91	B	MANIPULATOR	892.99	894.2211	got it got it
+91	A	INSTRUCTOR	893.6521	893.7989	yeah
+92	A	MANIPULATOR	895.8133	896.0481	SNIFF
+92	B	INSTRUCTOR	896.2796	897.2412	the rooster itself
+92	A	MANIPULATOR	897.4591	898.3028	LAUGHTER
+93	A	INSTRUCTOR	900.298	903.0628	uh the cat symbol which is again at the center left
+93	B	MANIPULATOR	904.1582	904.5815	got it
+94	B	INSTRUCTOR	906.919	908.9018	uh the Americas that was next to the cat symbol
+94	A	MANIPULATOR	909.2674	909.5112	yep
+95	A	INSTRUCTOR	913.1407	916.5912	uh the X which is below the monitor in the center
+95	B	MANIPULATOR	913.3574	913.7908	uh
+95	B	MANIPULATOR	916.2827	917.1089	yeah got it
+96	B	INSTRUCTOR	918.734	921.6187	the face the pink face on the left side and what up
+96	A	MANIPULATOR	921.6052	923.0214	CLICK yeah right gotcha
+97	A	INSTRUCTOR	925.3295	930.0361	uh so the Mordor that's above A V and to the right of the X
+97	B	MANIPULATOR	931.3968	932.6428	uh the pink one or the
+97	A	INSTRUCTOR	932.8324	933.3764	the pink one
+97	B	MANIPULATOR	933.7127	933.97	yeah
+97	B	MANIPULATOR	934.1731	934.4034	got it
+98	B	INSTRUCTOR	936.8411	938.1355	the fractal bottom center
+98	A	MANIPULATOR	938.8861	939.2382	CLICK yep
+98	A	MANIPULATOR	939.482	939.6987	COUGH
+98	A	MANIPULATOR	939.8747	940.3352	COUGH
+98	A	MANIPULATOR	940.4842	940.8498	gotcha
+99	A	INSTRUCTOR	943.2334	946.0639	so the blue A V so the one above the dinosaur
+99	A	INSTRUCTOR	946.389	946.7682	big one
+99	B	MANIPULATOR	947.0661	947.405	yep
+100	B	INSTRUCTOR	950.2894	952.0635	the Mordor the green one on top
+100	A	MANIPULATOR	952.6459	953.0115	right
+100	A	MANIPULATOR	954.569	954.8382	CLICK
+101	A	INSTRUCTOR	956.2483	958.2662	uh the blue house on the right
+101	A	INSTRUCTOR	959.3226	959.8643	top right
+101	B	MANIPULATOR	960.9884	961.2592	yeah
+102	B	INSTRUCTOR	964.171	967.113	the center exact middle monitor
+102	A	MANIPULATOR	967.787	968.1995	gotcha
+103	A	INSTRUCTOR	971.1702	974.0153	the V that's on the right center right
+103	B	MANIPULATOR	974.7493	975.3583	right got it
+104	B	INSTRUCTOR	979.9648	980.1112	right
+104	B	INSTRUCTOR	980.3739	981.3483	wait let's go to ninety LAUGHTER
+104	B	INSTRUCTOR	981.4795	981.7044	LAUGHTER
+104	B	INSTRUCTOR	981.7093	984.5522	the bottom rupee the one below the bat symbol
+104	A	MANIPULATOR	985.3178	985.6551	ah yeah
+104	B	INSTRUCTOR	986.5576	986.7981	okay
